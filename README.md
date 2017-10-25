@@ -1,5 +1,5 @@
 # ZenBot
-
+A Texas Holdem poker bot.
 ##Description
 
 This project was created to analyse past poker hand stats and predict the "range" of the players.
