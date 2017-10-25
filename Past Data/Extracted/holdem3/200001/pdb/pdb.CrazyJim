@@ -1,0 +1,2007 @@
+CrazyJim  947592880  9  8 f   -     -     -       117520    0    0 
+CrazyJim  947592936  9  7 f   -     -     -       117520    0    0 
+CrazyJim  947592950  9  6 f   -     -     -       117520    0    0 
+CrazyJim  947592974  9  5 f   -     -     -       117520    0    0 
+CrazyJim  947593015  9  4 f   -     -     -       117520    0    0 
+CrazyJim  947593064  9  3 c   k     c     f       117520  150    0 
+CrazyJim  947593119  9  2 Bc  kc    kc    kf      117370  300    0 
+CrazyJim  947593159  9  1 Bf  -     -     -       117070   25    0 
+CrazyJim  947593211  9  9 c   c     c     c       117045  350    0 Ac 9c
+CrazyJim  947593252  9  8 f   -     -     -       116695    0    0 
+CrazyJim  947593280 10  7 c   k     cf    -       116695  250    0 
+CrazyJim  947593326 10  6 f   -     -     -       116445    0    0 
+CrazyJim  947593370 10  5 f   -     -     -       116445    0    0 
+CrazyJim  947593420 10  4 f   -     -     -       116445    0    0 
+CrazyJim  947593462 10  3 f   -     -     -       116445    0    0 
+CrazyJim  947593533 10  2 Bc  f     -     -       116445  100    0 
+CrazyJim  947593581 10  1 Bf  -     -     -       116345   25    0 
+CrazyJim  947593623 10 10 f   -     -     -       116320    0    0 
+CrazyJim  947593687 10  9 f   -     -     -       116320    0    0 
+CrazyJim  947593721 10  8 f   -     -     -       116320    0    0 
+CrazyJim  947593763 10  7 f   -     -     -       116320    0    0 
+CrazyJim  947593793 10  6 f   -     -     -       116320    0    0 
+CrazyJim  947593827 10  6 f   -     -     -       116320    0    0 
+CrazyJim  947593869  9  4 cc  kc    k     k       116320  150    0 9c Kc
+CrazyJim  947593903  9  3 f   -     -     -       116170    0    0 
+CrazyJim  947593942  9  2 Bf  -     -     -       116170   50    0 
+CrazyJim  947593988  9  1 Bf  -     -     -       116120   25    0 
+CrazyJim  947594032  9  9 c   f     -     -       116095   50    0 
+CrazyJim  947594068  9  8 c   rc    c     c       116045  400    0 Kd Qh
+CrazyJim  947594128  8  6 c   k     k     b       115645  150  300 
+CrazyJim  947594161  8  5 f   -     -     -       115795    0    0 
+CrazyJim  947594176  7  3 f   -     -     -       115795    0    0 
+CrazyJim  947594211  7  2 Bk  kf    -     -       115795   50    0 
+CrazyJim  947594231  7  1 Bcc kf    -     -       115745  200    0 
+CrazyJim  947594273  7  7 f   -     -     -       115545    0    0 
+CrazyJim  947594298  7  6 f   -     -     -       115545    0    0 
+CrazyJim  947594339  7  5 cc  k     rc    bc      115545  600    0 Qs Th
+CrazyJim  947594376  7  4 r   k     c     f       114945  200    0 
+CrazyJim  947594405  7  3 f   -     -     -       114745    0    0 
+CrazyJim  947594430  7  2 Bk  b     -     -       114745  100  150 
+CrazyJim  947594443  7  1 Bc  kf    -     -       114795  100    0 
+CrazyJim  947594473  7  7 c   bc    k     k       114695  200    0 8d Jd
+CrazyJim  947594512  7  6 c   k     k     k       114495   50    0 7c Qc
+CrazyJim  947594557  8  5 f   -     -     -       114445    0    0 
+CrazyJim  947594583  8  4 c   k     k     k       114445   50    0 Qd Jc
+CrazyJim  947594605  8  3 f   -     -     -       114395    0    0 
+CrazyJim  947594634  8  2 Bk  kf    -     -       114395   50    0 
+CrazyJim  947594656  8  1 Bf  -     -     -       114345   25    0 
+CrazyJim  947594672  8  8 f   -     -     -       114320    0    0 
+CrazyJim  947594682  8  7 c   c     c     k       114320  200    0 Kc 5d
+CrazyJim  947594702  8  6 f   -     -     -       114120    0    0 
+CrazyJim  947594740  8  5 c   c     k     k       114120  150    0 Ad Qc
+CrazyJim  947594779  8  4 c   k     cc    kf      113970  250    0 
+CrazyJim  947594827  8  3 f   -     -     -       113720    0    0 
+CrazyJim  947594839  8  2 Bc  kc    kc    k       113720  250    0 4s 9c
+CrazyJim  947594865  8  1 Bf  -     -     -       113470   25    0 
+CrazyJim  947594889  8  8 r   b     -     -       113445  150  275 
+CrazyJim  947594900  8  7 c   cc    f     -       113570  250    0 
+CrazyJim  947594929  8  6 f   -     -     -       113320    0    0 
+CrazyJim  947594958  8  5 f   -     -     -       113320    0    0 
+CrazyJim  947594970  8  4 f   -     -     -       113320    0    0 
+CrazyJim  947594977  8  3 c   k     f     -       113320   50    0 
+CrazyJim  947595018  9  2 Bk  b     kc    bc      113270  400 1200 Qs Ts
+CrazyJim  947595089  9  1 Bcc k     kf    -       114070  100    0 
+CrazyJim  947595130  9  9 f   -     -     -       113970    0    0 
+CrazyJim  947595145  9  8 c   bc    c     c       113970  450    0 Ah Td
+CrazyJim  947595216  9  7 f   -     -     -       113520    0    0 
+CrazyJim  947595280  9  6 rc  k     k     k       113520  150  475 Qd Ks
+CrazyJim  947595324  9  5 f   -     -     -       113845    0    0 
+CrazyJim  947595355  9  4 f   -     -     -       113845    0    0 
+CrazyJim  947595379  9  3 f   -     -     -       113845    0    0 
+CrazyJim  947595456  9  2 Br  kc    b     bc      113845  450    0 Ah Kd
+CrazyJim  947595503  9  1 Br  b     b     -       113395  250  450 
+CrazyJim  947595521  9  9 c   c     rc    c       113595  500    0 Ac 6c
+CrazyJim  947595551  9  8 c   k     f     -       113095   50    0 
+CrazyJim  947595595  9  7 r   b     -     -       113045  150  475 
+CrazyJim  947595623  9  6 f   -     -     -       113370    0    0 
+CrazyJim  947595638  9  5 c   c     k     r       113370  300  725 
+CrazyJim  947595682  9  4 f   -     -     -       113795    0    0 
+CrazyJim  947595707  9  3 r   brc   kc    k       113795  400 1075 Ad Kd
+CrazyJim  947595744  9  2 Bk  b     -     -       114470  100  200 
+CrazyJim  947595763  9  1 Bf  -     -     -       114570   25    0 
+CrazyJim  947595798  9  9 f   -     -     -       114545    0    0 
+CrazyJim  947595847  9  8 c   kf    -     -       114545   50    0 
+CrazyJim  947595900  8  6 f   -     -     -       114495    0    0 
+CrazyJim  947595940  8  6 f   -     -     -       114495    0    0 
+CrazyJim  947595976  8  5 f   -     -     -       114495    0    0 
+CrazyJim  947596001  8  4 cc  kc    kc    kc      114495  350  775 Ks 6s
+CrazyJim  947596020  7  3 c   k     kf    -       114920   50    0 
+CrazyJim  947596059  7  2 Bk  kf    -     -       114870   50    0 
+CrazyJim  947596085  7  1 Bc  kf    -     -       114820   50    0 
+CrazyJim  947596107  8  8 f   -     -     -       114770    0    0 
+CrazyJim  947596137  8  7 f   -     -     -       114770    0    0 
+CrazyJim  947596165  8  6 f   -     -     -       114770    0    0 
+CrazyJim  947596184  8  5 f   -     -     -       114770    0    0 
+CrazyJim  947596221  8  4 c   k     k     b       114770  150  300 
+CrazyJim  947596264  8  3 cc  k     kf    -       114920  100    0 
+CrazyJim  947596315  8  2 Bk  f     -     -       114820   50    0 
+CrazyJim  947596338  8  1 Bf  -     -     -       114770   25    0 
+CrazyJim  947596367  8  8 cc  cc    c     c       114745  550    0 Ks Jd
+CrazyJim  947596414  8  7 f   -     -     -       114195    0    0 
+CrazyJim  947596464  8  6 c   kc    kf    -       114195  100    0 
+CrazyJim  947596513  8  5 f   -     -     -       114095    0    0 
+CrazyJim  947596525  8  4 c   kc    k     k       114095  100  425 Jc 9c
+CrazyJim  947596557  8  3 f   -     -     -       114420    0    0 
+CrazyJim  947596598  8  2 Bk  c     c     c       114420  300  650 Tc Ac
+CrazyJim  947596626  8  1 Bc  kf    -     -       114770  100    0 
+CrazyJim  947596644  8  8 f   -     -     -       114670    0    0 
+CrazyJim  947596683  8  7 f   -     -     -       114670    0    0 
+CrazyJim  947596712  8  6 f   -     -     -       114670    0    0 
+CrazyJim  947596751  8  5 cc  bc    kc    kc      114670  450    0 Ks Ad
+CrazyJim  947596805  8  4 f   -     -     -       114220    0    0 
+CrazyJim  947596816  8  3 cc  kf    -     -       114220  100    0 
+CrazyJim  947596858  8  2 Br  k     b     b       114120  300  700 
+CrazyJim  947596895  8  1 Bf  -     -     -       114520   25    0 
+CrazyJim  947596915  8  8 f   -     -     -       114495    0    0 
+CrazyJim  947596970  8  7 f   -     -     -       114495    0    0 
+CrazyJim  947597010  8  6 c   kc    k     kc      114495  200    0 Qs Td
+CrazyJim  947597050  8  5 f   -     -     -       114295    0    0 
+CrazyJim  947597070  8  4 f   -     -     -       114295    0    0 
+CrazyJim  947597103  8  3 f   -     -     -       114295    0    0 
+CrazyJim  947597113  8  2 Bf  -     -     -       114295   50    0 
+CrazyJim  947597151  8  1 Bc  kf    -     -       114245   50    0 
+CrazyJim  947597194  7  7 c   r     b     b       114195  350    0 Kc Tc
+CrazyJim  947597234  7  6 f   -     -     -       113845    0    0 
+CrazyJim  947597265  7  5 f   -     -     -       113845    0    0 
+CrazyJim  947597284  7  4 f   -     -     -       113845    0    0 
+CrazyJim  947597298  7  3 cc  cf    -     -       113845  150    0 
+CrazyJim  947597327  7  2 Br  b     -     -       113695  200  525 
+CrazyJim  947597348  7  1 Bc  k     b     b       114020  250  550 Qh 4h
+CrazyJim  947597372  7  7 c   c     f     -       114320  150    0 
+CrazyJim  947597404  7  6 f   -     -     -       114170    0    0 
+CrazyJim  947597462  7  5 f   -     -     -       114170    0    0 
+CrazyJim  947597470  7  4 f   -     -     -       114170    0    0 
+CrazyJim  947597489  7  3 cc  k     kf    -       114170  100    0 
+CrazyJim  947597529  7  2 Bc  k     k     k       114070  100    0 5s 4d
+CrazyJim  947597557  7  1 Bc  kf    -     -       113970  100    0 
+CrazyJim  947597584  7  7 f   -     -     -       113870    0    0 
+CrazyJim  947597605  6  5 f   -     -     -       113870    0    0 
+CrazyJim  947597645  6  4 f   -     -     -       113870    0    0 
+CrazyJim  947597687  6  3 f   -     -     -       113870    0    0 
+CrazyJim  947597717  6  2 Bc  kc    kc    kf      113870  250    0 
+CrazyJim  947597743  6  1 Bc  kc    kc    kc      113620  300    0 9s Ad
+CrazyJim  947597781  6  6 rc  c     b     f       113320  300    0 
+CrazyJim  947597807  6  5 f   -     -     -       113020    0    0 
+CrazyJim  947597826  6  4 cc  kc    kc    b       113020  350 1000 
+CrazyJim  947597866  6  3 f   -     -     -       113670    0    0 
+CrazyJim  947597883  6  2 Bk  f     -     -       113670   50    0 
+CrazyJim  947597900  6  1 Bf  -     -     -       113620   25    0 
+CrazyJim  947597914  6  6 f   -     -     -       113595    0    0 
+CrazyJim  947597931  6  5 f   -     -     -       113595    0    0 
+CrazyJim  947597947  6  4 f   -     -     -       113595    0    0 
+CrazyJim  947597969  6  3 c   f     -     -       113595   50    0 
+CrazyJim  947597981  6  2 Bk  bc    b     b       113545  350  538 9h 2h
+CrazyJim  947598021  7  1 Bf  -     -     -       113733   25    0 
+CrazyJim  947598047  7  7 c   k     k     f       113708   50    0 
+CrazyJim  947598069  7  6 f   -     -     -       113658    0    0 
+CrazyJim  947598086  7  5 c   f     -     -       113658   50    0 
+CrazyJim  947598122  7  4 c   kc    kc    k       113608  200  575 Jh Qh
+CrazyJim  947598166  7  3 f   -     -     -       113983    0    0 
+CrazyJim  947598195  7  2 Bf  -     -     -       113983   50    0 
+CrazyJim  947598215  6  1 Bf  -     -     -       113933   25    0 
+CrazyJim  947598236  6  6 c   k     c     k       113908  200    0 Qc Kd
+CrazyJim  947598285  6  5 f   -     -     -       113708    0    0 
+CrazyJim  947598302  6  4 f   -     -     -       113708    0    0 
+CrazyJim  947598329  6  3 f   -     -     -       113708    0    0 
+CrazyJim  947598351  6  2 Bf  -     -     -       113708   50    0 
+CrazyJim  947598359  6  1 Bc  k     kf    -       113658  100    0 
+CrazyJim  947598374  6  6 f   -     -     -       113558    0    0 
+CrazyJim  947598384  6  5 c   kf    -     -       113558   50    0 
+CrazyJim  947598418  6  4 cc  kf    -     -       113508  100    0 
+CrazyJim  947598436  7  3 f   -     -     -       113408    0    0 
+CrazyJim  947598445  7  2 Bf  -     -     -       113408   50    0 
+CrazyJim  947598467  7  1 Bf  -     -     -       113358   25    0 
+CrazyJim  947598490  7  7 f   -     -     -       113333    0    0 
+CrazyJim  947598512  7  6 f   -     -     -       113333    0    0 
+CrazyJim  947598529  7  5 c   cc    c     f       113333  250    0 
+CrazyJim  947598565  7  4 c   k     k     k       113083   50    0 8s Tc
+CrazyJim  947598597  7  3 f   -     -     -       113033    0    0 
+CrazyJim  947598623  7  2 Bk  kf    -     -       113033   50    0 
+CrazyJim  947598654  6  1 Bf  -     -     -       112983   25    0 
+CrazyJim  947598667  6  6 f   -     -     -       112958    0    0 
+CrazyJim  947598685  6  5 c   c     f     -       112958  100    0 
+CrazyJim  947598730  7  5 f   -     -     -       112858    0    0 
+CrazyJim  947598757  7  4 f   -     -     -       112858    0    0 
+CrazyJim  947598775  7  3 f   -     -     -       112858    0    0 
+CrazyJim  947598796  7  2 Bc  b     k     k       112858  150    0 Jd 9c
+CrazyJim  947598821  7  1 Bf  -     -     -       112708   25    0 
+CrazyJim  947598833  7  7 c   c     k     f       112683  100    0 
+CrazyJim  947598860  7  6 c   c     f     -       112583  100    0 
+CrazyJim  947598887  7  5 f   -     -     -       112483    0    0 
+CrazyJim  947598910  8  5 cc  b     k     c       112483  250    0 9d Kc
+CrazyJim  947598950  8  4 cc  kf    -     -       112233  100    0 
+CrazyJim  947598986  8  3 c   kf    -     -       112133   50    0 
+CrazyJim  947599015  8  2 Bf  -     -     -       112083   50    0 
+CrazyJim  947599042  8  1 Bf  -     -     -       112033   25    0 
+CrazyJim  947599064  8  8 f   -     -     -       112008    0    0 
+CrazyJim  947599100  8  7 f   -     -     -       112008    0    0 
+CrazyJim  947599115  8  6 f   -     -     -       112008    0    0 
+CrazyJim  947599146  8  5 cc  kc    k     k       112008  150    0 2s 5s
+CrazyJim  947599195  8  4 cc  kf    -     -       111858  100    0 
+CrazyJim  947599250  8  3 f   -     -     -       111758    0    0 
+CrazyJim  947599277  8  2 Br  b     b     br      111758  600 1225 Ah Ac
+CrazyJim  947599303  8  1 Bf  -     -     -       112383   25    0 
+CrazyJim  947599324  8  8 f   -     -     -       112358    0    0 
+CrazyJim  947599352  8  7 f   -     -     -       112358    0    0 
+CrazyJim  947599379  8  6 f   -     -     -       112358    0    0 
+CrazyJim  947599417  8  5 f   -     -     -       112358    0    0 
+CrazyJim  947599439  8  4 cc  k     f     -       112358  100    0 
+CrazyJim  947599472  8  3 f   -     -     -       112258    0    0 
+CrazyJim  947599500  8  2 Bf  -     -     -       112258   50    0 
+CrazyJim  947599530  8  1 Bc  kf    -     -       112208   50    0 
+CrazyJim  947599553  8  8 f   -     -     -       112158    0    0 
+CrazyJim  947599587  9  8 f   -     -     -       112158    0    0 
+CrazyJim  947599620  9  7 Q   -     -     -       112158    0    0 
+CrazyJim  947643565  3  3 c   b     -     -       120292  100  200 
+CrazyJim  947643585  3  2 B   -     -     -       120392   50   75 
+CrazyJim  947643589  3  1 Bf  -     -     -       120417   25    0 
+CrazyJim  947643616  3  3 f   -     -     -       120382    0    0 
+CrazyJim  947643620  3  2 B   -     -     -       120382   50   75 
+CrazyJim  947643626  3  1 Bf  -     -     -       120407   25    0 
+CrazyJim  947643631  3  3 f   -     -     -       120377    0    0 
+CrazyJim  947643635  3  2 Bk  k     f     -       120377   50    0 
+CrazyJim  947643678  3  1 Br  k     k     kf      120327  100    0 
+CrazyJim  947643700  3  3 f   -     -     -       120227    0    0 
+CrazyJim  947643721  3  2 Bf  -     -     -       120217   50    0 
+CrazyJim  947643729  3  1 Bf  -     -     -       120167   25    0 
+CrazyJim  947643745  3  3 f   -     -     -       120142    0    0 
+CrazyJim  947643756  3  2 B   -     -     -       120107   50   75 
+CrazyJim  947643762  3  1 Bf  -     -     -       120132   25    0 
+CrazyJim  947643793  3  3 f   -     -     -       120052    0    0 
+CrazyJim  947643824  3  2 Bf  -     -     -       120052   50    0 
+CrazyJim  947643849  3  1 Bc  kf    -     -       120002   50    0 
+CrazyJim  947643864  3  3 cc  k     c     f       119832  200    0 
+CrazyJim  947643893  3  2 Bk  k     c     c       119632  250    0 6s Td
+CrazyJim  947643920  4  1 Bc  kf    -     -       119382  100    0 
+CrazyJim  947643934  4  4 f   -     -     -       119282    0    0 
+CrazyJim  947643951  4  3 f   -     -     -       119282    0    0 
+CrazyJim  947643986  4  2 Bf  -     -     -       119282   50    0 
+CrazyJim  947644008  4  1 Bc  kf    -     -       119222  100    0 
+CrazyJim  947644031  4  4 f   -     -     -       119122    0    0 
+CrazyJim  947644045  4  3 f   -     -     -       119122    0    0 
+CrazyJim  947644056  4  2 Bf  -     -     -       119122   50    0 
+CrazyJim  947644075  4  1 Bc  kc    k     kf      119062  150    0 
+CrazyJim  947644145  4  4 c   f     -     -       118912   50    0 
+CrazyJim  947644173  4  3 f   -     -     -       118797    0    0 
+CrazyJim  947644179  4  2 Bc  kc    kc    k       118797  250    0 8c 8h
+CrazyJim  947644288  4  1 Bf  -     -     -       119392   25    0 
+CrazyJim  947644297  4  4 f   -     -     -       119367    0    0 
+CrazyJim  947644330  4  3 cc  c     f     -       119367  150    0 
+CrazyJim  947644373  4  2 Bk  k     f     -       119217   50    0 
+CrazyJim  947644400  4  1 Bf  -     -     -       119167   25    0 
+CrazyJim  947644428  5  4 f   -     -     -       119142    0    0 
+CrazyJim  947644437  5  3 f   -     -     -       119142    0    0 
+CrazyJim  947644478  5  2 Bf  -     -     -       119107   50    0 
+CrazyJim  947644505  5  1 Bf  -     -     -       119052   25    0 
+CrazyJim  947644534  5  5 f   -     -     -       119027    0    0 
+CrazyJim  947644570  5  4 cc  k     k     f       119027  100    0 
+CrazyJim  947644609  5  3 c   c     c     b       118872  300  550 
+CrazyJim  947644657  5  2 Bk  k     k     k       118812   50  125 2s Qs
+CrazyJim  947644703  5  1 Bc  kf    -     -       118887   50    0 
+CrazyJim  947644732  5  5 r   r     c     c       118837  400  825 Kh Ks
+CrazyJim  947644759  5  4 f   -     -     -       119262    0    0 
+CrazyJim  947644814  5  3 f   -     -     -       119262    0    0 
+CrazyJim  947644828  5  2 Bf  -     -     -       119262   50    0 
+CrazyJim  947644843  5  1 Bf  -     -     -       119212   25    0 
+CrazyJim  947644854  5  5 c   k     k     f       119187   50    0 
+CrazyJim  947644876  5  4 f   -     -     -       119137    0    0 
+CrazyJim  947644885  5  3 f   -     -     -       119137    0    0 
+CrazyJim  947644892  5  2 Bc  k     kc    k       119137  200    0 Kh Jc
+CrazyJim  947644918  5  1 Bc  kf    -     -       118937  100    0 
+CrazyJim  947644961  6  6 c   c     f     -       118787  150    0 
+CrazyJim  947644986  6  5 c   f     -     -       118637   50    0 
+CrazyJim  947645008  6  4 f   -     -     -       118552    0    0 
+CrazyJim  947645037  6  3 f   -     -     -       118552    0    0 
+CrazyJim  947645073  6  2 Bk  c     cc    kf      118542  300    0 
+CrazyJim  947645114  6  1 Bc  kf    -     -       118242  100    0 
+CrazyJim  947645147  6  6 f   -     -     -       118142    0    0 
+CrazyJim  947645167  6  5 f   -     -     -       118142    0    0 
+CrazyJim  947645193  6  4 c   b     kc    kc      118142  300  350 8h 8d
+CrazyJim  947645226  6  3 f   -     -     -       118192    0    0 
+CrazyJim  947645254  6  2 Bk  kc    kc    kc      118192  300    0 2d 9h
+CrazyJim  947645319  6  1 Bc  kc    kf    -       117842  100    0 
+CrazyJim  947645416  6  6 c   c     b     -       117592  250  625 
+CrazyJim  947645452  6  5 c   c     f     -       117912  100    0 
+CrazyJim  947645483  6  4 f   -     -     -       117777    0    0 
+CrazyJim  947645505  6  3 f   -     -     -       117777    0    0 
+CrazyJim  947645549  6  2 Bf  -     -     -       117837   50    0 
+CrazyJim  947645577  6  1 Bf  -     -     -       117787   25    0 
+CrazyJim  947645616  6  6 c   c     c     f       118047  200    0 
+CrazyJim  947645643  6  5 f   -     -     -       117847    0    0 
+CrazyJim  947645662  6  4 f   -     -     -       117802    0    0 
+CrazyJim  947645696  6  3 f   -     -     -       117802    0    0 
+CrazyJim  947645713  6  2 Bf  -     -     -       117802   50    0 
+CrazyJim  947645754  7  1 Bf  -     -     -       117747   25    0 
+CrazyJim  947645806  7  7 f   -     -     -       117687    0    0 
+CrazyJim  947645842  7  6 f   -     -     -       117687    0    0 
+CrazyJim  947645866  7  5 f   -     -     -       117737    0    0 
+CrazyJim  947645904  7  4 f   -     -     -       117692    0    0 
+CrazyJim  947645934  8  3 f   -     -     -       117692    0    0 
+CrazyJim  947645966  8  2 Bk  brc   kc    kc      117692  450 1025 5c Ah
+CrazyJim  947645996  8  1 Bf  -     -     -       118267   25    0 
+CrazyJim  947646031  8  8 f   -     -     -       118242    0    0 
+CrazyJim  947646042  7  7 f   -     -     -       118232    0    0 
+CrazyJim  947646058  7  6 f   -     -     -       118232    0    0 
+CrazyJim  947646106  7  5 f   -     -     -       118227    0    0 
+CrazyJim  947646136  7  4 f   -     -     -       118227    0    0 
+CrazyJim  947646171  6  3 f   -     -     -       118177    0    0 
+CrazyJim  947646195  6  2 Bf  -     -     -       118177   50    0 
+CrazyJim  947646205  6  1 Bc  kc    k     kf      118127  150    0 
+CrazyJim  947646233  6  6 f   -     -     -       117977    0    0 
+CrazyJim  947646251  6  5 f   -     -     -       117977    0    0 
+CrazyJim  947646287  6  4 f   -     -     -       117837    0    0 
+CrazyJim  947646341  6  3 f   -     -     -       117802    0    0 
+CrazyJim  947646352  7  2 Bf  -     -     -       117802   50    0 
+CrazyJim  947646396  7  1 Bf  -     -     -       117702   25    0 
+CrazyJim  947646435  7  7 f   -     Q     -       117677    0    0 
+CrazyJim  947701533  2  2 BQ  -     -     -       118757   50    0 
+CrazyJim  947702048  3  3 f   -     -     -       118627    0    0 
+CrazyJim  947702080  2  2 Bk  b     -     -       118567  100  150 
+CrazyJim  947702101  2  1 Bf  -     -     -       118617   25    0 
+CrazyJim  947702105  2  2 Bf  -     -     -       118592   50    0 
+CrazyJim  947702123  2  1 Bcc k     k     b       118487  200  300 
+CrazyJim  947702178  2  2 B   -     -     -       118637   50   75 
+CrazyJim  947702184  2  1 Bf  -     -     -       118652   25    0 
+CrazyJim  947702189  2  2 B   -     -     -       118627   50   75 
+CrazyJim  947702243  2  1 Bf  -     -     -       118652   25    0 
+CrazyJim  947702248  2  2 B   -     -     -       118627   50   75 
+CrazyJim  947702254  2  1 Bf  -     -     -       118652   25    0 
+CrazyJim  947702257  2  2 Bf  -     -     -       118627   50    0 
+CrazyJim  947702263  2  1 Bf  -     -     -       118577   25    0 
+CrazyJim  947702267  2  2 Bc  k     rc    c       118552  500 1000 7h 7c
+CrazyJim  947702301  2  1 Bf  -     -     -       119047   25    0 
+CrazyJim  947702308  2  2 B   -     -     -       119022   50   75 
+CrazyJim  947702316  2  1 Bf  -     -     -       119037   25    0 
+CrazyJim  947702318  2  2 Bf  -     -     -       119012   50    0 
+CrazyJim  947702330  2  1 Bf  -     -     -       118962   25    0 
+CrazyJim  947702333  2  2 Bc  c     k     f       118937  150    0 
+CrazyJim  947702371  2  1 Bf  -     -     -       118787   25    0 
+CrazyJim  947702375  2  2 Bc  f     -     -       118762  100    0 
+CrazyJim  947702396  2  1 Bf  -     -     -       118662   25    0 
+CrazyJim  947702400  2  2 B   -     -     -       118637   50   75 
+CrazyJim  947702409  2  1 Bf  -     -     -       118662   25    0 
+CrazyJim  947702414  2  2 Bc  k     k     f       118637  100    0 
+CrazyJim  947702443  2  1 Bf  -     -     -       118537   25    0 
+CrazyJim  947702448  2  2 B   -     -     -       118512   50   75 
+CrazyJim  947702449  2  1 Bf  -     -     -       118537   25    0 
+CrazyJim  947702452  2  2 B   -     -     -       118512   50   75 
+CrazyJim  947702458  2  1 Bf  -     -     -       118537   25    0 
+CrazyJim  947702461  2  2 B   -     -     -       118512   50   75 
+CrazyJim  947702467  2  1 Bf  -     -     -       118537   25    0 
+CrazyJim  947702480  2  2 Bk  k     k     k       118362   50  100 Kh 5s
+CrazyJim  947702524  2  1 Bf  -     -     -       118412   25    0 
+CrazyJim  947702534  2  2 Bc  k     k     c       118387  200    0 3c 3s
+CrazyJim  947702553  3  1 Bc  kf    -     -       118142   50    0 
+CrazyJim  947702582  3  3 f   -     -     -       118092    0    0 
+CrazyJim  947702585  3  2 Bk  k     k     k       118092   50  125 4c Qd
+CrazyJim  947702611  3  1 Bf  -     -     -       118157   25    0 
+CrazyJim  947702634  3  3 cc  c     k     r       118132  350  725 Ac 9c
+CrazyJim  947702658  3  2 Bk  c     c     k       118507  200  400 2h Kc
+CrazyJim  947702688  3  1 Bc  kc    k     kf      118707  150    0 
+CrazyJim  947702718  3  3 c   k     k     k       118502   50  150 Kc Qs
+CrazyJim  947702752  3  2 Bc  c     k     br      118602  550  550 Td Ts
+CrazyJim  947702788  3  1 Bf  -     -     -       118602   25    0 
+CrazyJim  947702800  3  3 f   -     -     -       118577    0    0 
+CrazyJim  947702806  3  2 B   -     -     -       118577   50   75 
+CrazyJim  947702822  3  1 Bf  -     -     -       118602   25    0 
+CrazyJim  947702861  3  3 c   b     -     -       118577  100  175 
+CrazyJim  947702888  3  2 Bf  -     -     -       118652   50    0 
+CrazyJim  947702899  3  1 Bc  b     b     -       118602  200  300 
+CrazyJim  947702910  3  3 f   -     -     -       118702    0    0 
+CrazyJim  947702920  3  2 Bk  kc    kc    kf      118702  200    0 
+CrazyJim  947702956  3  1 Bf  -     -     -       118502   25    0 
+CrazyJim  947702969  3  3 f   -     -     -       118477    0    0 
+CrazyJim  947702976  3  2 Bc  c     c     k       118477  250  500 7d 8d
+CrazyJim  947703015  3  1 Bf  -     -     -       118647   25    0 
+CrazyJim  947703021  3  3 f   -     -     -       118622    0    0 
+CrazyJim  947703031  2  1 Bk  kc    k     k       118622  100    0 6c 6s
+CrazyJim  947703059  2  1 Bf  -     -     -       118522   25    0 
+CrazyJim  947703066  2  2 Bk  f     -     -       118487   50    0 
+CrazyJim  947703085  2  1 Bc  k     k     k       118437   50  100 4d 4s
+CrazyJim  947703098  2  2 B   -     -     -       118482   50   75 
+CrazyJim  947703103  2  1 Bf  -     -     -       118507   25    0 
+CrazyJim  947703107  2  2 B   -     -     -       118482   50   75 
+CrazyJim  947733233  6  6 c   f     -     -       128341   50    0 
+CrazyJim  947733264  6  5 f   -     -     -       128291    0    0 
+CrazyJim  947733276  6  4 f   -     -     -       128291    0    0 
+CrazyJim  947733320  6  3 Q   -     -     -       128291    0    0 
+CrazyJim  947733577  6  3 c   kf    -     -       128291   50    0 
+CrazyJim  947733669  6  2 Bf  -     -     -       128241   50    0 
+CrazyJim  947733686  6  1 Bf  -     -     -       128191   25    0 
+CrazyJim  947738161  5  3 f   -     -     -       127456    0    0 
+CrazyJim  947738189  5  2 Bf  -     -     -       127456   50    0 
+CrazyJim  947738199  5  1 Bf  -     -     -       127671   25    0 
+CrazyJim  947738216  5  5 f   -     -     -       127646    0    0 
+CrazyJim  947738231  5  4 f   -     -     -       127646    0    0 
+CrazyJim  947738258  5  3 rc  kc    kf    -       127646  200    0 
+CrazyJim  947738301  5  2 Bf  -     -     -       127446   50    0 
+CrazyJim  947738309  5  1 Bc  kf    -     -       127396  100    0 
+CrazyJim  947738337  5  5 f   -     -     -       127286    0    0 
+CrazyJim  947738348  5  4 cc  c     f     -       127281  150    0 
+CrazyJim  947738394  5  3 cc  rc    c     c       127131  450    0 Kd Td
+CrazyJim  947738419  5  2 B   -     -     -       126681   50   75 
+CrazyJim  947738425  5  1 Bf  -     -     -       126706   25    0 
+CrazyJim  947738448  5  5 f   -     -     -       126681    0    0 
+CrazyJim  947738472  5  4 f   -     -     -       126681    0    0 
+CrazyJim  947738499  5  3 f   -     -     -       126671    0    0 
+CrazyJim  947738505  5  2 Bf  -     -     -       126671   50    0 
+CrazyJim  947738522  5  1 Bf  -     -     -       126621   25    0 
+CrazyJim  947738540  5  5 f   -     -     -       126596    0    0 
+CrazyJim  947738557  5  4 cc  kc    k     k       126596  150  375 Ah 8h
+CrazyJim  947738589  5  3 f   -     -     -       126761    0    0 
+CrazyJim  947738615  5  2 Bf  -     -     -       126761   50    0 
+CrazyJim  947738634  5  1 Bc  kc    k     kf      126711  150    0 
+CrazyJim  947738668  5  5 f   -     -     -       126561    0    0 
+CrazyJim  947738678  4  3 f   -     -     -       126561    0    0 
+CrazyJim  947738682  4  3 f   -     -     -       126561    0    0 
+CrazyJim  947738703  4  2 Bk  k     k     kf      126521   50    0 
+CrazyJim  947738722  4  1 Bf  -     -     -       126471   25    0 
+CrazyJim  947738727  4  4 f   -     -     -       126446    0    0 
+CrazyJim  947738736  4  3 f   -     -     -       126446    0    0 
+CrazyJim  947738764  4  2 Bc  c     r     b       125841  450 1000 8d 7d
+CrazyJim  947738800  4  1 Bf  -     -     -       126356   25    0 
+CrazyJim  947738812  4  4 f   -     -     -       126331    0    0 
+CrazyJim  947738827  4  3 c   b     -     -       126331  100  175 
+CrazyJim  947738837  4  2 Bf  -     -     -       126406   50    0 
+CrazyJim  947738844  4  1 Bf  -     -     -       126356   25    0 
+CrazyJim  947738867  4  4 f   -     -     -       126331    0    0 
+CrazyJim  947738886  4  3 f   -     -     -       126331    0    0 
+CrazyJim  947738902  4  2 Bf  -     -     -       126331   50    0 
+CrazyJim  947738907  4  1 Bc  k     kf    -       126281  100    0 
+CrazyJim  947738932  4  4 f   -     -     -       126181    0    0 
+CrazyJim  947738938  4  3 f   -     -     -       126181    0    0 
+CrazyJim  947738951  4  2 B   -     -     -       126181   50   75 
+CrazyJim  947738954  4  1 Bf  -     -     -       126206   25    0 
+CrazyJim  947738959  4  4 c   k     k     k       126181   50  125 3h 3c
+CrazyJim  947738978  4  3 f   -     -     -       126256    0    0 
+CrazyJim  947738983  4  2 Bf  -     -     -       126256   50    0 
+CrazyJim  947738988  4  1 Bf  -     -     -       126206   25    0 
+CrazyJim  947738991  4  4 f   -     -     -       126181    0    0 
+CrazyJim  947738995  4  3 f   -     -     -       126181    0    0 
+CrazyJim  947739006  4  2 Bc  c     c     f       126181  250    0 
+CrazyJim  947739028  4  1 Bf  -     -     -       125931   25    0 
+CrazyJim  947739039  4  4 f   -     -     -       125906    0    0 
+CrazyJim  947739050  4  3 f   -     -     -       125906    0    0 
+CrazyJim  947739066  4  2 Bk  kf    -     -       125906   50    0 
+CrazyJim  947739082  4  1 Bf  -     -     -       125846   25    0 
+CrazyJim  947739093  4  4 c   c     k     f       125816  150    0 
+CrazyJim  947739119  4  3 f   -     -     -       125666    0    0 
+CrazyJim  947739132  4  2 Bc  r     -     -       125666  200  350 
+CrazyJim  947739146  4  1 Bf  -     -     -       125816   25    0 
+CrazyJim  947739152  4  4 f   -     -     -       125791    0    0 
+CrazyJim  947739170  4  3 cc  f     -     -       125791  100    0 
+CrazyJim  947739186  4  2 Bf  -     -     -       125691   50    0 
+CrazyJim  947739199  4  1 Bf  -     -     -       126147   25    0 
+CrazyJim  947739212  4  4 cc  c     c     f       126122  250    0 
+CrazyJim  947739243  4  3 f   -     -     -       125872    0    0 
+CrazyJim  947739266  4  2 B   -     -     -       125837   50   75 
+CrazyJim  947739275  4  1 Bf  -     -     -       125862   25    0 
+CrazyJim  947739280  4  4 f   -     -     -       125837    0    0 
+CrazyJim  947739289  4  3 r   c     b     b       125837  350  650 
+CrazyJim  947739312  4  2 Bc  kc    k     kf      126137  150    0 
+CrazyJim  947739341  4  1 Bf  -     -     -       125987   25    0 
+CrazyJim  947739361  4  4 f   -     -     -       125962    0    0 
+CrazyJim  947739364  4  3 cc  f     -     -       125962  100    0 
+CrazyJim  947739376  4  2 Bf  -     -     -       125862   50    0 
+CrazyJim  947739391  4  1 Bf  -     -     -       125812   25    0 
+CrazyJim  947739401  4  4 f   -     -     -       125787    0    0 
+CrazyJim  947739407  4  3 f   -     -     -       125787    0    0 
+CrazyJim  947739423  4  2 Bf  -     -     -       125787   50    0 
+CrazyJim  947739429  4  1 Bf  -     -     -       125737   25    0 
+CrazyJim  947739449  4  4 c   k     f     -       125712   50    0 
+CrazyJim  947739475  4  3 f   -     -     -       125652    0    0 
+CrazyJim  947739479  4  2 Bf  -     -     -       125652   50    0 
+CrazyJim  947739484  4  1 Br  -     -     -       125602  100  150 
+CrazyJim  947739494  4  4 f   -     -     -       125652    0    0 
+CrazyJim  947739507  4  3 f   -     -     -       125642    0    0 
+CrazyJim  947739514  4  2 Bk  c     k     k       125642  100  200 2s Qs
+CrazyJim  947739542  4  1 Bc  b     -     -       125622  100  150 
+CrazyJim  947739552  4  4 f   -     -     -       125672    0    0 
+CrazyJim  947739565  4  3 f   -     -     -       125672    0    0 
+CrazyJim  947739584  4  2 Bf  -     -     -       125672   50    0 
+CrazyJim  947739597  4  1 Bf  -     -     -       125622   25    0 
+CrazyJim  947739603  4  4 f   -     -     -       125532    0    0 
+CrazyJim  947739606  4  3 f   -     -     -       125532    0    0 
+CrazyJim  947739627  4  2 Bf  -     -     -       125532   50    0 
+CrazyJim  947739637  4  1 Bf  -     -     -       125482   25    0 
+CrazyJim  947739641  4  4 f   -     -     -       125457    0    0 
+CrazyJim  947739667  4  3 cc  kf    -     -       125457  100    0 
+CrazyJim  947739703  4  2 Bc  kc    k     b       125357  250  525 8h Ac
+CrazyJim  947739719  4  1 Bc  kc    kr    b       125632  400  800 Kc 2c
+CrazyJim  947739741  4  4 c   f     -     -       126032   50    0 
+CrazyJim  947739759  4  3 c   k     c     b       125982  250  550 9c Js
+CrazyJim  947739783  4  2 B   -     -     -       126282   50   75 
+CrazyJim  947739788  4  1 Bf  -     -     -       126307   25    0 
+CrazyJim  947739801  4  4 cc  c     c     c       126282  350  375 Ac Kc
+CrazyJim  947739818  4  3 f   -     -     -       126297    0    0 
+CrazyJim  947739847  4  2 Bf  -     -     -       126297   50    0 
+CrazyJim  947739853  4  1 Bcc k     kf    -       126247  100    0 
+CrazyJim  947739887  4  4 f   -     -     -       126147    0    0 
+CrazyJim  947739912  4  3 f   -     -     -       126147    0    0 
+CrazyJim  947739938  4  2 Bk  kc    kc    b       126087  300  525 
+CrazyJim  947739982  4  1 Bf  -     -     -       126312   25    0 
+CrazyJim  947740008  4  4 c   c     c     c       126282  350  775 Jh Jc
+CrazyJim  947740027  4  3 f   -     -     -       126707    0    0 
+CrazyJim  947740033  4  2 B   -     -     -       126707   50   75 
+CrazyJim  947740037  4  1 Bcc k     b     -       126732  200  300 
+CrazyJim  947740053  4  4 f   -     -     -       126832    0    0 
+CrazyJim  947740070  4  3 f   -     -     -       126832    0    0 
+CrazyJim  947740078  4  2 Bf  -     -     -       126797   50    0 
+CrazyJim  947740087  4  1 Bf  -     -     -       126747   25    0 
+CrazyJim  947740097  4  4 f   -     -     -       126722    0    0 
+CrazyJim  947740104  4  3 cc  kc    k     b       126722  250  625 8d 8h
+CrazyJim  947740120  4  2 Bf  -     -     -       127097   50    0 
+CrazyJim  947740128  4  1 Bf  -     -     -       127047   25    0 
+CrazyJim  947740134  4  4 cc  c     f     -       127022  150    0 
+CrazyJim  947740169  4  3 f   -     -     -       126872    0    0 
+CrazyJim  947740173  4  2 B   -     -     -       126872   50   75 
+CrazyJim  947740176  4  1 Bf  -     -     -       126897   25    0 
+CrazyJim  947740180  4  4 f   -     -     -       126872    0    0 
+CrazyJim  947740194  4  3 f   -     -     -       126872    0    0 
+CrazyJim  947740200  4  2 Bk  k     kf    -       126872   50    0 
+CrazyJim  947740223  4  1 Bc  k     kc    k       126822  150    0 Jc Ks
+CrazyJim  947740244  4  4 f   -     -     -       126677    0    0 
+CrazyJim  947740252  4  3 f   -     -     -       126677    0    0 
+CrazyJim  947740268  4  2 Bf  -     -     -       126672   50    0 
+CrazyJim  947740286  4  1 Bf  -     -     -       126622   25    0 
+CrazyJim  947740303  4  4 f   -     -     -       126597    0    0 
+CrazyJim  947740313  4  3 f   -     -     -       126597    0    0 
+CrazyJim  947740332  4  2 Bc  c     c     f       126597  250    0 
+CrazyJim  947740354  5  1 Bf  -     -     -       126347   25    0 
+CrazyJim  947740381  5  5 f   -     -     -       126322    0    0 
+CrazyJim  947740407  5  4 f   -     -     -       126322    0    0 
+CrazyJim  947740463  5  3 f   -     -     -       126322    0    0 
+CrazyJim  947740514  6  2 Bf  -     -     -       126277   50    0 
+CrazyJim  947740544  6  1 Bf  -     -     -       126222   25    0 
+CrazyJim  947740556  6  6 f   -     -     -       126197    0    0 
+CrazyJim  947740587  6  5 f   -     -     -       125957    0    0 
+CrazyJim  947740630  6  4 f   -     -     -       125957    0    0 
+CrazyJim  947740645  6  3 f   -     -     -       125797    0    0 
+CrazyJim  947740664  6  2 Bf  -     -     -       125797   50    0 
+CrazyJim  947740674  6  1 Bf  -     -     -       125747   25    0 
+CrazyJim  947740699  6  6 f   -     -     -       125722    0    0 
+CrazyJim  947740724  6  5 c   c     k     k       125722  100    0 Ad Jc
+CrazyJim  947740762  6  4 f   -     -     -       125612    0    0 
+CrazyJim  947740795  6  3 c   k     f     -       125607   50    0 
+CrazyJim  947740815  6  2 Bc  b     b     kf      125557  250    0 
+CrazyJim  947740851  6  1 Bf  -     -     -       125247   25    0 
+CrazyJim  947740870  5  5 r   b     -     -       125222  150  300 
+CrazyJim  947740880  5  4 f   -     -     -       125372    0    0 
+CrazyJim  947740890  5  3 f   -     -     -       125372    0    0 
+CrazyJim  947740912  5  2 Bk  kf    -     -       125372   50    0 
+CrazyJim  947740946  5  1 Bf  -     -     -       125312   25    0 
+CrazyJim  947740955  5  5 f   -     -     -       125287    0    0 
+CrazyJim  947740958  5  4 c   k     c     f       125287  150    0 
+CrazyJim  947740982  5  3 f   -     -     -       125137    0    0 
+CrazyJim  947740995  5  2 Bf  -     -     -       125137   50    0 
+CrazyJim  947741001  5  1 Bc  kf    -     -       125087   50    0 
+CrazyJim  947741035  6  6 f   -     -     -       125027    0    0 
+CrazyJim  947741058  6  5 f   -     -     -       125027    0    0 
+CrazyJim  947741072  6  4 f   -     -     -       125027    0    0 
+CrazyJim  947741086  6  3 f   -     -     -       125027    0    0 
+CrazyJim  947741110  7  3 cc  kc    kf    -       125022  150    0 
+CrazyJim  947741159  8  3 f   -     -     -       124872    0    0 
+CrazyJim  947741197  8  2 Bf  -     -     -       124872   50    0 
+CrazyJim  947741210  8  1 Bf  -     -     -       124822   25    0 
+CrazyJim  947741235  8  8 r   b     b     bc      124797  450 1025 Ac Kd
+CrazyJim  947741286  8  7 f   -     -     -       125372    0    0 
+CrazyJim  947741329  8  6 r   k     c     c       127107  300    0 Jc Jh
+CrazyJim  947741367  8  5 f   -     -     -       126807    0    0 
+CrazyJim  947741389  8  4 f   -     -     -       126807    0    0 
+CrazyJim  947741431  8  3 c   f     -     -       126797   50    0 
+CrazyJim  947741465  8  2 Bk  kc    kf    -       126742  100    0 
+CrazyJim  947741502  8  1 Bf  -     -     -       126512   25    0 
+CrazyJim  947741508  8  8 f   -     -     -       126487    0    0 
+CrazyJim  947741515  7  6 f   -     -     -       126487    0    0 
+CrazyJim  947741541  7  5 f   -     -     -       126442    0    0 
+CrazyJim  947741567  7  4 c   kf    -     -       126442   50    0 
+CrazyJim  947741595  7  3 f   -     -     -       126382    0    0 
+CrazyJim  947741632  7  2 Bk  kc    kr    b       126382  400  800 
+CrazyJim  947741669  7  1 Bf  -     -     -       126772   25    0 
+CrazyJim  947741701  7  7 f   -     -     -       126712    0    0 
+CrazyJim  947741746  7  6 f   -     -     -       126742    0    0 
+CrazyJim  947741773  6  4 f   -     -     -       126742    0    0 
+CrazyJim  947741797  7  4 c   r     c     c       126757  350  725 Jd Kd
+CrazyJim  947741833  7  3 c   f     -     -       127132   50    0 
+CrazyJim  947741870  7  2 Bf  -     -     -       127132   50    0 
+CrazyJim  947741876  7  1 Br  k     kc    kr      127077  400    0 Kh Ac
+CrazyJim  947741924  7  7 f   -     -     -       126677    0    0 
+CrazyJim  947741971  7  6 c   f     -     -       126677  150    0 
+CrazyJim  947742006  7  5 cc  kc    kc    k       126537  250  575 Ah 8h
+CrazyJim  947742035  7  4 f   -     -     -       126857    0    0 
+CrazyJim  947742052  7  3 f   -     -     -       126857    0    0 
+CrazyJim  947742071  7  2 Bk  kf    -     -       126852   50    0 
+CrazyJim  947742116  7  1 Bf  -     -     -       126792   25    0 
+CrazyJim  947742150  7  7 f   -     -     -       126777    0    0 
+CrazyJim  947742185  7  6 f   -     -     -       126917    0    0 
+CrazyJim  947742229  8  6 f   -     -     -       126877    0    0 
+CrazyJim  947742260  8  5 f   -     -     -       126867    0    0 
+CrazyJim  947742300  8  4 f   -     -     -       126857    0    0 
+CrazyJim  947742332  8  3 f   -     -     -       126857    0    0 
+CrazyJim  947742435  8  2 BKQ -     -     -       126857   50    0 
+CrazyJim  947742601  8  6 f   -     -     -       126807    0    0 
+CrazyJim  947742662  8  5 f   -     -     -       126807    0    0 
+CrazyJim  947742730  8  4 f   -     -     -       126807    0    0 
+CrazyJim  947742759  8  3 f   -     -     -       126807    0    0 
+CrazyJim  947742773  8  2 Bk  c     b     b       126807  300  600 
+CrazyJim  947742816  8  1 Bc  kc    kf    -       127107  150    0 
+CrazyJim  947742889  8  8 c   k     c     k       126957  150  325 6h 6s
+CrazyJim  947742915  7  6 f   -     -     -       127132    0    0 
+CrazyJim  947742966  7  5 f   -     -     -       127132    0    0 
+CrazyJim  947743032  7  4 c   k     f     -       127132   50    0 
+CrazyJim  947743091  7  3 f   -     -     -       127082    0    0 
+CrazyJim  947743126  7  2 Bf  -     -     -       127082   50    0 
+CrazyJim  947743187  8  1 Bf  -     -     -       127032   25    0 
+CrazyJim  947743207  8  8 c   b     k     f       127007  100    0 
+CrazyJim  947743274  8  7 f   -     -     -       126907    0    0 
+CrazyJim  947743313  9  7 f   -     -     -       126907    0    0 
+CrazyJim  947743358  9  6 f   -     -     -       126907    0    0 
+CrazyJim  947743456  9  5 c   kf    -     -       126907   50    0 
+CrazyJim  947743521  9  4 f   -     -     -       126857    0    0 
+CrazyJim  947743559  9  3 c   kc    kf    -       126857  100    0 
+CrazyJim  947743598  9  2 Bc  kc    kf    -       126757  150    0 
+CrazyJim  947743665  8  1 Bf  -     -     -       126607   25    0 
+CrazyJim  947743713  8  8 f   -     -     -       126582    0    0 
+CrazyJim  947743749  8  7 f   -     -     -       126582    0    0 
+CrazyJim  947743795  8  6 f   -     -     -       126582    0    0 
+CrazyJim  947743822  8  5 f   -     -     -       126582    0    0 
+CrazyJim  947743874  8  3 f   -     -     -       126582    0    0 
+CrazyJim  947743916  8  2 Br  c     k     b       126582  300  500 
+CrazyJim  947743947  8  1 Bf  -     -     -       126782   25    0 
+CrazyJim  947744005  8  8 c   c     c     r       126757  400  850 5s As
+CrazyJim  947744041  8  7 c   k     f     -       127207   50    0 
+CrazyJim  947744105  8  6 r   c     c     c       127157  350    0 Ks Kc
+CrazyJim  947744140  8  5 f   -     -     -       126807    0    0 
+CrazyJim  947744181  8  4 f   -     -     -       126807    0    0 
+CrazyJim  947744225  8  3 f   -     -     -       126807    0    0 
+CrazyJim  947744281  8  2 Bf  -     -     -       126807   50    0 
+CrazyJim  947744316  8  1 Bf  -     -     -       126757   25    0 
+CrazyJim  947744341  8  8 c   k     k     f       126732  100    0 
+CrazyJim  947744369  7  6 f   -     -     -       126632    0    0 
+CrazyJim  947744388  7  5 c   f     -     -       126632   50    0 
+CrazyJim  947744410  7  4 f   -     -     -       126582    0    0 
+CrazyJim  947744433  7  3 f   -     -     -       126582    0    0 
+CrazyJim  947744456  7  2 Bc  kf    -     -       126582  100    0 
+CrazyJim  947744483  7  1 Bf  -     -     -       126482   25    0 
+CrazyJim  947744509  7  7 f   -     -     -       126457    0    0 
+CrazyJim  947744533  7  6 f   -     -     -       126457    0    0 
+CrazyJim  947744572  7  5 f   -     -     -       126457    0    0 
+CrazyJim  947744598  7  4 f   -     -     -       126457    0    0 
+CrazyJim  947744645  7  3 c   kc    k     b       126457  200  475 Ah Jc
+CrazyJim  947744682  7  2 Bf  -     -     -       126732   50    0 
+CrazyJim  947744726  7  1 Bf  -     -     -       126682   25    0 
+CrazyJim  947744736  7  7 r   -     -     -       126657  100  175 
+CrazyJim  947744746  7  6 f   -     -     -       126732    0    0 
+CrazyJim  947744790  7  5 f   -     -     -       126732    0    0 
+CrazyJim  947744817  7  4 cc  k     k     k       126732  100  275 2c 2h
+CrazyJim  947744835  7  3 f   -     -     -       126907    0    0 
+CrazyJim  947744869  7  2 Bc  c     f     -       126907  150    0 
+CrazyJim  947744896  7  1 Bf  -     -     -       126757   25    0 
+CrazyJim  947744912  7  7 c   c     c     k       126732  250  575 9s As
+CrazyJim  947744952  7  6 f   -     -     -       127057    0    0 
+CrazyJim  947744987  7  5 r   b     b     -       127057  250  550 
+CrazyJim  947745036  6  4 f   -     -     -       127357    0    0 
+CrazyJim  947745057  6  3 f   -     -     -       127357    0    0 
+CrazyJim  947745104  7  2 Br  k     kc    b       127357  350  725 Ad Kd
+CrazyJim  947745131  7  1 Bc  k     kc    b       127732  250  600 Kc Th
+CrazyJim  947745181  8  8 f   -     -     -       128082    0    0 
+CrazyJim  947745201  8  7 f   -     -     -       128082    0    0 
+CrazyJim  947745223  8  6 c   kf    -     -       128082   50    0 
+CrazyJim  947745251  7  4 cc  c     c     f       128032  300    0 
+CrazyJim  947745297  7  3 f   -     -     -       127732    0    0 
+CrazyJim  947745316  7  2 Bf  -     -     -       127732   50    0 
+CrazyJim  947745323  7  1 Bf  -     -     -       127682   25    0 
+CrazyJim  947745336  7  7 f   -     -     -       127657    0    0 
+CrazyJim  947745349  7  6 f   -     -     -       127657    0    0 
+CrazyJim  947745395  7  5 f   -     -     -       127657    0    0 
+CrazyJim  947745426  7  4 f   -     -     -       127657    0    0 
+CrazyJim  947745445  7  3 f   -     -     -       127657    0    0 
+CrazyJim  947745458  7  2 Bf  -     -     -       127657   50    0 
+CrazyJim  947745481  7  1 Bf  -     -     -       127607   25    0 
+CrazyJim  947745493  7  7 f   -     -     -       127582    0    0 
+CrazyJim  947745503  7  6 f   -     -     -       127582    0    0 
+CrazyJim  947745526  8  6 c   b     -     -       127582  100  275 
+CrazyJim  947745552  8  5 r   b     bc    k       127757  350  875 Jd Ad
+CrazyJim  947745605  8  4 f   -     -     -       128282    0    0 
+CrazyJim  947745625  8  3 f   -     -     -       128282    0    0 
+CrazyJim  947745653  8  2 Bf  -     -     -       128282   50    0 
+CrazyJim  947745672  8  1 Bf  -     -     -       128232   25    0 
+CrazyJim  947745703  8  8 f   -     -     -       128207    0    0 
+CrazyJim  947745715  8  7 f   -     -     -       128207    0    0 
+CrazyJim  947745757  8  6 f   -     -     -       128207    0    0 
+CrazyJim  947745777  8  5 f   -     -     -       128207    0    0 
+CrazyJim  947745812  8  4 f   -     -     -       128107    0    0 
+CrazyJim  947745864  8  3 f   -     -     -       127807    0    0 
+CrazyJim  947745897  8  2 Bf  -     -     -       127607   50    0 
+CrazyJim  947745908  8  1 Bf  -     -     -       127557   25    0 
+CrazyJim  947745921  8  8 f   -     -     -       127532    0    0 
+CrazyJim  947745947  8  7 f   -     -     -       127382    0    0 
+CrazyJim  947745964  8  6 c   kf    -     -       127432   50    0 
+CrazyJim  947745999  8  5 f   -     -     -       127332    0    0 
+CrazyJim  947746011  8  4 f   -     -     -       127332    0    0 
+CrazyJim  947746040  8  3 f   -     -     -       127482    0    0 
+CrazyJim  947746087  8  2 Bk  f     -     -       127582   50    0 
+CrazyJim  947746120  8  1 Bc  kc    kf    -       127382  150    0 
+CrazyJim  947746148  8  8 cc  f     -     -       127082  100    0 
+CrazyJim  947746202  8  7 c   f     -     -       127232   50    0 
+CrazyJim  947746252  8  6 f   -     -     -       127732    0    0 
+CrazyJim  947746263  8  5 f   -     -     -       127582    0    0 
+CrazyJim  947746284  8  4 f   -     -     -       127432    0    0 
+CrazyJim  947746301  8  3 f   -     -     -       127382    0    0 
+CrazyJim  947746332  8  2 Bf  -     -     -       126932   50    0 
+CrazyJim  947746362  8  1 Bf  -     -     -       127182   25    0 
+CrazyJim  947746366  8  8 f   -     -     -       127157    0    0 
+CrazyJim  947746404  8  7 c   f     -     -       126707   50    0 
+CrazyJim  947746435  8  6 f   -     -     -       126357    0    0 
+CrazyJim  947746468  8  5 f   -     -     -       126257    0    0 
+CrazyJim  947746497  8  4 f   -     -     -       126157    0    0 
+CrazyJim  947746527  8  3 c   b     -     -       125757  100  175 
+CrazyJim  947746544  8  2 Bf  -     -     -       125682   50    0 
+CrazyJim  947746580  8  1 Bc  b     b     b       125482  300    0 8c Qc
+CrazyJim  947746622  8  8 f   -     -     -       124982    0    0 
+CrazyJim  947746651  8  7 f   -     -     -       125082    0    0 
+CrazyJim  947746674  8  6 f   -     -     -       125082    0    0 
+CrazyJim  947746707  8  5 f   -     -     -       125282    0    0 
+CrazyJim  947746771  8  4 f   -     -     -       124332    0    0 
+CrazyJim  947746805  8  3 f   -     -     -       121682    0    0 
+CrazyJim  947746825  8  2 Bf  -     -     -       119032   50    0 
+CrazyJim  947746888  8  1 Bf  -     -     -       119332   25    0 
+CrazyJim  947746912  8  8 c   f     -     -       119507  100    0 
+CrazyJim  947746949  8  7 f   -     -     -       118207    0    0 
+CrazyJim  947746995  8  6 f   -     -     -       119307    0    0 
+CrazyJim  947747022  8  5 f   -     -     -       120057    0    0 
+CrazyJim  947747057  8  4 f   -     -     -       119457    0    0 
+CrazyJim  947747080  8  3 f   -     -     -       119707    0    0 
+CrazyJim  947747095  8  2 Bc  c     k     f       119507  150    0 
+CrazyJim  947747124  8  1 Bf  -     Q     -       119357   25    0 
+CrazyJim  947750562  4  2 Bc  f     -     -       118432  100    0 
+CrazyJim  947750572  4  1 Bf  -     -     -       118332   25    0 
+CrazyJim  947750579  4  4 f   -     -     -       118307    0    0 
+CrazyJim  947750599  4  3 cc  k     f     -       118307  100    0 
+CrazyJim  947750636  4  2 Bc  kc    kc    kr      118207  550 1550 Jh Ah
+CrazyJim  947750663  4  1 Bf  -     -     -       119207   25    0 
+CrazyJim  947750681  4  4 f   -     -     -       119182    0    0 
+CrazyJim  947750692  4  3 f   -     -     -       119182    0    0 
+CrazyJim  947750723  4  2 Bf  -     -     -       119182   50    0 
+CrazyJim  947750732  4  1 Bc  kf    -     -       119132  100    0 
+CrazyJim  947750749  4  4 cc  c     c     c       119032  350    0 As Jd
+CrazyJim  947750772  4  3 f   -     -     -       118682    0    0 
+CrazyJim  947750790  4  2 Bf  -     -     -       118682   50    0 
+CrazyJim  947750807  4  1 Bf  -     -     -       118632   25    0 
+CrazyJim  947750827  4  4 f   -     -     -       118607    0    0 
+CrazyJim  947750847  4  3 r   c     f     -       118607  150    0 
+CrazyJim  947750871  5  2 Bf  -     -     -       118457   50    0 
+CrazyJim  947750916  5  1 Bf  -     -     -       118407   25    0 
+CrazyJim  947750937  5  5 f   -     -     -       118382    0    0 
+CrazyJim  947750954  5  4 cc  c     rc    c       118382  550    0 Qc Ks
+CrazyJim  947750983  5  3 f   -     -     -       117832    0    0 
+CrazyJim  947751022  5  2 Bc  kf    -     -       117832  100    0 
+CrazyJim  947751041  5  1 Bcc k     k     kf      117732  100    0 
+CrazyJim  947751100  5  5 f   -     -     -       117632    0    0 
+CrazyJim  947751145  5  4 f   -     -     -       117632    0    0 
+CrazyJim  947751162  5  3 cc  f     -     -       117632  100    0 
+CrazyJim  947751187  5  2 Bc  bc    k     b       117532  300  625 3s Qs
+CrazyJim  947751224  5  1 Bc  kc    k     k       117857  150  550 8d 8c
+CrazyJim  947751278  5  5 f   -     -     -       118257    0    0 
+CrazyJim  947751306  5  4 f   -     -     -       118257    0    0 
+CrazyJim  947751323  5  3 f   -     -     -       118257    0    0 
+CrazyJim  947751348  5  2 Bf  -     -     -       118257   50    0 
+CrazyJim  947751378  5  1 B   -     -     -       118207   25   75 
+CrazyJim  947751393  4  4 f   -     -     -       118257    0    0 
+CrazyJim  947751410  4  4 f   -     -     -       118257    0    0 
+CrazyJim  947751429  4  3 f   -     -     -       118257    0    0 
+CrazyJim  947751452  4  2 Bk  k     f     -       118257   50    0 
+CrazyJim  947751479  5  1 Bf  -     -     -       118207   25    0 
+CrazyJim  947751511  5  5 r   rc    c     b       118232  450    0 Ks Js
+CrazyJim  947751545  5  4 f   -     -     -       117782    0    0 
+CrazyJim  947751581  5  3 r   -     -     -       117782  100  175 
+CrazyJim  947751595  5  2 Bk  kf    -     -       117857   50    0 
+CrazyJim  947751624  5  1 Bf  -     -     -       117807   25    0 
+CrazyJim  947751631  5  5 f   -     -     -       117782    0    0 
+CrazyJim  947751652  5  4 f   -     -     -       117782    0    0 
+CrazyJim  947751677  4  3 c   f     -     -       117782   50    0 
+CrazyJim  947751693  4  2 Bf  -     -     -       117732   50    0 
+CrazyJim  947751698  4  1 Br  b     b     bc      117682  500 1050 Kc Ah
+CrazyJim  947751716  4  4 c   k     f     -       118232   50    0 
+CrazyJim  947751742  4  3 f   -     -     -       118182    0    0 
+CrazyJim  947751761  4  2 Bk  k     f     -       118182   50    0 
+CrazyJim  947751776  4  1 Bf  -     -     -       118132   25    0 
+CrazyJim  947751784  4  4 f   -     -     -       118107    0    0 
+CrazyJim  947751802  4  3 f   -     -     -       118107    0    0 
+CrazyJim  947751834  4  2 Bf  -     -     -       118107   50    0 
+CrazyJim  947751865  5  1 Bf  -     -     -       118057   25    0 
+CrazyJim  947751925  5  5 c   f     -     -       118032   50    0 
+CrazyJim  947751943  4  4 f   -     -     -       117982    0    0 
+CrazyJim  947751953  4  3 f   -     -     -       117982    0    0 
+CrazyJim  947751964  4  2 Bf  -     -     -       117982   50    0 
+CrazyJim  947752005  4  1 Bf  -     -     -       117932   25    0 
+CrazyJim  947752025  4  4 f   -     -     -       117907    0    0 
+CrazyJim  947752034  4  3 f   -     -     -       117907    0    0 
+CrazyJim  947752054  4  2 Bf  -     -     -       117907   50    0 
+CrazyJim  947752064  4  1 Bf  -     -     -       117857   25    0 
+CrazyJim  947752081  4  4 f   -     -     -       117832    0    0 
+CrazyJim  947752098  4  3 f   -     -     -       117832    0    0 
+CrazyJim  947752111  4  2 Bf  -     -     -       117832   50    0 
+CrazyJim  947752120  4  1 Bf  -     -     -       117782   25    0 
+CrazyJim  947752137  4  4 f   -     -     -       117757    0    0 
+CrazyJim  947752148  4  3 c   c     c     c       117757  300    0 Qd Th
+CrazyJim  947752169  4  2 Bk  kf    -     -       117457   50    0 
+CrazyJim  947752212  4  1 Bf  -     -     -       117407   25    0 
+CrazyJim  947752252  4  4 f   -     -     -       117382    0    0 
+CrazyJim  947752259  4  3 c   f     -     -       117382   50    0 
+CrazyJim  947752276  4  2 Bk  k     f     -       117332   50    0 
+CrazyJim  947752292  4  1 Bf  -     -     -       117282   25    0 
+CrazyJim  947752309  4  4 f   -     -     -       117257    0    0 
+CrazyJim  947752333  4  3 f   -     -     -       117257    0    0 
+CrazyJim  947752354  4  2 Bk  kc    kc    k       117257  200  450 2h 6h
+CrazyJim  947752374  4  1 Bf  -     -     -       117507   25    0 
+CrazyJim  947752380  4  4 f   -     -     -       117482    0    0 
+CrazyJim  947752401  4  3 c   br    b     br      117482  600 1750 Kd Td
+CrazyJim  947752458  4  2 Bf  -     -     -       118632   50    0 
+CrazyJim  947752492  4  1 Bf  -     -     -       118582   25    0 
+CrazyJim  947752504  4  4 c   k     k     k       118557   50  150 4d 4h
+CrazyJim  947752518  4  3 f   -     -     -       118657    0    0 
+CrazyJim  947752534  4  2 Bf  -     -     -       118657   50    0 
+CrazyJim  947752540  4  1 Bc  kf    -     -       118607  100    0 
+CrazyJim  947752548  4  4 f   -     -     -       118507    0    0 
+CrazyJim  947752572  4  3 f   -     -     -       118507    0    0 
+CrazyJim  947752596  4  2 Bf  -     -     -       118507   50    0 
+CrazyJim  947752615  4  1 Bf  -     -     -       118457   25    0 
+CrazyJim  947752635  4  4 c   f     -     -       118432   50    0 
+CrazyJim  947752663  4  3 f   -     -     -       118382    0    0 
+CrazyJim  947752677  4  2 Bc  cc    br    b       118382  600 1300 
+CrazyJim  947752697  4  1 Bc  kf    -     -       119082  100    0 
+CrazyJim  947752725  4  4 f   -     -     -       118982    0    0 
+CrazyJim  947752747  4  3 f   -     -     -       118982    0    0 
+CrazyJim  947752759  4  2 Bc  k     f     -       118982  100    0 
+CrazyJim  947752801  4  1 Bcc kf    -     -       118882  100    0 
+CrazyJim  947752839  4  4 f   -     -     -       118782    0    0 
+CrazyJim  947752859  4  3 f   -     -     -       118782    0    0 
+CrazyJim  947752886  4  2 Bc  f     -     -       118782  100    0 
+CrazyJim  947752906  4  1 Bf  -     -     -       118682   25    0 
+CrazyJim  947752929  4  4 f   -     -     -       118657    0    0 
+CrazyJim  947752949  4  3 f   -     -     -       118657    0    0 
+CrazyJim  947752962  4  2 Bc  c     c     k       118657  250  500 Qs Ac
+CrazyJim  947752973  4  1 Bf  -     -     -       118907   25    0 
+CrazyJim  947752992  4  4 f   -     -     -       118882    0    0 
+CrazyJim  947753012  4  3 cc  f     -     -       118882  100    0 
+CrazyJim  947753032  4  2 Bf  -     -     -       118782   50    0 
+CrazyJim  947753041  4  1 Bf  -     -     -       118732   25    0 
+CrazyJim  947753057  4  4 f   -     -     -       118707    0    0 
+CrazyJim  947753066  4  3 cc  f     -     -       118707  100    0 
+CrazyJim  947753103  4  2 Bc  c     k     b       118607  250  400 
+CrazyJim  947753120  4  1 Bf  -     -     -       118757   25    0 
+CrazyJim  947753133  4  4 f   -     -     -       118732    0    0 
+CrazyJim  947753136  4  3 f   -     -     -       118732    0    0 
+CrazyJim  947753142  4  2 Bf  -     -     -       118732   50    0 
+CrazyJim  947753160  4  1 Bf  -     -     -       118682   25    0 
+CrazyJim  947753165  4  4 f   -     -     -       118657    0    0 
+CrazyJim  947753185  4  3 f   -     -     -       118657    0    0 
+CrazyJim  947753208  4  2 Bf  -     -     -       118657   50    0 
+CrazyJim  947753217  4  1 Bc  k     k     k       118607  100  250 9d Js
+CrazyJim  947753240  4  4 c   f     -     -       118757  100    0 
+CrazyJim  947753272  4  3 f   -     -     -       118657    0    0 
+CrazyJim  947753290  4  2 Bk  kc    kc    k       118657  200  425 Js 9d
+CrazyJim  947753324  4  1 Br  bc    b     b       118882  400  900 
+CrazyJim  947753366  4  4 f   -     -     -       119382    0    0 
+CrazyJim  947753376  4  3 f   -     -     -       119382    0    0 
+CrazyJim  947753394  4  2 Bk  k     f     -       119382   50    0 
+CrazyJim  947753411  4  1 Bf  -     -     -       119332   25    0 
+CrazyJim  947753441  4  4 f   -     -     -       119307    0    0 
+CrazyJim  947753473  4  3 c   k     b     -       119307  150  250 
+CrazyJim  947753491  4  2 Bk  c     k     b       119407  200  500 3h 3c
+CrazyJim  947753510  4  1 Bc  kc    kf    -       119707  100    0 
+CrazyJim  947753534  4  4 f   -     -     -       119607    0    0 
+CrazyJim  947753544  4  3 f   -     -     -       119607    0    0 
+CrazyJim  947753560  4  2 Bk  k     f     -       119607   50    0 
+CrazyJim  947753581  3  1 Bcc kf    -     -       119557  150    0 
+CrazyJim  947753595  3  3 c   c     f     -       119407  150    0 
+CrazyJim  947753616  3  2 Bf  -     -     -       119257   50    0 
+CrazyJim  947753636  3  1 Bf  -     -     -       119207   25    0 
+CrazyJim  947753647  3  3 f   -     -     -       119182    0    0 
+CrazyJim  947753653  3  2 Bc  kf    -     -       119182  100    0 
+CrazyJim  947753665  3  1 Bc  b     -     -       119082  100  150 
+CrazyJim  947753672  3  3 f   -     -     -       119132    0    0 
+CrazyJim  947753677  3  2 B   -     -     -       119132   50   75 
+CrazyJim  947753680  3  1 Bf  -     -     -       119157   25    0 
+CrazyJim  947753688  3  3 f   -     Q     -       119132    0    0 
+CrazyJim  947817385  5  4 c   c     c     f       134381  200    0 
+CrazyJim  947817407  5  3 f   -     -     -       134181    0    0 
+CrazyJim  947817437  5  2 Bk  kf    -     -       134181   50    0 
+CrazyJim  947817456  5  1 Bf  -     -     -       134131   25    0 
+CrazyJim  947817472  5  5 f   -     -     -       134106    0    0 
+CrazyJim  947817486  5  4 f   -     -     -       134106    0    0 
+CrazyJim  947817539  4  2 B   -     -     -       134106   50   75 
+CrazyJim  947817552  4  1 Bf  -     -     -       134131   25    0 
+CrazyJim  947817576  4  4 f   -     -     -       134106    0    0 
+CrazyJim  947817597  4  3 f   -     -     -       134106    0    0 
+CrazyJim  947817623  4  2 Br  b     b     b       134086  350  950 Kh Kd
+CrazyJim  947817662  5  1 Bc  kc    k     k       134666  150  350 Ah Jc
+CrazyJim  947817689  5  5 f   -     -     -       134856    0    0 
+CrazyJim  947817736  5  4 f   -     -     -       134856    0    0 
+CrazyJim  947817753  5  3 f   -     -     -       134836    0    0 
+CrazyJim  947817759  4  2 Bf  -     -     -       134836   50    0 
+CrazyJim  947817770  4  1 Bc  k     k     kf      134786   50    0 
+CrazyJim  947817798  5  5 f   -     -     -       134736    0    0 
+CrazyJim  947817814  5  4 cc  f     -     -       134736  100    0 
+CrazyJim  947817866  5  3 f   -     -     -       134596    0    0 
+CrazyJim  947817897  5  2 Bc  b     b     -       134596  250  525 
+CrazyJim  947817915  5  1 Bc  kc    kc    kc      134871  350    0 Ah 4h
+CrazyJim  947817935  5  5 c   c     c     k       134501  250    0 Ac 9c
+CrazyJim  947817969  5  4 f   -     -     -       134211    0    0 
+CrazyJim  947817998  5  3 c   b     b     k       134391  200  650 Ah Ad
+CrazyJim  947818045  5  2 Bf  -     -     -       134841   50    0 
+CrazyJim  947818066  6  1 Bc  br    b     -       134631  350  850 
+CrazyJim  947818116  6  6 c   b     b     -       135131  250  600 
+CrazyJim  947818144  6  5 f   -     -     -       135481    0    0 
+CrazyJim  947818164  6  4 c   rc    c     c       135481  400 1300 Ts Qc
+CrazyJim  947818204  7  3 f   -     -     -       136361    0    0 
+CrazyJim  947818251  7  2 Bf  -     -     -       136361   50    0 
+CrazyJim  947818275  7  1 Bf  -     -     -       136311   25    0 
+CrazyJim  947818301  7  7 f   -     -     -       136286    0    0 
+CrazyJim  947818335  7  6 f   -     -     -       136256    0    0 
+CrazyJim  947818357  7  5 c   f     -     -       136256  100    0 
+CrazyJim  947818385  7  4 f   -     -     -       136246    0    0 
+CrazyJim  947818406  7  3 f   -     -     -       136226    0    0 
+CrazyJim  947818429  7  2 Br  brc   b     b       136226  550 1450 Kd Kc
+CrazyJim  947818488  7  1 Bf  -     -     -       137176   25    0 
+CrazyJim  947818500  7  7 c   k     rf    -       137151  300    0 
+CrazyJim  947818549  6  5 c   r     b     b       136821  350  800 
+CrazyJim  947818616  6  4 f   -     -     -       137271    0    0 
+CrazyJim  947818625  6  3 c   c     f     -       137231  100    0 
+CrazyJim  947818645  6  2 B   -     -     -       137071   50   75 
+CrazyJim  947818653  6  1 Bf  -     -     -       137096   25    0 
+CrazyJim  947818685  5  5 f   -     -     -       137071    0    0 
+CrazyJim  947818699  5  4 f   -     -     -       137146    0    0 
+CrazyJim  947818711  5  3 f   -     -     -       137146    0    0 
+CrazyJim  947818734  4  2 Bk  kc    kc    k       137146  200    0 Js 5c
+CrazyJim  947818767  4  1 Bc  k     k     k       136916   50   50 Th Ks
+CrazyJim  947818781  4  4 f   -     -     -       136916    0    0 
+CrazyJim  947818796  4  3 f   -     -     -       136916    0    0 
+CrazyJim  947818822  4  2 Bc  kc    kc    k       136916  250    0 Ks Ah
+CrazyJim  947818858  4  1 Bf  -     -     -       136666   25    0 
+CrazyJim  947818873  4  4 c   c     c     f       136881  200    0 
+CrazyJim  947818901  4  3 f   -     -     -       136681    0    0 
+CrazyJim  947818904  4  2 Bk  kc    k     b       136681  200  350 
+CrazyJim  947818932  4  1 Bc  kc    kr    b       136831  450 1000 Qc Ad
+CrazyJim  947818959  4  4 rc  c     c     c       137381  450    0 As Kh
+CrazyJim  947818991  5  3 f   -     -     -       136931    0    0 
+CrazyJim  947819032  5  2 Bk  kf    -     -       136911   50    0 
+CrazyJim  947819053  5  1 Bf  -     -     -       136861   25    0 
+CrazyJim  947819068  5  5 cf  -     -     -       136836   50    0 
+CrazyJim  947819085  5  4 f   -     -     -       136786    0    0 
+CrazyJim  947819095  5  3 f   -     -     -       136776    0    0 
+CrazyJim  947819116  5  2 Bf  -     -     -       136776   50    0 
+CrazyJim  947819124  5  1 Br  bc    kf    -       136726  200    0 
+CrazyJim  947819156  5  5 f   -     -     -       136526    0    0 
+CrazyJim  947819160  5  4 f   -     -     -       136486    0    0 
+CrazyJim  947819179  5  3 c   k     k     k       136486   50  150 Kc 9c
+CrazyJim  947819198  5  2 Bk  kf    -     -       136586   50    0 
+CrazyJim  947819220  5  1 Bf  Q     -     -       136536   25    0 
+CrazyJim  947822836  7  4 f   -     -     -       136511    0    0 
+CrazyJim  947822841  7  3 f   -     -     -       136511    0    0 
+CrazyJim  947822887  7  2 Bk  k     k     k       136461   50  125 Jd Qd
+CrazyJim  947822917  7  1 Bc  br    b     -       136186  350  750 
+CrazyJim  947822960  7  7 f   -     -     -       136586    0    0 
+CrazyJim  947823008  7  6 f   -     -     -       136436    0    0 
+CrazyJim  947823023  7  5 f   -     -     -       136436    0    0 
+CrazyJim  947823052  6  3 f   -     -     -       136196    0    0 
+CrazyJim  947823075  6  2 Bf  -     -     -       136196   50    0 
+CrazyJim  947823082  6  1 Br  kc    k     k       136261  250    0 Kh Ah
+CrazyJim  947823115  6  6 f   -     -     -       135961    0    0 
+CrazyJim  947823131  6  5 f   -     -     -       135956    0    0 
+CrazyJim  947823170  6  4 c   kc    k     b       135921  200  375 
+CrazyJim  947823217  6  3 f   -     -     -       136366    0    0 
+CrazyJim  947823242  5  2 Bk  b     b     -       136361  200  325 
+CrazyJim  947823256  5  1 Bcc k     krr   b       136486  600 1200 7s 7d
+CrazyJim  947823280  5  5 f   -     -     -       137086    0    0 
+CrazyJim  947823290  5  4 fQ  -     -     -       137086    0    0 
+CrazyJim  948074162  4  3 c   kc    kc    b       142525  300  825 Js Ah
+CrazyJim  948074193  4  2 Bc  kf    -     -       143030  100    0 
+CrazyJim  948074204  3  1 Bf  -     -     -       142930   25    0 
+CrazyJim  948074216  3  3 f   -     -     -       142905    0    0 
+CrazyJim  948074236  3  2 Bc  kf    -     -       142905  100    0 
+CrazyJim  948074248  3  1 Bc  kf    -     -       142595   50    0 
+CrazyJim  948074267  3  3 f   -     -     -       142545    0    0 
+CrazyJim  948074275  3  2 Bk  f     -     -       142545   50    0 
+CrazyJim  948074294  3  1 Bf  -     -     -       142495   25    0 
+CrazyJim  948074326  4  4 c   k     b     -       142470  150  225 
+CrazyJim  948074346  4  3 f   -     -     -       142235    0    0 
+CrazyJim  948074350  4  2 Bf  -     -     -       142235   50    0 
+CrazyJim  948074361  4  1 Bc  kc    kf    -       142185  100    0 
+CrazyJim  948074389  4  4 f   -     -     -       142070    0    0 
+CrazyJim  948074393  4  3 f   -     -     -       142070    0    0 
+CrazyJim  948074442  4  2 Bk  k     b     -       142035  150  225 
+CrazyJim  948074602  3  1 Bcf -     -     -       142115   50    0 
+CrazyJim  948074631  3  3 cc  f     -     -       142060  100    0 
+CrazyJim  948074645  3  2 Bk  k     k     k       141960   50  100 As 8c
+CrazyJim  948074669  3  1 Bf  -     -     -       142050   25    0 
+CrazyJim  948074679  3  3 c   f     -     -       142025   50    0 
+CrazyJim  948074695  4  2 Bk  k     k     k       141975   50    0 8h 6c
+CrazyJim  948074736  4  1 Bf  Q     -     -       143145   25    0 
+CrazyJim  948248939  2  1 Bcc kc    kc    kc      180010  350    0 5c 5h
+CrazyJim  948248962  2  2 B   -     -     -       179685   50   75 
+CrazyJim  948248965  2  1 Bf  -     -     -       179710   25    0 
+CrazyJim  948248968  2  2 B   -     -     -       179685   50   75 
+CrazyJim  948248969  2  1 Bf  -     -     -       179710   25    0 
+CrazyJim  948248972  2  2 B   -     -     -       179685   50   75 
+CrazyJim  948248974  2  1 Bc  kc    k     k       179710  100    0 Ad Th
+CrazyJim  948248987  2  2 Bf  -     -     -       179610   50    0 
+CrazyJim  948248992  2  1 Bf  -     -     -       179560   25    0 
+CrazyJim  948248994  2  2 Bc  c     c     b       179535  350  700 Js Ks
+CrazyJim  948249004  2  1 Bf  -     -     -       179885   25    0 
+CrazyJim  948249011  2  2 Bc  f     -     -       179860  100    0 
+CrazyJim  948249016  2  1 Bf  -     -     -       179760   25    0 
+CrazyJim  948249020  2  2 Bc  k     k     b       179735  200  300 
+CrazyJim  948249034  3  1 Bf  -     -     -       179835   25    0 
+CrazyJim  948249039  3  3 f   -     -     -       179810    0    0 
+CrazyJim  948249042  3  2 Bf  -     -     -       179810   50    0 
+CrazyJim  948249063  3  1 Bf  -     -     -       179760   25    0 
+CrazyJim  948249071  3  3 f   -     -     -       179735    0    0 
+CrazyJim  948249091  3  2 Bc  c     f     -       179700  150    0 
+CrazyJim  948249104  3  1 Bc  kf    -     -       179550  100    0 
+CrazyJim  948249112  3  3 c   k     k     f       179450   50    0 
+CrazyJim  948249124  3  2 Bf  -     -     -       179400   50    0 
+CrazyJim  948249131  3  1 Bf  -     -     -       179350   25    0 
+CrazyJim  948249146  3  3 f   -     -     -       179325    0    0 
+CrazyJim  948249153  3  2 Bf  -     -     -       179325   50    0 
+CrazyJim  948249157  3  1 Bc  k     kc    kf      179275  200    0 
+CrazyJim  948249184  3  3 f   -     -     -       179030    0    0 
+CrazyJim  948249186  3  2 Bc  f     -     -       179030  100    0 
+CrazyJim  948249196  3  1 Bc  kc    kr    b       178930  450 1000 Ts Kc
+CrazyJim  948249213  3  3 c   f     -     -       179480   50    0 
+CrazyJim  948249223  3  2 Br  b     -     -       179430  200  375 
+CrazyJim  948249231  3  1 Bf  -     -     -       179605   25    0 
+CrazyJim  948249235  3  3 f   -     -     -       179580    0    0 
+CrazyJim  948249238  3  2 Bc  kc    kr    b       179580  450  925 Td 9d
+CrazyJim  948249257  3  1 Bf  -     -     -       180055   25    0 
+CrazyJim  948249280  3  3 f   -     -     -       180030    0    0 
+CrazyJim  948249297  3  2 Bf  -     -     -       179995   50    0 
+CrazyJim  948249301  3  1 Bf  -     -     -       179945   25    0 
+CrazyJim  948249305  3  3 cc  f     -     -       179920  100    0 
+CrazyJim  948249319  4  3 f   -     -     -       179820    0    0 
+CrazyJim  948249322  4  2 Bf  -     -     -       179820   50    0 
+CrazyJim  948249352  4  1 Bc  k     kf    -       179800   50    0 
+CrazyJim  948249369  4  4 c   c     k     b       179750  200  400 
+CrazyJim  948249398  5  4 f   -     -     -       179950    0    0 
+CrazyJim  948249414  5  3 c   b     k     k       179950  100  250 Js Ad
+CrazyJim  948249450  6  4 f   -     -     -       180675    0    0 
+CrazyJim  948249464  5  2 B   -     -     -       180675   50   75 
+CrazyJim  948249473  5  1 Bc  kc    kr    bc      180700  550    0 Tc Qc
+CrazyJim  948249517  6  6 f   -     -     -       180150    0    0 
+CrazyJim  948249534  6  5 c   c     c     f       180150  200    0 
+CrazyJim  948249555  7  5 f   -     -     -       179950    0    0 
+CrazyJim  948249575  7  4 f   -     -     -       179950    0    0 
+CrazyJim  948249607  7  3 f   -     -     -       179950    0    0 
+CrazyJim  948249626  7  2 Bk  k     k     k       179950   50   50 7s 2s
+CrazyJim  948249652  7  1 Bf  -     -     -       179950   25    0 
+CrazyJim  948249668  7  7 f   -     -     -       179925    0    0 
+CrazyJim  948249685  7  6 f   -     -     -       179915    0    0 
+CrazyJim  948249709  7  5 f   -     -     -       179915    0    0 
+CrazyJim  948249753  7  4 f   -     -     -       179900    0    0 
+CrazyJim  948249791  7  3 f   -     -     -       179900    0    0 
+CrazyJim  948249823  7  2 B   -     -     -       179900   50   75 
+CrazyJim  948249828  7  1 Bf  -     -     -       179925   25    0 
+CrazyJim  948249865  6  6 f   -     -     -       179900    0    0 
+CrazyJim  948249895  6  5 f   -     -     -       179900    0    0 
+CrazyJim  948249908  6  4 f   -     -     -       179900    0    0 
+CrazyJim  948249940  6  3 c   bc    k     k       180070  150  200 Ts Ah
+CrazyJim  948249987  6  2 Bc  k     kc    kf      180310  200    0 
+CrazyJim  948250010  6  1 Bc  k     k     k       180105   50  100 2s As
+CrazyJim  948250030  6  6 f   -     -     -       180155    0    0 
+CrazyJim  948250044  6  5 c   k     c     b       180110  250  600 Tc Ac
+CrazyJim  948250087  7  4 f   -     -     -       180460    0    0 
+CrazyJim  948250128  7  3 f   -     -     -       181200    0    0 
+CrazyJim  948250165  7  2 B   -     -     -       181200   50   75 
+CrazyJim  948250174  7  1 Bc  k     kf    -       181225   50    0 
+CrazyJim  948250226  7  7 f   -     -     -       182465    0    0 
+CrazyJim  948250252  7  6 f   -     -     -       182465    0    0 
+CrazyJim  948250281  7  5 f   -     -     -       182465    0    0 
+CrazyJim  948250289  7  4 c   k     kf    -       182465   50    0 
+CrazyJim  948250334  7  3 f   -     -     -       182415    0    0 
+CrazyJim  948250344  6  1 B   -     -     -       182415   50   50 
+CrazyJim  948250349  6  1 Bc  kc    kc    b       182415  350 1000 Jh Kh
+CrazyJim  948250406  6  6 c   f     -     -       183010   50    0 
+CrazyJim  948250440  6  5 f   -     -     -       182950    0    0 
+CrazyJim  948250467  6  4 f   -     -     -       182915    0    0 
+CrazyJim  948250481  6  3 f   -     -     -       182915    0    0 
+CrazyJim  948250509  6  2 Bk  k     k     k       182915   50    0 4s 3c
+CrazyJim  948250537  6  1 Bf  -     -     -       182865   25    0 
+CrazyJim  948250556  6  6 f   -     -     -       182840    0    0 
+CrazyJim  948250571  6  5 c   f     -     -       182840   50    0 
+CrazyJim  948250615  6  4 f   -     -     -       182780    0    0 
+CrazyJim  948250618  6  3 f   -     -     -       182780    0    0 
+CrazyJim  948250639  7  3 f   -     -     -       182810    0    0 
+CrazyJim  948250670  7  2 Br  b     -     -       182810  150  400 
+CrazyJim  948250722  7  1 Bf  -     -     -       183005   25    0 
+CrazyJim  948250735  7  7 f   -     -     -       182970    0    0 
+CrazyJim  948250743  7  6 f   -     -     -       182970    0    0 
+CrazyJim  948250773  7  5 f   -     -     -       182970    0    0 
+CrazyJim  948250789  7  4 f   -     -     -       182970    0    0 
+CrazyJim  948250821  7  3 f   -     -     -       182970    0    0 
+CrazyJim  948250840  7  2 B   -     -     -       182970   50   75 
+CrazyJim  948250869  6  1 Bf  -     -     -       182805   25    0 
+CrazyJim  948250883  6  6 f   -     -     -       182780    0    0 
+CrazyJim  948250907  6  5 cc  c     c     k       182780  250    0 5c 4s
+CrazyJim  948250950  6  4 f   -     -     -       182530    0    0 
+CrazyJim  948250979  6  3 f   -     -     -       182530    0    0 
+CrazyJim  948250997  6  2 Bk  k     f     -       182530   50    0 
+CrazyJim  948251023  6  1 Bf  -     -     -       182480   25    0 
+CrazyJim  948251041  6  6 f   -     -     -       182445    0    0 
+CrazyJim  948251065  6  5 f   -     -     -       182445    0    0 
+CrazyJim  948251085  6  4 f   -     -     -       182445    0    0 
+CrazyJim  948251100  6  3 f   -     -     -       182440    0    0 
+CrazyJim  948251104  6  2 Bf  -     -     -       182440   50    0 
+CrazyJim  948251118  6  1 Bf  -     -     -       182390   25    0 
+CrazyJim  948251135  6  6 f   -     -     -       182365    0    0 
+CrazyJim  948251141  6  5 f   -     -     -       182365    0    0 
+CrazyJim  948251166  6  4 f   -     -     -       182355    0    0 
+CrazyJim  948251189  6  3 f   -     -     -       182355    0    0 
+CrazyJim  948251235  6  2 Bf  -     -     -       182355   50    0 
+CrazyJim  948251244  6  1 Bf  -     -     -       182305   25    0 
+CrazyJim  948251271  6  6 c   k     k     k       182235   50  125 7c 8c
+CrazyJim  948251291  6  5 cc  kf    -     -       182310  100    0 
+CrazyJim  948251318  6  4 cc  f     -     -       182210  100    0 
+CrazyJim  948251342  6  3 f   -     -     -       182110    0    0 
+CrazyJim  948251357  6  2 B   -     -     -       182110   50   75 
+CrazyJim  948251364  6  1 Bf  -     -     -       182135   25    0 
+CrazyJim  948251392  6  6 c   c     f     -       182110  100    0 
+CrazyJim  948251426  6  3 Q   -     -     -       182000    0    0 
+CrazyJim  948513607  5  5 c   f     -     -       176633  100    0 
+CrazyJim  948513627  5  4 f   -     -     -       176533    0    0 
+CrazyJim  948513633  5  3 cc  kc    k     b       176533  250  575 Qs 7s
+CrazyJim  948513660  5  2 Bf  -     -     -       176858   50    0 
+CrazyJim  948513668  5  1 Bf  -     -     -       176808   25    0 
+CrazyJim  948513681  5  5 f   -     -     -       176733    0    0 
+CrazyJim  948513702  5  4 f   -     -     -       176698    0    0 
+CrazyJim  948513727  4  2 Bf  -     -     -       176698   50    0 
+CrazyJim  948513759  4  1 Bf  -     -     -       176613   25    0 
+CrazyJim  948513775  4  4 f   -     -     -       176588    0    0 
+CrazyJim  948513787  4  3 f   -     -     -       176538    0    0 
+CrazyJim  948513792  4  2 B   -     -     -       176538   50   75 
+CrazyJim  948513797  4  1 Bf  -     -     -       176563   25    0 
+CrazyJim  948513820  4  4 c   c     k     f       176538  150    0 
+CrazyJim  948513854  4  3 f   -     -     -       176273    0    0 
+CrazyJim  948513858  4  2 Bf  -     -     -       176273   50    0 
+CrazyJim  948513865  4  1 Bc  kf    -     -       176223  100    0 
+CrazyJim  948513875  4  4 f   -     -     -       176123    0    0 
+CrazyJim  948513893  4  3 c   f     -     -       176108   50    0 
+CrazyJim  948513920  4  2 Bc  f     -     -       176073  100    0 
+CrazyJim  948513941  4  1 Bc  kc    k     kf      175963  150    0 
+CrazyJim  948513958  4  4 f   -     -     -       175813    0    0 
+CrazyJim  948513988  4  3 f   -     -     -       175833    0    0 
+CrazyJim  948513998  4  2 B   -     -     -       175833   50   75 
+CrazyJim  948514003  4  1 Bf  -     -     -       175858   25    0 
+CrazyJim  948514007  4  4 f   -     -     -       175833    0    0 
+CrazyJim  948514019  4  3 c   k     f     -       175848   50    0 
+CrazyJim  948514031  4  2 B   -     -     -       175798   50   75 
+CrazyJim  948514035  4  1 Bf  -     -     -       175823   25    0 
+CrazyJim  948514039  4  4 f   -     -     -       175798    0    0 
+CrazyJim  948514041  4  3 f   -     -     -       175798    0    0 
+CrazyJim  948514063  4  2 Bf  -     -     -       175798   50    0 
+CrazyJim  948514092  4  1 Bf  -     -     -       175748   25    0 
+CrazyJim  948514114  4  4 f   -     -     -       175723    0    0 
+CrazyJim  948514121  4  3 cc  c     k     f       175723  150    0 
+CrazyJim  948514140  4  2 Bc  b     -     -       175573  150  450 
+CrazyJim  948514153  4  1 Bc  k     bc    k       175873  250  500 Td As
+CrazyJim  948514171  4  4 f   -     -     -       176078    0    0 
+CrazyJim  948514178  4  3 f   -     -     -       176078    0    0 
+CrazyJim  948514197  4  2 Bc  kc    kc    kf      176078  300    0 
+CrazyJim  948514232  4  1 Bf  -     -     -       175778   25    0 
+CrazyJim  948514237  4  4 f   -     -     -       175718    0    0 
+CrazyJim  948514245  4  3 cc  kc    kc    kf      175718  250    0 
+CrazyJim  948514272  4  2 Bc  f     -     -       175513  100    0 
+CrazyJim  948514281  4  1 Bf  -     -     -       175413   25    0 
+CrazyJim  948514293  4  4 f   -     -     -       175388    0    0 
+CrazyJim  948514298  4  3 f   -     -     -       175388    0    0 
+CrazyJim  948514301  4  2 Bf  -     -     -       175388   50    0 
+CrazyJim  948514305  4  1 Bf  -     -     -       175288   25    0 
+CrazyJim  948514309  4  4 f   -     -     -       175263    0    0 
+CrazyJim  948514314  4  3 f   -     -     -       175263    0    0 
+CrazyJim  948514321  4  2 Bc  kc    bf    -       175263  250    0 
+CrazyJim  948514335  4  1 Br  -     -     -       175013  100  150 
+CrazyJim  948514341  4  4 f   -     -     -       175063    0    0 
+CrazyJim  948514344  4  3 f   -     -     -       175063    0    0 
+CrazyJim  948514355  4  2 Bf  -     -     -       175063   50    0 
+CrazyJim  948514361  4  1 Bf  -     -     -       175043   25    0 
+CrazyJim  948514364  4  4 f   -     -     -       175018    0    0 
+CrazyJim  948514369  4  3 f   -     -     -       175023    0    0 
+CrazyJim  948514377  4  2 Bf  -     -     -       175023   50    0 
+CrazyJim  948514398  4  1 Bc  kc    k     b       174968  250  750 Qs Ad
+CrazyJim  948514419  4  4 f   -     -     -       175468    0    0 
+CrazyJim  948514437  4  3 c   k     k     b       175433  150  225 
+CrazyJim  948514479  4  2 Bc  cc    kc    b       176178  400  850 
+CrazyJim  948514518  4  1 Bc  kf    -     -       176618  100    0 
+CrazyJim  948514547  4  4 f   -     -     -       176513    0    0 
+CrazyJim  948514561  4  3 f   -     -     -       176513    0    0 
+CrazyJim  948514569  4  2 Bc  k     kc    kf      176513  200    0 
+CrazyJim  948514592  4  1 Bf  -     -     -       176313   25    0 
+CrazyJim  948514606  4  4 f   -     -     -       176288    0    0 
+CrazyJim  948514633  4  3 f   -     -     -       176288    0    0 
+CrazyJim  948514658  4  2 Bc  kc    k     b       176288  250  550 
+CrazyJim  948514682  4  1 Bf  -     -     -       176588   25    0 
+CrazyJim  948514693  4  4 c   c     k     k       176553  150  187 7h Ah
+CrazyJim  948514718  4  3 f   -     -     -       176585    0    0 
+CrazyJim  948514737  4  2 Bf  -     -     -       176585   50    0 
+CrazyJim  948514749  4  1 Bf  -     -     -       176610   25    0 
+CrazyJim  948514762  4  4 cc  c     k     k       176585  150    0 8d Ad
+CrazyJim  948514787  4  3 f   -     -     -       176425    0    0 
+CrazyJim  948514802  4  2 Bc  f     -     -       176425  100    0 
+CrazyJim  948514812  4  1 Bf  -     -     -       176325   25    0 
+CrazyJim  948514829  4  4 f   -     -     -       176300    0    0 
+CrazyJim  948514847  4  3 f   -     -     -       175440    0    0 
+CrazyJim  948514855  4  2 Bf  -     -     -       175440   50    0 
+CrazyJim  948514871  4  1 Bcc kc    kc    bc      175390  450    0 6d 8c
+CrazyJim  948514929  4  4 f   -     -     -       177690    0    0 
+CrazyJim  948514948  4  3 f   -     -     -       177685    0    0 
+CrazyJim  948514954  4  2 Bf  -     -     -       177685   50    0 
+CrazyJim  948514972  4  1 Bcc kc    kc    b       177635  350  700 3c 6c
+CrazyJim  948515013  4  4 f   -     -     -       177985    0    0 
+CrazyJim  948515025  4  3 c   f     -     -       178550   50    0 
+CrazyJim  948515043  4  2 Bf  -     -     -       178500   50    0 
+CrazyJim  948515053  4  1 Bf  -     -     -       178450   25    0 
+CrazyJim  948515067  4  4 f   -     -     -       178425    0    0 
+CrazyJim  948515081  4  3 f   -     -     -       178425    0    0 
+CrazyJim  948515086  4  2 B   -     -     -       178990   50   75 
+CrazyJim  948515091  4  1 Bf  -     -     -       179015   25    0 
+CrazyJim  948515100  4  4 f   -     -     -       178990    0    0 
+CrazyJim  948515107  4  3 f   -     -     -       178990    0    0 
+CrazyJim  948515116  4  2 Bf  -     -     -       178990   50    0 
+CrazyJim  948515140  4  1 Bc  kc    k     k       178905  200  650 9c 9h
+CrazyJim  948515166  4  4 c   f     -     -       179355   50    0 
+CrazyJim  948515177  4  3 f   -     -     -       179305    0    0 
+CrazyJim  948515183  4  2 Bf  -     -     -       179305   50    0 
+CrazyJim  948515198  4  1 Bc  k     k     k       179255   50  100 4c Ad
+CrazyJim  948515226  4  4 f   -     -     -       179305    0    0 
+CrazyJim  948515248  4  3 cc  r     b     k       179305  300  750 Qh 9h
+CrazyJim  948515308  4  2 Bf  -     -     -       179125   50    0 
+CrazyJim  948515326  4  1 Bf  -     -     -       179035   25    0 
+CrazyJim  948515353  4  4 cc  c     f     -       179010  150    0 
+CrazyJim  948515391  4  3 f   -     -     -       178860    0    0 
+CrazyJim  948515412  4  2 Bf  -     -     -       179140   50    0 
+CrazyJim  948515424  4  1 Bf  -     -     -       179090   25    0 
+CrazyJim  948515446  4  4 f   -     -     -       179065    0    0 
+CrazyJim  948515452  4  3 f   -     -     -       179030    0    0 
+CrazyJim  948515466  4  2 Bf  -     -     -       179030   50    0 
+CrazyJim  948515473  4  1 Bc  k     kf    -       178980  100    0 
+CrazyJim  948515508  4  4 cf  -     -     -       179249   50    0 
+CrazyJim  948515519  4  3 f   -     -     -       179199    0    0 
+CrazyJim  948515535  4  2 Bf  -     -     -       179154   50    0 
+CrazyJim  948515550  4  1 Bf  -     -     -       179104   25    0 
+CrazyJim  948515558  4  4 c   k     f     -       179079   50    0 
+CrazyJim  948515570  4  3 cc  b     -     -       179029  150  400 
+CrazyJim  948515584  4  2 Bf  -     -     -       179279   50    0 
+CrazyJim  948515588  4  1 Bf  -     -     -       179229   25    0 
+CrazyJim  948515592  4  4 f   -     -     -       179204    0    0 
+CrazyJim  948515597  4  3 cc  c     kc    k       179204  250    0 6c Kc
+CrazyJim  948515629  4  2 Bf  -     -     -       178919   50    0 
+CrazyJim  948515649  4  1 Bc  k     kf    -       178869   50    0 
+CrazyJim  948515668  4  4 f   -     -     -       178759    0    0 
+CrazyJim  948515674  4  3 cf  -     -     -       178759   50    0 
+CrazyJim  948515695  4  2 Bf  -     -     -       178709   50    0 
+CrazyJim  948515716  4  1 Bf  -     -     -       178659   25    0 
+CrazyJim  948515722  4  4 f   -     -     -       178634    0    0 
+CrazyJim  948515728  4  3 f   -     -     -       178634    0    0 
+CrazyJim  948515754  4  2 Bc  f     -     -       178634  100    0 
+CrazyJim  948515777  4  1 Bf  -     -     -       178329   25    0 
+CrazyJim  948515781  4  4 f   -     -     -       178304    0    0 
+CrazyJim  948515786  4  3 f   -     -     -       178304    0    0 
+CrazyJim  948515804  4  2 Bc  f     -     -       178304  100    0 
+CrazyJim  948515836  3  1 Bf  -     -     -       178194   25    0 
+CrazyJim  948515854  3  3 cc  f     -     -       178169  100    0 
+CrazyJim  948515876  3  2 Bf  -     -     -       178069   50    0 
+CrazyJim  948515886  3  1 Bf  -     -     -       178019   25    0 
+CrazyJim  948515904  3  3 f   -     -     -       177994    0    0 
+CrazyJim  948515910  4  2 B   -     -     -       177989   50   75 
+CrazyJim  948515913  4  1 Bf  -     -     -       178014   25    0 
+CrazyJim  948515939  4  4 c   k     b     -       177989  200  425 
+CrazyJim  948515964  4  3 f   -     -     -       178216    0    0 
+CrazyJim  948515976  4  2 Bc  kc    kc    b       178216  350  625 
+CrazyJim  948515989  4  1 Bf  -     -     -       178491   25    0 
+CrazyJim  948515992  4  4 r   -     -     -       178466  100  175 
+CrazyJim  948516003  4  3 f   -     -     -       178396    0    0 
+CrazyJim  948516018  4  2 B   -     -     -       178396   50   75 
+CrazyJim  948516021  4  1 Bc  kf    -     -       178421   50    0 
+CrazyJim  948516036  4  4 f   -     -     -       178371    0    0 
+CrazyJim  948516042  4  3 f   -     -     -       178371    0    0 
+CrazyJim  948516058  4  2 Bf  -     -     -       178371   50    0 
+CrazyJim  948516068  4  1 Bf  -     -     -       177961   25    0 
+CrazyJim  948516076  4  4 f   -     -     -       177936    0    0 
+CrazyJim  948516087  4  3 f   -     -     -       177936    0    0 
+CrazyJim  948516091  4  2 B   -     -     -       177936   50   75 
+CrazyJim  948516094  4  1 Bc  kf    -     -       177961  100    0 
+CrazyJim  948516120  4  4 f   -     -     -       177791    0    0 
+CrazyJim  948516126  4  3 c   c     k     f       177791  150    0 
+CrazyJim  948516158  4  2 Bf  -     -     -       177641   50    0 
+CrazyJim  948516172  4  1 Br  kc    kc    kc      177556  400    0 As Kh
+CrazyJim  948516190  3  3 f   -     -     -       177156    0    0 
+CrazyJim  948516195  3  3 f   -     -     -       177156    0    0 
+CrazyJim  948516214  3  2 Bc  k     k     b       177156  200  300 
+CrazyJim  948516229  3  1 Bf  -     -     -       177256   25    0 
+CrazyJim  948516244  3  3 f   -     -     -       177221    0    0 
+CrazyJim  948516247  3  2 Bc  f     -     -       177221  100    0 
+CrazyJim  948516265  3  1 Bf  -     -     -       177121   25    0 
+CrazyJim  948516270  3  3 cf  -     -     -       177086   50    0 
+CrazyJim  948516311  3  2 B   -     -     -       177036   50   75 
+CrazyJim  948516316  3  1 Bcc kc    b     b       177061  350  700 6s 7c
+CrazyJim  948516359  3  3 cc  c     k     k       177411  150    0 Th Ah
+CrazyJim  948516391  3  2 Bf  -     -     -       177216   50    0 
+CrazyJim  948516397  3  1 Bf  -     -     -       177166   25    0 
+CrazyJim  948516399  4  3 f   -     -     -       177141    0    0 
+CrazyJim  948516432  4  2 Bk  f     -     -       177106   50    0 
+CrazyJim  948516461  4  1 Bc  kc    kc    kc      177056  350    0 Jc Jd
+CrazyJim  948516493  4  4 c   c     c     f       176666  200    0 
+CrazyJim  948516520  4  3 f   -     -     -       176466    0    0 
+CrazyJim  948516533  4  2 B   -     -     -       176346   50   75 
+CrazyJim  948516537  4  1 Bf  -     -     -       176371   25    0 
+CrazyJim  948516556  4  4 f   -     -     -       176346    0    0 
+CrazyJim  948516577  4  3 f   -     -     -       176346    0    0 
+CrazyJim  948516583  4  2 Bc  k     f     -       176346  100    0 
+CrazyJim  948516601  4  1 Bc  kc    k     k       176211  100  250 Kh Ah
+CrazyJim  948516621  4  4 f   -     -     -       176361    0    0 
+CrazyJim  948516635  4  3 f   -     -     -       176361    0    0 
+CrazyJim  948516654  4  2 Bf  -     -     -       176361   50    0 
+CrazyJim  948516679  4  1 Bf  -     -     -       176311   25    0 
+CrazyJim  948516713  4  4 f   -     -     -       176236    0    0 
+CrazyJim  948516729  4  3 f   -     -     -       176191    0    0 
+CrazyJim  948516754  4  2 Br  k     b     -       176191  200  325 
+CrazyJim  948516771  4  1 Bc  kc    kf    -       176316  100    0 
+CrazyJim  948516785  4  4 f   -     -     -       176216    0    0 
+CrazyJim  948516806  4  3 f   -     -     -       176216    0    0 
+CrazyJim  948516832  4  2 Bk  c     b     b       176216  300  500 
+CrazyJim  948516856  4  1 Bf  -     -     -       176416   25    0 
+CrazyJim  948516860  4  4 c   k     f     -       176391   50    0 
+CrazyJim  948516883  4  3 c   c     b     b       176341  300  650 Jd Tc
+CrazyJim  948516905  4  2 Bf  -     -     -       176691   50    0 
+CrazyJim  948516914  4  1 Bf  -     -     -       176586   25    0 
+CrazyJim  948516936  4  4 f   -     -     -       176561    0    0 
+CrazyJim  948516944  4  3 f   -     -     -       176561    0    0 
+CrazyJim  948516956  4  2 Bk  kc    k     b       176626  200  325 
+CrazyJim  948516980  4  1 Bf  -     -     -       176716   25    0 
+CrazyJim  948516983  4  4 f   -     -     -       176691    0    0 
+CrazyJim  948516998  5  4 c   c     k     f       176691  150    0 
+CrazyJim  948517034  5  3 f   -     -     -       176491    0    0 
+CrazyJim  948517061  5  2 Bc  rr    b     b       176491  550    0 Qs Qd
+CrazyJim  948517101  5  1 Bf  -     -     -       175941   25    0 
+CrazyJim  948517123  5  5 r   b     brr   b       175906  800    0 Kc Kd
+CrazyJim  948517149  4  3 f   -     -     -       175096    0    0 
+CrazyJim  948517196  3  2 Br  b     br    br      175061  800    0 Kc Qs
+CrazyJim  948517216  4  1 Bf  -     -     -       174261   25    0 
+CrazyJim  948517223  4  4 c   k     k     k       174236   50   62 Jh Qs
+CrazyJim  948517252  4  3 f   -     -     -       174248    0    0 
+CrazyJim  948517276  4  2 Bf  -     -     -       174238   50    0 
+CrazyJim  948517284  4  1 Br  -     -     -       174188  100  150 
+CrazyJim  948517295  4  4 r   -     -     -       174238  100  175 
+CrazyJim  948517303  4  3 c   krc   kc    kf      174313  300    0 
+CrazyJim  948517331  4  2 B   -     -     -       173973   50   75 
+CrazyJim  948517336  4  1 Bc  b     -     -       173998  100  150 
+CrazyJim  948517349  4  4 cc  f     -     -       174008  100    0 
+CrazyJim  948517387  4  3 f   -     -     -       173898    0    0 
+CrazyJim  948517412  4  2 B   -     -     -       173893   50   75 
+CrazyJim  948517421  4  1 Bf  -     -     -       173913   25    0 
+CrazyJim  948517442  4  4 f   -     -     -       173898    0    0 
+CrazyJim  948517460  4  3 c   k     k     k       173903   50    0 Th Jh
+CrazyJim  948517484  4  2 B   -     -     -       173848   50   75 
+CrazyJim  948517490  4  1 Bc  kf    -     -       173873  100    0 
+CrazyJim  948517512  4  4 f   -     -     -       173858    0    0 
+CrazyJim  948517516  4  3 f   -     -     -       173858    0    0 
+CrazyJim  948517538  4  2 Br  b     -     -       173848  150  275 
+CrazyJim  948517554  4  1 Bf  -     -     -       173973   25    0 
+CrazyJim  948517558  4  4 f   -     -     -       173948    0    0 
+CrazyJim  948517561  4  3 f   -     -     -       173948    0    0 
+CrazyJim  948517573  4  2 Bc  c     k     b       173948  250  500 Qd Ts
+CrazyJim  948517589  4  1 Br  kc    kc    k       174198  350    0 Kc Ac
+CrazyJim  948517613  4  4 c   k     f     -       173848   50    0 
+CrazyJim  948517626  4  3 f   -     -     -       173798    0    0 
+CrazyJim  948517629  4  2 B   -     -     -       173798   50   75 
+CrazyJim  948517631  4  1 Bf  -     -     -       173823   25    0 
+CrazyJim  948517635  4  4 c   c     c     k       173798  200  425 Kd 9h
+CrazyJim  948517649  4  3 f   -     -     -       174023    0    0 
+CrazyJim  948517657  4  2 Bk  kc    kc    k       174023  200    0 As Kh
+CrazyJim  948517670  4  1 Bc  b     -     -       173823  100  150 
+CrazyJim  948517681  4  4 f   -     -     -       173873    0    0 
+CrazyJim  948517693  4  3 f   -     -     -       173873    0    0 
+CrazyJim  948517714  4  2 Bf  -     -     -       173873   50    0 
+CrazyJim  948517732  4  1 Bf  -     -     -       173823   25    0 
+CrazyJim  948517738  4  4 f   -     -     -       173798    0    0 
+CrazyJim  948517744  4  3 f   -     -     -       173798    0    0 
+CrazyJim  948517754  4  2 Bf  -     -     -       173798   50    0 
+CrazyJim  948517760  4  1 Bf  -     -     -       173748   25    0 
+CrazyJim  948517776  4  4 f   -     -     -       173723    0    0 
+CrazyJim  948517793  4  3 c   r     b     b       173723  350  700 
+CrazyJim  948517818  4  2 B   -     -     -       174073   50   75 
+CrazyJim  948517821  4  1 Bf  -     -     -       174098   25    0 
+CrazyJim  948517825  5  5 f   -     -     -       174073    0    0 
+CrazyJim  948517839  4  3 f   -     -     -       174073    0    0 
+CrazyJim  948517856  5  2 Bf  -     -     -       174073   50    0 
+CrazyJim  948517865  5  1 Bf  -     -     -       174023   25    0 
+CrazyJim  948517891  5  5 c   c     k     k       173998  150    0 9c 8c
+CrazyJim  948517911  5  4 f   -     -     -       173848    0    0 
+CrazyJim  948517933  5  3 f   -     -     -       173848    0    0 
+CrazyJim  948517961  5  2 Bk  kf    -     -       173848   50    0 
+CrazyJim  948517980  5  1 Bc  kc    k     k       173798  150  225 Ad 2d
+CrazyJim  948518004  5  5 c   c     c     r       173873  450 1025 Ah Tc
+CrazyJim  948518031  6  4 cc  kc    kf    -       174448  150    0 
+CrazyJim  948518054  7  3 f   -     -     -       174298    0    0 
+CrazyJim  948518081  7  2 Bf  -     -     -       174298   50    0 
+CrazyJim  948518106  7  1 Br  br    b     b       174248  550 1350 As Ad
+CrazyJim  948518131  6  6 f   -     -     -       175048    0    0 
+CrazyJim  948518154  6  5 f   -     -     -       175048    0    0 
+CrazyJim  948518171  6  4 f   -     -     -       175048    0    0 
+CrazyJim  948518192  6  3 f   -     -     -       175048    0    0 
+CrazyJim  948518209  6  2 Bk  f     -     -       175048   50    0 
+CrazyJim  948518237  6  1 Bf  -     -     -       174998   25    0 
+CrazyJim  948518244  6  6 c   k     k     k       174973   50  125 7c Ah
+CrazyJim  948518261  6  5 f   -     -     -       175048    0    0 
+CrazyJim  948518276  6  4 f   -     -     -       175048    0    0 
+CrazyJim  948518297  6  3 f   -     -     -       175048    0    0 
+CrazyJim  948518312  6  2 Bc  k     kf    -       175048  100    0 
+CrazyJim  948518341  6  1 Bf  -     -     -       174948   25    0 
+CrazyJim  948518366  6  6 f   -     -     -       174923    0    0 
+CrazyJim  948518380  6  5 f   -     -     -       174923    0    0 
+CrazyJim  948518387  6  4 f   -     -     -       174923    0    0 
+CrazyJim  948518392  6  3 f   -     -     -       174923    0    0 
+CrazyJim  948518419  6  2 Bk  f     -     -       174923   50    0 
+CrazyJim  948518432  6  1 Bc  kc    kc    k       174873  250    0 7c Ac
+CrazyJim  948518454  5  5 f   -     -     -       174623    0    0 
+CrazyJim  948518462  5  4 f   -     -     -       174623    0    0 
+CrazyJim  948518479  5  3 f   -     -     -       174623    0    0 
+CrazyJim  948518503  5  2 Bk  k     k     k       174623   50    0 3s 2s
+CrazyJim  948518526  5  1 Bf  -     -     -       174573   25    0 
+CrazyJim  948518535  5  5 f   -     -     -       174548    0    0 
+CrazyJim  948518577  5  4 f   -     -     -       174548    0    0 
+CrazyJim  948518587  5  4 f   -     -     -       174548    0    0 
+CrazyJim  948518592  5  3 f   -     -     -       174548    0    0 
+CrazyJim  948518599  5  2 Bk  kf    -     -       174548   50    0 
+CrazyJim  948518634  5  1 Bf  -     -     -       174498   25    0 
+CrazyJim  948518644  6  6 c   c     f     -       174473  100    0 
+CrazyJim  948518658  7  5 f   -     -     -       174373    0    0 
+CrazyJim  948518683  7  4 cc  c     k     k       174373  150    0 7s As
+CrazyJim  948518710  7  3 f   -     -     -       174223    0    0 
+CrazyJim  948518718  7  2 Bf  -     -     -       174223   50    0 
+CrazyJim  948518743  7  1 Bf  -     -     -       174173   25    0 
+CrazyJim  948518768  7  7 c   k     k     k       174148   50  125 Ts Qc
+CrazyJim  948518789  7  6 f   -     -     -       174223    0    0 
+CrazyJim  948518808  7  5 f   -     -     -       174223    0    0 
+CrazyJim  948518817  7  4 f   -     -     -       174223    0    0 
+CrazyJim  948518846  7  3 f   -     -     -       174223    0    0 
+CrazyJim  948518872  7  2 Bk  kc    kc    k       174223  200  425 Ad 3d
+CrazyJim  948518894  7  1 Bf  -     -     -       174448   25    0 
+CrazyJim  948518935  7  7 c   cc    c     k       174423  250    0 5c 5d
+CrazyJim  948518962  6  5 f   -     -     -       174173    0    0 
+CrazyJim  948518999  7  4 f   -     Q     -       174173    0    0 
+CrazyJim  948607247  5  2 Bc  c     k     k       174173  150    0 Qs Kc
+CrazyJim  948607267  5  1 Bc  k     k     b       174023  150  200 
+CrazyJim  948607293  5  5 c   c     k     k       174073  100    0 Qh Ac
+CrazyJim  948607316  5  4 cc  f     -     -       173973  150    0 
+CrazyJim  948607345  5  3 f   -     -     -       173823    0    0 
+CrazyJim  948607358  5  2 Bf  -     -     -       173823   50    0 
+CrazyJim  948607383  5  1 Bf  -     -     -       173773   25    0 
+CrazyJim  948607410  5  5 f   -     -     -       173748    0    0 
+CrazyJim  948607434  5  4 f   -     -     -       173748    0    0 
+CrazyJim  948607457  5  3 cc  kc    kc    kc      173748  350    0 9s Qd
+CrazyJim  948607478  5  2 B   -     -     -       173398   50   75 
+CrazyJim  948607484  5  1 Bc  kf    -     -       173423   50    0 
+CrazyJim  948607493  5  5 f   -     -     -       173373    0    0 
+CrazyJim  948607521  6  5 f   -     -     -       173373    0    0 
+CrazyJim  948607551  6  4 c   k     k     k       173373   50    0 6h 7h
+CrazyJim  948607568  6  3 f   -     -     -       173323    0    0 
+CrazyJim  948607590  6  2 Bc  kc    kc    k       173323  250    0 7c Ts
+CrazyJim  948607620  6  1 Bf  -     -     -       173073   25    0 
+CrazyJim  948607654  6  6 f   -     -     -       173048    0    0 
+CrazyJim  948607673  6  5 f   -     -     -       173048    0    0 
+CrazyJim  948607696  6  4 f   -     -     -       173048    0    0 
+CrazyJim  948607703  6  3 f   -     -     -       173048    0    0 
+CrazyJim  948607731  6  2 Bf  -     -     -       173048   50    0 
+CrazyJim  948607756  6  1 Bf  -     -     -       172998   25    0 
+CrazyJim  948607781  6  6 f   -     -     -       172973    0    0 
+CrazyJim  948607810  6  5 f   -     -     -       172973    0    0 
+CrazyJim  948607828  5  4 f   -     -     -       172973    0    0 
+CrazyJim  948607836  5  3 cc  rc    r     k       172973  450  925 Jh Td
+CrazyJim  948607856  6  2 Bf  -     -     -       173448   50    0 
+CrazyJim  948607880  6  1 Bf  -     -     -       173398   25    0 
+CrazyJim  948607905  6  6 f   -     -     -       173373    0    0 
+CrazyJim  948607941  6  5 f   -     -     -       173373    0    0 
+CrazyJim  948607964  6  4 f   -     -     -       173373    0    0 
+CrazyJim  948607986  7  3 f   -     -     -       173373    0    0 
+CrazyJim  948607992  7  2 Bc  k     k     k       173373  100    0 6d Ks
+CrazyJim  948608012  7  1 Bc  k     b     b       173273  300  800 As Jd
+CrazyJim  948608044  7  7 f   -     -     -       173773    0    0 
+CrazyJim  948608069  7  6 f   -     -     -       173773    0    0 
+CrazyJim  948608097  7  5 c   k     k     kc      173773  150    0 9c Td
+CrazyJim  948608136  7  4 f   -     -     -       173623    0    0 
+CrazyJim  948608179  7  3 f   -     -     -       173623    0    0 
+CrazyJim  948608199  6  2 Bf  -     -     -       173623   50    0 
+CrazyJim  948608215  6  1 Bc  kf    -     -       173573  100    0 
+CrazyJim  948608229  6  6 f   -     -     -       173473    0    0 
+CrazyJim  948608258  6  5 f   -     -     -       173473    0    0 
+CrazyJim  948608275  6  4 f   -     -     -       173473    0    0 
+CrazyJim  948608311  5  3 c   kc    c     r       173473  450 1175 Qh 8d
+CrazyJim  948608338  5  2 Bc  cc    kf    -       174198  200    0 
+CrazyJim  948608365  5  1 Bf  -     -     -       173998   25    0 
+CrazyJim  948608392  5  5 f   -     -     -       173973    0    0 
+CrazyJim  948608400  5  4 cr  c     b     b       173973  400    0 Ah Jd
+CrazyJim  948608424  5  3 f   -     -     -       173573    0    0 
+CrazyJim  948608457  5  2 Bc  c     c     k       173573  250  500 Qs 6s
+CrazyJim  948608488  5  1 Bf  -     -     -       173823   25    0 
+CrazyJim  948608515  6  6 f   -     -     -       173798    0    0 
+CrazyJim  948608523  6  5 f   -     -     -       173798    0    0 
+CrazyJim  948608545  6  4 c   c     c     c       173798  350    0 Jd Ac
+CrazyJim  948608573  6  3 f   -     -     -       173448    0    0 
+CrazyJim  948608615  6  2 Bc  kc    k     b       173448  250  425 
+CrazyJim  948608634  6  1 Bf  -     -     -       173623   25    0 
+CrazyJim  948608651  6  6 c   c     c     k       173598  200    0 Ts Jh
+CrazyJim  948608673  6  5 f   -     -     -       173398    0    0 
+CrazyJim  948608701  6  4 c   k     c     k       173398  200    0 Jd Kc
+CrazyJim  948608718  6  3 cc  kf    -     -       173198  100    0 
+CrazyJim  948608741  6  2 Bf  -     -     -       173098   50    0 
+CrazyJim  948608772  7  1 Bf  -     -     -       173048   25    0 
+CrazyJim  948608806  6  6 f   -     -     -       173023    0    0 
+CrazyJim  948608838  6  5 f   -     -     -       173023    0    0 
+CrazyJim  948608871  6  4 f   -     -     -       173023    0    0 
+CrazyJim  948608892  6  3 f   -     -     -       173023    0    0 
+CrazyJim  948608898  6  2 Bc  k     b     c       173023  350 1000 8c 8h
+CrazyJim  948608917  6  1 Bf  -     -     -       173673   25    0 
+CrazyJim  948608937  6  6 f   -     -     -       173648    0    0 
+CrazyJim  948608956  6  5 cc  c     c     f       173648  300    0 
+CrazyJim  948608996  6  4 c   c     c     b       173348  350  975 5h 6h
+CrazyJim  948609030  6  3 f   -     -     -       173973    0    0 
+CrazyJim  948609067  6  2 Bf  -     -     -       173973   50    0 
+CrazyJim  948609095  6  1 Br  b     b     -       173923  300  650 
+CrazyJim  948609118  6  6 f   -     -     -       174273    0    0 
+CrazyJim  948609238  6  5 f   -     -     -       174273    0    0 
+CrazyJim  948609240  6  4 cc  kc    kc    k       174273  250    0 Qh Ad
+CrazyJim  948609243  6  3 f   -     -     -       174023    0    0 
+CrazyJim  948609255  6  2 Bf  -     -     -       173948   50    0 
+CrazyJim  948609271  6  1 Bf  -     -     -       173898   25    0 
+CrazyJim  948609297  6  6 cc  c     c     r       173873  450  775 Tc Qs
+CrazyJim  948609352  6  5 c   k     k     k       174143   50    0 8s Qh
+CrazyJim  948609388  6  4 c   kc    k     b       173923  200  375 
+CrazyJim  948609419  6  3 f   -     -     -       174098    0    0 
+CrazyJim  948609427  6  2 Bf  -     -     -       174098   50    0 
+CrazyJim  948609444  6  1 Bf  -     -     -       173823   25    0 
+CrazyJim  948609461  6  6 f   -     -     -       173798    0    0 
+CrazyJim  948609504  6  5 f   -     -     -       173798    0    0 
+CrazyJim  948609514  6  4 c   c     k     k       173763  150    0 7d 7c
+CrazyJim  948609534  6  3 f   -     -     -       173613    0    0 
+CrazyJim  948609554  6  2 Bk  k     kf    -       173613   50    0 
+CrazyJim  948609576  6  1 Bf  -     -     -       173563   25    0 
+CrazyJim  948609618  6  6 c   k     c     k       173488  150    0 4s Ks
+CrazyJim  948609646  6  5 f   -     -     -       173328    0    0 
+CrazyJim  948609691  6  4 f   -     -     -       173118    0    0 
+CrazyJim  948609700  6  3 f   -     -     -       173118    0    0 
+CrazyJim  948609739  6  2 Bk  kf    -     -       173118   50    0 
+CrazyJim  948609771  6  1 Bf  -     -     -       172998   25    0 
+CrazyJim  948609784  6  6 f   -     -     -       172973    0    0 
+CrazyJim  948609803  6  5 f   -     -     -       172973    0    0 
+CrazyJim  948609830  6  4 c   c     f     -       172973  150    0 
+CrazyJim  948609856  6  3 cc  c     bc    r       172823  550  562 Jh Ac
+CrazyJim  948609881  6  2 Bk  k     k     k       172825   50  125 3h Qd
+CrazyJim  948609930  6  1 Bf  -     -     -       171925   25    0 
+CrazyJim  948609957  7  7 r   c     c     f       171900  250    0 
+CrazyJim  948609990  7  6 cf  -     -     -       171585   50    0 
+CrazyJim  948610029  7  5 f   -     -     -       171490    0    0 
+CrazyJim  948610071  7  4 c   k     k     k       171485   50    0 Qc Jh
+CrazyJim  948610094  7  3 f   -     -     -       171380    0    0 
+CrazyJim  948610110  7  2 Bc  kc    bc    k       171380  350    0 Ts 9d
+CrazyJim  948610128  7  1 Bf  -     -     -       171030   25    0 
+CrazyJim  948610135  7  7 f   -     -     -       171005    0    0 
+CrazyJim  948610144  7  6 f   -     -     -       171005    0    0 
+CrazyJim  948610159  7  5 c   f     -     -       171005  100    0 
+CrazyJim  948610188  7  4 f   -     -     -       170905    0    0 
+CrazyJim  948610204  7  3 f   -     -     -       170850    0    0 
+CrazyJim  948610214  7  2 Bk  f     -     -       170850   50    0 
+CrazyJim  948610221  7  1 Bf  -     -     -       170800   25    0 
+CrazyJim  948610243  7  7 c   c     k     k       170775  150    0 Kc Tc
+CrazyJim  948610273  7  6 f   -     -     -       170625    0    0 
+CrazyJim  948610299  7  5 c   c     c     f       170805  200    0 
+CrazyJim  948610347  7  4 f   -     -     -       170560    0    0 
+CrazyJim  948610369  7  3 f   -     -     -       170560    0    0 
+CrazyJim  948610390  7  2 Bf  -     -     -       170560   50    0 
+CrazyJim  948610411  7  1 Bc  k     k     k       170510   50    0 2c 7c
+CrazyJim  948610441  7  7 cc  cf    -     -       170450  150    0 
+CrazyJim  948610486  7  6 f   -     -     -       170300    0    0 
+CrazyJim  948610508  7  5 f   -     -     -       170300    0    0 
+CrazyJim  948610530  7  4 f   -     -     -       170255    0    0 
+CrazyJim  948610556  7  3 f   -     -     -       170210    0    0 
+CrazyJim  948610592  7  2 Bf  -     -     -       170210   50    0 
+CrazyJim  948610623  7  1 Bc  k     k     k       170390   50  100 Ah Jh
+CrazyJim  948610648  7  7 c   c     c     rc      170485  500    0 Ac 6c
+CrazyJim  948610680  8  7 c   bc    k     c       169975  250  350 5d As
+CrazyJim  948610727  8  6 f   -     -     -       170075    0    0 
+CrazyJim  948610747  8  5 f   -     -     -       169998    0    0 
+CrazyJim  948610774  8  4 f   -     -     -       169998    0    0 
+CrazyJim  948610806  8  3 f   -     -     -       169998    0    0 
+CrazyJim  948610824  8  2 Bk  kc    kr    b       169998  400 1075 9s 9h
+CrazyJim  948610859  8  1 Bf  -     -     -       170433   25    0 
+CrazyJim  948610876  8  8 cc  c     b     b       170408  350  750 
+CrazyJim  948610910  8  7 f   -     -     -       170808    0    0 
+CrazyJim  948610926  8  6 f   -     -     -       170773    0    0 
+CrazyJim  948610942  8  5 cc  k     b     b       170768  300  700 9d Js
+CrazyJim  948610970  8  4 f   -     -     -       171168    0    0 
+CrazyJim  948610985  8  3 f   -     -     -       171168    0    0 
+CrazyJim  948610999  8  2 Bk  kf    -     -       171168   50    0 
+CrazyJim  948611014  8  1 Bf  -     -     -       171118   25    0 
+CrazyJim  948611031  8  8 f   -     -     -       171093    0    0 
+CrazyJim  948611063  8  7 f   -     -     -       171083    0    0 
+CrazyJim  948611097  8  6 cc  k     k     kf      171083  100    0 
+CrazyJim  948611125  8  5 f   -     -     -       170983    0    0 
+CrazyJim  948611152  8  4 f   -     -     -       170983    0    0 
+CrazyJim  948611175  8  3 f   -     -     -       170983    0    0 
+CrazyJim  948611207  8  2 Bf  -     -     -       170983   50    0 
+CrazyJim  948611222  8  1 Bc  kf    -     -       170933  100    0 
+CrazyJim  948611259  8  8 f   -     -     -       171098    0    0 
+CrazyJim  948611275  8  7 f   -     -     -       171098    0    0 
+CrazyJim  948611299  8  6 f   -     -     -       171088    0    0 
+CrazyJim  948611305  8  5 cc  c     c     k       171088  250    0 8h Js
+CrazyJim  948611340  8  4 f   -     -     -       170838    0    0 
+CrazyJim  948611369  8  3 cc  kc    c     f       170828  300    0 
+CrazyJim  948611410  8  2 Bf  -     -     -       170528   50    0 
+CrazyJim  948611432  8  1 Bf  -     -     -       170478   25    0 
+CrazyJim  948611500  9  9 f   -     -     -       170408    0    0 
+CrazyJim  948611536  9  8 f   -     -     -       169798    0    0 
+CrazyJim  948611603  9  7 f   -     -     -       169798    0    0 
+CrazyJim  948611634  8  5 f   -     -     -       169758    0    0 
+CrazyJim  948611704  7  4 f   -     -     -       169758    0    0 
+CrazyJim  948611743  8  4 cc  c     c     c       169703  400    0 4c Ac
+CrazyJim  948611804  8  3 f   -     -     -       171183    0    0 
+CrazyJim  948611829  8  2 Bc  kf    -     -       171183  100    0 
+CrazyJim  948611876  8  1 Bf  -     -     -       171048   25    0 
+CrazyJim  948611916  8  8 f   -     -     -       170968    0    0 
+CrazyJim  948611923  8  7 cc  kf    -     -       170968  100    0 
+CrazyJim  948611967  8  6 rc  c     c     f       170868  300    0 
+CrazyJim  948611998  8  5 c   r     b     b       170568  350  800 8s Js
+CrazyJim  948612030  8  4 f   -     -     -       171018    0    0 
+CrazyJim  948612049  8  3 f   -     -     -       171018    0    0 
+CrazyJim  948612075  8  2 Bk  kf    -     -       171008   50    0 
+CrazyJim  948612101  8  1 Bf  -     -     -       170913   25    0 
+CrazyJim  948612125  8  8 f   -     -     -       170888    0    0 
+CrazyJim  948612140  8  7 f   -     -     -       170888    0    0 
+CrazyJim  948612171  8  6 f   -     -     -       170888    0    0 
+CrazyJim  948612180  8  5 f   -     -     -       170888    0    0 
+CrazyJim  948612197  8  4 f   -     -     -       170888    0    0 
+CrazyJim  948612228  8  3 cc  f     -     -       172803  100    0 
+CrazyJim  948612259  8  2 Bf  -     -     -       172668   50    0 
+CrazyJim  948612284  8  1 Bf  -     -     -       172368   25    0 
+CrazyJim  948612317  8  8 r   b     b     b       172293  350  775 Kh Qh
+CrazyJim  948612338  8  7 f   -     -     -       172718    0    0 
+CrazyJim  948612383  8  6 f   -     -     -       172718    0    0 
+CrazyJim  948612402  8  5 c   b     -     -       172718  150  325 
+CrazyJim  948612414  8  4 cc  c     f     -       172828  150    0 
+CrazyJim  948612460  8  3 f   -     -     -       172678    0    0 
+CrazyJim  948612495  8  2 Bk  k     k     k       172678   50    0 Jc Ts
+CrazyJim  948612520  8  1 Bf  -     -     -       172628   25    0 
+CrazyJim  948612557  8  8 f   -     -     -       172558    0    0 
+CrazyJim  948612587  8  7 f   -     -     -       172563    0    0 
+CrazyJim  948612605  8  6 f   -     -     -       172563    0    0 
+CrazyJim  948612631  8  5 c   b     b     bf      172563  300    0 
+CrazyJim  948612669  8  4 f   -     -     -       172228    0    0 
+CrazyJim  948612681  8  3 cc  b     b     b       172178  350    0 6h 3h
+CrazyJim  948612714  8  2 Bk  k     c     b       171873  250  600 
+CrazyJim  948612746  8  1 Bf  -     -     -       172223   25    0 
+CrazyJim  948612799  8  8 f   -     -     -       172198    0    0 
+CrazyJim  948612822  8  7 cc  kc    bc    k       172198  350    0 Jd 8s
+CrazyJim  948612870  8  6 f   -     -     -       171793    0    0 
+CrazyJim  948612903  8  5 f   -     -     -       171793    0    0 
+CrazyJim  948612934  8  4 f   -     -     -       171793    0    0 
+CrazyJim  948612943  8  3 f   -     -     -       171793    0    0 
+CrazyJim  948612968  8  2 Bc  kf    -     -       171793  150    0 
+CrazyJim  948612997  8  1 Bf  -     -     -       171578   25    0 
+CrazyJim  948613037  8  8 f   -     -     -       171548    0    0 
+CrazyJim  948613082  8  7 f   -     -     -       171498    0    0 
+CrazyJim  948613110  8  6 r   b     -     -       171498  150  325 
+CrazyJim  948613129  8  5 KQ  -     -     -       171673    0    0 
+CrazyJim  948613323  8  7 c   bc    KQ    -       171618  200    0 
+CrazyJim  948667909  4  2 Bc  f     -     -       175545  100    0 
+CrazyJim  948667920  4  1 Bf  -     -     -       175445   25    0 
+CrazyJim  948667954  4  4 c   c     k     r       175400  350  725 
+CrazyJim  948667979  4  3 f   -     -     -       175775    0    0 
+CrazyJim  948667994  4  2 Bf  -     -     -       175775   50    0 
+CrazyJim  948668000  4  1 Bc  kf    -     -       175725  100    0 
+CrazyJim  948668011  4  4 f   -     -     -       175625    0    0 
+CrazyJim  948668022  4  3 f   -     -     -       175580    0    0 
+CrazyJim  948668053  4  2 Bf  -     -     -       175580   50    0 
+CrazyJim  948668066  4  1 Bf  -     -     -       175530   25    0 
+CrazyJim  948668083  4  4 f   -     -     -       175505    0    0 
+CrazyJim  948668125  4  3 f   -     -     -       175505    0    0 
+CrazyJim  948668143  4  2 Bf  -     -     -       175505   50    0 
+CrazyJim  948668165  4  1 Bf  -     -     -       175455   25    0 
+CrazyJim  948668183  4  4 f   -     -     -       175430    0    0 
+CrazyJim  948668191  4  3 f   -     -     -       175430    0    0 
+CrazyJim  948668207  4  2 Bc  k     kc    kf      175430  250    0 
+CrazyJim  948668237  4  1 Bf  -     -     -       175135   25    0 
+CrazyJim  948668262  3  3 f   -     -     -       175110    0    0 
+CrazyJim  948668273  3  2 Bf  -     -     -       175065   50    0 
+CrazyJim  948668281  3  1 Bf  -     -     -       175015   25    0 
+CrazyJim  948668284  3  3 f   -     -     -       174990    0    0 
+CrazyJim  948668289  3  2 Bc  k     kc    kf      174990  200    0 
+CrazyJim  948668306  3  1 Bf  -     -     -       174785   25    0 
+CrazyJim  948668311  3  3 f   -     -     -       174760    0    0 
+CrazyJim  948668331  3  2 Bc  kf    -     -       174760  100    0 
+CrazyJim  948668343  3  1 Bf  -     -     -       174660   25    0 
+CrazyJim  948668352  3  3 f   -     -     -       174635    0    0 
+CrazyJim  948668357  3  2 Bf  -     -     -       174635   50    0 
+CrazyJim  948668378  3  1 Bf  -     -     -       174515   25    0 
+CrazyJim  948668404  3  3 f   -     -     -       174490    0    0 
+CrazyJim  948668410  3  2 Bf  -     -     -       174490   50    0 
+CrazyJim  948668413  3  1 Bf  -     -     -       174440   25    0 
+CrazyJim  948668417  3  3 f   -     -     -       174415    0    0 
+CrazyJim  948668423  3  2 Bc  r     b     b       174415  400  800 9d Jh
+CrazyJim  948668436  3  1 Br  -     -     -       174755  100  150 
+CrazyJim  948668444  3  3 c   bc    c     c       174805  350  725 As Th
+CrazyJim  948668463  3  2 B   -     -     -       175180   50   75 
+CrazyJim  948668472  3  1 Bf  -     -     -       175205   25    0 
+CrazyJim  948668478  3  3 f   -     -     -       175180    0    0 
+CrazyJim  948668480  3  2 Bc  kf    -     -       175180  100    0 
+CrazyJim  948668506  3  1 Bc  kc    kf    -       175080  150    0 
+CrazyJim  948668520  2  2 f   -     -     -       174885    0    0 
+CrazyJim  948668523  2  2 Bc  k     k     k       174885  100    0 Th 7h
+CrazyJim  948668536  2  1 Bcc kf    -     -       174785  100    0 
+CrazyJim  948668550  2  2 B   -     -     -       174695   50   75 
+CrazyJim  948668553  2  1 Bf  -     -     -       174720   25    0 
+CrazyJim  948668555  2  2 B   -     -     -       174695   50   75 
+CrazyJim  948668557  2  1 Bf  -     -     -       174720   25    0 
+CrazyJim  948668560  2  2 Bf  -     -     -       174695   50    0 
+CrazyJim  948668565  2  1 Bf  -     -     -       174645   25    0 
+CrazyJim  948668567  2  2 B   -     -     -       174620   50   75 
+CrazyJim  948668568  2  1 Bf  -     -     -       174645   25    0 
+CrazyJim  948668570  2  2 Bf  -     -     -       174620   50    0 
+CrazyJim  948668574  2  1 Bf  -     -     -       174570   25    0 
+CrazyJim  948668578  2  2 B   -     -     -       174545   50   75 
+CrazyJim  948668581  2  1 Bf  -     -     -       174570   25    0 
+CrazyJim  948668584  2  2 Bf  -     -     -       174545   50    0 
+CrazyJim  948668588  2  1 Br  k     bc    kc      174495  400  800 Ts Th
+CrazyJim  948668608  2  2 B   -     -     -       174895   50   75 
+CrazyJim  948668610  2  1 Bf  -     -     -       174920   25    0 
+CrazyJim  948668616  2  2 Bf  -     -     -       174895   50    0 
+CrazyJim  948668619  2  1 Bc  kf    -     -       174845   50    0 
+CrazyJim  948668629  2  2 Bf  -     -     -       174795   50    0 
+CrazyJim  948668633  2  1 Bf  -     -     -       174745   25    0 
+CrazyJim  948668636  2  2 Bc  f     -     -       174720  100    0 
+CrazyJim  948668643  2  1 Bf  -     -     -       174620   25    0 
+CrazyJim  948668646  2  2 Bc  c     b     -       174595  250  400 
+CrazyJim  948668665  2  1 Bcc kc    kf    -       174770  150    0 
+CrazyJim  948668679  2  2 Bf  -     -     -       174620   50    0 
+CrazyJim  948668683  2  1 Bf  -     -     -       174570   25    0 
+CrazyJim  948668686  2  2 B   -     -     -       174545   50   75 
+CrazyJim  948668690  2  1 Brc kc    kf    -       174570  200    0 
+CrazyJim  948668707  2  2 Br  b     b     b       174370  400  800 Ac Ts
+CrazyJim  948668723  2  1 Bf  -     -     -       174760   25    0 
+CrazyJim  948668729  2  2 B   -     -     -       174735   50   75 
+CrazyJim  948668731  2  1 Br  -     -     -       174760  100  150 
+CrazyJim  948668734  2  2 Bc  c     f     -       174810  150    0 
+CrazyJim  948668749  2  1 Bf  -     -     -       174660   25    0 
+CrazyJim  948668752  2  2 B   -     -     -       174635   50   75 
+CrazyJim  948668756  2  1 Bf  -     -     -       174660   25    0 
+CrazyJim  948668758  2  2 Bc  f     -     -       174635  100    0 
+CrazyJim  948668767  2  1 Bf  -     -     -       174535   25    0 
+CrazyJim  948668771  2  2 Bc  c     c     k       174510  250    0 8d Ac
+CrazyJim  948668785  2  1 Bf  -     -     -       174250   25    0 
+CrazyJim  948668790  2  2 Bc  f     -     -       174225  100    0 
+CrazyJim  948668797  2  1 Br  -     -     -       174125  100  150 
+CrazyJim  948668801  2  2 B   -     -     -       174175   50   75 
+CrazyJim  948668803  2  1 Bf  -     -     -       174200   25    0 
+CrazyJim  948668805  2  2 Bf  -     -     -       174175   50    0 
+CrazyJim  948668810  2  1 Bc  kc    b     b       174125  300    0 Ts Ah
+CrazyJim  948668832  2  2 B   -     -     -       173825   50   75 
+CrazyJim  948668835  2  1 Bf  -     -     -       173850   25    0 
+CrazyJim  948668838  2  2 Br  b     -     -       173825  200  350 
+CrazyJim  948668851  2  1 Bcc kf    -     -       173765  100    0 
+CrazyJim  948668864  2  2 Bc  k     b     -       173665  200  300 
+CrazyJim  948668876  2  1 Bf  -     -     -       173765   25    0 
+CrazyJim  948668880  2  2 Bf  -     -     -       173740   50    0 
+CrazyJim  948668883  2  1 Br  -     -     -       173690  100  150 
+CrazyJim  948668890  2  2 Bc  c     b     b       173740  350  700 Qc Jd
+CrazyJim  948668905  2  1 Bf  -     -     -       174090   25    0 
+CrazyJim  948668909  2  2 Bc  c     b     b       174065  350    0 Ac 8h
+CrazyJim  948668925  2  1 Bf  -     -     -       173715   25    0 
+CrazyJim  948668930  2  2 B   -     -     -       173690   50   75 
+CrazyJim  948668931  2  1 Bf  -     -     -       173715   25    0 
+CrazyJim  948668937  2  2 Bf  -     -     -       173690   50    0 
+CrazyJim  948668947  2  1 Bc  kc    k     k       173640  100    0 7d Td
+CrazyJim  948668966  2  2 B   -     -     -       173437   50   75 
+CrazyJim  948668971  2  1 Bf  -     -     -       173462   25    0 
+CrazyJim  948668973  2  2 Bf  -     -     -       173437   50    0 
+CrazyJim  948668977  2  1 Bf  -     -     -       173387   25    0 
+CrazyJim  948668980  2  2 B   -     -     -       173362   50   75 
+CrazyJim  948668981  2  1 Bf  -     -     -       173387   25    0 
+CrazyJim  948668985  2  2 B   -     -     -       173362   50   75 
+CrazyJim  948668988  2  1 Bc  k     kc    b       173387  250  500 Th Kd
+CrazyJim  948669004  2  2 B   -     -     -       173637   50   75 
+CrazyJim  948669007  2  1 Bc  k     k     kc      173662  150    0 2h Ac
+CrazyJim  948669023  2  2 B   -     -     -       173512   50   75 
+CrazyJim  948669027  2  1 Bc  k     kc    b       173537  250  400 
+CrazyJim  948669042  2  2 B   -     -     -       173687   50   75 
+CrazyJim  948669045  2  1 Bcc k     k     b       173712  200  400 3s 3h
+CrazyJim  948669057  2  2 Bf  -     -     -       173912   50    0 
+CrazyJim  948669064  2  1 Bf  -     -     -       173862   25    0 
+CrazyJim  948669068  2  2 B   -     -     -       173837   50   75 
+CrazyJim  948669070  2  1 Bf  -     -     -       173862   25    0 
+CrazyJim  948669074  2  2 B   -     -     -       173837   50   75 
+CrazyJim  948669076  2  1 Bf  -     -     -       173862   25    0 
+CrazyJim  948669088  2  2 Bf  -     -     -       173097   50    0 
+CrazyJim  948669091  2  1 Bf  -     -     -       173047   25    0 
+CrazyJim  948669096  2  2 B   -     -     -       173022   50   75 
+CrazyJim  948669097  2  1 Bcc kc    kc    k       173047  250    0 Ad Tc
+CrazyJim  948669122  2  2 Br  b     b     b       172797  400  700 
+CrazyJim  948669138  2  1 Bf  -     -     -       173097   25    0 
+CrazyJim  948669140  2  2 Bf  -     -     -       173072   50    0 
+CrazyJim  948669144  2  1 Bf  -     -     -       173022   25    0 
+CrazyJim  948669149  2  2 B   -     -     -       172975   50   75 
+CrazyJim  948669152  2  1 Bf  -     -     -       173000   25    0 
+CrazyJim  948669153  2  2 Bc  r     -     -       172975  200  350 
+CrazyJim  948669162  2  1 Bc  b     -     -       173125  100  150 
+CrazyJim  948669168  2  2 Bf  -     -     -       173175   50    0 
+CrazyJim  948669181  2  1 Bc  k     kc    k       173115  150    0 Qd 8d
+CrazyJim  948669197  2  2 B   -     -     -       172965   50   75 
+CrazyJim  948669201  2  1 Bf  -     -     -       172990   25    0 
+CrazyJim  948669204  2  2 B   -     -     -       172965   50   75 
+CrazyJim  948669206  2  1 Bc  k     kf    -       172990   50    0 
+CrazyJim  948669217  2  2 Br  b     -     -       172895  200  350 
+CrazyJim  948669226  2  1 Bcr kc    kr    b       173045  500    0 Kc Ks
+CrazyJim  948669248  2  2 Bf  -     -     -       172545   50    0 
+CrazyJim  948669255  2  1 Bc  k     k     b       172495  150  200 
+CrazyJim  948669274  2  2 Bc  c     b     -       172545  250  400 
+CrazyJim  948669285  2  1 Bf  -     -     -       172695   25    0 
+CrazyJim  948669288  2  2 B   -     -     -       172670   50   75 
+CrazyJim  948669290  2  1 Bf  -     -     -       172695   25    0 
+CrazyJim  948669294  2  2 Br  b     b     b       172670  400    0 Js Ts
+CrazyJim  948669307  2  1 Bf  -     -     -       172232   25    0 
+CrazyJim  948669312  2  2 Bc  r     -     -       172207  200  350 
+CrazyJim  948669321  2  1 Bf  -     -     -       172357   25    0 
+CrazyJim  948669323  2  2 Bf  -     -     -       172332   50    0 
+CrazyJim  948669327  2  1 Bc  k     kf    -       172282   50    0 
+CrazyJim  948669337  2  2 B   -     -     -       172232   50   75 
+CrazyJim  948669339  2  1 Bf  -     -     -       172257   25    0 
+CrazyJim  948669342  2  2 Bc  c     k     k       172232  150    0 Jd 5d
+CrazyJim  948669355  2  1 Bf  -     -     -       172082   25    0 
+CrazyJim  948669360  2  2 B   -     -     -       172057   50   75 
+CrazyJim  948669362  2  1 Bf  -     -     -       172082   25    0 
+CrazyJim  948669365  2  2 B   -     -     -       172057   50   75 
+CrazyJim  948669367  2  1 Br  -     -     -       172082  100  150 
+CrazyJim  948669375  2  2 Bf  -     -     -       172132   50    0 
+CrazyJim  948669378  2  1 Bcc kf    -     -       172082  100    0 
+CrazyJim  948669386  2  2 B   -     -     -       171982   50   75 
+CrazyJim  948669388  2  1 Bc  kc    kf    -       172007  100    0 
+CrazyJim  948669403  2  2 Bf  -     -     -       171907   50    0 
+CrazyJim  948669407  2  1 Bf  -     -     -       171857   25    0 
+CrazyJim  948669409  2  2 B   -     -     -       171832   50   75 
+CrazyJim  948669411  2  1 Bc  k     k     k       171857   50  100 Kd As
+CrazyJim  948669423  2  2 Bf  -     -     -       171907   50    0 
+CrazyJim  948669428  2  1 Bf  -     -     -       171857   25    0 
+CrazyJim  948669431  2  2 Bc  b     -     -       171832  150  250 
+CrazyJim  948669439  2  1 Bf  -     -     -       171932   25    0 
+CrazyJim  948669442  2  2 B   -     -     -       171907   50   75 
+CrazyJim  948669444  2  1 Bc  kc    kf    -       171932  100    0 
+CrazyJim  948669465  2  2 Bf  -     -     -       171787   50    0 
+CrazyJim  948669468  2  1 Bc  kc    k     b       171737  200  400 Qs Ad
+CrazyJim  948669484  2  2 B   -     -     -       171937   50   75 
+CrazyJim  948669487  2  1 Bf  -     -     -       171962   25    0 
+CrazyJim  948669489  2  2 Bc  c     f     -       171937  150    0 
+CrazyJim  948669504  2  1 Bcc k     Q     -       171787  100    0 
+CrazyJim  948683795  7  3 f   -     -     -       174112    0    0 
+CrazyJim  948683818  7  2 Bf  -     -     -       174112   50    0 
+CrazyJim  948683851  7  1 Bcc kc    kf    -       174062  150    0 
+CrazyJim  948683877  7  7 f   -     -     -       173912    0    0 
+CrazyJim  948683884  7  6 f   -     -     -       173912    0    0 
+CrazyJim  948683901  7  5 cc  k     f     -       173847  200    0 
+CrazyJim  948683927  7  4 f   -     -     -       173647    0    0 
+CrazyJim  948683949  7  3 f   -     -     -       173647    0    0 
+CrazyJim  948683975  7  2 Bf  -     -     -       173647   50    0 
+CrazyJim  948684008  7  1 Bc  kf    -     -       173532  100    0 
+CrazyJim  948684038  7  7 f   -     -     -       173432    0    0 
+CrazyJim  948684041  7  6 cc  k     c     k       173432  250    0 8s 8h
+CrazyJim  948684082  7  5 f   -     -     -       173182    0    0 
+CrazyJim  948684091  7  4 cc  f     -     -       173182  100    0 
+CrazyJim  948684112  7  3 cc  kc    k     k       173082  150  575 8d 8s
+CrazyJim  948684146  8  2 Bc  k     kf    -       173442  100    0 
+CrazyJim  948684193  8  1 Bc  kf    -     -       173332  100    0 
+CrazyJim  948684261  8  8 f   -     -     -       173172    0    0 
+CrazyJim  948684279  8  7 f   -     -     -       173172    0    0 
+CrazyJim  948684321  8  6 f   -     -     -       173172    0    0 
+CrazyJim  948684370  8  5 f   -     -     -       173202    0    0 
+CrazyJim  948684410  7  4 f   -     -     -       173227    0    0 
+CrazyJim  948684437  7  3 f   -     -     -       173227    0    0 
+CrazyJim  948684462  7  2 Bf  -     -     -       173227   50    0 
+CrazyJim  948684468  7  1 Bf  -     -     -       173167   25    0 
+CrazyJim  948684491  7  7 f   -     -     -       173142    0    0 
+CrazyJim  948684527  7  6 f   -     -     -       173192    0    0 
+CrazyJim  948684556  7  5 cc  c     c     c       173192  350    0 Qh Td
+CrazyJim  948684579  7  4 f   -     -     -       172842    0    0 
+CrazyJim  948684617  7  3 f   -     -     -       172842    0    0 
+CrazyJim  948684642  6  2 Bk  kf    -     -       172832   50    0 
+CrazyJim  948684657  6  1 Bf  -     -     -       172782   25    0 
+CrazyJim  948684690  6  6 c   k     c     c       172757  250  550 Ks 9s
+CrazyJim  948684725  6  5 f   -     -     -       174002    0    0 
+CrazyJim  948684752  6  4 c   f     -     -       174002   50    0 
+CrazyJim  948684778  6  3 f   -     -     -       172342    0    0 
+CrazyJim  948684799  6  2 Bf  -     -     -       172342   50    0 
+CrazyJim  948684809  6  1 Bc  k     b     -       172292  200  350 
+CrazyJim  948684822  6  6 f   -     -     -       172442    0    0 
+CrazyJim  948684837  6  5 c   b     -     -       172442  100  175 
+CrazyJim  948684846  6  4 f   -     -     -       172517    0    0 
+CrazyJim  948684855  6  3 cc  kc    b     b       172482  350    0 Qs Js
+CrazyJim  948684887  6  2 Bk  kf    -     -       172132   50    0 
+CrazyJim  948684908  6  1 Bf  -     -     -       172257   25    0 
+CrazyJim  948684933  6  6 f   -     -     -       172232    0    0 
+CrazyJim  948684949  6  5 f   -     -     -       172232    0    0 
+CrazyJim  948684969  6  4 f   -     -     -       172232    0    0 
+CrazyJim  948685000  6  3 f   -     -     -       172232    0    0 
+CrazyJim  948685026  6  2 Bc  kc    k     b       172222  250  425 
+CrazyJim  948685044  6  1 Bf  -     -     -       172397   25    0 
+CrazyJim  948685072  6  6 f   -     -     -       172372    0    0 
+CrazyJim  948685115  6  5 f   -     -     -       172027    0    0 
+CrazyJim  948685151  6  4 f   -     -     -       172027    0    0 
+CrazyJim  948685173  6  3 f   -     -     -       172027    0    0 
+CrazyJim  948685200  6  2 Bc  kc    kc    b       172027  350    0 Td Th
+CrazyJim  948685222  6  1 Bf  -     -     -       171677   25    0 
+CrazyJim  948685254  7  6 f   -     -     -       171797    0    0 
+CrazyJim  948685316  7  5 c   k     k     k       171777  100    0 Kd Ts
+CrazyJim  948685353  7  4 f   -     -     -       171667    0    0 
+CrazyJim  948685382  6  2 Bc  kf    -     -       171667  100    0 
+CrazyJim  948685430  6  1 Bf  -     -     -       171557   25    0 
+CrazyJim  948685440  5  5 f   -     -     -       171532    0    0 
+CrazyJim  948685467  5  4 f   -     -     -       171497    0    0 
+CrazyJim  948685480  5  3 f   -     -     -       171497    0    0 
+CrazyJim  948685511  6  2 Bc  kc    kf    -       171432  150    0 
+CrazyJim  948685546  6  1 Bf  -     -     -       171282   25    0 
+CrazyJim  948685556  6  6 f   -     -     -       169997    0    0 
+CrazyJim  948685581  6  5 cc  f     -     -       169997  100    0 
+CrazyJim  948685613  6  4 f   -     -     -       169897    0    0 
+CrazyJim  948685638  6  3 cc  kf    -     -       169887  100    0 
+CrazyJim  948685664  6  2 Bcc kf    -     -       169787  200    0 
+CrazyJim  948685708  6  1 Bf  -     -     -       169582   25    0 
+CrazyJim  948685739  6  6 f   -     -     -       169502    0    0 
+CrazyJim  948685770  6  5 f   -     -     -       169502    0    0 
+CrazyJim  948685812  6  4 f   -     -     -       169457    0    0 
+CrazyJim  948685851  6  3 f   -     -     -       169457    0    0 
+CrazyJim  948685883  6  2 Bf  -     -     -       169412   50    0 
+CrazyJim  948685946  7  1 Bf  -     -     -       168847   25    0 
+CrazyJim  948685976  7  7 f   -     -     -       168822    0    0 
+CrazyJim  948686010  7  6 f   -     -     -       168822    0    0 
+CrazyJim  948686045  7  5 c   k     k     k       168862   50  200 Qd Ts
+CrazyJim  948686088  7  4 f   -     -     -       169302    0    0 
+CrazyJim  948686112  7  3 crrrc brrrc kc    b       169302 1000 2075 Ks Kc
+CrazyJim  948686183  6  2 Bf  -     -     -       170432   50    0 
+CrazyJim  948686212  6  1 Bc  kc    kf    -       170337  150    0 
+CrazyJim  948686262  6  6 f   -     -     -       170152    0    0 
+CrazyJim  948686287  6  5 cc  c     k     k       170142  150  350 6c 4c
+CrazyJim  948686321  6  4 f   -     -     -       170342    0    0 
+CrazyJim  948686339  6  3 f   -     -     -       170282    0    0 
+CrazyJim  948686347  6  2 Bk  k     f     -       170282   50    0 
+CrazyJim  948686374  6  1 Bf  -     -     -       170232   25    0 
+CrazyJim  948686384  6  6 f   -     -     -       170207    0    0 
+CrazyJim  948686392  6  5 c   b     -     -       170207  100  175 
+CrazyJim  948686426  7  4 cc  kf    -     -       170282  100    0 
+CrazyJim  948686472  7  3 f   -     -     -       170182    0    0 
+CrazyJim  948686516  8  2 Bf  -     -     -       170172   50    0 
+CrazyJim  948686572  8  1 Bf  -     -     -       170122   25    0 
+CrazyJim  948686590  8  8 f   -     -     -       170052    0    0 
+CrazyJim  948686606  8  7 f   -     -     -       170052    0    0 
+CrazyJim  948686632  8  6 c   r     b     b       170102  350  725 
+CrazyJim  948686672  8  5 f   -     -     -       170467    0    0 
+CrazyJim  948686725  8  4 f   -     -     -       170467    0    0 
+CrazyJim  948686774  8  3 r   b     kc    k       170737  250    0 Ks Qd
+CrazyJim  948686817  9  2 Bk  kf    -     -       170487   50    0 
+CrazyJim  948686883  9  1 Bf  -     -     -       169452   25    0 
+CrazyJim  948686975  8  8 f   -     -     -       169367    0    0 
+CrazyJim  948687006  6  5 c   c     c     cf      169367  400    0 
+CrazyJim  948687077  7  5 c   f     -     -       168892   50    0 
+CrazyJim  948687112  7  4 f   -     -     -       168842    0    0 
+CrazyJim  948687140  7  3 c   b     k     k       169757  100    0 3d As
+CrazyJim  948687171  7  2 Bf  -     -     -       169657   50    0 
+CrazyJim  948687202  7  1 Bf  -     -     -       169562   25    0 
+CrazyJim  948687229  8  8 f   -     -     -       169582    0    0 
+CrazyJim  948687261  8  7 f   -     -     -       169582    0    0 
+CrazyJim  948687302  8  6 c   b     b     -       169637  200  450 
+CrazyJim  948687355  8  5 f   -     -     -       169877    0    0 
+CrazyJim  948687404  8  4 f   -     -     -       169877    0    0 
+CrazyJim  948687462  8  3 f   -     -     -       169877    0    0 
+CrazyJim  948687527  8  2 Bk  k     k     f       170942   50    0 
+CrazyJim  948687571  7  1 Bf  -     -     -       170892   25    0 
+CrazyJim  948687595  7  7 c   c     r     k       170867  300    0 Th Jh
+CrazyJim  948687625  7  6 f   -     -     -       170642    0    0 
+CrazyJim  948687660  8  5 f   -     -     -       170642    0    0 
+CrazyJim  948687671  8  4 f   -     -     -       170642    0    0 
+CrazyJim  948687732  8  3 f   -     -     -       170642    0    0 
+CrazyJim  948687761  8  2 Bk  kc    kf    -       170267  100    0 
+CrazyJim  948687797  8  1 Bc  kc    kf    -       170167  150    0 
+CrazyJim  948687843  8  8 c   c     c     f       169942  250    0 
+CrazyJim  948687908  8  7 f   -     -     -       169647    0    0 
+CrazyJim  948687938  7  5 f   -     -     -       169647    0    0 
+CrazyJim  948687979  7  4 c   f     -     -       169647   50    0 
+CrazyJim  948688014  7  3 f   -     -     -       169597    0    0 
+CrazyJim  948688042  7  2 Bk  kf    -     -       169597   50    0 
+CrazyJim  948688064  7  1 Bc  kcc   kc    kf      170562  300    0 
+CrazyJim  948688093  7  7 f   -     -     -       170262    0    0 
+CrazyJim  948688168  7  6 f   -     -     -       170207    0    0 
+CrazyJim  948688187  7  5 c   k     k     k       170197   50    0 Kd 9d
+CrazyJim  948688246  7  4 r   b     b     b       170147  350  900 Ad Kh
+CrazyJim  948688284  7  3 f   -     -     -       170702    0    0 
+CrazyJim  948688314  7  2 B   -     -     -       170702   50   75 
+CrazyJim  948688324  8  1 Bf  -     -     -       170717   25    0 
+CrazyJim  948688337  8  8 f   -     -     -       170692    0    0 
+CrazyJim  948688351  8  7 c   b     -     -       170692  100  225 
+CrazyJim  948688372  8  6 f   -     -     -       170817    0    0 
+CrazyJim  948688442  7  4 fQ  -     -     -       170807    0    0 

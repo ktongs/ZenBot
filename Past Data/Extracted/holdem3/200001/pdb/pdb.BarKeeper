@@ -1,0 +1,399 @@
+BarKeeper 947764956  4  2 Bc  kf    -     -         5027  100    0 
+BarKeeper 947765009  4  1 Bf  -     -     -         4927   25    0 
+BarKeeper 947765016  4  4 f   -     -     -         4902    0    0 
+BarKeeper 947765033  4  3 rc  rr    b     b         4902  550 1700 Jd Qc
+BarKeeper 947765079  4  2 B   -     -     -         6052   50   75 
+BarKeeper 947765085  4  1 Bcc kc    kcc   k         6077  450    0 7c Qh
+BarKeeper 947765118  4  4 rc  c     rc    c         5627  650 1500 Ac 4d
+BarKeeper 947765143  4  3 rr  brc   bc    brr       6477 1100 1425 8h 8c
+BarKeeper 947765184  4  2 Bcc k     kc    kr        6802  500 1125 
+BarKeeper 947765211  4  1 Bcc kf    -     -         7427  100    0 
+BarKeeper 947765244  4  4 rc  c     c     k         7327  300    0 Js Qh
+BarKeeper 947765262  4  3 cc  f     -     -         7027  100    0 
+BarKeeper 947765288  4  2 Brrr b     b     -         6927  500  925 
+BarKeeper 947765306  4  1 Bcc kc    kc    kc        7352  350  850 6s 4s
+BarKeeper 947765358  4  4 f   -     -     -         7852    0    0 
+BarKeeper 947765370  4  3 f   -     -     -         7852    0    0 
+BarKeeper 947765407  4  2 Bcc br    bc    br        7852  900 2225 2c Ad
+BarKeeper 947765453  4  1 Bf  -     -     -         9177   25    0 
+BarKeeper 947765527  4  4 f   -     -     -         9152    0    0 
+BarKeeper 947765564  5  3 f   -     -     -         9152    0    0 
+BarKeeper 947765597  5  2 Bc  kc    kf    -         9152  150    0 
+BarKeeper 947765658  5  1 Bc  brr   brr   b         9002  950 2050 3h 8h
+BarKeeper 947765706  5  5 f   -     -     -        10102    0    0 
+BarKeeper 947765717  5  4 ccc f     -     -        10102  200    0 
+BarKeeper 947765784  5  3 cc  kc    kc    k         9902  250    0 2h Ad
+BarKeeper 947765817  5  2 Bc  kr    b     br        9652  650 1525 
+BarKeeper 947765883  4  1 Bf  -     -     -        10527   25    0 
+BarKeeper 947765906  4  4 c   rr    rr    br       10502  950 1300 Td 8h
+BarKeeper 947765953  4  3 r   bc    c     c        10852  400    0 Kc Ad
+BarKeeper 947765977  4  2 Bk  k     kf    -        10452   50    0 
+BarKeeper 947766004  5  1 Bf  -     -     -        10402   25    0 
+BarKeeper 947766023  5  5 f   -     -     -        10377    0    0 
+BarKeeper 947766060  5  4 f   -     -     -        10377    0    0 
+BarKeeper 947766074  5  3 f   -     -     -        10377    0    0 
+BarKeeper 947766091  5  2 Bc  kf    -     -        10377  100    0 
+BarKeeper 947766122  5  1 Bf  -     -     -        10277   25    0 
+BarKeeper 947766150  5  5 f   -     -     -        10252    0    0 
+BarKeeper 947766164  5  4 f   -     -     -        10252    0    0 
+BarKeeper 947766196  5  3 c   k     b     -        10252  150  250 
+BarKeeper 947766211  5  2 Bk  k     bc    k        10352  250    0 7d 2d
+BarKeeper 947766235  5  1 Bc  kf    -     -        10102  100    0 
+BarKeeper 947766283  5  5 f   -     -     -        10002    0    0 
+BarKeeper 947766305  5  4 r   b     b     k        10002  250    0 Qc Kd
+BarKeeper 947766329  5  3 cc  r     b     b         9752  400  725 
+BarKeeper 947766353  5  2 Bc  kc    kc    kc       10077  350    0 5h Jh
+BarKeeper 947766382  5  1 Bf  -     -     -         9727   25    0 
+BarKeeper 947766413  5  5 f   -     -     -         9702    0    0 
+BarKeeper 947766457  5  4 f   -     -     -         9702    0    0 
+BarKeeper 947766492  5  3 r   r     r     rc        9702  700    0 As Ks
+BarKeeper 947766518  5  2 Bc  f     -     -         9002  100    0 
+BarKeeper 947766551  5  1 Bcc kc    k     k         8902  150  450 8s 9s
+BarKeeper 947766589  5  5 r   b     b     k         9202  250    0 As 7h
+BarKeeper 947766606  5  4 c   c     k     r         8952  300  850 6d Jh
+BarKeeper 947766642  5  3 f   -     -     -         9502    0    0 
+BarKeeper 947766672  5  2 Bc  kc    k     f         9502  150    0 
+BarKeeper 947766703  5  1 Bc  brc   br    bc        9352  800    0 Ac 7s
+BarKeeper 947766734  5  5 r   c     c     rrrc      8552  950    0 Js Ac
+BarKeeper 947766774  5  4 f   -     -     -         7602    0    0 
+BarKeeper 947766796  5  3 cc  k     b     b         7602  300  525 
+BarKeeper 947766819  5  2 Bk  kf    -     -         7827   50    0 
+BarKeeper 947766854  5  1 Bf  -     -     -         7777   25    0 
+BarKeeper 947766882  6  6 c   rr    b     b         7752  450    0 9h 8c
+BarKeeper 947766917  6  5 c   c     c     c         7302  350    0 2s 4s
+BarKeeper 947766952  6  4 cc  r     b     b         6952  400  825 Th Kc
+BarKeeper 947766979  6  3 c   b     kc    k         7377  200    0 4d 3c
+BarKeeper 947767008  5  2 Bc  k     kr    b         7177  400 1100 2s 2h
+BarKeeper 947767035  5  1 Bc  kf    -     -         7877   50    0 
+BarKeeper 947767050  5  5 r   br    k     c         7827  350  775 Ad Jc
+BarKeeper 947767070  5  4 r   rc    c     c         8252  450 1025 Jd 9d
+BarKeeper 947767092  5  3 cc  f     -     -         8827  100    0 
+BarKeeper 947767115  5  2 Bk  kc    kc    kr        8727  400  875 Js Qh
+BarKeeper 947767139  5  1 Bcc kc    k     bc        9202  450    0 Kh 2c
+BarKeeper 947767174  5  5 rc  rr    c     c         8752  600 1775 Ts Td
+BarKeeper 947767207  5  4 cc  c     k     f         9927  150    0 
+BarKeeper 947767227  5  3 cc  kf    -     -         9777  150    0 
+BarKeeper 947767256  5  2 Bf  -     -     -         9627   50    0 
+BarKeeper 947767277  5  1 Bc  kc    kc    kc        9577  350    0 Jd Qs
+BarKeeper 947767291  5  5 r   b     b     b         9227  400  875 Td Jd
+BarKeeper 947767310  5  4 f   -     -     -         9702    0    0 
+BarKeeper 947767334  5  3 f   -     -     -         9702    0    0 
+BarKeeper 947767341  5  2 Bc  k     k     b         9702  200  525 
+BarKeeper 947767362  5  1 Bc  kc    kc    kf       10027  300    0 
+BarKeeper 947767390  6  5 f   -     -     -         9727    0    0 
+BarKeeper 947767420  6  4 f   -     -     -         9727    0    0 
+BarKeeper 947767441  6  3 f   -     -     -         9727    0    0 
+BarKeeper 947767460  6  2 Bc  kc    krc   b         9727  750 2725 Th Js
+BarKeeper 947767501  5  1 Bc  kc    kc    kf       11702  200    0 
+BarKeeper 947767526  5  5 r   b     b     b        11502  350  850 Ad Kh
+BarKeeper 947767552  5  4 f   -     -     -        12002    0    0 
+BarKeeper 947767560  5  3 r   b     b     c        12002  350    0 Qc Kd
+BarKeeper 947767580  5  2 Bk  b     bc    b        11652  400    0 3h 9d
+BarKeeper 947767603  5  1 Bc  b     b     -        11252  200  400 
+BarKeeper 947767622  5  5 c   c     r     r        11452  500 1500 2s Ts
+BarKeeper 947767661  5  4 f   -     -     -        12452    0    0 
+BarKeeper 947767676  5  3 c   b     b     b        12452  300  675 6s Ts
+BarKeeper 947767711  5  2 Bf  -     -     -        12827   50    0 
+BarKeeper 947767735  5  1 Bc  k     kf    -        12777   50    0 
+BarKeeper 947767773  6  6 f   -     -     -        12727    0    0 
+BarKeeper 947767821  6  5 f   -     -     -        12727    0    0 
+BarKeeper 947767853  6  4 r   k     k     c        12727  200    0 Kc Td
+BarKeeper 947767876  6  3 c   k     k     k        12527   50    0 4h 9h
+BarKeeper 947767909  6  2 Br  b     -     -        12477  150  275 
+BarKeeper 947767932  6  1 Bc  k     k     k        12602   50  100 8c Ks
+BarKeeper 947767947  6  6 f   -     -     -        12652    0    0 
+BarKeeper 947767957  6  5 c   k     f     -        12652  100    0 
+BarKeeper 947767993  5  3 c   k     k     f        12552   50    0 
+BarKeeper 947768016  5  2 Bf  -     -     -        12502   50    0 
+BarKeeper 947768022  5  1 Bf  -     -     -        12452   25    0 
+BarKeeper 947768045  5  5 f   -     -     -        12427    0    0 
+BarKeeper 947768073  5  4 f   -     -     -        12427    0    0 
+BarKeeper 947768091  5  3 c   k     f     -        12427   50    0 
+BarKeeper 947768108  5  2 Br  b     b     b        12377  350  975 As Ah
+BarKeeper 947768132  5  1 Br  b     b     -        13002  250  600 
+BarKeeper 947768157  5  5 r   b     b     k        13352  250  525 Jh Jc
+BarKeeper 947768180  5  4 c   k     b     r        13627  350    0 8h Ks
+BarKeeper 947768202  6  4 r   k     c     f        13277  200    0 
+BarKeeper 947768228  6  3 f   -     -     -        13077    0    0 
+BarKeeper 947768246  6  2 Bf  -     -     -        13077   50    0 
+BarKeeper 947768272  6  1 Bcc kc    kc    kc       13027  350    0 7d Js
+BarKeeper 947768305  6  6 r   -     -     -        12677  100  175 
+BarKeeper 947768314  6  5 cc  kc    br    b        12752  550 1225 7c Jc
+BarKeeper 947768365  6  4 r   k     k     c        13427  200    0 Kh Jd
+BarKeeper 947768386  5  2 cc  c     c     c        13227  350    0 Ac 5c
+BarKeeper 947768403  5  2 Bk  b     b     b        12877  300  475 As 4h
+BarKeeper 947768434  6  1 Bf  -     -     -        13052   25    0 
+BarKeeper 947768455  5  5 r   c     c     c        13027  350    0 3d 3h
+BarKeeper 947768474  6  5 c   kf    -     -        12677  100    0 
+BarKeeper 947768510  7  4 f   -     -     -        12577    0    0 
+BarKeeper 947768518  7  3 cc  k     k     b        12577  200  525 
+BarKeeper 947768552  7  2 Bk  kf    -     -        12902   50    0 
+BarKeeper 947768586  7  1 Bc  b     b     b        12852  300  600 6d Jd
+BarKeeper 947768607  7  7 c   r     c     c        13152  350 1150 9h 4h
+BarKeeper 947768648  7  6 c   b     b     b        13952  350    0 3c 3h
+BarKeeper 947768684  7  5 c   k     k     f        13602   50    0 
+BarKeeper 947768716  7  4 rc  cc    kc    kc       13552  450    0 Ks Qc
+BarKeeper 947768774  7  3 f   -     -     -        13102    0    0 
+BarKeeper 947768800  7  2 Bk  kf    -     -        13102   50    0 
+BarKeeper 947768838  7  1 Bf  -     -     -        13052   25    0 
+BarKeeper 947768854  7  7 rc  r     b     b        13027  500 1175 
+BarKeeper 947768882  6  5 f   -     -     -        13702    0    0 
+BarKeeper 947768908  6  4 f   -     -     -        13702    0    0 
+BarKeeper 947768935  6  3 f   -     -     -        13702    0    0 
+BarKeeper 947768967  6  2 Bc  f     -     -        13702  100    0 
+BarKeeper 947769000  6  1 Bc  k     k     k        13602  100    0 Qd 6d
+BarKeeper 947769014  6  6 c   f     -     -        13502  100    0 
+BarKeeper 947769043  6  5 r   -     -     -        13402  100  175 
+BarKeeper 947769052  6  4 c   r     k     k        13477  200    0 Jh 5h
+BarKeeper 947769079  6  3 f   -     -     -        13277    0    0 
+BarKeeper 947769087  6  2 Bk  kc    kc    k        13277  200    0 4c 7d
+BarKeeper 947769131  6  1 Bf  -     -     -        13077   25    0 
+BarKeeper 947769138  6  6 c   b     -     -        13052  100  275 
+BarKeeper 947769151  5  4 r   b     b     b        13227  350  750 Td Ah
+BarKeeper 947769170  5  3 cc  kf    -     -        13627  100    0 
+BarKeeper 947769182  5  2 Bf  -     -     -        13527   50    0 
+BarKeeper 947769210  5  1 Bf  -     -     -        13477   25    0 
+BarKeeper 947769232  5  5 c   c     r     b        13452  400  925 Ts Qd
+BarKeeper 947769263  5  4 r   -     -     -        13977  100  175 
+BarKeeper 947769279  5  3 c   kf    -     -        14052   50    0 
+BarKeeper 947769323  5  2 Bc  cc    f     -        14002  350    0 
+BarKeeper 947769361  5  1 Bc  bc    k     kc       13652  250    0 Ts 6h
+BarKeeper 947769394  5  5 c   f     -     -        13402  100    0 
+BarKeeper 947769419  6  5 f   -     -     -        13302    0    0 
+BarKeeper 947769463  6  4 f   -     -     -        13302    0    0 
+BarKeeper 947769486  6  3 fQ  -     -     -        13302    0    0 
+BarKeeper 947841955  4  2 Bf  -     -     -        13302   50    0 
+BarKeeper 947841981  4  1 Bcc b     b     b        13252  350    0 9c Qc
+BarKeeper 947842002  4  4 c   f     -     -        12902   50    0 
+BarKeeper 947842016  4  3 cc  c     c     k        12852  250    0 5d 3d
+BarKeeper 947842033  4  2 Bf  -     -     -        12602   50    0 
+BarKeeper 947842042  4  1 Br  k     kc    k        12552  250  550 Jh Ks
+BarKeeper 947842066  4  4 f   -     -     -        12852    0    0 
+BarKeeper 947842085  4  3 f   -     -     -        12852    0    0 
+BarKeeper 947842097  4  2 Bc  c     c     b        12852  350  700 Ac 3c
+BarKeeper 947842116  4  1 Bc  k     k     k        13202  100  350 8s 7d
+BarKeeper 947842151  4  4 r   b     -     -        13452  150  275 
+BarKeeper 947842175  4  3 r   f     -     -        13577  100    0 
+BarKeeper 947842194  4  2 Bf  -     -     -        13477   50    0 
+BarKeeper 947842206  3  1 Bc  k     k     k        13427   50  100 8d Ad
+BarKeeper 947842231  3  3 r   rc    c     c        13477  450    0 Ac 9c
+BarKeeper 947842258  3  2 Bf  -     -     -        13027   50    0 
+BarKeeper 947842273  3  1 Bc  kf    -     -        12977   50    0 
+BarKeeper 947842298  3  3 f   -     -     -        12927    0    0 
+BarKeeper 947842316  3  2 Br  r     b     k        12927  350  700 Jd Ts
+BarKeeper 947842334  3  1 Bf  -     -     -        13277   25    0 
+BarKeeper 947842353  3  3 c   k     f     -        13252   50    0 
+BarKeeper 947842367  3  2 Bc  c     c     c        13202  350    0 5s 6c
+BarKeeper 947842396  3  1 Br  -     -     -        12852  100  150 
+BarKeeper 947842403  3  3 r   -     -     -        12902  100  175 
+BarKeeper 947842406  3  2 Bk  k     b     -        12977  150  225 
+BarKeeper 947842428  3  1 Bc  k     b     -        13052  150  200 
+BarKeeper 947842454  3  3 f   -     -     -        13102    0    0 
+BarKeeper 947842457  3  2 Bf  -     -     -        13102   50    0 
+BarKeeper 947842471  3  1 Bf  -     -     -        13052   25    0 
+BarKeeper 947842478  3  3 f   -     -     -        13027    0    0 
+BarKeeper 947842483  3  2 Bf  -     -     -        13027   50    0 
+BarKeeper 947842501  3  1 Bf  -     -     -        12977   25    0 
+BarKeeper 947842514  3  3 f   -     -     -        12952    0    0 
+BarKeeper 947842519  3  2 Bc  b     k     k        12952  150  400 Ts 6s
+BarKeeper 947842545  3  1 Bc  kf    -     -        13202  100    0 
+BarKeeper 947842578  3  3 f   -     -     -        13102    0    0 
+BarKeeper 947842582  3  2 B   -     -     -        13102   50   75 
+BarKeeper 947842585  3  1 Bc  k     b     b        13127  300  550 
+BarKeeper 947842606  3  3 rrr r     b     b        13377  600 1225 As Ad
+BarKeeper 947842619  3  2 B   -     -     -        14002   50   75 
+BarKeeper 947842628  3  1 Bc  kf    -     -        14027  100    0 
+BarKeeper 947842645  3  3 f   -     -     -        13927    0    0 
+BarKeeper 947842651  3  2 Bc  f     -     -        13927  100    0 
+BarKeeper 947842680  3  1 Br  -     -     -        13827  100  150 
+BarKeeper 947842686  3  3 f   -     -     -        13877    0    0 
+BarKeeper 947842690  3  2 Bc  kc    f     -        13877  150    0 
+BarKeeper 947842714  3  1 Bc  k     k     b        13727  200  450 Jd Qs
+BarKeeper 947842731  3  3 rr  b     b     k        13977  350    0 Jd Jh
+BarKeeper 947842751  3  2 Bk  k     k     k        13627   50    0 Ks 9d
+BarKeeper 947842769  3  1 Bf  -     -     -        13577   25    0 
+BarKeeper 947842775  3  3 r   b     b     -        13552  250  425 
+BarKeeper 947842787  3  2 Bc  r     b     b        13727  400  800 
+BarKeeper 947842804  3  1 Br  b     -     -        14127  150  250 
+BarKeeper 947842812  3  3 cc  f     -     -        14227  100    0 
+BarKeeper 947842828  3  2 Bc  c     f     -        14127  150    0 
+BarKeeper 947842837  3  1 Br  b     b     br       13977  600 1250 Tc Jh
+BarKeeper 947842861  3  3 f   -     -     -        14627    0    0 
+BarKeeper 947842870  3  2 Bc  k     b     kf       14627  200    0 
+BarKeeper 947842894  3  1 Bf  -     -     -        14427   25    0 
+BarKeeper 947842898  3  3 r   b     b     k        14402  250  525 5h 5d
+BarKeeper 947842911  3  2 Brc kc    b     b        14677  400    0 Ac 9s
+BarKeeper 947842943  3  1 Bc  kc    kc    kc       14277  350  400 8c Ah
+BarKeeper 947842980  3  3 cc  b     b     b        14327  350  700 
+BarKeeper 947843006  3  2 Bc  kf    -     -        14677  100    0 
+BarKeeper 947843023  3  1 Bc  k     b     -        14577  150  200 
+BarKeeper 947843041  3  3 cc  b     c     f        14627  250    0 
+BarKeeper 947843064  3  2 Bf  -     -     -        14377   50    0 
+BarKeeper 947843083  3  1 Bc  b     b     b        14327  300  500 
+BarKeeper 947843111  3  3 rc  c     c     b        14527  400  850 8s 8d
+BarKeeper 947843126  3  2 Br  b     b     k        14977  300  600 5c 5h
+BarKeeper 947843143  3  1 Bc  k     kr    b        15277  350  600 
+BarKeeper 947843169  3  3 cc  f     -     -        15527  100    0 
+BarKeeper 947843178  3  2 Bk  c     c     r        15427  400  800 Td 9c
+BarKeeper 947843189  3  1 Br  -     -     -        15827  100  150 
+BarKeeper 947843194  3  3 c   f     -     -        15877   50    0 
+BarKeeper 947843201  3  2 Bf  -     -     -        15827   50    0 
+BarKeeper 947843218  3  1 Bc  kc    kc    kc       15777  300    0 8c Ks
+BarKeeper 947843235  3  3 r   k     k     k        15477  100    0 Qc Tc
+BarKeeper 947843250  3  2 Bc  f     -     -        15377  100    0 
+BarKeeper 947843260  3  1 Bc  kf    -     -        15277  100    0 
+BarKeeper 947843285  3  3 rc  r     -     -        15177  250  475 
+BarKeeper 947843295  3  2 Bk  b     b     b        15402  300  525 
+BarKeeper 947843317  3  1 BfQ -     -     -        15627   25    0 
+BarKeeper 947845373  4  4 f   -     -     -        15602    0    0 
+BarKeeper 947845377  4  3 f   -     -     -        15602    0    0 
+BarKeeper 947845390  4  2 Bk  f     -     -        15602   50    0 
+BarKeeper 947845415  4  1 Bc  kc    kc    kr       15552  400  700 
+BarKeeper 947845445  3  3 f   -     -     -        15852    0    0 
+BarKeeper 947845454  3  2 Bf  -     -     -        15852   50    0 
+BarKeeper 947845465  3  1 Bc  b     -     -        15802  150  300 
+BarKeeper 947845473  3  3 r   bc    f     -        15952  200    0 
+BarKeeper 947845488  3  2 Bk  c     b     bc       15752  400    0 Td Js
+BarKeeper 947845508  3  1 Br  b     bc    k        15352  350    0 Ad Kh
+BarKeeper 947845528  3  3 r   b     brc   c        15002  650    0 Ah Ts
+BarKeeper 947845560  3  2 Bk  f     -     -        14352   50    0 
+BarKeeper 947845581  3  1 Bc  bc    kc    kf       14302  250    0 
+BarKeeper 947845604  4  4 f   -     -     -        14052    0    0 
+BarKeeper 947845607  4  3 c   k     k     k        14052   50  125 8h Qs
+BarKeeper 947845621  4  2 Bk  c     b     -        14127  200  300 
+BarKeeper 947845638  4  1 Bf  -     -     -        14227   25    0 
+BarKeeper 947845641  4  4 r   b     -     -        14202  150  275 
+BarKeeper 947845647  4  3 r   -     -     -        14327  100  175 
+BarKeeper 947845652  4  2 Bk  kc    k     kf       14402  100    0 
+BarKeeper 947845673  4  1 Bf  -     -     -        14302   25    0 
+BarKeeper 947845676  4  4 c   r     b     b        14277  350    0 8c 7c
+BarKeeper 947845699  4  3 f   -     -     -        13927    0    0 
+BarKeeper 947845713  4  2 Bc  kc    k     b        13927  250  425 
+BarKeeper 947845728  4  1 Br  b     b     -        14102  300  550 
+BarKeeper 947845737  4  4 f   -     -     -        14352    0    0 
+BarKeeper 947845740  4  3 f   -     -     -        14352    0    0 
+BarKeeper 947845754  4  2 Bk  kf    -     -        14352   50    0 
+BarKeeper 947845766  4  1 Bf  -     -     -        14302   25    0 
+BarKeeper 947845782  4  4 r   r     k     c        14277  300    0 Tc Ac
+BarKeeper 947845797  4  3 f   -     -     -        13977    0    0 
+BarKeeper 947845804  4  2 Bk  b     b     b        13977  300  550 
+BarKeeper 947845825  4  1 Brc kc    kr    b        14227  550 1150 Th Ah
+BarKeeper 947845842  4  4 f   -     -     -        14827    0    0 
+BarKeeper 947845853  4  3 c   r     b     b        14827  350  362 Tc Jh
+BarKeeper 947845876  4  2 Bk  k     kf    -        14839   50    0 
+BarKeeper 947845895  4  1 Bf  -     -     -        14789   25    0 
+BarKeeper 947845915  4  4 c   cc    f     -        14764  200    0 
+BarKeeper 947845945  4  3 r   r     b     kc       14564  400 1150 7c Ac
+BarKeeper 947845973  4  2 Bc  kc    k     kf       15314  200    0 
+BarKeeper 947846005  4  1 Bf  -     -     -        15114   25    0 
+BarKeeper 947846026  4  4 c   f     -     -        15089   50    0 
+BarKeeper 947846054  4  3 f   -     -     -        15039    0    0 
+BarKeeper 947846073  4  2 Bk  kc    kc    kf       15039  200    0 
+BarKeeper 947846099  4  1 Bf  -     -     -        14839   25    0 
+BarKeeper 947846102  4  4 f   -     -     -        14814    0    0 
+BarKeeper 947846104  4  3 c   k     k     k        14814   50    0 9d 8s
+BarKeeper 947846116  4  2 Bf  -     -     -        14764   50    0 
+BarKeeper 947846128  4  1 Bf  -     -     -        14714   25    0 
+BarKeeper 947846131  4  4 c   c     bc    rc       14689  700    0 3d Td
+BarKeeper 947846170  4  3 c   b     -     -        13989  100  175 
+BarKeeper 947846186  4  2 B   -     -     -        14064   50   75 
+BarKeeper 947846192  4  1 Bc  bc    kc    kc       14089  350    0 8h Jd
+BarKeeper 947846216  4  4 c   b     b     -        13739  200  400 
+BarKeeper 947846234  4  3 r   b     b     -        13939  250  475 
+BarKeeper 947846247  4  2 Bc  kc    kc    kf       14164  300    0 
+BarKeeper 947846268  4  1 Bf  -     -     -        13864   25    0 
+BarKeeper 947846272  4  4 c   k     f     -        13839   50    0 
+BarKeeper 947846299  4  3 r   br    br    b        13789  650 1350 Ts Ks
+BarKeeper 947846321  4  2 Bk  kf    -     -        14489   50    0 
+BarKeeper 947846336  4  1 Bf  -     -     -        14439   25    0 
+BarKeeper 947846339  4  4 f   -     -     -        14414    0    0 
+BarKeeper 947846355  4  3 r   k     f     -        14414  100    0 
+BarKeeper 947846368  4  2 Bk  kf    -     -        14314   50    0 
+BarKeeper 947846382  4  1 Bc  k     kf    -        14264   50    0 
+BarKeeper 947846394  4  4 r   b     -     -        14214  150  275 
+BarKeeper 947846403  4  3 r   k     f     -        14339  100    0 
+BarKeeper 947846414  4  2 Bc  kc    kc    k        14239  250  525 4c Kc
+BarKeeper 947846435  4  1 Br  b     b     b        14514  350  750 Tc Th
+BarKeeper 947846456  4  4 c   f     -     -        14914   50    0 
+BarKeeper 947846468  4  3 f   -     -     -        14864    0    0 
+BarKeeper 947846484  4  2 B   -     -     -        14864   50   75 
+BarKeeper 947846488  4  1 Bcc kc    kf    -        14889  200    0 
+BarKeeper 947846509  4  4 r   -     -     -        14689  100  175 
+BarKeeper 947846514  4  3 f   -     -     -        14764    0    0 
+BarKeeper 947846520  4  2 B   -     -     -        14764   50   75 
+BarKeeper 947846523  4  1 Bc  kc    b     b        14789  300  650 8h 8c
+BarKeeper 947846544  4  4 r   b     b     k        15139  250    0 Jc Qs
+BarKeeper 947846562  4  3 c   k     f     -        14889   50    0 
+BarKeeper 947846575  4  2 B   -     -     -        14839   50   75 
+BarKeeper 947846579  4  1 Bc  k     kf    -        14864   50    0 
+BarKeeper 947846589  4  4 c   r     c     b        14814  350  750 3h 4h
+BarKeeper 947846613  4  3 f   -     -     -        15214    0    0 
+BarKeeper 947846636  3  2 Bc  b     b     -        15214  250  425 
+BarKeeper 947846652  3  1 Bf  -     -     -        15389   25    0 
+BarKeeper 947846675  3  3 f   -     -     -        15364    0    0 
+BarKeeper 947846693  3  2 B   -     -     -        15364   50   75 
+BarKeeper 947846695  3  1 Bf  -     -     -        15389   25    0 
+BarKeeper 947846699  3  3 r   bc    rc    f        15364  500    0 
+BarKeeper 947846728  3  2 B   -     -     -        14864   50   75 
+BarKeeper 947846731  3  1 Bcc kc    k     k        14889  150  300 3d 8d
+BarKeeper 947846751  3  3 c   f     -     -        15039   50    0 
+BarKeeper 947846761  3  2 B   -     -     -        14989   50   75 
+BarKeeper 947846764  3  1 Br  b     bc    kc       15014  450  900 4h Kh
+BarKeeper 947846781  3  3 c   k     k     k        15464   50   62 9h Jh
+BarKeeper 947846796  3  2 B   -     -     -        15476   50   75 
+BarKeeper 947846802  3  1 Bc  kc    kc    k        15501  200    0 Qs Tc
+BarKeeper 947846820  3  3 r   -     -     -        15301  100  175 
+BarKeeper 947846826  3  2 Bk  k     kf    -        15376   50    0 
+BarKeeper 947846839  3  1 Bcc b     b     -        15326  250  400 
+BarKeeper 947846856  3  3 r   b     -     -        15476  150  275 
+BarKeeper 947846866  3  2 Bc  kf    -     -        15601  100    0 
+BarKeeper 947846875  3  1 Bc  br    b     b        15501  400  700 
+BarKeeper 947846894  3  3 r   c     c     c        15801  350    0 Ac Kd
+BarKeeper 947846908  3  2 Br  b     b     b        15451  350  700 
+BarKeeper 947846933  3  1 Bc  k     k     b        15801  150  200 
+BarKeeper 947846951  3  3 f   -     -     -        15851    0    0 
+BarKeeper 947846957  3  2 Bf  -     -     -        15851   50    0 
+BarKeeper 947846962  3  1 Bc  kf    -     -        15801  100    0 
+BarKeeper 947846985  3  3 f   -     -     -        15701    0    0 
+BarKeeper 947846991  3  2 Bc  kf    -     -        15701  100    0 
+BarKeeper 947847015  4  1 Bc  bc    kc    kc       15601  350    0 Jd 8s
+BarKeeper 947847047  4  4 f   -     -     -        15251    0    0 
+BarKeeper 947847054  4  3 f   -     -     -        15251    0    0 
+BarKeeper 947847057  4  2 Bk  kf    -     -        15251   50    0 
+BarKeeper 947847067  4  1 Bf  -     -     -        15201   25    0 
+BarKeeper 947847072  4  4 r   b     b     -        15176  250  450 
+BarKeeper 947847085  4  3 f   -     -     -        15376    0    0 
+BarKeeper 947847113  4  2 Bk  k     kc    kf       15376  150    0 
+BarKeeper 947847136  4  1 Bf  -     -     -        15226   25    0 
+BarKeeper 947847142  4  4 f   -     -     -        15201    0    0 
+BarKeeper 947847154  4  3 r   b     b     -        15201  250  475 
+BarKeeper 947847168  4  2 Bf  -     -     -        15426   50    0 
+BarKeeper 947847186  4  1 Bc  kf    -     -        15376  100    0 
+BarKeeper 947847204  4  4 c   k     b     -        15276  150  225 
+BarKeeper 947847221  4  3 c   k     kc    kc       15351  250  575 3c Ad
+BarKeeper 947847238  4  2 Bf  -     -     -        15676   50    0 
+BarKeeper 947847246  4  1 Bf  -     -     -        15626   25    0 
+BarKeeper 947847250  4  4 c   k     f     -        15601   50    0 
+BarKeeper 947847268  4  3 f   -     -     -        15551    0    0 
+BarKeeper 947847281  4  2 Bk  c     k     k        15551  100  250 Ah Tc
+BarKeeper 947847299  4  1 Bf  -     -     -        15701   25    0 
+BarKeeper 947847308  4  4 c   f     -     -        15676  100    0 
+BarKeeper 947847323  4  3 r   b     b     -        15576  250  475 
+BarKeeper 947847340  4  2 Bk  kf    -     -        15801   50    0 
+BarKeeper 947847353  4  1 Bf  -     -     -        15751   25    0 
+BarKeeper 947847358  4  4 f   -     -     -        15726    0    0 
+BarKeeper 947847363  4  3 r   brc   kc    kc       15726  500    0 8d 8h
+BarKeeper 947847387  4  2 B   -     -     -        15226   50   75 
+BarKeeper 947847397  4  1 Bc  b     -     -        15251  100  150 
+BarKeeper 947847410  4  4 f   -     -     -        15301    0    0 
+BarKeeper 947847451  3  3 r   -     -     -        15301  100  175 
+BarKeeper 947847464  3  2 Bk  k     b     k        15376  150    0 4s Kd
+BarKeeper 947847479  3  1 Bc  kf    -     -        15226   50    0 
+BarKeeper 947847493  3  3 r   -     -     -        15176  100  175 
+BarKeeper 947847499  3  2 B   -     -     -        15251   50   75 
+BarKeeper 947847503  3  1 Bf  -     -     -        15276   25    0 
+BarKeeper 947847528  3  3 f   -     -     -        15251    0    0 
+BarKeeper 947847537  3  2 Bc  c     c     k        15251  250    0 9s 8s
+BarKeeper 947847555  2  1 Bc  b     -     -        15001  100  150 
+BarKeeper 947847566  2  2 B   -     -     -        15051   50   75 
+BarKeeper 947847569  2  1 Br  -     -     -        15076  100  150 

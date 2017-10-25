@@ -1,0 +1,225 @@
+RedFish   948431018  4  2 Br  brc   k     k         5290  350  725 Ks Kd
+RedFish   948431048  4  1 Bf  -     -     -         5665   25    0 
+RedFish   948431060  4  4 f   -     -     -         5640    0    0 
+RedFish   948431081  4  3 f   -     -     -         5640    0    0 
+RedFish   948431116  4  2 Bk  b     kc    kc        5640  300  700 3c Kc
+RedFish   948431165  4  1 B   -     -     -         6040   25   75 
+RedFish   948431172  3  3 f   -     -     -         6090    0    0 
+RedFish   948431182  3  3 c   b     -     -         6090  100  175 
+RedFish   948431193  3  2 Bk  b     -     -         6165  100  175 
+RedFish   948431217  3  1 Bf  -     -     -         6240   25    0 
+RedFish   948431222  3  3 f   -     -     -         6215    0    0 
+RedFish   948431235  3  2 Bk  k     k     k         6215   50    0 8d Tc
+RedFish   948431248  3  1 Bf  -     -     -         6165   25    0 
+RedFish   948431259  3  3 f   -     -     -         6140    0    0 
+RedFish   948431265  3  2 Bk  b     -     -         6140  100  150 
+RedFish   948431282  3  1 Bf  -     -     -         6190   25    0 
+RedFish   948431287  3  3 f   -     -     -         6165    0    0 
+RedFish   948431296  3  2 Bc  kc    k     b         6165  250  525 Qh 4h
+RedFish   948431312  3  1 Bc  b     k     k         6440  100  200 4s 3s
+RedFish   948431329  3  3 c   c     c     rc        6540  500    0 7h 8h
+RedFish   948431350  3  2 Bf  -     -     -         6040   50    0 
+RedFish   948431356  3  1 Bc  b     b     k         5990  200  400 7h Ks
+RedFish   948431369  3  3 f   -     -     -         6190    0    0 
+RedFish   948431377  3  2 Bk  b     k     k         6190  100  200 As 4c
+RedFish   948431397  3  1 Bc  k     kf    -         6290   50    0 
+RedFish   948431415  3  3 c   f     -     -         6240   50    0 
+RedFish   948431432  3  2 Bf  -     -     -         6190   50    0 
+RedFish   948431439  3  1 Bc  kf    -     -         6140   50    0 
+RedFish   948431452  3  3 f   -     -     -         6090    0    0 
+RedFish   948431454  3  2 Bf  -     -     -         6090   50    0 
+RedFish   948431468  3  1 Bf  -     -     -         6040   25    0 
+RedFish   948431472  3  3 f   -     -     -         6015    0    0 
+RedFish   948431488  3  2 Bc  kc    kf    -         6015  150    0 
+RedFish   948431521  3  1 Bc  bc    kc    b         5865  350  700 Qh 5h
+RedFish   948431544  3  3 f   -     -     -         6215    0    0 
+RedFish   948431551  3  2 B   -     -     -         6215   50   75 
+RedFish   948431556  3  1 Bcc b     b     k         6240  250    0 5s 7c
+RedFish   948431577  3  3 c   c     b     b         5990  300  650 Ah Ad
+RedFish   948431603  3  2 Bc  kc    k     b         6340  250  425 
+RedFish   948431622  3  1 Bc  kc    kf    -         6515  100    0 
+RedFish   948431636  3  3 f   -     -     -         6415    0    0 
+RedFish   948431648  3  2 Bc  b     b     k         6415  250  600 9c 6s
+RedFish   948431673  3  1 Bc  b     -     -         6765  100  200 
+RedFish   948431685  3  3 r   -     -     -         6865  100  175 
+RedFish   948431690  3  2 Bc  b     k     kf        6940  150    0 
+RedFish   948431711  3  1 Bc  kc    kc    kc        6790  300    0 7s 5c
+RedFish   948431743  3  3 cc  f     -     -         6490  100    0 
+RedFish   948431755  3  2 B   -     -     -         6390   50   75 
+RedFish   948431758  3  1 Bcc kc    kc    kf        6415  250    0 
+RedFish   948431782  3  3 c   k     k     k         6165   50  125 Ah 9d
+RedFish   948431796  3  2 Bc  kc    kc    kf        6240  250    0 
+RedFish   948431814  3  1 Bf  -     -     -         5990   25    0 
+RedFish   948431820  3  3 f   -     -     -         5965    0    0 
+RedFish   948431834  3  2 Bc  k     b     -         5965  200  400 
+RedFish   948431865  3  1 Bf  -     -     -         6165   25    0 
+RedFish   948431877  3  3 f   -     -     -         6140    0    0 
+RedFish   948431887  3  2 Bf  -     -     -         6140   50    0 
+RedFish   948431905  3  1 Bf  -     -     -         6090   25    0 
+RedFish   948431917  3  3 c   c     k     c         6065  200    0 Jd 8d
+RedFish   948431935  3  2 Bc  f     -     -         5865  100    0 
+RedFish   948431953  3  1 Bcc b     b     bc        5765  450    0 Ts 4s
+RedFish   948431980  3  3 rrc k     k     k         5315  250    0 9d 8c
+RedFish   948432002  3  2 Bc  k     k     kf        5065  100    0 
+RedFish   948432016  3  1 Bf  -     -     -         4965   25    0 
+RedFish   948432018  3  3 f   -     -     -         4940    0    0 
+RedFish   948432040  3  2 Bf  -     -     -         4940   50    0 
+RedFish   948432048  3  1 Bf  -     -     -         4890   25    0 
+RedFish   948432050  3  3 cc  c     f     -         4865  150    0 
+RedFish   948432067  3  2 Bc  kr    br    b         4715  600 1225 Jd 5d
+RedFish   948432085  3  1 Bf  -     -     -         5340   25    0 
+RedFish   948432099  3  3 c   f     -     -         5315   50    0 
+RedFish   948432116  3  2 Bk  kc    b     b         5265  300  650 Jc 6h
+RedFish   948432139  3  1 Bf  -     -     -         5615   25    0 
+RedFish   948432144  3  3 c   b     b     b         5590  300  550 
+RedFish   948432163  3  2 Bc  c     f     -         5840  200    0 
+RedFish   948432182  3  1 Bc  kf    -     -         5640   50    0 
+RedFish   948432200  3  3 f   -     -     -         5590    0    0 
+RedFish   948432202  3  2 Bc  kc    b     b         5590  350  700 
+RedFish   948432224  3  1 Bf  -     -     -         5940   25    0 
+RedFish   948432229  3  3 c   f     -     -         5915   50    0 
+RedFish   948432248  3  2 Bc  b     -     -         5865  150  275 
+RedFish   948432257  3  1 Bf  -     -     -         5990   25    0 
+RedFish   948432261  3  3 f   -     -     -         5965    0    0 
+RedFish   948432269  3  2 B   -     -     -         5965   50   75 
+RedFish   948432272  3  1 Bc  k     kc    k         5990  150    0 As 9s
+RedFish   948432286  3  3 r   b     -     -         5840  150  275 
+RedFish   948432299  3  2 B   -     -     -         5965   50   75 
+RedFish   948432304  3  1 Bc  kc    k     bc        5990  300    0 9s 6d
+RedFish   948432326  3  3 c   k     c     k         5690  150  350 9d Ac
+RedFish   948432347  3  2 Bc  k     k     k         5890  100  225 Qh 3s
+RedFish   948432365  3  1 Bc  kf    -     -         6015   50    0 
+RedFish   948432380  3  3 f   -     -     -         5965    0    0 
+RedFish   948432393  3  2 Bc  kc    k     k         5965  150    0 4c 8c
+RedFish   948432413  3  1 Bcc kc    kc    k         5815  250    0 2h 4d
+RedFish   948432430  3  3 c   b     -     -         5565  100  200 
+RedFish   948432446  3  2 Bk  c     b     b         5665  300  500 
+RedFish   948432467  3  1 Bc  b     bc    kc        5865  400    0 8h Ah
+RedFish   948432502  3  3 c   f     -     -         5465   50    0 
+RedFish   948432523  3  2 Bc  kf    -     -         5415  100    0 
+RedFish   948432535  3  1 Bf  -     -     -         5315   25    0 
+RedFish   948432539  3  3 cc  c     f     -         5290  150    0 
+RedFish   948432568  3  2 Bc  kr    b     k         5140  300  625 Jh 7h
+RedFish   948432594  3  1 Bf  -     -     -         5465   25    0 
+RedFish   948432602  3  3 c   c     b     -         5440  200  350 
+RedFish   948432618  3  2 Bf  -     -     -         5590   50    0 
+RedFish   948432622  3  1 Bc  b     kc    kf        5540  200    0 
+RedFish   948432642  3  3 r   -     -     -         5340  100  175 
+RedFish   948432652  3  2 Bc  k     k     f         5415  100    0 
+RedFish   948432677  3  1 Bf  -     -     -         5315   25    0 
+RedFish   948432680  3  3 f   -     -     -         5290    0    0 
+RedFish   948432686  3  2 Bf  -     -     -         5290   50    0 
+RedFish   948432694  3  1 Bc  b     kc    kc        5240  300    0 Ad 5s
+RedFish   948432710  3  3 f   -     -     -         4940    0    0 
+RedFish   948432716  3  2 B   -     -     -         4940   50   75 
+RedFish   948432717  3  1 Bcc kr    bc    k         4965  400    0 Tc 8s
+RedFish   948432768  3  3 c   c     c     b         4565  350  950 7c As
+RedFish   948432814  3  2 Bc  k     k     b         5165  200  300 
+RedFish   948432835  3  1 Bc  b     k     kf        5265  100    0 
+RedFish   948432849  3  3 f   -     -     -         5165    0    0 
+RedFish   948432869  3  2 Bc  kf    -     -         5165  100    0 
+RedFish   948432878  3  1 Bc  k     kc    b         5065  250  400 
+RedFish   948432896  3  3 f   -     -     -         5215    0    0 
+RedFish   948432906  3  2 Bk  b     -     -         5215  100  150 
+RedFish   948432939  3  1 Bc  b     kc    kf        5265  200    0 
+RedFish   948432986  3  3 cc  c     k     rc        5065  450  475 Jc 9d
+RedFish   948512184  3  2 BKQ -     -     -         5290   50    0 
+RedFish   948520900  4  2 Bk  kc    k     k         5330  100  350 Qh 2d
+RedFish   948520942  4  1 Bc  k     k     k         5580   50    0 Qs 8h
+RedFish   948520963  4  4 c   b     k     b         5530  200  425 8d Jd
+RedFish   948520989  4  3 c   c     k     k         5755  100    0 8h Ac
+RedFish   948521022  4  2 Bk  kc    kc    br        5655  500 1025 3s 3d
+RedFish   948521063  3  1 Bf  -     -     -         6180   25    0 
+RedFish   948521076  3  3 c   b     -     -         6155  100  175 
+RedFish   948521098  3  2 Bc  c     k     k         6230  150    0 9d 5d
+RedFish   948521128  3  1 Bf  -     -     -         6080   25    0 
+RedFish   948521148  3  3 cc  c     f     -         6055  150    0 
+RedFish   948521170  3  2 B   -     -     -         5905   50   75 
+RedFish   948521174  3  1 Bf  -     -     -         5930   25    0 
+RedFish   948521206  3  3 c   k     k     k         5905   50    0 2s Js
+RedFish   948521232  3  2 Bk  k     k     k         5855   50    0 7c 2h
+RedFish   948521248  3  1 Bf  -     -     -         5805   25    0 
+RedFish   948521255  3  3 c   k     k     k         5780   50  125 5c Qc
+RedFish   948521264  3  2 Bk  kc    kf    -         5855  100    0 
+RedFish   948521280  3  1 Bf  -     -     -         5755   25    0 
+RedFish   948521283  3  3 c   b     k     b         5730  200  325 
+RedFish   948521300  3  2 Bc  f     -     -         5855  100    0 
+RedFish   948521327  3  1 Bc  kf    -     -         5755   50    0 
+RedFish   948521337  3  3 f   -     -     -         5705    0    0 
+RedFish   948521340  3  2 Bk  c     c     c         5705  300    0 Qh 9h
+RedFish   948521352  3  1 Bf  -     -     -         5405   25    0 
+RedFish   948521371  3  3 c   k     k     k         5380   50    0 Kd 6d
+RedFish   948521393  3  2 Bk  kc    kf    -         5330  100    0 
+RedFish   948521412  3  1 Bc  k     k     k         5230   50  100 6c Kc
+RedFish   948521433  3  3 f   -     -     -         5280    0    0 
+RedFish   948521465  3  2 Bk  kc    kf    -         5280  100    0 
+RedFish   948521481  3  1 Bf  -     -     -         5180   25    0 
+RedFish   948521484  3  3 c   b     k     k         5155  100    0 Td Jh
+RedFish   948521500  3  2 Bk  k     k     c         5055  150    0 Jd 8h
+RedFish   948521517  3  1 Bc  b     b     kc        4905  300    0 Qd 8h
+RedFish   948521540  3  3 c   b     b     -         4605  200  325 
+RedFish   948521557  3  2 Bk  k     k     k         4730   50    0 7d Qc
+RedFish   948521569  3  1 Bc  k     k     b         4680  150  200 
+RedFish   948521590  3  3 f   -     -     -         4730    0    0 
+RedFish   948521593  3  2 B   -     -     -         4730   50   75 
+RedFish   948521597  3  1 Bc  b     -     -         4755  100  150 
+RedFish   948521611  3  3 r   -     -     -         4805  100  175 
+RedFish   948521619  3  2 B   -     -     -         4880   50   75 
+RedFish   948521623  3  1 Bc  b     -     -         4905  100  150 
+RedFish   948521639  3  3 r   b     -     -         4955  150  275 
+RedFish   948521651  3  2 Bc  r     b     b         5080  400  900 As 4s
+RedFish   948521678  3  1 Bf  -     -     -         5580   25    0 
+RedFish   948521685  3  3 Q   -     -     -         5555    0    0 
+RedFish   948686817  9  4 f   -     -     -         5463    0    0 
+RedFish   948686883  9  3 rc  cc    KQ    -         5463  250    0 
+RedFish   948687077  7  7 f   -     -     -         5213    0    0 
+RedFish   948687112  7  6 f   -     -     -         5213    0    0 
+RedFish   948687140  7  5 c   c     k     k         5213  100  300 9d Ad
+RedFish   948687171  7  4 f   -     -     -         5413    0    0 
+RedFish   948687202  7  3 cc  kf    -     -         5413  100    0 
+RedFish   948687229  8  2 Bk  b     br    b         5313  500 1075 Js 3h
+RedFish   948687261  8  1 Bc  kc    k     b         5888  200  450 Jd Ad
+RedFish   948687302  8  8 f   -     -     -         6138    0    0 
+RedFish   948687355  8  8 f   -     -     -         6138    0    0 
+RedFish   948687404  8  7 f   -     -     -         6138    0    0 
+RedFish   948687462  8  6 f   -     -     -         6138    0    0 
+RedFish   948687527  8  5 f   -     -     -         6138    0    0 
+RedFish   948687571  7  3 f   -     -     -         6138    0    0 
+RedFish   948687595  7  2 Bk  b     bc    k         6138  300  625 Ah Jd
+RedFish   948687625  7  1 Bc  b     b     br        6463  550 1350 5d 5s
+RedFish   948687660  8  7 f   -     -     -         7263    0    0 
+RedFish   948687671  8  6 c   f     -     -         7263  100    0 
+RedFish   948687732  8  5 f   -     -     -         7163    0    0 
+RedFish   948687761  8  4 c   b     kc    kc        7163  300  750 6s 5s
+RedFish   948687797  8  3 f   -     -     -         7613    0    0 
+RedFish   948687843  8  2 Bf  -     -     -         7613   50    0 
+RedFish   948687908  8  1 Bc  b     -     -         7563  100  250 
+RedFish   948687938  7  7 c   c     f     -         7713  100    0 
+RedFish   948687979  7  6 c   c     c     c         7613  300    0 7d 7c
+RedFish   948688014  7  5 f   -     -     -         7313    0    0 
+RedFish   948688042  7  4 c   b     -     -         7313  100  175 
+RedFish   948688064  7  3 cc  kr    b     b         7388  400 1050 
+RedFish   948688093  7  2 Bc  k     kc    kf        8038  200    0 
+RedFish   948688168  7  1 Bf  -     -     -         7838   25    0 
+RedFish   948688187  7  7 c   k     k     k         7813   50    0 Qs 9c
+RedFish   948688246  7  6 f   -     -     -         7763    0    0 
+RedFish   948688284  7  5 f   -     -     -         7763    0    0 
+RedFish   948688314  7  4 f   -     -     -         7763    0    0 
+RedFish   948688324  8  3 f   -     -     -         7763    0    0 
+RedFish   948688337  8  2 B   -     -     -         7763   50   75 
+RedFish   948688351  8  1 Bf  -     -     -         7788   25    0 
+RedFish   948688372  8  8 f   -     -     -         7763    0    0 
+RedFish   948688442  7  6 f   -     -     -         7763    0    0 
+RedFish   948688458  6  4 c   b     b     -         7763  200  350 
+RedFish   948688483  6  3 f   -     -     -         7913    0    0 
+RedFish   948688509  6  2 Bc  kf    -     -         7913  100    0 
+RedFish   948688524  6  1 Bf  -     -     -         7813   25    0 
+RedFish   948688551  6  6 f   -     -     -         7788    0    0 
+RedFish   948688590  6  5 f   -     -     -         7788    0    0 
+RedFish   948688663  6  4 f   -     -     -         7788    0    0 
+RedFish   948688709  6  3 r   c     k     kf        7788  150    0 
+RedFish   948688746  6  2 Bc  kc    kf    -         7638  150    0 
+RedFish   948688795  6  1 Bc  k     b     -         7488  150  250 
+RedFish   948688821  6  6 c   f     -     -         7588   50    0 
+RedFish   948688849  6  5 f   -     -     -         7538    0    0 
+RedFish   948688871  6  4 fQ  -     -     -         7538    0    0 

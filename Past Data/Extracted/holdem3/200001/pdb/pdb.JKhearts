@@ -1,0 +1,2091 @@
+JKhearts  948000149  2  2 B   -     -     -         8241   50   75 
+JKhearts  948000164  2  1 Bc  kf    -     -         8266   50    0 
+JKhearts  948000174  2  2 B   -     -     -         8216   50   75 
+JKhearts  948000177  2  1 Bf  -     -     -         8241   25    0 
+JKhearts  948000180  2  2 B   -     -     -         8216   50   75 
+JKhearts  948000182  2  1 Bc  kf    -     -         8241   50    0 
+JKhearts  948000192  2  2 Bf  -     -     -         8191   50    0 
+JKhearts  948000196  2  1 Bcc kc    kc    kc        8141  350  700 3s 3d
+JKhearts  948000221  2  2 Br  b     b     -         8491  300  500 
+JKhearts  948000235  2  1 Bcc kf    -     -         8691  100    0 
+JKhearts  948000245  2  2 B   -     -     -         8591   50   75 
+JKhearts  948000247  2  1 Bf  -     -     -         8616   25    0 
+JKhearts  948000249  2  2 B   -     -     -         8591   50   75 
+JKhearts  948000250  2  1 Bc  k     k     k         8616   50  100 Th 9h
+JKhearts  948000278  2  2 B   -     -     -         8666   50   75 
+JKhearts  948000284  2  1 Bf  -     -     -         8691   25    0 
+JKhearts  948000285  2  2 B   -     -     -         8666   50   75 
+JKhearts  948000289  2  1 Bc  k     k     k         8691   50  100 7d 9c
+JKhearts  948000301  2  2 B   -     -     -         8741   50   75 
+JKhearts  948000304  2  1 Br  b     bc    kc        8766  450    0 Ah Ac
+JKhearts  948000320  2  2 B   -     -     -         8316   50   75 
+JKhearts  948000323  2  1 Bf  -     -     -         8341   25    0 
+JKhearts  948000326  2  2 Bf  -     -     -         8316   50    0 
+JKhearts  948000330  2  1 Br  -     -     -         8266  100  150 
+JKhearts  948000334  2  2 Bf  -     -     -         8316   50    0 
+JKhearts  948000338  2  1 Bf  -     -     -         8266   25    0 
+JKhearts  948000341  2  2 Bf  -     -     -         8241   50    0 
+JKhearts  948000345  2  1 Bf  -     -     -         8191   25    0 
+JKhearts  948000347  2  2 B   -     -     -         8166   50   75 
+JKhearts  948000349  2  1 Bf  -     -     -         8191   25    0 
+JKhearts  948000352  2  2 B   -     -     -         8166   50   75 
+JKhearts  948000354  2  1 Bf  -     -     -         8191   25    0 
+JKhearts  948000357  2  2 Bf  -     -     -         8166   50    0 
+JKhearts  948000361  2  1 Bf  -     -     -         8116   25    0 
+JKhearts  948000365  2  2 Bf  -     -     -         8091   50    0 
+JKhearts  948000372  2  1 Bf  -     -     -         8041   25    0 
+JKhearts  948000375  2  2 BQ  -     -     -         8016   50    0 
+JKhearts  948249398  5  3 f   -     -     -         9418    0    0 
+JKhearts  948249414  5  2 Bk  kc    k     k         9418  100    0 7s Tc
+JKhearts  948249450  6  1 Bf  -     -     -         9318   25    0 
+JKhearts  948249464  5  5 f   -     -     -         9293    0    0 
+JKhearts  948249473  5  4 f   -     -     -         9293    0    0 
+JKhearts  948249517  6  4 f   -     -     -         9293    0    0 
+JKhearts  948249534  6  3 f   -     -     -         9293    0    0 
+JKhearts  948249555  7  2 Br  k     b     -         9293  250  400 
+JKhearts  948249575  7  1 Bc  k     kf    -         9443   50    0 
+JKhearts  948249607  7  7 f   -     -     -         9393    0    0 
+JKhearts  948249626  7  6 f   -     -     -         9393    0    0 
+JKhearts  948249652  7  5 f   -     -     -         9393    0    0 
+JKhearts  948249668  7  4 f   -     -     -         9393    0    0 
+JKhearts  948249685  7  3 f   -     -     -         9393    0    0 
+JKhearts  948249709  7  2 Bk  c     c     c         9393  300  900 6c 2h
+JKhearts  948249753  7  1 Bf  -     -     -         9993   25    0 
+JKhearts  948249791  7  7 c   f     -     -         9968  100    0 
+JKhearts  948249823  7  6 f   -     -     -         9868    0    0 
+JKhearts  948249828  7  5 r   b     b     k         9868  250  525 As Kc
+JKhearts  948249865  6  3 f   -     -     -        10143    0    0 
+JKhearts  948249895  6  2 Bf  -     -     -        10143   50    0 
+JKhearts  948249908  6  1 Bc  kf    -     -        10093   50    0 
+JKhearts  948249940  6  6 c   r     k     k        10043  150  200 Th As
+JKhearts  948249987  6  5 f   -     -     -        10093    0    0 
+JKhearts  948250010  6  4 f   -     -     -        10093    0    0 
+JKhearts  948250030  6  3 f   -     -     -        10093    0    0 
+JKhearts  948250044  6  2 Bk  k     b     kc       10093  250    0 Qc 9c
+JKhearts  948250087  7  1 Bc  kf    -     -         9843   50    0 
+JKhearts  948250128  7  7 f   -     -     -         9793    0    0 
+JKhearts  948250165  7  6 f   -     -     -         9793    0    0 
+JKhearts  948250174  7  5 f   -     -     -         9793    0    0 
+JKhearts  948250226  7  4 f   -     -     -         9793    0    0 
+JKhearts  948250252  7  3 f   -     -     -         9793    0    0 
+JKhearts  948250281  7  2 B   -     -     -         9793   50   75 
+JKhearts  948250289  7  1 Bf  -     -     -         9818   25    0 
+JKhearts  948250334  7  7 f   -     -     -         9793    0    0 
+JKhearts  948250344  6  5 f   -     -     -         9793    0    0 
+JKhearts  948250349  6  5 f   -     -     -         9793    0    0 
+JKhearts  948250406  6  4 c   c     f     -         9793  100    0 
+JKhearts  948250440  6  3 f   -     -     -         9693    0    0 
+JKhearts  948250467  6  2 B   -     -     -         9693   50   75 
+JKhearts  948250481  6  1 Bf  -     -     -         9718   25    0 
+JKhearts  948250509  6  6 f   -     -     -         9693    0    0 
+JKhearts  948250537  6  5 f   -     -     -         9693    0    0 
+JKhearts  948250556  6  4 f   -     -     -         9693    0    0 
+JKhearts  948250571  6  3 f   -     -     -         9693    0    0 
+JKhearts  948250615  6  2 B   -     -     -         9693   50   75 
+JKhearts  948250618  6  1 Bf  -     -     -         9718   25    0 
+JKhearts  948250639  7  7 c   b     k     k         9693  100    0 Tc Qd
+JKhearts  948250670  7  6 f   -     -     -         9593    0    0 
+JKhearts  948250722  7  5 f   -     -     -         9593    0    0 
+JKhearts  948250735  7  4 f   -     -     -         9593    0    0 
+JKhearts  948250743  7  3 f   -     -     -         9593    0    0 
+JKhearts  948250773  7  2 Bk  kf    -     -         9593   50    0 
+JKhearts  948250789  7  1 Bf  -     -     -         9543   25    0 
+JKhearts  948250821  7  7 f   -     -     -         9518    0    0 
+JKhearts  948250840  7  6 f   -     -     -         9518    0    0 
+JKhearts  948250869  6  4 f   -     -     -         9518    0    0 
+JKhearts  948250883  6  3 f   -     -     -         9518    0    0 
+JKhearts  948250907  6  2 Br  b     b     k         9518  250  625 Qs Qh
+JKhearts  948250950  6  1 Bf  -     -     -         9893   25    0 
+JKhearts  948250979  6  6 f   -     -     -         9868    0    0 
+JKhearts  948250997  6  5 f   -     -     -         9868    0    0 
+JKhearts  948251023  6  4 f   -     -     -         9868    0    0 
+JKhearts  948251041  6  3 r   c     k     k         9868  150    0 Ad Jc
+JKhearts  948251065  6  2 Bf  -     -     -         9718   50    0 
+JKhearts  948251085  6  1 Br  -     -     -         9668  100  150 
+JKhearts  948251100  6  6 f   -     -     -         9718    0    0 
+JKhearts  948251104  6  5 f   -     -     -         9718    0    0 
+JKhearts  948251118  6  4 f   -     -     -         9718    0    0 
+JKhearts  948251135  6  3 f   -     -     -         9718    0    0 
+JKhearts  948251141  6  2 Bf  -     -     -         9718   50    0 
+JKhearts  948251166  6  1 Bf  -     -     -         9668   25    0 
+JKhearts  948251189  6  6 c   f     -     -         9643   50    0 
+JKhearts  948251235  6  5 f   -     -     -         9593    0    0 
+JKhearts  948251244  6  4 r   b     b     k         9593  300  875 Kd Kh
+JKhearts  948251271  6  3 f   -     -     -        10168    0    0 
+JKhearts  948251291  6  2 Bf  -     -     -        10168   50    0 
+JKhearts  948251318  6  1 Bf  -     -     -        10118   25    0 
+JKhearts  948251342  6  6 f   -     -     -        10093    0    0 
+JKhearts  948251357  6  5 f   -     -     -        10093    0    0 
+JKhearts  948251364  6  4 f   -     -     -        10093    0    0 
+JKhearts  948251392  6  3 f   -     -     -        10093    0    0 
+JKhearts  948251426  6  2 Bf  -     -     -        10093   50    0 
+JKhearts  948251469  4  1 Bf  -     -     -        10043   25    0 
+JKhearts  948251476  4  4 f   -     -     -        10018    0    0 
+JKhearts  948251494  4  4 Q   -     -     -        10018    0    0 
+JKhearts  948337481  3  3 f   -     -     -         9868    0    0 
+JKhearts  948337488  3  2 Bc  k     kc    k         9868  200  425 7h 8h
+JKhearts  948337507  4  1 Bf  -     -     -        10093   25    0 
+JKhearts  948337535  4  4 f   -     -     -        10068    0    0 
+JKhearts  948337556  4  3 f   -     -     -        10068    0    0 
+JKhearts  948337574  4  2 Br  b     b     b        10068  350  700 Qc Qh
+JKhearts  948337596  4  1 Bf  -     -     -        10418   25    0 
+JKhearts  948337604  4  4 f   -     -     -        10393    0    0 
+JKhearts  948337620  4  3 f   -     -     -        10393    0    0 
+JKhearts  948337630  4  2 Bf  -     -     -        10393   50    0 
+JKhearts  948337648  4  1 Bf  -     -     -        10343   25    0 
+JKhearts  948337672  4  4 f   -     -     -        10318    0    0 
+JKhearts  948337695  4  3 f   -     -     -        10318    0    0 
+JKhearts  948337711  5  2 Bf  -     -     -        10318   50    0 
+JKhearts  948337721  5  1 Br  kr    kc    kc       10268  400  850 7s 7h
+JKhearts  948337747  5  5 f   -     -     -        10718    0    0 
+JKhearts  948337754  5  4 f   -     -     -        10718    0    0 
+JKhearts  948337784  5  3 f   -     -     -        10718    0    0 
+JKhearts  948337799  5  2 Bc  kf    -     -        10718  100    0 
+JKhearts  948337810  5  1 Bf  -     -     -        10618   25    0 
+JKhearts  948337823  5  5 rc  c     b     -        10593  300  525 
+JKhearts  948337849  5  4 f   -     -     -        10818    0    0 
+JKhearts  948337887  5  3 f   -     -     -        10818    0    0 
+JKhearts  948337901  5  2 Bk  k     c     c        10818  250    0 Ac 4s
+JKhearts  948337932  5  1 Bcc kf    -     -        10568  100    0 
+JKhearts  948337958  5  5 f   -     -     -        10468    0    0 
+JKhearts  948337963  5  4 f   -     -     -        10468    0    0 
+JKhearts  948337980  5  3 f   -     -     -        10468    0    0 
+JKhearts  948338004  5  2 Bf  -     -     -        10468   50    0 
+JKhearts  948338040  5  1 Br  br    b     b        10418  450  900 Kh Ks
+JKhearts  948338062  6  6 f   -     -     -        10868    0    0 
+JKhearts  948338076  6  5 cc  f     -     -        10868  100    0 
+JKhearts  948338105  6  4 f   -     -     -        10768    0    0 
+JKhearts  948338114  6  3 f   -     -     -        10768    0    0 
+JKhearts  948338123  6  2 Bf  -     -     -        10768   50    0 
+JKhearts  948338155  6  1 Bf  -     -     -        10718   25    0 
+JKhearts  948338162  6  6 f   -     -     -        10693    0    0 
+JKhearts  948338219  6  5 r   -     -     -        10693  100  175 
+JKhearts  948338237  6  4 r   k     k     k        10768  100  275 Qd Qh
+JKhearts  948338260  6  3 r   r     c     k        10943  300  800 Kc Ad
+JKhearts  948338293  6  2 B   -     -     -        11443   50   75 
+JKhearts  948338325  6  1 Bf  -     -     -        11468   25    0 
+JKhearts  948338332  6  6 f   -     -     -        11443    0    0 
+JKhearts  948338350  6  5 cc  f     -     -        11443  150    0 
+JKhearts  948338370  6  4 f   -     -     -        11293    0    0 
+JKhearts  948338378  6  3 f   -     -     -        11293    0    0 
+JKhearts  948338405  6  2 Bf  -     -     -        11293   50    0 
+JKhearts  948338412  6  1 Bf  -     -     -        11243   25    0 
+JKhearts  948338431  6  6 r   b     b     -        11218  250  425 
+JKhearts  948338464  6  5 f   -     -     -        11393    0    0 
+JKhearts  948338491  6  4 f   -     -     -        11393    0    0 
+JKhearts  948338525  5  2 Bc  kc    k     k        11393  150  425 Qh Ah
+JKhearts  948338555  5  1 Bc  kc    k     b        11668  200  350 
+JKhearts  948338587  4  4 f   -     -     -        11818    0    0 
+JKhearts  948338612  4  3 f   -     -     -        11818    0    0 
+JKhearts  948338623  4  2 Bf  -     -     -        11818   50    0 
+JKhearts  948338629  4  1 Bc  kf    -     -        11768   50    0 
+JKhearts  948338656  4  4 Q   -     -     -        11718    0    0 
+JKhearts  948339516  6  2 Bf  -     -     -        11718   50    0 
+JKhearts  948339524  6  1 Bc  kf    -     -        11668  100    0 
+JKhearts  948339557  6  6 f   -     -     -        11568    0    0 
+JKhearts  948339577  6  5 c   f     -     -        11568   50    0 
+JKhearts  948339614  6  4 f   -     -     -        11518    0    0 
+JKhearts  948339644  6  3 f   -     -     -        11518    0    0 
+JKhearts  948339662  6  2 Bf  -     -     -        11518   50    0 
+JKhearts  948339699  6  1 Bc  kf    -     -        11468  100    0 
+JKhearts  948339730  6  6 f   -     -     -        11368    0    0 
+JKhearts  948339757  6  5 f   -     -     -        11368    0    0 
+JKhearts  948339790  6  4 r   b     k     c        11368  250  600 Kd Kc
+JKhearts  948339818  6  3 f   -     -     -        11718    0    0 
+JKhearts  948339836  6  2 Bc  kf    -     -        11718  100    0 
+JKhearts  948339861  6  1 Bf  -     -     -        11618   25    0 
+JKhearts  948339884  6  6 f   -     -     -        11593    0    0 
+JKhearts  948339928  5  4 f   -     -     -        11593    0    0 
+JKhearts  948339957  5  4 f   -     -     -        11593    0    0 
+JKhearts  948339966  5  3 cc  kc    k     k        11593  150    0 Tc As
+JKhearts  948339994  5  2 Bf  -     -     -        11443   50    0 
+JKhearts  948340003  5  1 Bf  -     -     -        11393   25    0 
+JKhearts  948340009  5  5 f   -     -     -        11368    0    0 
+JKhearts  948340033  5  4 f   -     -     -        11368    0    0 
+JKhearts  948340055  5  3 f   -     -     -        11368    0    0 
+JKhearts  948340075  5  2 Bf  -     -     -        11368   50    0 
+JKhearts  948340087  5  1 Bf  -     -     -        11318   25    0 
+JKhearts  948340117  4  4 cc  c     c     f        11293  350    0 
+JKhearts  948340147  5  3 cc  kf    -     -        10943  100    0 
+JKhearts  948340169  5  2 Bf  -     -     -        10843   50    0 
+JKhearts  948340176  5  1 Bc  kc    k     brr      10793  650 1350 9s Tc
+JKhearts  948340210  5  5 f   -     -     -        11493    0    0 
+JKhearts  948340234  5  4 f   -     -     -        11493    0    0 
+JKhearts  948340243  5  3 f   -     -     -        11493    0    0 
+JKhearts  948340273  5  2 Bk  kc    kc    kc       11493  300    0 7s Qs
+JKhearts  948340300  5  1 Bc  b     bc    kc       11193  450 1100 5d 8d
+JKhearts  948340332  5  5 f   -     -     -        11843    0    0 
+JKhearts  948340340  5  4 f   -     -     -        11843    0    0 
+JKhearts  948340381  5  3 f   -     -     -        11843    0    0 
+JKhearts  948340416  5  2 Bk  kf    -     -        11843   50    0 
+JKhearts  948340437  5  1 Bc  kc    k     k        11793  150  400 Kd 2d
+JKhearts  948340459  5  5 Q   -     -     -        12043    0    0 
+JKhearts  948340549  5  2 B   -     -     -        12043   50   75 
+JKhearts  948340563  5  1 Bc  k     k     k        12068   50  100 Kd 6d
+JKhearts  948340577  5  5 f   -     -     -        12118    0    0 
+JKhearts  948340599  5  4 r   r     -     -        12118  200  375 
+JKhearts  948340622  5  3 f   -     -     -        12293    0    0 
+JKhearts  948340632  5  2 B   -     -     -        12293   50   75 
+JKhearts  948340639  5  1 Bf  -     -     -        12318   25    0 
+JKhearts  948340649  5  5 f   -     -     -        12293    0    0 
+JKhearts  948340653  5  4 f   -     -     -        12293    0    0 
+JKhearts  948340685  5  3 f   -     -     -        12293    0    0 
+JKhearts  948340704  5  2 Bf  -     -     -        12293   50    0 
+JKhearts  948340720  5  1 Bcc kf    -     -        12243  100    0 
+JKhearts  948340736  5  5 f   -     -     -        12143    0    0 
+JKhearts  948340784  5  4 r   k     c     c        12143  300  700 Ad Jc
+JKhearts  948340805  5  3 f   -     -     -        12543    0    0 
+JKhearts  948340821  5  2 Bk  kf    -     -        12543   50    0 
+JKhearts  948340840  5  1 Bf  -     -     -        12493   25    0 
+JKhearts  948340862  5  5 f   -     -     -        12468    0    0 
+JKhearts  948340888  5  4 cc  kc    k     kf       12468  150    0 
+JKhearts  948340939  5  3 fQ  -     -     -        12318    0    0 
+JKhearts  948342037  6  3 f   -     -     -        12318    0    0 
+JKhearts  948342073  6  2 Bk  b     k     k        12318  100    0 Ac Jd
+JKhearts  948342098  6  1 Bf  -     -     -        12218   25    0 
+JKhearts  948342120  6  6 f   -     -     -        12193    0    0 
+JKhearts  948342137  6  5 f   -     -     -        12193    0    0 
+JKhearts  948342180  6  4 f   -     -     -        12193    0    0 
+JKhearts  948342206  6  3 f   -     -     -        12193    0    0 
+JKhearts  948342230  6  2 Bc  kf    -     -        12193  100    0 
+JKhearts  948342267  6  1 Bf  -     -     -        12093   25    0 
+JKhearts  948342287  6  6 f   -     -     -        12068    0    0 
+JKhearts  948342317  6  5 c   c     f     -        12068  100    0 
+JKhearts  948342349  6  4 f   -     -     -        11968    0    0 
+JKhearts  948342378  6  3 f   -     -     -        11968    0    0 
+JKhearts  948342407  6  2 Bk  f     -     -        11968   50    0 
+JKhearts  948342435  6  1 Bf  -     -     -        11918   25    0 
+JKhearts  948342469  6  6 f   -     -     -        11893    0    0 
+JKhearts  948342520  6  5 f   -     -     -        11893    0    0 
+JKhearts  948342546  6  4 f   -     -     -        11893    0    0 
+JKhearts  948342567  5  2 B   -     -     -        11893   50   75 
+JKhearts  948342571  5  1 Bf  -     -     -        11918   25    0 
+JKhearts  948342589  4  4 c   f     -     -        11893   50    0 
+JKhearts  948342601  4  3 f   -     -     -        11843    0    0 
+JKhearts  948342608  4  2 Bc  kc    kc    kf       11843  300    0 
+JKhearts  948342638  4  1 Br  b     -     -        11543  200  400 
+JKhearts  948342656  4  4 f   -     -     -        11743    0    0 
+JKhearts  948342678  4  3 f   -     -     -        11743    0    0 
+JKhearts  948342687  4  2 Bf  -     -     -        11743   50    0 
+JKhearts  948342697  4  1 Bf  -     -     -        11693   25    0 
+JKhearts  948342720  4  4 f   -     -     -        11668    0    0 
+JKhearts  948342744  4  3 r   b     -     -        11668  150  275 
+JKhearts  948342764  4  2 Bf  -     -     -        11793   50    0 
+JKhearts  948342774  4  1 Bf  -     -     -        11743   25    0 
+JKhearts  948342787  4  4 r   -     -     -        11718  100  175 
+JKhearts  948342800  4  3 f   -     -     -        11793    0    0 
+JKhearts  948342828  4  2 Bcc bc    kc    kc       11793  500 1325 8s 7s
+JKhearts  948342863  5  1 Bf  -     -     -        12618   25    0 
+JKhearts  948342877  5  5 f   -     -     -        12593    0    0 
+JKhearts  948342890  5  4 f   -     -     -        12593    0    0 
+JKhearts  948342929  5  3 rc  rr    b     k        12593  450 1225 Tc Th
+JKhearts  948342974  5  2 Bf  -     -     -        13368   50    0 
+JKhearts  948343001  5  1 Bf  -     Q     -        13318   25    0 
+JKhearts  948343073  4  2 Bc  r     b     b        13293  400  900 Kd 9d
+JKhearts  948343102  4  1 Bf  -     -     -        13793   25    0 
+JKhearts  948343112  4  4 f   -     -     -        13768    0    0 
+JKhearts  948343122  4  3 rc  b     b     br       13768  600 1175 
+JKhearts  948343147  4  2 Bf  -     -     -        14343   50    0 
+JKhearts  948343154  4  1 Bc  kf    -     -        14293  100    0 
+JKhearts  948343185  4  4 c   f     -     -        14193   50    0 
+JKhearts  948343200  4  3 f   -     -     -        14143    0    0 
+JKhearts  948343216  4  2 Bf  -     -     -        14143   50    0 
+JKhearts  948343225  4  1 Br  k     kf    -        14093  150    0 
+JKhearts  948343249  4  4 c   b     -     -        13943  100  200 
+JKhearts  948343270  4  3 f   -     -     -        14043    0    0 
+JKhearts  948343289  4  2 B   -     -     -        14043   50   75 
+JKhearts  948343293  4  1 Bc  kf    -     -        14068   50    0 
+JKhearts  948343314  4  4 f   -     -     -        14018    0    0 
+JKhearts  948343321  4  3 f   -     -     -        14018    0    0 
+JKhearts  948343349  4  2 Bf  -     -     -        14018   50    0 
+JKhearts  948343374  4  1 Bf  -     -     -        13968   25    0 
+JKhearts  948343402  4  4 f   -     -     -        13943    0    0 
+JKhearts  948343408  4  3 f   -     -     -        13943    0    0 
+JKhearts  948343414  4  2 Bc  k     b     b        13943  300  625 8s 9d
+JKhearts  948343435  4  1 Bf  -     -     -        14268   25    0 
+JKhearts  948343451  4  4 c   b     -     -        14243  100  175 
+JKhearts  948343464  4  3 rc  c     c     c        14318  400 1050 Qh Ad
+JKhearts  948343483  4  2 Bf  -     -     -        14968   50    0 
+JKhearts  948343507  4  1 Bf  -     -     -        14918   25    0 
+JKhearts  948343524  4  4 f   -     -     -        14893    0    0 
+JKhearts  948343560  4  3 f   -     -     -        14893    0    0 
+JKhearts  948343589  4  2 Bc  k     kc    kf       14893  200    0 
+JKhearts  948343617  4  1 Bf  -     -     -        14693   25    0 
+JKhearts  948343636  4  4 f   -     -     -        14668    0    0 
+JKhearts  948343641  4  3 f   -     -     -        14668    0    0 
+JKhearts  948343660  4  2 Bf  -     -     -        14668   50    0 
+JKhearts  948343683  4  1 Bcc kc    k     k        14618  150  300 4h Kh
+JKhearts  948343705  4  4 f   -     -     -        14768    0    0 
+JKhearts  948343717  4  3 f   -     -     -        14768    0    0 
+JKhearts  948343723  4  2 Bc  k     kc    kf       14768  200    0 
+JKhearts  948343741  4  1 Bf  -     -     -        14568   25    0 
+JKhearts  948343765  4  4 c   r     k     k        14543  150  350 Kc Qc
+JKhearts  948343784  4  3 f   -     -     -        14743    0    0 
+JKhearts  948343790  4  2 Bf  -     -     -        14743   50    0 
+JKhearts  948343795  4  1 Bf  -     -     -        14693   25    0 
+JKhearts  948343812  4  4 f   -     -     -        14668    0    0 
+JKhearts  948343818  4  3 f   -     -     -        14668    0    0 
+JKhearts  948343828  4  2 B   -     -     -        14668   50   75 
+JKhearts  948343829  4  1 Bf  -     -     -        14693   25    0 
+JKhearts  948343847  4  4 f   -     -     -        14668    0    0 
+JKhearts  948343861  4  3 f   -     -     -        14668    0    0 
+JKhearts  948343871  4  2 Bc  k     kf    -        14668  100    0 
+JKhearts  948343901  4  1 Bf  -     -     -        14568   25    0 
+JKhearts  948343914  4  4 Q   -     -     -        14543    0    0 
+JKhearts  948428640  3  2 Bf  -     -     -        13928   50    0 
+JKhearts  948428648  3  1 Bf  -     -     -        13878   25    0 
+JKhearts  948428654  3  3 f   -     -     -        13853    0    0 
+JKhearts  948428660  3  2 Bc  kc    kf    -        13853  150    0 
+JKhearts  948428681  3  1 Bf  -     -     -        13703   25    0 
+JKhearts  948428686  3  3 f   -     -     -        13678    0    0 
+JKhearts  948428699  3  2 B   -     -     -        13678   50   75 
+JKhearts  948428701  3  1 Bf  -     -     -        13703   25    0 
+JKhearts  948428714  3  3 f   -     -     -        13678    0    0 
+JKhearts  948428734  3  2 Bf  -     -     -        13678   50    0 
+JKhearts  948428757  3  1 Bc  kf    -     -        13628  100    0 
+JKhearts  948428777  3  3 f   -     -     -        13528    0    0 
+JKhearts  948428796  3  2 B   -     -     -        13528   50   75 
+JKhearts  948428800  3  1 Bf  -     -     -        13553   25    0 
+JKhearts  948428817  3  3 f   -     -     -        13528    0    0 
+JKhearts  948428843  3  2 Bf  -     -     -        13528   50    0 
+JKhearts  948428848  3  1 Bc  k     kf    -        13478  100    0 
+JKhearts  948428861  3  3 f   -     -     -        13378    0    0 
+JKhearts  948428869  3  2 Bk  f     -     -        13378   50    0 
+JKhearts  948428890  3  1 Bf  -     -     -        13328   25    0 
+JKhearts  948428897  3  3 c   b     -     -        13303  100  200 
+JKhearts  948428909  3  2 Bc  k     k     k        13403  100    0 Jd 7s
+JKhearts  948428930  3  1 Bf  -     -     -        13303   25    0 
+JKhearts  948428952  3  3 f   -     -     -        13278    0    0 
+JKhearts  948428959  3  2 Bc  kr    bc    kc       13278  500    0 Kh 8h
+JKhearts  948428985  3  1 Bc  kf    -     -        12778   50    0 
+JKhearts  948428999  3  3 f   -     -     -        12728    0    0 
+JKhearts  948429002  3  2 Bc  c     k     k        12728  150  300 Qc 6c
+JKhearts  948429015  3  1 Bf  -     -     -        12878   25    0 
+JKhearts  948429021  3  3 f   -     -     -        12853    0    0 
+JKhearts  948429038  3  2 Bc  kc    kf    -        12853  150    0 
+JKhearts  948429058  3  1 Bf  -     -     -        12703   25    0 
+JKhearts  948429062  3  3 f   -     -     -        12678    0    0 
+JKhearts  948429074  3  2 B   -     -     -        12678   50   75 
+JKhearts  948429077  3  1 Bf  -     -     -        12703   25    0 
+JKhearts  948429098  3  3 r   bc    c     k        12678  300  625 Ac Jd
+JKhearts  948429118  3  2 Bf  -     -     -        13003   50    0 
+JKhearts  948429126  3  1 Bcc kf    -     -        12953  100    0 
+JKhearts  948429140  3  3 f   -     -     -        12853    0    0 
+JKhearts  948429145  3  2 B   -     -     -        12853   50   75 
+JKhearts  948429147  3  1 Bc  kc    k     kc       12878  250  550 Kh Jd
+JKhearts  948429171  3  3 f   -     -     -        13178    0    0 
+JKhearts  948429177  3  2 Bc  kf    -     -        13178  100    0 
+JKhearts  948429188  3  1 Bf  -     -     -        13078   25    0 
+JKhearts  948429206  3  3 f   -     -     -        13053    0    0 
+JKhearts  948429219  3  2 Bf  -     -     -        13053   50    0 
+JKhearts  948429223  3  1 Bc  kc    k     k        13003  150    0 Th Ac
+JKhearts  948429249  3  3 f   -     -     -        12853    0    0 
+JKhearts  948429260  3  2 Bf  -     -     -        12853   50    0 
+JKhearts  948429266  3  1 Bc  k     b     -        12803  150  250 
+JKhearts  948429282  3  3 f   -     -     -        12903    0    0 
+JKhearts  948429287  3  2 Bf  -     -     -        12903   50    0 
+JKhearts  948429291  3  1 Bc  bc    b     b        12853  400  750 
+JKhearts  948429308  3  3 f   -     -     -        13203    0    0 
+JKhearts  948429332  3  2 Bf  -     -     -        13203   50    0 
+JKhearts  948429343  3  1 Bc  k     b     -        13153  200  400 
+JKhearts  948429363  3  3 c   f     -     -        13353   50    0 
+JKhearts  948429382  3  2 Bc  kf    -     -        13303  100    0 
+JKhearts  948429394  3  1 Bf  -     -     -        13203   25    0 
+JKhearts  948429422  3  3 rc  c     c     k        13178  350  950 Jh As
+JKhearts  948429452  3  2 Bf  -     -     -        13778   50    0 
+JKhearts  948429460  3  1 Bf  -     -     -        13728   25    0 
+JKhearts  948429478  3  3 f   -     -     -        13703    0    0 
+JKhearts  948429482  3  2 B   -     -     -        13703   50   75 
+JKhearts  948429486  3  1 Bc  kc    kf    -        13728  100    0 
+JKhearts  948429520  3  3 r   b     b     b        13628  350  700 
+JKhearts  948429549  3  2 Bc  c     kf    -        13978  200    0 
+JKhearts  948429584  3  1 Bf  -     -     -        13778   25    0 
+JKhearts  948429590  3  3 rc  c     c     f        13753  300    0 
+JKhearts  948429612  3  2 Bf  -     -     -        13453   50    0 
+JKhearts  948429618  3  1 Bf  -     -     -        13403   25    0 
+JKhearts  948429644  3  3 f   -     -     -        13378    0    0 
+JKhearts  948429656  3  2 Bc  k     c     k        13378  200    0 Jh Kd
+JKhearts  948429666  3  1 Br  b     k     k        13178  200  450 Kd Ad
+JKhearts  948429686  3  3 f   -     -     -        13428    0    0 
+JKhearts  948429692  3  2 Bf  -     -     -        13428   50    0 
+JKhearts  948429716  4  1 Br  b     b     kc       13378  350    0 As 4s
+JKhearts  948429733  4  4 c   f     -     -        13028   50    0 
+JKhearts  948429757  4  3 f   -     -     -        12978    0    0 
+JKhearts  948429784  4  2 Bc  kf    -     -        12978  100    0 
+JKhearts  948429812  4  1 Bc  b     -     -        12878  100  150 
+JKhearts  948429822  4  4 f   -     -     -        12928    0    0 
+JKhearts  948429827  4  3 cc  c     c     k        12928  250    0 Ac 9c
+JKhearts  948429856  4  2 Bk  f     -     -        12678   50    0 
+JKhearts  948429867  4  1 Bf  -     -     -        12628   25    0 
+JKhearts  948429890  4  4 f   -     -     -        12603    0    0 
+JKhearts  948429927  4  3 f   -     -     -        12603    0    0 
+JKhearts  948429944  4  2 B   -     -     -        12603   50   75 
+JKhearts  948429949  4  1 Br  -     -     -        12628  100  150 
+JKhearts  948429955  4  4 r   k     c     c        12678  350    0 Ah Kd
+JKhearts  948429969  4  3 f   -     -     -        12328    0    0 
+JKhearts  948429984  4  2 Br  b     -     -        12328  200  350 
+JKhearts  948429995  4  1 Bf  -     -     -        12478   25    0 
+JKhearts  948430001  4  4 f   -     -     -        12453    0    0 
+JKhearts  948430021  4  3 r   f     -     -        12453  100    0 
+JKhearts  948430043  4  2 Bc  kf    -     -        12353  100    0 
+JKhearts  948430063  4  1 Bf  -     -     -        12253   25    0 
+JKhearts  948430086  4  4 c   c     c     f        12228  250    0 
+JKhearts  948430115  3  3 f   -     -     -        11978    0    0 
+JKhearts  948430118  3  2 Bc  k     f     -        11978  100    0 
+JKhearts  948430128  4  1 Br  b     -     -        11878  200  400 
+JKhearts  948430142  4  4 f   -     -     -        12078    0    0 
+JKhearts  948430159  4  3 f   -     -     -        12078    0    0 
+JKhearts  948430168  4  2 Bf  -     -     -        12078   50    0 
+JKhearts  948430194  4  1 Bf  -     -     -        12028   25    0 
+JKhearts  948430201  4  4 f   -     -     -        12003    0    0 
+JKhearts  948430211  3  2 Bf  -     -     -        12003   50    0 
+JKhearts  948430217  3  1 Bf  -     -     -        11953   25    0 
+JKhearts  948430220  3  3 f   -     -     -        11928    0    0 
+JKhearts  948430229  3  2 Bf  -     -     -        11928   50    0 
+JKhearts  948430235  3  1 Bf  -     -     -        11878   25    0 
+JKhearts  948430240  3  3 r   b     -     -        11853  150  350 
+JKhearts  948430254  3  2 Bk  kf    -     -        12053   50    0 
+JKhearts  948430263  3  1 Bc  bc    k     k        12003  150    0 7c 5c
+JKhearts  948430278  3  3 f   -     -     -        11853    0    0 
+JKhearts  948430300  3  2 Bc  k     b     b        11853  300  625 3h Qc
+JKhearts  948430314  3  1 Bc  k     k     k        12178   50  100 Kc 3h
+JKhearts  948430333  3  3 f   -     -     -        12228    0    0 
+JKhearts  948430345  3  2 Br  b     -     -        12228  200  350 
+JKhearts  948430360  3  1 Bf  -     -     -        12378   25    0 
+JKhearts  948430380  3  3 f   -     -     -        12353    0    0 
+JKhearts  948430386  3  2 Bc  c     r     -        12353  350  600 
+JKhearts  948430402  3  1 Bf  -     -     -        12603   25    0 
+JKhearts  948430409  3  3 c   f     -     -        12578   50    0 
+JKhearts  948430433  3  2 Bk  kf    -     -        12528   50    0 
+JKhearts  948430447  3  1 Bf  -     -     -        12478   25    0 
+JKhearts  948430452  3  3 c   k     f     -        12453   50    0 
+JKhearts  948430466  3  2 B   -     -     -        12403   50   75 
+JKhearts  948430469  3  1 Bc  k     kf    -        12428  100    0 
+JKhearts  948430492  3  3 f   -     -     -        12328    0    0 
+JKhearts  948430498  3  2 Bc  kf    -     -        12328  100    0 
+JKhearts  948430512  3  1 Bf  -     -     -        12228   25    0 
+JKhearts  948430513  3  3 r   b     b     b        12203  350  650 
+JKhearts  948430534  3  2 Br  br    k     c        12503  400  800 8d 8c
+JKhearts  948430558  3  1 Bf  -     -     -        12903   25    0 
+JKhearts  948430566  3  3 c   k     f     -        12878   50    0 
+JKhearts  948430612  3  2 B   -     -     -        12828   50   75 
+JKhearts  948430617  3  1 Bcc b     -     -        12853  150  250 
+JKhearts  948430628  3  3 f   -     -     -        12953    0    0 
+JKhearts  948430632  3  2 Bc  k     k     f        12953  100    0 
+JKhearts  948430657  3  1 Bc  k     b     b        12853  300  600 
+JKhearts  948430683  4  4 f   -     -     -        13153    0    0 
+JKhearts  948430714  5  3 c   k     k     f        13153   50    0 
+JKhearts  948430746  5  2 Bc  kf    -     -        13103  100    0 
+JKhearts  948430762  5  1 Bc  b     b     b        13003  300  600 Qs 7d
+JKhearts  948430783  4  4 f   -     -     -        13303    0    0 
+JKhearts  948430793  4  3 f   -     -     -        13303    0    0 
+JKhearts  948430799  4  2 Bk  kf    -     -        13303   50    0 
+JKhearts  948430815  4  1 Bf  -     -     -        13253   25    0 
+JKhearts  948430823  4  4 c   c     c     c        13228  300  675 Ac 7s
+JKhearts  948430864  4  3 f   -     -     -        13603    0    0 
+JKhearts  948430874  4  2 Bc  kc    kf    -        13603  150    0 
+JKhearts  948430888  4  1 Bf  -     -     -        13453   25    0 
+JKhearts  948430905  4  4 fQ  -     -     -        13428    0    0 
+JKhearts  948430949  3  3 f   -     -     -        13428    0    0 
+JKhearts  948430966  3  2 Bf  -     -     -        13428   50    0 
+JKhearts  948430974  3  1 Bf  -     -     -        13378   25    0 
+JKhearts  948430993  3  3 f   -     -     -        13353    0    0 
+JKhearts  948431002  3  2 Bk  f     -     -        13353   50    0 
+JKhearts  948431018  4  1 Bf  -     -     -        13303   25    0 
+JKhearts  948431048  4  4 f   -     -     -        13278    0    0 
+JKhearts  948431060  4  3 f   -     -     -        13278    0    0 
+JKhearts  948431081  4  2 Bc  c     k     k        13278  150    0 Qs Td
+JKhearts  948431116  4  1 Bc  kf    -     -        13128   50    0 
+JKhearts  948431165  4  4 f   -     -     -        13078    0    0 
+JKhearts  948431172  3  2 f   -     -     -        13078    0    0 
+JKhearts  948431182  3  2 Bk  kf    -     -        13078   50    0 
+JKhearts  948431193  3  1 Bf  -     -     -        13028   25    0 
+JKhearts  948431217  3  3 r   -     -     -        13003  100  175 
+JKhearts  948431222  3  2 Bc  c     f     -        13078  150    0 
+JKhearts  948431235  3  1 Bc  k     k     k        12928   50  100 2h 2d
+JKhearts  948431248  3  3 r   -     -     -        12978  100  175 
+JKhearts  948431259  3  2 Bf  -     -     -        13053   50    0 
+JKhearts  948431265  3  1 Bc  kf    -     -        13003   50    0 
+JKhearts  948431282  3  3 f   -     -     -        12953    0    0 
+JKhearts  948431287  3  2 Bk  k     f     -        12953   50    0 
+JKhearts  948431296  3  1 Bf  -     -     -        12903   25    0 
+JKhearts  948431312  3  3 f   -     -     -        12878    0    0 
+JKhearts  948431329  3  2 Bk  f     -     -        12878   50    0 
+JKhearts  948431350  3  1 Bf  -     -     -        12828   25    0 
+JKhearts  948431356  3  3 f   -     -     -        12803    0    0 
+JKhearts  948431369  3  2 Bf  -     -     -        12803   50    0 
+JKhearts  948431377  3  1 Bc  kc    k     k        12753  100    0 9d 8h
+JKhearts  948431397  3  3 c   k     b     -        12653  150  250 
+JKhearts  948431415  3  2 Bk  c     c     rc       12753  500    0 9s 6s
+JKhearts  948431432  3  1 Bf  -     -     -        12253   25    0 
+JKhearts  948431439  3  3 c   f     -     -        12228   50    0 
+JKhearts  948431452  3  2 B   -     -     -        12178   50   75 
+JKhearts  948431454  3  1 Bc  b     -     -        12203  150  300 
+JKhearts  948431468  3  3 f   -     -     -        12353    0    0 
+JKhearts  948431472  3  2 Br  k     k     k        12353  150  300 Tc Ah
+JKhearts  948431488  3  1 Bc  kc    kc    krc      12503  550 1250 Ts Js
+JKhearts  948431521  3  3 f   -     -     -        13203    0    0 
+JKhearts  948431544  3  2 B   -     -     -        13203   50   75 
+JKhearts  948431551  3  1 Bf  -     -     -        13228   25    0 
+JKhearts  948431556  3  3 f   -     -     -        13203    0    0 
+JKhearts  948431577  3  2 Bk  f     -     -        13203   50    0 
+JKhearts  948431603  3  1 Bf  -     -     -        13153   25    0 
+JKhearts  948431622  3  3 f   -     -     -        13128    0    0 
+JKhearts  948431636  3  2 Bc  k     c     k        13128  200    0 4d 6s
+JKhearts  948431648  3  1 Bc  kf    -     -        12928  100    0 
+JKhearts  948431673  3  3 c   f     -     -        12828   50    0 
+JKhearts  948431685  3  2 Bf  -     -     -        12778   50    0 
+JKhearts  948431690  3  1 Bc  kc    k     kc       12728  250    0 Td Ks
+JKhearts  948431711  3  3 f   -     -     -        12478    0    0 
+JKhearts  948431743  3  2 Br  b     -     -        12478  150  275 
+JKhearts  948431755  3  1 Bf  -     -     -        12603   25    0 
+JKhearts  948431758  3  3 cc  f     -     -        12578  100    0 
+JKhearts  948431782  3  2 Bk  k     k     k        12478   50    0 3c 4d
+JKhearts  948431796  3  1 Bf  -     -     -        12428   25    0 
+JKhearts  948431814  3  3 f   -     -     -        12403    0    0 
+JKhearts  948431820  3  2 Bk  k     c     k        12403  150  300 4c 8h
+JKhearts  948431834  3  1 Bc  k     kf    -        12553  100    0 
+JKhearts  948431865  3  3 c   c     k     k        12453  100    0 Ts 7s
+JKhearts  948431877  3  2 Bk  f     -     -        12353   50    0 
+JKhearts  948431887  3  1 Br  b     bf    -        12303  300    0 
+JKhearts  948431905  3  3 cc  f     -     -        12003  100    0 
+JKhearts  948431917  3  2 Bk  c     k     f        11903  100    0 
+JKhearts  948431935  3  1 Bc  b     b     b        11803  350  800 8h 9c
+JKhearts  948431953  3  3 cc  f     -     -        12253  100    0 
+JKhearts  948431980  3  2 Bf  -     -     -        12153   50    0 
+JKhearts  948432002  3  1 Bf  -     -     -        12103   25    0 
+JKhearts  948432016  3  3 f   -     -     -        12078    0    0 
+JKhearts  948432018  3  2 Bc  br    k     c        12078  350    0 Qs Js
+JKhearts  948432040  3  1 Bf  -     -     -        11728   25    0 
+JKhearts  948432048  3  3 f   -     -     -        11703    0    0 
+JKhearts  948432050  3  2 Br  b     b     -        11703  250  550 
+JKhearts  948432067  3  1 Bf  -     -     -        12003   25    0 
+JKhearts  948432085  3  3 cc  f     -     -        11978  100    0 
+JKhearts  948432099  3  2 Bk  b     b     -        11878  200  350 
+JKhearts  948432116  3  1 Bc  kf    -     -        12028   50    0 
+JKhearts  948432139  3  3 f   -     -     -        11978    0    0 
+JKhearts  948432144  3  2 Bk  kf    -     -        11978   50    0 
+JKhearts  948432163  3  1 Br  b     bc    k        11928  400    0 Ac Qc
+JKhearts  948432182  3  3 f   -     -     -        11528    0    0 
+JKhearts  948432200  3  2 B   -     -     -        11528   50   75 
+JKhearts  948432202  3  1 Bc  kf    -     -        11553  100    0 
+JKhearts  948432224  3  3 f   -     -     -        11453    0    0 
+JKhearts  948432229  3  2 Bk  f     -     -        11453   50    0 
+JKhearts  948432248  3  1 Bf  -     -     -        11403   25    0 
+JKhearts  948432257  3  3 f   -     -     -        11378    0    0 
+JKhearts  948432261  3  2 Bk  f     -     -        11378   50    0 
+JKhearts  948432269  3  1 Bf  -     -     -        11328   25    0 
+JKhearts  948432272  3  3 f   -     -     -        11303    0    0 
+JKhearts  948432286  3  2 Bc  kf    -     -        11303  100    0 
+JKhearts  948432299  3  1 Bf  -     -     -        11203   25    0 
+JKhearts  948432304  3  3 f   -     -     -        11178    0    0 
+JKhearts  948432326  3  2 Bk  k     f     -        11178   50    0 
+JKhearts  948432347  3  1 Bf  -     -     -        11128   25    0 
+JKhearts  948432365  3  3 f   -     -     -        11103    0    0 
+JKhearts  948432380  3  2 Bc  c     k     b        11103  250  400 
+JKhearts  948432393  3  1 Bc  kc    k     k        11253  150  450 9d Ah
+JKhearts  948432413  3  3 f   -     -     -        11553    0    0 
+JKhearts  948432430  3  2 Bk  kf    -     -        11553   50    0 
+JKhearts  948432446  3  1 Bc  b     kc    kf       11503  200    0 
+JKhearts  948432467  3  3 f   -     -     -        11303    0    0 
+JKhearts  948432502  3  2 Bk  f     -     -        11303   50    0 
+JKhearts  948432523  3  1 Bf  -     -     -        11253   25    0 
+JKhearts  948432535  3  3 f   -     -     -        11228    0    0 
+JKhearts  948432539  3  2 Br  b     b     -        11228  250  500 
+JKhearts  948432568  3  1 Bf  -     -     -        11478   25    0 
+JKhearts  948432594  3  3 f   -     -     -        11453    0    0 
+JKhearts  948432602  3  2 Bk  f     -     -        11453   50    0 
+JKhearts  948432618  3  1 Bf  -     -     -        11403   25    0 
+JKhearts  948432622  3  3 c   c     b     b        11378  300  550 
+JKhearts  948432642  3  2 Bf  -     -     -        11628   50    0 
+JKhearts  948432652  3  1 Bc  k     k     b        11578  200  400 
+JKhearts  948432677  3  3 f   -     -     -        11778    0    0 
+JKhearts  948432680  3  2 Bf  -     -     -        11778   50    0 
+JKhearts  948432686  3  1 Bf  -     -     -        11728   25    0 
+JKhearts  948432694  3  3 f   -     -     -        11703    0    0 
+JKhearts  948432710  3  2 B   -     -     -        11703   50   75 
+JKhearts  948432716  3  1 Bf  -     -     -        11728   25    0 
+JKhearts  948432717  3  3 f   -     -     -        11703    0    0 
+JKhearts  948432768  3  2 Bk  r     b     kc       11703  350    0 9c 6d
+JKhearts  948432814  3  1 Br  k     k     kf       11353  100    0 
+JKhearts  948432835  3  3 f   -     -     -        11253    0    0 
+JKhearts  948432849  3  2 Bk  f     -     -        11253   50    0 
+JKhearts  948432869  3  1 Bf  -     -     -        11203   25    0 
+JKhearts  948432878  3  3 f   -     -     -        11178    0    0 
+JKhearts  948432896  3  2 Bk  f     -     -        11178   50    0 
+JKhearts  948432906  3  1 Bc  kf    -     -        11128   50    0 
+JKhearts  948432939  3  3 c   c     f     -        11078  100    0 
+JKhearts  948432986  3  2 Bf  -     -     -        10978   50    0 
+JKhearts  948515910  4  3 f   -     -     -        12391    0    0 
+JKhearts  948515913  4  2 Bc  kc    bc    kc       12391  450    0 9c 8c
+JKhearts  948515939  4  1 Bf  -     -     -        11941   25    0 
+JKhearts  948515964  4  4 f   -     -     -        11916    0    0 
+JKhearts  948515976  4  3 f   -     -     -        11916    0    0 
+JKhearts  948515989  4  2 B   -     -     -        11916   50   75 
+JKhearts  948515992  4  1 Bf  -     -     -        11941   25    0 
+JKhearts  948516003  4  4 r   b     -     -        11916  150  275 
+JKhearts  948516018  4  3 f   -     -     -        12041    0    0 
+JKhearts  948516021  4  2 Bk  kf    -     -        12041   50    0 
+JKhearts  948516036  4  1 Bf  -     -     -        11991   25    0 
+JKhearts  948516042  4  4 r   -     -     -        11966  100  175 
+JKhearts  948516058  4  3 f   -     -     -        12041    0    0 
+JKhearts  948516068  4  2 Bc  kf    -     -        12041  100    0 
+JKhearts  948516076  4  1 Bc  b     -     -        11941  100  150 
+JKhearts  948516087  4  4 f   -     -     -        11991    0    0 
+JKhearts  948516091  4  3 f   -     -     -        11991    0    0 
+JKhearts  948516094  4  2 Bc  kf    -     -        11991  100    0 
+JKhearts  948516120  4  1 Bf  -     -     -        11891   25    0 
+JKhearts  948516126  4  4 c   c     k     c        11866  250  800 Js Qh
+JKhearts  948516158  4  3 f   -     -     -        12416    0    0 
+JKhearts  948516172  4  2 Bf  -     Q     -        12416   50    0 
+JKhearts  948516399  4  4 rr  b     -     -        12366  250  475 
+JKhearts  948516432  4  3 f   -     -     -        12591    0    0 
+JKhearts  948516461  4  2 Bc  kf    -     -        12591  100    0 
+JKhearts  948516493  4  1 Bf  -     -     -        12491   25    0 
+JKhearts  948516520  4  4 f   -     -     -        12466    0    0 
+JKhearts  948516533  4  3 f   -     -     -        12466    0    0 
+JKhearts  948516537  4  2 Br  b     br    -        12466  500  925 
+JKhearts  948516556  4  1 Bcc kf    -     -        12891  100    0 
+JKhearts  948516577  4  4 f   -     -     -        12791    0    0 
+JKhearts  948516583  4  3 f   -     -     -        12791    0    0 
+JKhearts  948516601  4  2 Bk  kf    -     -        12791   50    0 
+JKhearts  948516621  4  1 Bf  -     -     -        12741   25    0 
+JKhearts  948516635  4  4 f   -     -     -        12716    0    0 
+JKhearts  948516654  4  3 f   -     -     -        12716    0    0 
+JKhearts  948516679  4  2 Bc  bc    k     kc       12716  350    0 Jd Qs
+JKhearts  948516713  4  1 Bf  -     -     -        12366   25    0 
+JKhearts  948516729  4  4 cr  c     c     f        12341  350    0 
+JKhearts  948516754  4  3 cc  k     f     -        11991  100    0 
+JKhearts  948516771  4  2 Bk  b     b     -        11891  200  300 
+JKhearts  948516785  4  1 Bc  kc    k     kc       11991  250    0 Js Kh
+JKhearts  948516806  4  4 f   -     -     -        11741    0    0 
+JKhearts  948516832  4  3 f   -     -     -        11741    0    0 
+JKhearts  948516856  4  2 B   -     -     -        11741   50   75 
+JKhearts  948516860  4  1 Bc  k     b     -        11766  150  250 
+JKhearts  948516883  4  4 f   -     -     -        11866    0    0 
+JKhearts  948516905  4  3 f   -     -     -        11866    0    0 
+JKhearts  948516914  4  2 Bc  kc    krr   -        11866  550 1025 
+JKhearts  948516936  4  1 Br  -     -     -        12341  100  150 
+JKhearts  948516944  4  4 f   -     -     -        12391    0    0 
+JKhearts  948516956  4  3 c   b     k     f        12391  100    0 
+JKhearts  948516980  4  2 B   -     -     -        12291   50   75 
+JKhearts  948516983  4  1 Bc  k     k     k        12316   50    0 7c 8h
+JKhearts  948516998  5  5 f   -     -     -        12266    0    0 
+JKhearts  948517034  5  4 cc  kc    kc    k        12266  250    0 Th Kd
+JKhearts  948517061  5  3 f   -     -     -        12016    0    0 
+JKhearts  948517101  5  2 Bc  b     -     -        12016  150  275 
+JKhearts  948517123  5  1 Bc  kf    -     -        12141  150    0 
+JKhearts  948517149  4  4 Q   -     -     -        11991    0    0 
+JKhearts  948517216  4  2 B   -     -     -        11991   50   75 
+JKhearts  948517223  4  1 Bf  -     -     -        12016   25    0 
+JKhearts  948517252  4  4 cc  c     k     k        11991  150  325 8s Ks
+JKhearts  948517276  4  3 f   -     -     -        12166    0    0 
+JKhearts  948517284  4  2 Bf  -     -     -        12166   50    0 
+JKhearts  948517295  4  1 Bf  -     -     -        12116   25    0 
+JKhearts  948517303  4  4 c   br    b     b        12091  400  775 
+JKhearts  948517331  4  3 f   -     -     -        12466    0    0 
+JKhearts  948517336  4  2 Bk  f     -     -        12466   50    0 
+JKhearts  948517349  4  1 Br  b     -     -        12416  150  300 
+JKhearts  948517387  4  4 cc  r     b     k        12566  350    0 Jc 8c
+JKhearts  948517412  4  3 f   -     -     -        12216    0    0 
+JKhearts  948517421  4  2 Bf  -     -     -        12216   50    0 
+JKhearts  948517442  4  1 Bc  kc    k     k        12166  150  350 7d Kd
+JKhearts  948517460  4  4 f   -     -     -        12366    0    0 
+JKhearts  948517484  4  3 f   -     -     -        12366    0    0 
+JKhearts  948517490  4  2 Bc  kf    -     -        12366  100    0 
+JKhearts  948517512  4  1 Bf  -     -     -        12266   25    0 
+JKhearts  948517516  4  4 f   -     -     -        12241    0    0 
+JKhearts  948517538  4  3 cc  f     -     -        12241  100    0 
+JKhearts  948517554  4  2 Bf  -     -     -        12141   50    0 
+JKhearts  948517558  4  1 Bf  -     -     -        12091   25    0 
+JKhearts  948517561  4  4 f   -     -     -        12066    0    0 
+JKhearts  948517573  4  3 f   -     -     -        12066    0    0 
+JKhearts  948517589  4  2 Bc  bc    kc    k        12066  350 1050 Kd Qh
+JKhearts  948517613  4  1 Bf  -     -     -        12766   25    0 
+JKhearts  948517626  4  4 f   -     -     -        12741    0    0 
+JKhearts  948517629  4  3 f   -     -     -        12741    0    0 
+JKhearts  948517631  4  2 B   -     -     -        12741   50   75 
+JKhearts  948517635  4  1 Bf  -     -     -        12766   25    0 
+JKhearts  948517649  4  4 r   -     -     -        12741  100  175 
+JKhearts  948517657  4  3 f   -     -     -        12816    0    0 
+JKhearts  948517670  4  2 Bk  f     -     -        12816   50    0 
+JKhearts  948517681  4  1 Bf  -     -     -        12766   25    0 
+JKhearts  948517693  4  4 f   -     -     -        12741    0    0 
+JKhearts  948517714  4  3 cc  br    b     k        12741  350  775 9h 8h
+JKhearts  948517732  4  2 Bf  -     -     -        13166   50    0 
+JKhearts  948517738  4  1 Bf  -     -     -        13116   25    0 
+JKhearts  948517744  4  4 f   -     -     -        13091    0    0 
+JKhearts  948517754  4  3 f   -     -     -        13091    0    0 
+JKhearts  948517760  4  2 Br  bc    kf    -        13091  250    0 
+JKhearts  948517776  4  1 Br  kc    kc    kc       12841  350    0 Qh Qc
+JKhearts  948517793  4  4 c   f     -     -        12491   50    0 
+JKhearts  948517818  4  3 f   -     -     -        12441    0    0 
+JKhearts  948517821  4  2 Bf  -     -     -        12441   50    0 
+JKhearts  948517825  5  1 Br  b     -     -        12391  150  250 
+JKhearts  948517839  4  4 f   -     -     -        12491    0    0 
+JKhearts  948517856  5  3 f   -     -     -        12491    0    0 
+JKhearts  948517865  5  2 Bc  kr    kf    -        12491  200    0 
+JKhearts  948517891  5  1 Bc  kc    k     k        12291  150    0 6h 9h
+JKhearts  948517911  5  5 f   -     -     -        12141    0    0 
+JKhearts  948517933  5  4 f   -     -     -        12141    0    0 
+JKhearts  948517961  5  3 f   -     -     -        12141    0    0 
+JKhearts  948517980  5  2 Bf  -     -     -        12141   50    0 
+JKhearts  948518004  5  1 Bf  -     -     -        12091   25    0 
+JKhearts  948518031  6  6 r   b     b     -        12066  250  475 
+JKhearts  948518054  7  6 f   -     -     -        12291    0    0 
+JKhearts  948518081  7  5 f   -     -     -        12291    0    0 
+JKhearts  948518106  7  4 rc  rc    c     c        12291  550    0 Kd Ks
+JKhearts  948518131  6  3 f   -     -     -        11741    0    0 
+JKhearts  948518154  6  2 Bk  r     b     -        11741  250  500 
+JKhearts  948518171  6  1 Bc  k     k     b        11991  150  350 Jd Th
+JKhearts  948518192  6  6 f   -     -     -        12191    0    0 
+JKhearts  948518209  6  5 f   -     -     -        12191    0    0 
+JKhearts  948518237  6  4 f   -     -     -        12191    0    0 
+JKhearts  948518244  6  3 f   -     -     -        12191    0    0 
+JKhearts  948518261  6  2 Bk  kf    -     -        12191   50    0 
+JKhearts  948518276  6  1 Bf  -     -     -        12141   25    0 
+JKhearts  948518297  6  6 f   -     -     -        12116    0    0 
+JKhearts  948518312  6  5 r   k     b     f        12116  200    0 
+JKhearts  948518341  6  4 f   -     -     -        11916    0    0 
+JKhearts  948518366  6  3 f   -     -     -        11916    0    0 
+JKhearts  948518380  6  2 B   -     -     -        11916   50   75 
+JKhearts  948518387  6  1 Bf  -     -     -        11941   25    0 
+JKhearts  948518392  6  6 r   b     b     k        11916  250  525 Qd 9d
+JKhearts  948518419  6  5 f   -     -     -        12191    0    0 
+JKhearts  948518432  6  4 r   b     b     k        12191  250  550 Ks Kd
+JKhearts  948518454  5  3 f   -     -     -        12491    0    0 
+JKhearts  948518462  5  2 Bc  r     r     k        12491  400  900 6s 6h
+JKhearts  948518479  5  1 Br  b     kc    kc       12991  350    0 Jd Qd
+JKhearts  948518503  5  5 f   -     -     -        12641    0    0 
+JKhearts  948518526  5  4 f   -     -     -        12641    0    0 
+JKhearts  948518535  5  3 c   k     b     c        12641  250    0 9h Jh
+JKhearts  948518577  5  1 Bf  -     -     -        12391   50    0 
+JKhearts  948518587  5  1 Bf  -     -     -        12341   25    0 
+JKhearts  948518592  5  5 r   -     -     -        12316  100  175 
+JKhearts  948518599  5  4 f   -     -     -        12391    0    0 
+JKhearts  948518634  5  3 f   -     -     -        12391    0    0 
+JKhearts  948518644  6  2 Bk  b     b     -        12391  200  325 
+JKhearts  948518658  7  1 Bf  -     -     -        12516   25    0 
+JKhearts  948518683  7  7 f   -     -     -        12491    0    0 
+JKhearts  948518710  7  6 f   -     -     -        12491    0    0 
+JKhearts  948518718  7  5 f   -     -     -        12491    0    0 
+JKhearts  948518743  7  4 cc  kc    k     b        12491  250  575 4c Ac
+JKhearts  948518768  7  3 f   -     -     -        12816    0    0 
+JKhearts  948518789  7  2 Bf  -     -     -        12816   50    0 
+JKhearts  948518808  7  1 Bf  -     -     -        12766   25    0 
+JKhearts  948518817  7  7 f   -     -     -        12741    0    0 
+JKhearts  948518846  7  6 f   -     -     -        12741    0    0 
+JKhearts  948518872  7  5 f   -     -     -        12741    0    0 
+JKhearts  948518894  7  4 c   c     b     -        12741  250  575 
+JKhearts  948518935  7  3 f   Q     -     -        13066    0    0 
+JKhearts  948518999  7  7 f   -     -     -        13066    0    0 
+JKhearts  948519027  6  5 f   -     -     -        13066    0    0 
+JKhearts  948519047  6  4 f   -     -     -        13066    0    0 
+JKhearts  948519054  6  3 f   -     -     -        13066    0    0 
+JKhearts  948519088  6  2 Bk  k     f     -        13066   50    0 
+JKhearts  948519117  6  1 Brc kc    bc    kc       13016  500    0 Qs Ac
+JKhearts  948519148  6  6 r   c     k     c        12516  250    0 Js Jh
+JKhearts  948519178  6  5 f   -     -     -        12266    0    0 
+JKhearts  948519189  6  4 f   -     -     -        12266    0    0 
+JKhearts  948519221  6  3 c   b     kc    kc       12266  300    0 Jc Tc
+JKhearts  948519262  6  2 Bc  kf    -     -        11966  100    0 
+JKhearts  948519288  6  1 Bf  -     -     -        11866   25    0 
+JKhearts  948519332  6  6 cc  c     cc    k        11841  400    0 Ks Th
+JKhearts  948519372  6  5 f   -     -     -        11441    0    0 
+JKhearts  948519388  6  4 f   -     -     -        11441    0    0 
+JKhearts  948519413  6  3 f   -     -     -        11441    0    0 
+JKhearts  948519452  6  2 Bk  bc    k     k        11441  150    0 6d Jd
+JKhearts  948519481  6  1 Br  b     b     -        11291  250  400 
+JKhearts  948519498  5  5 f   -     -     -        11441    0    0 
+JKhearts  948519508  5  4 c   k     k     k        11441   50  150 9d Td
+JKhearts  948519528  5  3 r   b     -     -        11541  150  275 
+JKhearts  948519539  5  2 Bf  -     -     -        11666   50    0 
+JKhearts  948519553  5  1 Bc  kc    kc    kc       11616  300    0 9h 9s
+JKhearts  948519581  5  5 f   -     -     -        11316    0    0 
+JKhearts  948519605  5  4 f   -     -     -        11316    0    0 
+JKhearts  948519615  5  3 f   -     -     -        11316    0    0 
+JKhearts  948519627  5  2 Bc  f     -     -        11316  100    0 
+JKhearts  948519640  5  1 Bf  -     -     -        11216   25    0 
+JKhearts  948519653  5  5 f   -     -     -        11191    0    0 
+JKhearts  948519676  5  4 c   c     f     -        11191  100    0 
+JKhearts  948519689  5  3 r   b     -     -        11091  150  275 
+JKhearts  948519702  5  2 Bk  kf    -     -        11216   50    0 
+JKhearts  948519710  5  1 Bf  -     -     -        11166   25    0 
+JKhearts  948519726  5  5 r   b     b     b        11141  350    0 Ad 6d
+JKhearts  948519747  5  4 f   -     -     -        10791    0    0 
+JKhearts  948519757  5  3 f   -     -     -        10791    0    0 
+JKhearts  948519773  5  2 Bf  -     -     -        10791   50    0 
+JKhearts  948519781  5  1 Bc  b     b     k        10741  250    0 8s 7d
+JKhearts  948519802  5  5 f   -     -     -        10491    0    0 
+JKhearts  948519809  5  4 f   -     -     -        10491    0    0 
+JKhearts  948519815  5  3 f   -     -     -        10491    0    0 
+JKhearts  948519839  5  2 Bc  kf    -     -        10491  100    0 
+JKhearts  948519859  4  1 Bc  kf    -     -        10391  100    0 
+JKhearts  948519871  4  4 f   -     -     -        10291    0    0 
+JKhearts  948519890  4  3 f   -     -     -        10291    0    0 
+JKhearts  948519908  4  2 Bk  k     k     kf       10291   50    0 
+JKhearts  948519928  4  1 Bf  -     -     -        10241   25    0 
+JKhearts  948519935  4  4 f   -     -     -        10216    0    0 
+JKhearts  948519940  4  3 r   kf    -     -        10216  100    0 
+JKhearts  948519956  4  2 Bc  r     -     -        10116  200  350 
+JKhearts  948519971  4  1 Bcc kc    kf    -        10266  150    0 
+JKhearts  948519992  4  4 f   -     -     -        10116    0    0 
+JKhearts  948519995  5  3 f   -     -     -        10116    0    0 
+JKhearts  948520025  5  2 Br  r     b     b        10116  400  800 Kc Ks
+JKhearts  948520049  5  1 Bc  b     b     -        10516  200  300 
+JKhearts  948520069  5  5 f   -     -     -        10616    0    0 
+JKhearts  948520076  5  4 c   f     -     -        10616   50    0 
+JKhearts  948520098  5  3 c   k     k     k        10566   50  125 3d 3s
+JKhearts  948520111  5  2 Br  k     kf    -        10641  100    0 
+JKhearts  948520129  5  1 Bf  -     -     -        10541   25    0 
+JKhearts  948520149  5  5 r   k     c     f        10516  200    0 
+JKhearts  948520169  5  4 f   -     -     -        10316    0    0 
+JKhearts  948520173  5  3 f   -     -     -        10316    0    0 
+JKhearts  948520182  5  2 Bk  f     -     -        10316   50    0 
+JKhearts  948520190  5  1 Bc  kf    -     -        10266  100    0 
+JKhearts  948520200  5  5 f   -     -     -        10166    0    0 
+JKhearts  948520205  5  4 f   -     -     -        10166    0    0 
+JKhearts  948520221  5  3 f   -     -     -        10166    0    0 
+JKhearts  948520228  5  2 Bf  -     -     -        10166   50    0 
+JKhearts  948520233  5  1 Br  bc    bc    kc       10116  500    0 7c Kh
+JKhearts  948520259  5  5 f   -     -     -         9616    0    0 
+JKhearts  948520265  5  4 r   -     -     -         9616  100  175 
+JKhearts  948520274  5  3 f   -     -     -         9691    0    0 
+JKhearts  948520284  5  2 Bf  -     -     -         9691   50    0 
+JKhearts  948520291  5  1 Bf  -     -     -         9641   25    0 
+JKhearts  948520300  5  5 r   k     k     k         9616  100  250 8c 8h
+JKhearts  948520316  5  4 r   b     bc    c         9766  450    0 Jd Jh
+JKhearts  948520350  5  3 rc  krr   b     b         9316  600    0 Ah Jd
+JKhearts  948520383  5  2 Bk  b     -     -         8716  100  175 
+JKhearts  948520397  5  1 Bf  -     -     -         8791   25    0 
+JKhearts  948520426  5  5 f   -     -     -         8766    0    0 
+JKhearts  948520438  5  4 f   -     -     -         8766    0    0 
+JKhearts  948520444  5  3 r   cc    k     k         8766  200    0 6s 6h
+JKhearts  948520482  5  2 Bf  -     -     -         8566   50    0 
+JKhearts  948520490  5  1 Bc  k     k     k         8516   50  100 6d 5d
+JKhearts  948520511  5  5 c   b     k     k         8566  100  325 As 5s
+JKhearts  948520535  5  4 f   -     -     -         8791    0    0 
+JKhearts  948520541  5  3 c   k     f     -         8791   50    0 
+JKhearts  948520558  5  2 Bk  kf    -     -         8741   50    0 
+JKhearts  948520568  5  1 Bc  b     -     -         8691  100  150 
+JKhearts  948520580  5  5 f   -     -     -         8741    0    0 
+JKhearts  948520595  5  4 rc  kc    kc    kf        8741  300    0 
+JKhearts  948520626  5  3 f   -     -     -         8441    0    0 
+JKhearts  948520651  5  2 Bk  kc    br    kr        8441  600  613 Ts 6s
+JKhearts  948520687  5  1 Bf  -     -     -         8454   25    0 
+JKhearts  948520726  5  5 c   k     k     f         8429   50    0 
+JKhearts  948520747  4  3 f   -     -     -         8379    0    0 
+JKhearts  948520755  3  2 Bc  bc    k     k         8379  200  600 8h 8c
+JKhearts  948520776  3  1 Bc  kf    -     -         8779   50    0 
+JKhearts  948520801  3  3 f   -     -     -         8729    0    0 
+JKhearts  948520803  3  2 B   -     -     -         8729   50   75 
+JKhearts  948520808  3  1 Bcr k     k     k         8754  150    0 5h As
+JKhearts  948520833  3  3 r   -     -     -         8604  100  175 
+JKhearts  948520841  3  2 Bc  kf    -     -         8679  100    0 
+JKhearts  948520859  3  1 Bc  bc    k     k         8579  150  175 9d 7h
+JKhearts  948520900  4  4 c   b     k     k         8604  100    0 6h 8h
+JKhearts  948520942  4  3 f   -     -     -         8504    0    0 
+JKhearts  948520963  4  2 Bk  kc    k     kc        8504  200    0 Kd Ts
+JKhearts  948520989  4  1 Bc  kc    k     k         8304  100    0 Tc Jc
+JKhearts  948521022  4  4 f   -     -     -         8204    0    0 
+JKhearts  948521063  3  3 f   -     -     -         8204    0    0 
+JKhearts  948521076  3  2 Bk  kf    -     -         8204   50    0 
+JKhearts  948521098  3  1 Br  b     k     k         8154  150  450 Td Qc
+JKhearts  948521128  3  3 c   k     k     k         8454   50    0 Jc Qc
+JKhearts  948521148  3  2 Br  b     b     -         8404  250  425 
+JKhearts  948521170  3  1 Bf  -     -     -         8579   25    0 
+JKhearts  948521174  3  3 cc  rr    b     c         8554  500 1025 8d 6d
+JKhearts  948521206  3  2 Bk  k     k     k         9079   50  125 Qd 7s
+JKhearts  948521232  3  1 Bc  k     k     k         9154   50  100 Qd 4d
+JKhearts  948521248  3  3 f   -     -     -         9204    0    0 
+JKhearts  948521255  3  2 Bk  k     k     k         9204   50    0 5h 3c
+JKhearts  948521264  3  1 Bf  -     -     -         9154   25    0 
+JKhearts  948521280  3  3 f   -     -     -         9129    0    0 
+JKhearts  948521283  3  2 Bk  kc    k     kf        9129  100    0 
+JKhearts  948521300  3  1 Br  b     k     kf        9029  150    0 
+JKhearts  948521327  3  3 c   f     -     -         8879   50    0 
+JKhearts  948521337  3  2 B   -     -     -         8829   50   75 
+JKhearts  948521340  3  1 Bc  b     b     b         8854  300  600 Jc 8c
+JKhearts  948521352  3  3 c   k     k     k         9154   50  125 4h Kh
+JKhearts  948521371  3  2 Bk  k     k     k         9229   50    0 Qh 8c
+JKhearts  948521393  3  1 Bc  kf    -     -         9179   50    0 
+JKhearts  948521412  3  3 f   -     -     -         9129    0    0 
+JKhearts  948521433  3  2 Bk  b     b     k         9129  200  400 6c 7s
+JKhearts  948521465  3  1 Bf  -     -     -         9329   25    0 
+JKhearts  948521481  3  3 f   -     -     -         9304    0    0 
+JKhearts  948521484  3  2 Bk  kc    k     k         9304  100  225 7h 7d
+JKhearts  948521500  3  1 Bc  k     k     b         9429  150  300 7c 9c
+JKhearts  948521517  3  3 f   -     -     -         9579    0    0 
+JKhearts  948521540  3  2 Bk  kc    kf    -         9579  100    0 
+JKhearts  948521557  3  1 Bc  k     k     k         9479   50  100 4c 4h
+JKhearts  948521569  3  3 f   -     -     -         9529    0    0 
+JKhearts  948521590  3  2 B   -     -     -         9529   50   75 
+JKhearts  948521593  3  1 Bf  -     -     -         9554   25    0 
+JKhearts  948521597  3  3 f   -     -     -         9529    0    0 
+JKhearts  948521611  3  2 Bf  -     -     -         9529   50    0 
+JKhearts  948521619  3  1 Bf  -     -     -         9479   25    0 
+JKhearts  948521623  3  3 f   -     -     -         9454    0    0 
+JKhearts  948521639  3  2 Bc  kf    -     -         9454  100    0 
+JKhearts  948521651  3  1 Br  bc    kc    kc        9354  400    0 Jh Ah
+JKhearts  948521678  3  3 f   -     -     -         8954    0    0 
+JKhearts  948521685  3  2 B   -     -     -         8954   50   75 
+JKhearts  948521687  2  1 Bf  -     -     -         8979   25    0 
+JKhearts  948521692  2  2 Bc  f     -     -         8954  100    0 
+JKhearts  948521702  2  1 Br  b     b     b         8854  350  700 As Ks
+JKhearts  948521718  2  2 B   -     -     -         9204   50   75 
+JKhearts  948556019  2  2 B   -     -     -         8174   50   75 
+JKhearts  948556023  2  1 Bf  -     -     -         8189   25    0 
+JKhearts  948556025  2  2 Bc  c     k     f         8164  150    0 
+JKhearts  948556040  2  1 Bc  k     k     k         8014   50    0 6d 2d
+JKhearts  948556055  2  2 B   -     -     -         7964   50   75 
+JKhearts  948556060  2  1 Bf  -     -     -         7989   25    0 
+JKhearts  948556064  2  2 Bc  f     -     -         7964  100    0 
+JKhearts  948556073  2  1 Bf  -     -     -         7864   25    0 
+JKhearts  948556076  2  2 Bk  b     b     -         7839  200  300 
+JKhearts  948556093  2  1 Bc  b     -     -         7939  100  150 
+JKhearts  948556102  2  2 Bc  k     k     f         7989  100    0 
+JKhearts  948556120  2  1 Bc  k     k     k         7889   50  100 Td 9s
+JKhearts  948556139  2  2 Bf  -     -     -         7939   50    0 
+JKhearts  948556146  2  1 Br  -     -     -         7889  100  150 
+JKhearts  948556150  2  2 B   -     -     -         7939   50   75 
+JKhearts  948556153  2  1 Bf  -     -     -         7964   25    0 
+JKhearts  948556157  2  2 B   -     -     -         7939   50   75 
+JKhearts  948556160  2  1 Bc  k     k     k         7964   50   50 9h 7d
+JKhearts  948556172  2  2 Bc  k     k     c         7964  200    0 8h 7h
+JKhearts  948556189  2  1 Bc  k     k     k         7764   50    0 Ad 2h
+JKhearts  948556210  2  2 Bc  k     k     c         7714  200    0 Td 8d
+JKhearts  948556226  2  1 Br  kc    k     k         7514  150    0 5c 5d
+JKhearts  948556248  2  2 B   -     -     -         7364   50   75 
+JKhearts  948556253  2  1 Bf  -     -     -         7389   25    0 
+JKhearts  948556257  2  2 Bc  f     -     -         7364  100    0 
+JKhearts  948556268  2  1 Br  -     -     -         7264  100  150 
+JKhearts  948556273  2  2 B   -     -     -         7314   50   75 
+JKhearts  948556275  2  1 Br  b     -     -         7339  150  250 
+JKhearts  948556283  2  2 Bf  -     -     -         7439   50    0 
+JKhearts  948556287  2  1 Bc  kf    -     -         7389   50    0 
+JKhearts  948556304  2  2 Bk  f     -     -         7339   50    0 
+JKhearts  948556316  3  1 Bc  k     kf    -         7289   50    0 
+JKhearts  948556330  3  3 rc  c     c     c         7239  400    0 Ah 7s
+JKhearts  948556345  3  2 Bf  -     -     -         6839   50    0 
+JKhearts  948556360  3  1 Bc  bc    kc    kc        6789  400    0 8d Td
+JKhearts  948556386  3  3 r   -     -     -         6389  100  175 
+JKhearts  948556394  3  2 Bc  f     -     -         6464  100    0 
+JKhearts  948556405  3  1 Bf  -     -     -         6364   25    0 
+JKhearts  948556427  3  3 c   k     f     -         6339   50    0 
+JKhearts  948556438  3  2 B   -     -     -         6289   50   75 
+JKhearts  948556441  3  1 Bf  -     -     -         6314   25    0 
+JKhearts  948556461  3  3 f   -     -     -         6289    0    0 
+JKhearts  948556477  3  2 Bc  k     kc    kc        6289  300  625 9h Kd
+JKhearts  948556492  3  1 Bc  kf    -     -         6614   50    0 
+JKhearts  948556502  3  3 f   -     -     -         6564    0    0 
+JKhearts  948556522  3  2 Bc  kc    k     kc        6564  250  525 Qc 6s
+JKhearts  948556542  3  1 Bf  -     -     -         6839   25    0 
+JKhearts  948556560  3  3 f   -     -     -         6814    0    0 
+JKhearts  948556563  3  2 Bf  -     -     -         6814   50    0 
+JKhearts  948556567  3  1 Bf  -     -     -         6764   25    0 
+JKhearts  948556587  3  3 c   k     b     -         6739  150  225 
+JKhearts  948556605  3  2 Bk  k     k     k         6814   50  100 9c Ac
+JKhearts  948556623  3  1 Bc  kc    kc    k         6864  250  550 5d Ah
+JKhearts  948556649  3  3 f   -     -     -         7164    0    0 
+JKhearts  948556664  3  2 Bc  c     k     k         7164  150  300 9c 7d
+JKhearts  948556681  3  1 Bcc kc    k     b         7314  250  500 Jc Td
+JKhearts  948556701  3  3 f   -     -     -         7564    0    0 
+JKhearts  948556719  3  2 Bf  -     -     -         7564   50    0 
+JKhearts  948556726  3  1 Bcc bc    k     k         7514  200  400 Td 9c
+JKhearts  948556744  3  3 f   -     -     -         7714    0    0 
+JKhearts  948556751  3  2 Bc  kf    -     -         7714  100    0 
+JKhearts  948556762  3  1 Bf  -     -     -         7614   25    0 
+JKhearts  948556771  3  3 f   -     -     -         7589    0    0 
+JKhearts  948556774  3  2 Bc  cc    kc    k         7589  350    0 Js Kh
+JKhearts  948556799  3  1 Bc  kf    -     -         7239  100    0 
+JKhearts  948556811  3  3 r   r     k     f         7139  200    0 
+JKhearts  948556837  3  2 Bf  -     -     -         6939   50    0 
+JKhearts  948556862  3  1 Bf  -     -     -         6889   25    0 
+JKhearts  948556869  3  3 r   -     -     -         6864  100  175 
+JKhearts  948556871  3  2 Bc  k     k     k         6939  100  225 4c Ah
+JKhearts  948556886  3  1 Bf  -     -     -         7064   25    0 
+JKhearts  948556910  3  3 f   -     -     -         7039    0    0 
+JKhearts  948556914  3  2 Bc  kc    k     b         7039  250  525 3d 7d
+JKhearts  948556940  3  1 Bc  kc    kc    kf        7314  250    0 
+JKhearts  948556986  3  3 f   -     -     -         7064    0    0 
+JKhearts  948557001  3  2 Bc  br    -     -         7064  250  475 
+JKhearts  948557012  3  1 Bcc k     kc    kc        7289  300    0 Qs Jd
+JKhearts  948557029  3  3 c   k     bc    k         6989  250  550 7h 6s
+JKhearts  948557076  3  2 Bc  f     -     -         7289  150    0 
+JKhearts  948557091  3  1 Bcc kf    -     -         7139  100    0 
+JKhearts  948557105  3  3 f   -     -     -         7039    0    0 
+JKhearts  948557128  3  2 Bk  f     -     -         7039   50    0 
+JKhearts  948557146  3  1 Bcc kf    -     -         6989  100    0 
+JKhearts  948557164  3  3 f   -     -     -         6889    0    0 
+JKhearts  948557190  3  2 B   -     -     -         6889   50   75 
+JKhearts  948557193  3  1 Bc  kf    -     -         6914   50    0 
+JKhearts  948557206  3  3 f   -     -     -         6864    0    0 
+JKhearts  948557209  3  2 Bf  -     -     -         6864   50    0 
+JKhearts  948557213  3  1 Bf  -     -     -         6814   25    0 
+JKhearts  948557220  3  3 f   -     -     -         6789    0    0 
+JKhearts  948557245  3  2 B   -     -     -         6789   50   75 
+JKhearts  948557247  3  1 Bf  -     -     -         6814   25    0 
+JKhearts  948557251  3  3 f   -     -     -         6789    0    0 
+JKhearts  948557254  3  2 Bf  -     -     -         6789   50    0 
+JKhearts  948557265  3  1 Bf  -     -     -         6739   25    0 
+JKhearts  948557272  3  3 f   -     -     -         6714    0    0 
+JKhearts  948557275  3  2 Bc  k     c     k         6714  200  250 Jd Qs
+JKhearts  948557296  3  1 Bf  -     -     -         6764   25    0 
+JKhearts  948557302  3  3 f   -     -     -         6739    0    0 
+JKhearts  948557316  3  2 Bc  kc    k     k         6739  150  325 8d 8s
+JKhearts  948557335  3  1 Bf  -     -     -         6914   25    0 
+JKhearts  948557340  3  3 f   -     -     -         6889    0    0 
+JKhearts  948557343  3  2 Bc  k     kf    -         6889  100    0 
+JKhearts  948557356  3  1 Bf  -     -     -         6789   25    0 
+JKhearts  948557413  3  3 f   -     -     -         6764    0    0 
+JKhearts  948557418  3  2 Bc  kf    -     -         6764  100    0 
+JKhearts  948557429  3  1 Bf  -     -     -         6664   25    0 
+JKhearts  948557431  3  3 f   -     -     -         6639    0    0 
+JKhearts  948557436  2  2 B   -     -     -         6639   50   75 
+JKhearts  948557438  2  1 Bc  b     -     -         6664  100  150 
+JKhearts  948557446  2  2 Bc  k     f     -         6714  100    0 
+JKhearts  948557460  2  1 Bcc k     kc    kc        6614  300    0 Kh 8s
+JKhearts  948557486  2  2 Bc  k     k     f         6314  100    0 
+JKhearts  948557501  2  1 Bf  -     -     -         6214   25    0 
+JKhearts  948557503  2  2 Bf  -     -     -         6189   50    0 
+JKhearts  948557507  2  1 Br  b     b     b         6139  350  600 
+JKhearts  948557523  2  2 Bf  -     -     -         6389   50    0 
+JKhearts  948557528  2  1 Br  b     -     -         6339  150  250 
+JKhearts  948557537  2  2 Bf  -     -     -         6439   50    0 
+JKhearts  948557541  2  1 Bf  -     -     -         6389   25    0 
+JKhearts  948557544  2  2 B   -     -     -         6364   50   75 
+JKhearts  948557548  2  1 Bf  -     -     -         6389   25    0 
+JKhearts  948557551  2  2 Bk  k     k     f         6364   50    0 
+JKhearts  948557584  2  1 Br  bc    b     k         6314  300  600 8d Qd
+JKhearts  948557603  2  2 Bc  b     -     -         6614  150  250 
+JKhearts  948557635  3  1 Br  -     -     -         6714  100  150 
+JKhearts  948557649  3  3 r   k     c     f         6764  200    0 
+JKhearts  948557663  3  2 Bc  f     -     -         6564  100    0 
+JKhearts  948557682  3  1 Bf  -     -     -         6464   25    0 
+JKhearts  948557697  3  3 c   r     k     c         6439  250    0 9c Th
+JKhearts  948557715  3  2 Br  -     -     -         6189  200  450 
+JKhearts  948557728  3  1 Bf  -     -     -         6439   25    0 
+JKhearts  948557733  3  3 c   k     c     c         6414  250  525 Jc Ks
+JKhearts  948557750  3  2 Bf  -     -     -         6689   50    0 
+JKhearts  948557775  3  1 Bc  kc    kr    -         6639  300  500 
+JKhearts  948557791  3  3 f   -     -     -         6839    0    0 
+JKhearts  948557806  3  2 Bc  k     kc    k         6839  200  425 Ts 6h
+JKhearts  948557822  3  1 Bc  kf    -     -         7064  100    0 
+JKhearts  948557833  3  3 f   -     -     -         6964    0    0 
+JKhearts  948557836  3  2 Br  bc    c     k         6964  400    0 As Kd
+JKhearts  948557857  3  1 Bc  kc    k     k         6564  150  350 2h 2s
+JKhearts  948557876  3  3 f   -     -     -         6764    0    0 
+JKhearts  948557883  3  2 Bc  kf    -     -         6764  100    0 
+JKhearts  948557891  3  1 Bf  -     -     -         6664   25    0 
+JKhearts  948557894  3  3 cc  c     c     k         6639  250    0 2d 2s
+JKhearts  948557913  3  2 Bk  br    k     k         6389  200  425 Jd Qc
+JKhearts  948557937  3  1 Bf  -     -     -         6614   25    0 
+JKhearts  948557954  3  3 f   -     -     -         6589    0    0 
+JKhearts  948557972  3  2 Bk  k     f     -         6589   50    0 
+JKhearts  948557984  3  1 Br  k     kf    -         6539  100    0 
+JKhearts  948557997  3  3 f   -     -     -         6439    0    0 
+JKhearts  948558000  3  2 Bf  -     -     -         6439   50    0 
+JKhearts  948558006  3  1 Bf  -     -     -         6389   25    0 
+JKhearts  948558018  3  3 r   -     -     -         6364  100  175 
+JKhearts  948558021  3  2 Bc  k     c     f         6439  200    0 
+JKhearts  948558035  3  1 Bcc kc    kc    kc        6239  350  700 4c 5c
+JKhearts  948558053  3  3 r   b     -     -         6589  150  275 
+JKhearts  948558066  3  2 Bc  kf    -     -         6714  100    0 
+JKhearts  948558091  3  1 Bf  -     -     -         6614   25    0 
+JKhearts  948558096  3  3 rc  c     k     c         6589  300    0 6h 6s
+JKhearts  948558112  3  2 Bc  kc    kc    k         6289  250    0 6c Jc
+JKhearts  948558139  3  1 Br  kf    -     -         6039  150    0 
+JKhearts  948558167  3  3 rc  k     r     -         5889  350  625 
+JKhearts  948558200  3  2 Bf  -     -     -         6164   50    0 
+JKhearts  948558208  3  1 Bf  -     -     -         6114   25    0 
+JKhearts  948558215  3  3 f   -     -     -         6089    0    0 
+JKhearts  948558230  3  2 Bc  br    k     k         6089  250    0 Ac 9s
+JKhearts  948558247  3  1 Bc  kf    -     -         5839  100    0 
+JKhearts  948558262  3  3 f   -     -     -         5739    0    0 
+JKhearts  948558286  3  2 Bc  kf    -     -         5739  100    0 
+JKhearts  948558297  3  1 Bf  -     -     -         5639   25    0 
+JKhearts  948558316  2  2 Bc  r     b     -         5614  300  500 
+JKhearts  948558330  2  1 Bcc kc    k     k         5814  150  300 Qs 4s
+JKhearts  948558343  2  2 B   -     -     -         5964   50   75 
+JKhearts  948558349  2  1 Brc kc    kc    k         5989  300    0 Jd Qs
+JKhearts  948558362  2  2 Bf  -     -     -         5689   50    0 
+JKhearts  948558369  2  1 Bc  k     kf    -         5639   50    0 
+JKhearts  948558379  2  2 B   -     -     -         5589   50   75 
+JKhearts  948558382  2  1 Br  -     -     -         5614  100  150 
+JKhearts  948558387  2  2 Bk  k     f     -         5664   50    0 
+JKhearts  948558396  2  1 Br  -     -     -         5614  100  150 
+JKhearts  948558400  2  2 Br  b     b     -         5664  300  500 
+JKhearts  948558410  2  1 Brc k     kc    kc        5864  350    0 7c 6c
+JKhearts  948558424  2  2 B   -     -     -         5514   50   75 
+JKhearts  948558429  2  1 Bc  k     kc    k         5539  150    0 5s Kd
+JKhearts  948558441  2  2 B   -     -     -         5389   50   75 
+JKhearts  948558446  2  1 Br  -     -     -         5414  100  150 
+JKhearts  948558449  2  2 Bc  c     c     k         5464  250  500 7h Jd
+JKhearts  948558460  2  1 Br  -     -     -         5714  100  150 
+JKhearts  948558465  2  2 Bc  c     c     k         5764  250  500 Kc 4d
+JKhearts  948558476  2  1 Br  -     -     -         6014  100  150 
+JKhearts  948558483  2  2 B   -     -     -         6064   50   75 
+JKhearts  948558485  2  1 Br  b     b     b         6089  350  600 
+JKhearts  948558495  2  2 Bc  c     k     k         6339  150    0 9s 7h
+JKhearts  948558508  2  1 Bf  -     -     -         6189   25    0 
+JKhearts  948558513  2  2 Bc  c     c     k         6164  250    0 7h 3h
+JKhearts  948558525  2  1 Br  b     -     -         5914  150  250 
+JKhearts  948558534  2  2 Bk  k     c     k         6014  150    0 2s Qs
+JKhearts  948558547  2  1 Br  -     -     -         5864  100  150 
+JKhearts  948558553  2  2 Bc  c     k     k         5914  150  300 5h 7s
+JKhearts  948558563  2  1 Br  k     k     k         6064  100    0 9h Qd
+JKhearts  948558577  2  2 Bf  -     -     -         5964   50    0 
+JKhearts  948558585  2  1 Br  kc    k     k         5914  150  300 Td Kc
+JKhearts  948558600  2  2 B   -     -     -         6064   50   75 
+JKhearts  948558606  2  1 Brc kc    kc    kf        6089  300    0 
+JKhearts  948558623  2  2 Bk  k     f     -         5789   50    0 
+JKhearts  948558635  2  1 Brc k     k     k         5739  150    0 8h 9s
+JKhearts  948558648  2  2 Bc  f     -     -         5589  100    0 
+JKhearts  948558657  2  1 Brc k     kc    kc        5489  350    0 Kc 5s
+JKhearts  948558673  2  2 Bk  b     -     -         5139  100  150 
+JKhearts  948558686  2  1 Br  bc    k     k         5189  200  400 6h 8d
+JKhearts  948558703  2  2 Bc  k     k     k         5389  100  200 Kd 3h
+JKhearts  948558722  2  1 Brc k     kf    -         5489  150    0 
+JKhearts  948558736  2  2 Bc  c     f     -         5339  150    0 
+JKhearts  948558743  2  1 Bcc kf    -     -         5189  100    0 
+JKhearts  948558751  2  2 B   -     -     -         5089   50   75 
+JKhearts  948558755  2  1 Bf  -     -     -         5114   25    0 
+JKhearts  948558757  2  2 Bc  b     bc    f         5089  350    0 
+JKhearts  948558774  2  1 Br  -     -     -         4739  100  150 
+JKhearts  948558781  2  2 Br  f     -     -         4789  150    0 
+JKhearts  948558791  2  1 Br  -     -     -         4639  100  150 
+JKhearts  948558794  2  2 Br  b     -     -         4689  150  250 
+JKhearts  948558802  2  1 Bf  -     -     -         4789   25    0 
+JKhearts  948558805  2  2 Bc  f     -     -         4764  100    0 
+JKhearts  948558811  2  1 Br  -     -     -         4664  100  150 
+JKhearts  948558815  2  2 B   -     -     -         4714   50   75 
+JKhearts  948558818  2  1 Br  -     -     -         4739  100  150 
+JKhearts  948558822  2  2 B   -     -     -         4789   50   75 
+JKhearts  948558825  2  1 Bc  kf    -     -         4814   50    0 
+JKhearts  948558832  2  2 Br  br    b     b         4764  450  800 
+JKhearts  948558853  2  1 Bf  -     -     -         5114   25    0 
+JKhearts  948558857  2  2 Bc  k     f     -         5089  100    0 
+JKhearts  948558866  2  1 Bc  k     k     k         4989   50    0 5d 9d
+JKhearts  948558878  2  2 B   -     -     -         4939   50   75 
+JKhearts  948558884  2  1 Br  -     -     -         4964  100  150 
+JKhearts  948558886  2  2 B   -     -     -         5014   50   75 
+JKhearts  948558889  2  1 Bcc kf    -     -         5039  100    0 
+JKhearts  948558898  2  2 B   -     -     -         4939   50   75 
+JKhearts  948558900  2  1 Br  -     -     -         4964  100  150 
+JKhearts  948558903  2  2 B   -     -     -         5014   50   75 
+JKhearts  948558905  2  1 Bf  -     -     -         5039   25    0 
+JKhearts  948558908  2  2 Bf  -     -     -         5014   50    0 
+JKhearts  948558911  2  1 Bc  b     -     -         4964  100  150 
+JKhearts  948558918  2  2 Br  b     -     -         5014  200  350 
+JKhearts  948558926  2  1 Br  k     k     k         5164  100  200 Js 7s
+JKhearts  948558938  2  2 Bc  f     -     -         5264  100    0 
+JKhearts  948558946  2  1 Bc  kc    kc    k         5164  200  400 8h Jc
+JKhearts  948558959  2  2 Bc  f     -     -         5364  100    0 
+JKhearts  948558969  2  1 Brrc kc    kc    k         5264  400    0 Qd Ad
+JKhearts  948558988  2  2 Br  b     -     -         4864  200  350 
+JKhearts  948559008  2  1 Bf  -     -     -         5014   25    0 
+JKhearts  948559010  2  2 B   -     -     -         4989   50   75 
+JKhearts  948559013  2  1 Bc  kf    -     -         5014   50    0 
+JKhearts  948559023  2  2 Br  b     c     b         4964  400  700 
+JKhearts  948559040  2  1 Bf  -     -     -         5264   25    0 
+JKhearts  948559043  2  2 Bc  f     -     -         5239  100    0 
+JKhearts  948559049  2  1 Br  -     -     -         5139  100  150 
+JKhearts  948559055  2  2 Bf  -     -     -         5189   50    0 
+JKhearts  948559059  2  1 Br  -     -     -         5139  100  150 
+JKhearts  948559063  2  2 Br  brc   c     c         5189  550 1100 Qd Ad
+JKhearts  948559084  2  1 Brr b     b     -         5739  350  600 
+JKhearts  948559097  2  2 Bf  -     -     -         5989   50    0 
+JKhearts  948559103  2  1 Bcc kf    -     -         5939  100    0 
+JKhearts  948559110  2  2 B   -     -     -         5839   50   75 
+JKhearts  948559113  2  1 Bc  k     k     kf        5864   50    0 
+JKhearts  948559125  2  2 B   -     -     -         5814   50   75 
+JKhearts  948559128  2  1 Bc  kc    k     b         5839  200  400 2d 4s
+JKhearts  948559140  2  2 Bf  -     -     -         6039   50    0 
+JKhearts  948559147  2  1 Bf  -     -     -         5989   25    0 
+JKhearts  948559149  2  2 B   -     -     -         5964   50   75 
+JKhearts  948559152  2  1 Bc  kf    -     -         5989   50    0 
+JKhearts  948559159  2  2 Bc  c     c     r         5939  450  800 
+JKhearts  948559173  2  1 Br  bc    b     -         6289  300  500 
+JKhearts  948559183  2  2 Bc  c     c     k         6489  250    0 7s Qh
+JKhearts  948559195  2  1 Br  -     -     -         6239  100  150 
+JKhearts  948559200  2  2 Bf  -     -     -         6289   50    0 
+JKhearts  948559206  2  1 Bcc k     kf    -         6239  100    0 
+JKhearts  948559217  2  2 Bc  k     b     -         6139  200  300 
+JKhearts  948559225  2  1 Bf  -     -     -         6239   25    0 
+JKhearts  948559228  2  2 B   -     -     -         6214   50   75 
+JKhearts  948559230  2  1 Bcc kc    kc    k         6239  250  500 Qd 7s
+JKhearts  948559245  2  2 B   -     -     -         6489   50   75 
+JKhearts  948559250  2  1 Bc  kf    -     -         6514   50    0 
+JKhearts  948559256  2  2 Bc  k     k     f         6464  100    0 
+JKhearts  948559265  2  1 Bf  -     -     -         6364   25    0 
+JKhearts  948559267  2  2 B   -     -     -         6339   50   75 
+JKhearts  948559269  2  1 Bf  -     -     -         6364   25    0 
+JKhearts  948559272  2  2 B   -     -     -         6339   50   75 
+JKhearts  948559275  2  1 Bc  k     kf    -         6364   50    0 
+JKhearts  948559283  2  2 Bf  -     -     -         6314   50    0 
+JKhearts  948559286  2  1 Bc  b     k     k         6264  100  200 6h 7h
+JKhearts  948559300  2  2 Br  b     -     -         6364  150  250 
+JKhearts  948559311  2  1 Bcc kf    -     -         6464  100    0 
+JKhearts  948559319  2  2 Bk  k     c     k         6364  150    0 3c Ad
+JKhearts  948559331  2  1 Bf  -     -     -         6214   25    0 
+JKhearts  948559336  2  2 Br  k     b     -         6189  250  400 
+JKhearts  948559348  2  1 Bf  -     -     -         6339   25    0 
+JKhearts  948559350  2  2 Bc  c     c     c         6314  350    0 9s Tc
+JKhearts  948559361  2  1 Br  -     -     -         5964  100  150 
+JKhearts  948559366  2  2 Br  b     -     -         6014  200  350 
+JKhearts  948559375  2  1 Brr b     -     -         6164  250  450 
+JKhearts  948559385  2  2 B   -     -     -         6364   50   75 
+JKhearts  948559388  2  1 Bcc kf    -     -         6389  100    0 
+JKhearts  948559396  2  2 Bf  -     -     -         6289   50    0 
+JKhearts  948559401  2  1 Brc k     kc    kf        6239  250    0 
+JKhearts  948559415  2  2 Bf  -     -     -         5989   50    0 
+JKhearts  948559420  2  1 Br  -     -     -         5939  100  150 
+JKhearts  948559423  2  2 B   -     -     -         5989   50   75 
+JKhearts  948559426  2  1 Bcc kc    k     k         6014  150  300 8s 5d
+JKhearts  948559439  2  2 Bf  -     -     -         6164   50    0 
+JKhearts  948559444  2  1 Bf  -     -     -         6114   25    0 
+JKhearts  948559446  2  2 Bc  f     -     -         6089  100    0 
+JKhearts  948559452  2  1 Bf  -     -     -         5989   25    0 
+JKhearts  948559454  2  2 Br  r     r     -         5964  450  800 
+JKhearts  948559469  2  1 Br  -     -     -         6314  100  150 
+JKhearts  948559473  2  2 B   -     -     -         6364   50   75 
+JKhearts  948559476  2  1 Bcc kf    -     -         6389  100    0 
+JKhearts  948559484  2  2 B   -     -     -         6289   50   75 
+JKhearts  948559486  2  1 Bcc bc    kc    kc        6314  400    0 8h Js
+JKhearts  948559501  2  2 Br  b     b     k         5914  300  600 5s 6h
+JKhearts  948559523  2  1 Bf  -     -     -         6214   25    0 
+JKhearts  948559528  2  2 Br  k     k     c         6189  250  500 9s 9c
+JKhearts  948559540  2  1 Bf  -     -     -         6439   25    0 
+JKhearts  948559545  2  2 Br  k     c     c         6414  350    0 Ac Ts
+JKhearts  948559556  2  1 Bcc bc    kc    b         6064  400  800 6h 4s
+JKhearts  948559579  2  2 Bk  f     -     -         6464   50    0 
+JKhearts  948559585  2  1 Bf  -     -     -         6414   25    0 
+JKhearts  948559588  2  2 Bf  -     -     -         6389   50    0 
+JKhearts  948559592  2  1 Brr b     b     -         6339  350  600 
+JKhearts  948559605  2  2 B   -     -     -         6589   50   75 
+JKhearts  948559607  2  1 Bc  b     -     -         6614  100  150 
+JKhearts  948559612  2  2 Bc  f     -     -         6664  100    0 
+JKhearts  948559617  2  1 Bcc kf    -     -         6564  100    0 
+JKhearts  948559625  2  2 Bc  b     b     b         6464  350  700 7d 9s
+JKhearts  948559641  2  1 Bf  -     -     -         6814   25    0 
+JKhearts  948559646  2  2 Br  k     r     k         6789  350  700 Jh Kd
+JKhearts  948559662  2  1 Bcc kc    kc    kf        7139  250    0 
+JKhearts  948559679  2  2 B   -     -     -         6889   50   75 
+JKhearts  948559681  2  1 Bf  -     -     -         6914   25    0 
+JKhearts  948559684  2  2 Bf  -     -     -         6889   50    0 
+JKhearts  948559689  2  1 Brc k     k     k         6839  150    0 9s 7s
+JKhearts  948559706  2  2 Br  b     bc    b         6689  500  900 
+JKhearts  948559731  3  1 Bf  -     -     -         7089   25    0 
+JKhearts  948559735  3  3 f   -     -     -         7064    0    0 
+JKhearts  948559742  3  2 Bc  b     b     -         7064  250  425 
+JKhearts  948559751  3  1 Bcc kc    kc    k         7239  250    0 9c 8h
+JKhearts  948559766  3  3 f   -     -     -         6989    0    0 
+JKhearts  948559771  3  2 Bf  -     -     -         6989   50    0 
+JKhearts  948559775  3  1 Brc k     kc    k         6939  250    0 3h Qh
+JKhearts  948559791  3  3 f   -     -     -         6689    0    0 
+JKhearts  948559810  3  2 Bc  br    -     -         6689  250  475 
+JKhearts  948559822  3  1 Bf  -     -     -         6914   25    0 
+JKhearts  948559840  3  3 cc  c     c     c         6889  350  725 Jc 5c
+JKhearts  948559853  3  2 Br  k     k     k         7264  150  325 Kd Jd
+JKhearts  948559871  3  1 Bc  kc    kc    kc        7439  300  650 Qs 9d
+JKhearts  948559889  3  3 f   -     -     -         7789    0    0 
+JKhearts  948559906  3  2 Bc  kc    kc    k         7789  250    0 Qs Th
+JKhearts  948559927  3  1 Bcc br    b     b         7539  450  800 
+JKhearts  948559946  3  3 f   -     -     -         7889    0    0 
+JKhearts  948559964  3  2 Bf  -     -     -         7889   50    0 
+JKhearts  948559976  3  1 Bc  kc    kc    k         7839  200    0 Td 9d
+JKhearts  948559998  3  3 r   b     brc   c         7639  650    0 7h 7s
+JKhearts  948560018  3  2 Bc  k     k     c         6989  200  500 Kh 7c
+JKhearts  948560036  3  1 Bcc kc    br    k         7289  450 1000 Jh 7c
+JKhearts  948560063  3  3 f   -     -     -         7839    0    0 
+JKhearts  948560069  3  2 Bc  k     k     b         7839  200  325 
+JKhearts  948560082  3  1 Bc  kf    -     -         7964   50    0 
+JKhearts  948560090  3  3 cc  f     -     -         7914  100    0 
+JKhearts  948560104  3  2 Bf  -     -     -         7814   50    0 
+JKhearts  948560123  3  1 Bf  -     -     -         7764   25    0 
+JKhearts  948560137  3  3 cc  c     c     f         7739  250    0 
+JKhearts  948560153  3  2 Br  br    b     b         7489  500  925 
+JKhearts  948560175  3  1 Br  -     -     -         7914  100  150 
+JKhearts  948560178  3  3 f   -     -     -         7964    0    0 
+JKhearts  948560181  3  2 Bc  kc    kc    kc        7964  350    0 Ac 9s
+JKhearts  948560199  3  1 Br  b     -     -         7614  150  250 
+JKhearts  948560208  3  3 c   k     f     -         7714   50    0 
+JKhearts  948560217  3  2 Bc  kf    -     -         7664  100    0 
+JKhearts  948560226  3  1 Br  br    b     -         7564  350  850 
+JKhearts  948560244  3  3 f   -     -     -         8064    0    0 
+JKhearts  948560248  3  2 Bc  kc    k     c         8064  250  650 5s 4s
+JKhearts  948560269  3  1 Br  b     bc    kc        8464  450  950 Ah As
+JKhearts  948560289  3  3 f   -     -     -         8964    0    0 
+JKhearts  948560301  3  2 Bc  k     kc    k         8964  200  425 4h 3s
+JKhearts  948560325  3  1 Bf  -     -     -         9189   25    0 
+JKhearts  948560348  3  3 cc  c     f     -         9164  150    0 
+JKhearts  948560367  3  2 Bc  k     k     f         9014  100    0 
+JKhearts  948560382  3  1 Bf  -     -     -         8914   25    0 
+JKhearts  948560387  3  3 cc  c     c     c         8889  350  725 7h 8d
+JKhearts  948560397  3  2 Bf  -     -     -         9264   50    0 
+JKhearts  948560404  3  1 Bc  kf    -     -         9214  100    0 
+JKhearts  948560412  3  3 r   b     k     c         9114  250    0 As 5c
+JKhearts  948560429  3  2 Bf  -     -     -         8864   50    0 
+JKhearts  948560442  3  1 Bf  -     -     -         8814   25    0 
+JKhearts  948560445  3  3 cc  f     -     -         8789  100    0 
+JKhearts  948560456  3  2 Bf  -     -     -         8689   50    0 
+JKhearts  948560464  3  1 Bc  kr    k     kf        8639  200    0 
+JKhearts  948560486  3  3 f   -     -     -         8439    0    0 
+JKhearts  948560499  3  2 Br  b     b     -         8439  350  800 
+JKhearts  948560513  3  1 Bf  -     -     -         8889   25    0 
+JKhearts  948560516  3  3 f   -     -     -         8864    0    0 
+JKhearts  948560519  3  2 Bc  r     b     -         8864  300  500 
+JKhearts  948560530  3  1 Brc br    -     -         9064  350  700 
+JKhearts  948560541  3  3 cc  c     c     f         9414  300    0 
+JKhearts  948560560  3  2 Bcc c     k     b         9114  350  850 
+JKhearts  948560605  3  1 Bf  -     -     -         9614   25    0 
+JKhearts  948560608  3  3 f   -     -     -         9589    0    0 
+JKhearts  948560614  3  2 B   -     -     -         9589   50   75 
+JKhearts  948560618  3  1 Bcc k     kf    -         9614  100    0 
+JKhearts  948560639  3  3 f   -     -     -         9514    0    0 
+JKhearts  948560642  3  2 Br  r     k     c         9514  400  500 Qd Ac
+JKhearts  948560662  3  1 Bcc kc    kc    k         9614  250    0 Js Th
+JKhearts  948560682  3  3 f   -     -     -         9364    0    0 
+JKhearts  948560691  3  2 Bc  kf    -     -         9364  100    0 
+JKhearts  948560701  3  1 Br  b     b     kr        9264  500    0 4h Ac
+JKhearts  948560719  2  2 r   c     c     f         8764  250    0 
+JKhearts  948560736  2  2 Br  c     k     k         8514  200  400 Th Qs
+JKhearts  948560749  2  1 Br  b     kc    kc        8714  350  700 Kc Td
+JKhearts  948560766  2  2 Br  c     c     c         9064  400    0 9h Ac
+JKhearts  948560779  2  1 Bf  -     -     -         8664   25    0 
+JKhearts  948560784  2  2 Bc  c     c     k         8639  250    0 8s 9d
+JKhearts  948560796  2  1 Bf  -     -     -         8389   25    0 
+JKhearts  948560803  2  2 B   -     -     -         8364   50   75 
+JKhearts  948560806  2  1 Br  b     b     k         8389  250  500 Tc 9h
+JKhearts  948560818  2  2 Bf  -     -     -         8639   50    0 
+JKhearts  948560824  2  1 Bc  b     b     -         8589  200  300 
+JKhearts  948560834  2  2 Bc  c     c     c         8689  350  700 5s Ad
+JKhearts  948560843  2  1 Bcc kf    -     -         9039  100    0 
+JKhearts  948560854  3  2 Bf  -     -     -         8939   50    0 
+JKhearts  948560867  3  1 Bf  -     -     -         8889   25    0 
+JKhearts  948560870  3  3 r   k     f     -         8864  100    0 
+JKhearts  948560882  3  2 Bc  br    b     -         8764  350  625 
+JKhearts  948560893  3  1 Br  -     -     -         9039  100  150 
+JKhearts  948560897  3  3 f   -     -     -         9089    0    0 
+JKhearts  948560908  3  2 Bk  k     f     -         9089   50    0 
+JKhearts  948560917  3  1 Bc  kc    kc    kc        9039  300    0 Qs 8h
+JKhearts  948560932  3  3 r   b     b     k         8739  250  525 Kc Kd
+JKhearts  948560948  3  2 Bc  c     c     r         9014  450  900 7c Jc
+JKhearts  948560962  3  1 Bf  -     -     -         9464   25    0 
+JKhearts  948560969  3  3 cc  c     cc    f         9439  350    0 
+JKhearts  948560994  3  2 Bf  -     -     -         9089   50    0 
+JKhearts  948560998  3  1 Bf  -     -     -         9039   25    0 
+JKhearts  948561011  3  3 f   -     -     -         9014    0    0 
+JKhearts  948561017  3  2 Bc  c     c     c         9014  350    0 6h 7h
+JKhearts  948561026  3  1 Bf  -     -     -         8664   25    0 
+JKhearts  948561032  3  3 f   -     -     -         8639    0    0 
+JKhearts  948561035  3  2 Bf  -     -     -         8639   50    0 
+JKhearts  948561041  3  1 Bcc kc    kc    k         8589  300  750 8d 9s
+JKhearts  948561058  3  3 f   -     -     -         9039    0    0 
+JKhearts  948561063  3  2 Bc  c     c     r         9039  450  800 
+JKhearts  948561075  3  1 Br  b     b     bc        9389  500 1150 9c Ah
+JKhearts  948561091  3  3 f   -     -     -        10039    0    0 
+JKhearts  948561111  3  2 Brr r     k     c        10039  450    0 Td Tc
+JKhearts  948561129  3  1 Bf  -     -     -         9589   25    0 
+JKhearts  948561141  3  3 f   -     -     -         9564    0    0 
+JKhearts  948561146  3  2 Br  c     k     k         9564  200  400 Jh Ad
+JKhearts  948561159  3  1 Bf  -     -     -         9764   25    0 
+JKhearts  948561174  3  3 f   -     -     -         9739    0    0 
+JKhearts  948561182  3  2 Bc  f     -     -         9739  100    0 
+JKhearts  948561188  3  1 Bf  -     -     -         9639   25    0 
+JKhearts  948561203  3  3 f   -     -     -         9614    0    0 
+JKhearts  948561205  3  2 Bc  r     -     -         9614  200  350 
+JKhearts  948561213  3  1 Bc  kc    kf    -         9764  150    0 
+JKhearts  948561225  3  3 f   -     -     -         9614    0    0 
+JKhearts  948561240  3  2 Bc  kf    -     -         9614  150    0 
+JKhearts  948561252  3  1 Bcc kc    kc    k         9464  250    0 Qh Ts
+JKhearts  948561266  3  3 r   c     f     -         9214  150    0 
+JKhearts  948561283  3  2 Bk  k     kc    k         9064  150  325 8d 6d
+JKhearts  948561298  3  1 Bf  -     -     -         9239   25    0 
+JKhearts  948561303  3  3 f   -     -     -         9214    0    0 
+JKhearts  948561311  3  2 Bc  c     r     b         9214  450  900 Kc 7d
+JKhearts  948561326  3  1 Bf  -     -     -         9664   25    0 
+JKhearts  948561333  3  3 f   -     -     -         9639    0    0 
+JKhearts  948561338  3  2 Brc kc    kc    kc        9639  450    0 Tc Th
+JKhearts  948561358  3  1 Bf  -     -     -         9189   25    0 
+JKhearts  948561373  3  3 f   -     -     -         9164    0    0 
+JKhearts  948561377  3  2 Bf  -     -     -         9164   50    0 
+JKhearts  948561380  3  1 Br  br    b     b         9114  450  900 9d Jd
+JKhearts  948561394  3  3 f   -     -     -         9564    0    0 
+JKhearts  948561405  3  2 Bk  kf    -     -         9564   50    0 
+JKhearts  948561412  3  1 Bc  kf    -     -         9514   50    0 
+JKhearts  948561430  3  3 f   -     -     -         9464    0    0 
+JKhearts  948561433  3  2 Bf  -     -     -         9464   50    0 
+JKhearts  948561442  3  1 Bc  kc    kc    kc        9414  300    0 3s Js
+JKhearts  948561457  3  3 f   -     -     -         9114    0    0 
+JKhearts  948561472  3  2 Bc  kc    c     c         9114  400    0 5c 3s
+JKhearts  948561492  3  1 Bf  -     -     -         8714   25    0 
+JKhearts  948561498  3  3 r   br    b     b         8689  450    0 Jh Th
+JKhearts  948561516  3  2 Br  b     b     b         8239  350  750 
+JKhearts  948561542  3  1 Bcr kr    b     -         8639  350  600 
+JKhearts  948561559  3  3 cc  c     c     c         8889  400 1000 Jc Td
+JKhearts  948561572  3  2 Bf  -     -     -         9489   50    0 
+JKhearts  948561590  3  1 Bc  br    kc    kc        9439  400  425 9h Tc
+JKhearts  948561607  3  3 f   -     -     -         9464    0    0 
+JKhearts  948561622  3  2 Bc  c     c     c         9464  350    0 7c 8s
+JKhearts  948561633  3  1 Bf  -     -     -         9114   25    0 
+JKhearts  948561643  3  3 f   -     -     -         9089    0    0 
+JKhearts  948561652  3  2 Bc  kc    kc    kc        9089  350    0 5c 7s
+JKhearts  948561665  3  1 Brc b     b     bf        8739  400    0 
+JKhearts  948561687  3  3 f   -     -     -         8339    0    0 
+JKhearts  948561700  3  2 Bf  -     -     -         8339   50    0 
+JKhearts  948561705  3  1 Bc  kf    -     -         8289  100    0 
+JKhearts  948561718  3  3 f   -     -     -         8189    0    0 
+JKhearts  948561723  3  2 Bf  -     -     -         8189   50    0 
+JKhearts  948561727  3  1 Bf  -     -     -         8139   25    0 
+JKhearts  948561742  3  3 f   -     -     -         8114    0    0 
+JKhearts  948561748  3  2 Brrr br    b     b         8114  650    0 Jd Ad
+JKhearts  948561767  3  1 Bf  -     -     -         7464   25    0 
+JKhearts  948561773  3  3 f   -     -     -         7439    0    0 
+JKhearts  948561776  3  2 Bc  kf    -     -         7439  100    0 
+JKhearts  948561785  3  1 Bf  -     -     -         7339   25    0 
+JKhearts  948561796  3  3 f   -     -     -         7314    0    0 
+JKhearts  948561799  3  2 Brr b     k     k         7314  300    0 3h Ks
+JKhearts  948561817  3  1 Bf  -     -     -         7014   25    0 
+JKhearts  948561835  3  3 r   -     -     -         6989  100  175 
+JKhearts  948561839  3  2 Bf  -     -     -         7064   50    0 
+JKhearts  948561849  3  1 Bf  -     -     -         7014   25    0 
+JKhearts  948561852  3  3 f   -     -     -         6989    0    0 
+JKhearts  948561855  3  2 Bf  -     -     -         6989   50    0 
+JKhearts  948561859  3  1 Bf  -     -     -         6939   25    0 
+JKhearts  948561867  3  3 f   -     -     -         6914    0    0 
+JKhearts  948561872  3  2 Br  b     b     k         6914  250  500 9d 9c
+JKhearts  948561887  3  1 Bcc br    b     b         7164  450  900 7s 5s
+JKhearts  948561902  3  3 f   -     -     -         7614    0    0 
+JKhearts  948561910  3  2 B   -     -     -         7614   50   75 
+JKhearts  948561913  3  1 Bf  -     -     -         7639   25    0 
+JKhearts  948561917  3  3 r   -     -     -         7614  100  175 
+JKhearts  948561921  3  2 B   -     -     -         7689   50   75 
+JKhearts  948561924  3  1 Bf  -     -     -         7714   25    0 
+JKhearts  948561926  3  3 f   -     -     -         7689    0    0 
+JKhearts  948561929  3  2 Bc  kf    -     -         7689  100    0 
+JKhearts  948561935  3  1 Bf  -     -     -         7589   25    0 
+JKhearts  948561939  3  3 f   -     -     -         7564    0    0 
+JKhearts  948561945  3  2 B   -     -     -         7564   50   75 
+JKhearts  948561946  3  1 Bf  -     -     -         7589   25    0 
+JKhearts  948561949  3  3 f   -     -     -         7564    0    0 
+JKhearts  948561955  3  2 Bf  -     -     -         7564   50    0 
+JKhearts  948561959  3  1 Bf  -     -     -         7514   25    0 
+JKhearts  948561967  3  3 f   -     -     -         7489    0    0 
+JKhearts  948561979  3  2 Brr b     b     b         7489  500    0 Jh Th
+JKhearts  948561998  3  1 Br  b     -     -         6989  200  500 
+JKhearts  948562019  3  3 f   -     -     -         7289    0    0 
+JKhearts  948562023  3  2 Bk  k     f     -         7289   50    0 
+JKhearts  948562033  3  1 Bf  -     -     -         7239   25    0 
+JKhearts  948562036  3  3 r   -     -     -         7214  100  175 
+JKhearts  948562039  3  2 Bf  -     -     -         7289   50    0 
+JKhearts  948562058  3  1 Bf  -     -     -         7239   25    0 
+JKhearts  948562071  3  3 f   -     -     -         7214    0    0 
+JKhearts  948562075  3  2 Bc  f     -     -         7214  100    0 
+JKhearts  948562081  3  1 Br  kc    kc    k         7114  300    0 Kc Jc
+JKhearts  948562098  3  3 f   -     -     -         6814    0    0 
+JKhearts  948562108  3  2 Brc c     r     -         6814  450  800 
+JKhearts  948562120  3  1 Bf  -     -     -         7164   25    0 
+JKhearts  948562124  3  3 f   -     -     -         7139    0    0 
+JKhearts  948562137  3  2 Bc  b     -     -         7139  200  500 
+JKhearts  948562147  3  1 Bf  -     -     -         7439   25    0 
+JKhearts  948562149  3  3 r   -     -     -         7414  100  175 
+JKhearts  948562154  3  2 B   -     -     -         7489   50   75 
+JKhearts  948562156  3  1 Bf  -     -     -         7514   25    0 
+JKhearts  948562158  3  3 f   -     -     -         7489    0    0 
+JKhearts  948562166  3  2 B   -     -     -         7489   50   75 
+JKhearts  948562169  3  1 Bc  kc    krc   k         7514  500 1500 8h Qd
+JKhearts  948562203  3  3 cc  f     -     -         8514  100    0 
+JKhearts  948562216  3  2 Bf  -     -     -         8414   50    0 
+JKhearts  948562231  3  1 Bf  -     -     -         8364   25    0 
+JKhearts  948562248  3  3 f   -     -     -         8339    0    0 
+JKhearts  948562260  3  2 Bf  -     -     -         8339   50    0 
+JKhearts  948562267  3  1 Bf  -     -     -         8289   25    0 
+JKhearts  948562278  3  3 f   -     -     -         8264    0    0 
+JKhearts  948562281  3  2 Bc  kr    b     bc        8264  500    0 Ks 8h
+JKhearts  948562297  3  1 Brr kc    k     k         7764  250    0 3s As
+JKhearts  948562328  3  3 f   -     -     -         7514    0    0 
+JKhearts  948562341  3  2 Bk  f     -     -         7514   50    0 
+JKhearts  948562349  3  1 Bf  -     -     -         7464   25    0 
+JKhearts  948562353  3  3 r   r     c     c         7439  400    0 Js Jh
+JKhearts  948562372  3  2 B   -     -     -         7039   50   75 
+JKhearts  948562377  3  1 Bc  k     k     k         7064   50   50 7c 5c
+JKhearts  948562388  3  3 cc  c     k     b         7064  300  700 
+JKhearts  948562418  3  2 Bc  kf    -     -         7464  100    0 
+JKhearts  948562424  3  1 Bf  -     -     -         7364   25    0 
+JKhearts  948562435  3  3 f   -     -     -         7339    0    0 
+JKhearts  948562439  3  2 Bf  -     -     -         7339   50    0 
+JKhearts  948562447  3  1 Bc  kc    kc    kc        7289  400 1100 5h Ac
+JKhearts  948562467  3  3 f   -     -     -         7989    0    0 
+JKhearts  948562494  3  2 Bcc cc    k     f         7989  300    0 
+JKhearts  948562521  3  1 Bf  -     -     -         7689   25    0 
+JKhearts  948562537  3  3 f   -     -     -         7664    0    0 
+JKhearts  948562540  3  2 Bf  -     -     -         7664   50    0 
+JKhearts  948562546  3  1 Bc  br    k     k         7614  250  550 Qh 4h
+JKhearts  948562563  3  3 c   r     -     -         7914  150  275 
+JKhearts  948562575  3  2 B   -     -     -         8039   50   75 
+JKhearts  948562578  3  1 Bc  brc   k     kc        8064  350  700 7s 6d
+JKhearts  948562597  3  3 f   -     -     -         8414    0    0 
+JKhearts  948562612  3  2 Bc  c     rc    c         8414  550    0 Ac 7s
+JKhearts  948562626  3  1 Bf  -     -     -         7864   25    0 
+JKhearts  948562636  3  3 f   -     -     -         7839    0    0 
+JKhearts  948562640  3  2 Bc  c     c     r         7839  450  900 Kd Tc
+JKhearts  948562654  3  1 Bf  -     -     -         8289   25    0 
+JKhearts  948562661  3  3 f   -     -     -         8264    0    0 
+JKhearts  948562666  3  2 Bf  -     -     -         8264   50    0 
+JKhearts  948562675  3  1 Bf  -     -     -         8214   25    0 
+JKhearts  948562679  3  3 rc  c     c     c         8189  400    0 As 9d
+JKhearts  948562701  3  2 Bk  k     c     c         7789  250  500 5d 9s
+JKhearts  948562714  3  1 Bf  -     -     -         8039   25    0 
+JKhearts  948562730  3  3 cc  f     -     -         8014  100    0 
+JKhearts  948562740  3  2 Bk  f     -     -         7914   50    0 
+JKhearts  948562747  3  1 Bc  kc    k     k         7864  150  400 5h 7h
+JKhearts  948562761  3  3 cc  f     -     -         8114  100    0 
+JKhearts  948562782  3  2 Bcc kc    kr    k         8014  550 1450 Kd 9d
+JKhearts  948562806  3  1 Bf  -     -     -         8914   25    0 
+JKhearts  948562817  3  3 r   c     k     k         8889  150  350 Qs Ad
+JKhearts  948562826  3  2 Bk  k     b     -         9089  150  225 
+JKhearts  948562838  3  1 Bf  -     -     -         9164   25    0 
+JKhearts  948562841  3  3 f   -     -     -         9139    0    0 
+JKhearts  948562851  3  2 Bc  cc    kf    -         9139  200    0 
+JKhearts  948562869  3  1 Bf  -     -     -         8939   25    0 
+JKhearts  948562873  3  3 f   -     -     -         8914    0    0 
+JKhearts  948562884  3  2 Bf  -     -     -         8914   50    0 
+JKhearts  948562896  3  1 Bc  b     b     k         8864  200  400 As 7s
+JKhearts  948562908  3  3 f   -     -     -         9064    0    0 
+JKhearts  948562916  3  2 Bc  f     -     -         9064  100    0 
+JKhearts  948562924  3  1 Bcc kc    kf    -         8964  200    0 
+JKhearts  948562945  3  3 f   -     -     -         8764    0    0 
+JKhearts  948562957  3  2 Bcc kc    c     k         8764  350    0 Th 7h
+JKhearts  948562981  3  1 Bf  -     -     -         8414   25    0 
+JKhearts  948563000  3  3 rc  b     k     k         8389  200  425 Ac Tc
+JKhearts  948563019  3  2 Bc  kc    kc    kf        8614  250    0 
+JKhearts  948563036  3  1 Br  -     -     -         8364  100  150 
+JKhearts  948563040  3  3 f   -     -     -         8414    0    0 
+JKhearts  948563049  3  2 Bf  -     -     -         8414   50    0 
+JKhearts  948563052  3  1 Bf  -     -     -         8364   25    0 
+JKhearts  948563068  3  3 f   -     -     -         8339    0    0 
+JKhearts  948563089  3  2 Bc  cc    kc    f         8339  300    0 
+JKhearts  948563109  3  1 Bf  -     -     -         8039   25    0 
+JKhearts  948563117  3  3 f   -     -     -         8014    0    0 
+JKhearts  948563122  3  2 Brc c     c     k         8014  350  700 Td Tc
+JKhearts  948563137  3  1 Bf  -     -     -         8364   25    0 
+JKhearts  948563142  3  3 f   -     -     -         8339    0    0 
+JKhearts  948563156  3  2 Br  c     c     c         8339  450    0 Ac Kc
+JKhearts  948563181  3  1 Bf  -     -     -         7889   25    0 
+JKhearts  948563186  3  3 f   -     -     -         7864    0    0 
+JKhearts  948563193  3  2 Bc  kf    -     -         7864  100    0 
+JKhearts  948563200  3  1 Bf  -     -     -         7764   25    0 
+JKhearts  948563213  3  3 cc  c     k     k         7739  150  350 7c Ad
+JKhearts  948563226  3  2 Bc  c     c     f         7939  250    0 
+JKhearts  948563236  3  1 Bc  b     -     -         7689  150  350 
+JKhearts  948563246  3  3 f   -     -     -         7889    0    0 
+JKhearts  948563249  3  2 Bc  f     -     -         7889  150    0 
+JKhearts  948563264  3  1 Bc  kc    kc    kf        7739  250    0 
+JKhearts  948563278  3  3 f   -     -     -         7489    0    0 
+JKhearts  948563282  3  2 Bf  -     -     -         7489   50    0 
+JKhearts  948563293  3  1 Bc  bc    kc    kf        7439  300    0 
+JKhearts  948563312  3  3 rcc f     -     -         7139  200    0 
+JKhearts  948563336  3  2 Brc br    bc    kc        6939  650    0 Ts Qh
+JKhearts  948563356  2  1 Br  b     b     k         6289  250    0 Td 7d
+JKhearts  948563370  2  2 B   -     -     -         6039   50   75 
+JKhearts  948596618  2  2 B   -     -     -         8874   50   75 
+JKhearts  948596641  2  1 Bf  -     -     -         8899   25    0 
+JKhearts  948596643  2  2 Bc  c     k     c         8874  250  500 Ah 4h
+JKhearts  948596656  2  1 Bc  kf    -     -         9124   50    0 
+JKhearts  948596668  2  2 B   -     -     -         9074   50   75 
+JKhearts  948596670  2  1 Bc  b     -     -         9099  100  150 
+JKhearts  948596678  2  2 B   -     -     -         9149   50   75 
+JKhearts  948596679  2  1 Bc  b     -     -         9174  100  150 
+JKhearts  948596686  2  2 B   -     -     -         9224   50   75 
+JKhearts  948596688  2  1 Bcc k     kc    k         9249  200  400 8c 8h
+JKhearts  948596702  2  2 B   -     -     -         9449   50   75 
+JKhearts  948596707  2  1 Bf  -     -     -         9474   25    0 
+JKhearts  948596710  3  2 Bf  -     -     -         9449   50    0 
+JKhearts  948596717  3  1 Bc  kc    kf    -         9399  150    0 
+JKhearts  948596730  3  3 f   -     -     -         9249    0    0 
+JKhearts  948596734  3  2 B   -     -     -         9249   50   75 
+JKhearts  948596737  3  1 Br  -     -     -         9274  100  150 
+JKhearts  948596741  3  3 cc  c     k     k         9324  150  350 Tc Jh
+JKhearts  948596757  3  2 B   -     -     -         9524   50   75 
+JKhearts  948596764  3  1 Br  b     -     -         9549  200  400 
+JKhearts  948596773  3  3 f   -     -     -         9749    0    0 
+JKhearts  948596788  3  2 B   -     -     -         9749   50   75 
+JKhearts  948596791  3  1 Bf  -     -     -         9774   25    0 
+JKhearts  948596793  3  3 f   -     -     -         9749    0    0 
+JKhearts  948596796  3  2 Bc  f     -     -         9749  100    0 
+JKhearts  948596802  3  1 Bf  -     -     -         9649   25    0 
+JKhearts  948596818  3  3 f   -     -     -         9624    0    0 
+JKhearts  948596819  3  2 Bf  -     -     -         9624   50    0 
+JKhearts  948596822  3  1 Bf  -     -     -         9574   25    0 
+JKhearts  948596843  3  3 f   -     -     -         9549    0    0 
+JKhearts  948596854  3  2 Bf  -     -     -         9549   50    0 
+JKhearts  948596858  3  1 Bcc kc    kf    -         9499  150    0 
+JKhearts  948596878  3  3 f   -     -     -         9349    0    0 
+JKhearts  948596881  3  2 B   -     -     -         9349   50   75 
+JKhearts  948596884  3  1 Bf  -     -     -         9374   25    0 
+JKhearts  948596889  3  3 f   -     -     -         9349    0    0 
+JKhearts  948596892  3  2 Bf  -     -     -         9349   50    0 
+JKhearts  948596896  3  1 Bf  -     -     -         9299   25    0 
+JKhearts  948596899  3  3 f   -     -     -         9274    0    0 
+JKhearts  948596905  3  2 Bc  kf    -     -         9274  100    0 
+JKhearts  948596913  3  1 Bf  -     -     -         9174   25    0 
+JKhearts  948596929  3  3 cc  f     -     -         9149  100    0 
+JKhearts  948596941  3  2 Bc  f     -     -         9049  100    0 
+JKhearts  948596949  3  1 Bf  -     -     -         8949   25    0 
+JKhearts  948596965  3  3 cc  r     -     -         8924  200  400 
+JKhearts  948596975  3  2 B   -     -     -         9124   50   75 
+JKhearts  948596978  3  1 Bc  kf    -     -         9149  100    0 
+JKhearts  948596985  3  3 f   -     -     -         9049    0    0 
+JKhearts  948596990  3  2 Bc  br    b     -         9049  350  625 
+JKhearts  948597006  3  1 Bc  kc    kc    kf        9324  200    0 
+JKhearts  948597023  3  3 f   -     -     -         9124    0    0 
+JKhearts  948597033  3  2 Br  b     k     k         9124  200    0 Qh Ac
+JKhearts  948597046  3  1 Bf  -     -     -         8924   25    0 
+JKhearts  948597052  3  3 f   -     -     -         8899    0    0 
+JKhearts  948597054  3  2 B   -     -     -         8899   50   75 
+JKhearts  948597058  3  1 Bf  -     -     -         8924   25    0 
+JKhearts  948597061  3  3 f   -     -     -         8899    0    0 
+JKhearts  948597082  3  2 Br  b     -     -         8899  200  375 
+JKhearts  948597094  3  1 Bf  -     -     -         9074   25    0 
+JKhearts  948597113  3  3 f   -     -     -         9049    0    0 
+JKhearts  948597118  3  2 Bc  c     c     b         9049  350  700 Kc 9c
+JKhearts  948597135  3  1 Br  b     -     -         9399  200  400 
+JKhearts  948597145  3  3 f   -     -     -         9599    0    0 
+JKhearts  948597149  3  2 B   -     -     -         9599   50   75 
+JKhearts  948597152  3  1 Bf  -     -     -         9624   25    0 
+JKhearts  948597155  3  3 f   -     -     -         9599    0    0 
+JKhearts  948597162  3  2 Bc  c     f     -         9599  150    0 
+JKhearts  948597173  3  1 Br  -     -     -         9449  100  150 
+JKhearts  948597182  3  3 cc  c     c     k         9499  250  600 5c Ac
+JKhearts  948597198  3  2 B   -     -     -         9849   50   75 
+JKhearts  948597205  3  1 Bf  -     -     -         9874   25    0 
+JKhearts  948597208  3  3 c   k     f     -         9849   50    0 
+JKhearts  948597221  3  2 B   -     -     -         9799   50   75 
+JKhearts  948597225  3  1 Bcc kc    kc    b         9824  350  700 7h 8c
+JKhearts  948597245  3  3 f   -     -     -        10174    0    0 
+JKhearts  948597250  3  2 Bc  kf    -     -        10174  100    0 
+JKhearts  948597273  3  1 Bf  -     -     -        10074   25    0 
+JKhearts  948597295  3  3 f   -     -     -        10049    0    0 
+JKhearts  948597320  3  2 Bc  c     b     -        10049  250  400 
+JKhearts  948597338  3  1 Bf  -     -     -        10199   25    0 
+JKhearts  948597343  3  3 f   -     -     -        10174    0    0 
+JKhearts  948597346  3  2 B   -     -     -        10174   50   75 
+JKhearts  948597348  3  1 Bf  -     -     -        10199   25    0 
+JKhearts  948597350  3  3 c   k     b     -        10174  150  225 
+JKhearts  948597362  3  2 Bc  kf    -     -        10249  100    0 
+JKhearts  948597380  3  1 Bf  -     -     -        10149   25    0 
+JKhearts  948597385  3  3 f   -     -     -        10124    0    0 
+JKhearts  948597388  3  2 Bf  -     -     -        10124   50    0 
+JKhearts  948597399  3  1 Bf  -     -     -        10074   25    0 
+JKhearts  948597401  3  3 f   -     -     -        10049    0    0 
+JKhearts  948597403  3  2 Bc  k     c     k        10049  200    0 8d 7d
+JKhearts  948597418  3  1 Bf  -     -     -         9849   25    0 
+JKhearts  948597424  3  3 r   -     -     -         9824  100  175 
+JKhearts  948597428  3  2 Bc  c     f     -         9899  150    0 
+JKhearts  948597437  3  1 Br  -     -     -         9749  100  150 
+JKhearts  948597443  3  3 f   -     -     -         9799    0    0 
+JKhearts  948597445  3  2 B   -     -     -         9799   50   75 
+JKhearts  948597447  3  1 Bc  kc    kc    kc        9824  350    0 Jh 8c
+JKhearts  948597462  3  3 f   -     -     -         9474    0    0 
+JKhearts  948597470  4  2 B   -     -     -         9474   50   75 
+JKhearts  948597474  4  1 Bc  k     k     k         9499  100  250 Tc 8c
+JKhearts  948597488  4  4 f   -     -     -         9649    0    0 
+JKhearts  948597510  4  3 cc  kc    kf    -         9649  150    0 
+JKhearts  948597542  4  2 Bf  -     -     -         9499   50    0 
+JKhearts  948597551  4  1 Bf  -     -     -         9449   25    0 
+JKhearts  948597556  4  4 f   -     -     -         9424    0    0 
+JKhearts  948597587  4  3 c   f     -     -         9424   50    0 
+JKhearts  948597620  4  2 Bc  kf    -     -         9374  100    0 
+JKhearts  948597640  4  1 Bf  -     -     -         9274   25    0 
+JKhearts  948597663  4  4 f   -     -     -         9249    0    0 
+JKhearts  948597687  4  3 c   c     k     k         9249  100    0 6c Tc
+JKhearts  948597707  4  2 Bc  bc    k     k         9149  200    0 Js 2s
+JKhearts  948597729  4  1 Bc  kf    -     -         8949  100    0 
+JKhearts  948597743  4  4 r   b     -     -         8849  150  275 
+JKhearts  948597753  4  3 cc  cc    c     kf        8974  350    0 
+JKhearts  948597783  4  2 B   -     -     -         8624   50   75 
+JKhearts  948597793  4  1 Bc  kc    kc    kc        8649  350  750 9c Ad
+JKhearts  948597813  4  4 f   -     -     -         9049    0    0 
+JKhearts  948597820  4  3 f   -     -     -         9049    0    0 
+JKhearts  948597840  4  2 Bc  kf    -     -         9049  100    0 
+JKhearts  948597851  4  1 Bf  -     -     -         8949   25    0 
+JKhearts  948597870  4  4 c   f     -     -         8924  100    0 
+JKhearts  948597884  4  3 f   -     -     -         8824    0    0 
+JKhearts  948597907  4  2 Bc  kc    kr    b         8824  450  925 4h 4d
+JKhearts  948597929  4  1 Bf  -     -     -         9299   25    0 
+JKhearts  948597936  4  4 f   -     -     -         9274    0    0 
+JKhearts  948597955  4  3 f   -     -     -         9274    0    0 
+JKhearts  948597960  4  2 Br  brc   k     k         9274  350  725 Ad As
+JKhearts  948597983  4  1 Bcc bc    kc    kf        9649  300    0 
+JKhearts  948598012  4  4 cc  c     k     k         9349  200    0 9h 8s
+JKhearts  948598037  4  3 cc  r     b     -         9149  350  800 
+JKhearts  948598067  4  2 Bc  bc    k     kc        9599  300    0 Ac Tc
+JKhearts  948598085  4  1 Bf  -     -     -         9299   25    0 
+JKhearts  948598093  4  4 f   -     -     -         9274    0    0 
+JKhearts  948598115  4  3 f   -     -     -         9274    0    0 
+JKhearts  948598134  4  2 Bc  kf    -     -         9274  100    0 
+JKhearts  948598156  5  1 Br  bc    b     b         9174  400  700 
+JKhearts  948598177  5  5 f   -     -     -         9474    0    0 
+JKhearts  948598190  5  4 f   -     -     -         9474    0    0 
+JKhearts  948598205  5  3 f   -     -     -         9474    0    0 
+JKhearts  948598223  5  2 Bf  -     -     -         9474   50    0 
+JKhearts  948598249  5  1 Bf  -     -     -         9424   25    0 
+JKhearts  948598252  5  5 c   f     -     -         9399   50    0 
+JKhearts  948598268  5  4 f   -     -     -         9349    0    0 
+JKhearts  948598288  5  3 r   b     k     k         9349  150    0 Ah Js
+JKhearts  948598308  5  2 Bk  kf    -     -         9199   50    0 
+JKhearts  948598322  5  1 Bf  -     -     -         9149   25    0 
+JKhearts  948598333  5  5 c   c     k     c         9124  250    0 6c 9c
+JKhearts  948598349  5  4 f   -     -     -         8874    0    0 
+JKhearts  948598360  5  3 f   -     -     -         8874    0    0 
+JKhearts  948598366  5  2 Bf  -     -     -         8874   50    0 
+JKhearts  948598374  5  1 Bc  bc    kc    kf        8824  300    0 
+JKhearts  948598401  5  5 f   -     -     -         8524    0    0 
+JKhearts  948598445  5  4 r   b     -     -         8524  150  275 
+JKhearts  948598461  5  3 cc  kc    b     -         8649  250  475 
+JKhearts  948598480  5  2 Bc  c     c     k         8874  250    0 9d Td
+JKhearts  948598495  5  1 Bf  -     -     -         8624   25    0 
+JKhearts  948598503  5  5 f   -     -     -         8599    0    0 
+JKhearts  948598535  5  4 f   -     -     -         8599    0    0 
+JKhearts  948598558  5  3 f   -     -     -         8599    0    0 
+JKhearts  948598580  5  2 Bk  bc    kc    k         8599  250  525 9c Ts
+JKhearts  948598599  5  1 Bf  -     -     -         8874   25    0 
+JKhearts  948598609  5  5 f   -     -     -         8849    0    0 
+JKhearts  948598612  5  4 f   -     -     -         8849    0    0 
+JKhearts  948598632  5  3 f   -     -     -         8849    0    0 
+JKhearts  948598659  5  2 B   -     -     -         8849   50   75 
+JKhearts  948598667  5  1 Bc  kf    -     -         8874  100    0 
+JKhearts  948598694  5  5 f   -     -     -         8774    0    0 
+JKhearts  948598735  5  4 f   -     -     -         8774    0    0 
+JKhearts  948598751  5  3 f   -     -     -         8774    0    0 
+JKhearts  948598789  5  2 Bf  -     -     -         8774   50    0 
+JKhearts  948598801  5  1 Bf  -     -     -         8724   25    0 
+JKhearts  948598808  5  5 c   rc    k     k         8699  250  750 Jd Ks
+JKhearts  948598834  5  4 f   -     -     -         9199    0    0 
+JKhearts  948598842  5  3 f   -     -     -         9199    0    0 
+JKhearts  948598873  5  2 Bc  c     c     k         9199  250  250 6s 9h
+JKhearts  948598891  5  1 Bf  -     -     -         9199   25    0 
+JKhearts  948598901  6  6 f   -     -     -         9174    0    0 
+JKhearts  948598916  6  5 f   -     -     -         9174    0    0 
+JKhearts  948598940  6  4 f   -     -     -         9174    0    0 
+JKhearts  948598956  6  3 r   b     b     -         9174  250  500 
+JKhearts  948598976  6  2 Bc  kc    c     f         9424  300    0 
+JKhearts  948599015  6  1 Bf  -     -     -         9124   25    0 
+JKhearts  948599036  6  6 f   -     -     -         9099    0    0 
+JKhearts  948599042  6  5 f   -     -     -         9099    0    0 
+JKhearts  948599060  6  4 f   -     -     -         9099    0    0 
+JKhearts  948599089  6  3 c   c     f     -         9099  100    0 
+JKhearts  948599111  6  2 Bk  kf    -     -         8999   50    0 
+JKhearts  948599137  6  1 Bf  -     -     -         8949   25    0 
+JKhearts  948599145  6  6 r   r     b     b         8924  450 1250 7d 7c
+JKhearts  948599188  7  6 f   -     -     -         9724    0    0 
+JKhearts  948599205  7  5 f   -     -     -         9724    0    0 
+JKhearts  948599228  7  4 f   -     -     -         9724    0    0 
+JKhearts  948599249  7  3 f   -     -     -         9724    0    0 
+JKhearts  948599276  7  2 Bf  -     -     -         9724   50    0 
+JKhearts  948599301  7  1 Bf  -     -     -         9674   25    0 
+JKhearts  948599337  7  7 f   -     -     -         9649    0    0 
+JKhearts  948599357  7  6 f   -     -     -         9649    0    0 
+JKhearts  948599377  7  5 f   -     -     -         9649    0    0 
+JKhearts  948599390  7  4 f   -     -     -         9649    0    0 
+JKhearts  948599396  7  3 f   -     -     -         9649    0    0 
+JKhearts  948599425  7  2 Bc  bc    k     kf        9649  250    0 
+JKhearts  948599466  7  1 Bc  k     kf    -         9399   50    0 
+JKhearts  948599504  7  7 f   -     -     -         9349    0    0 
+JKhearts  948599526  7  6 f   -     -     -         9349    0    0 
+JKhearts  948599562  7  5 f   -     -     -         9349    0    0 
+JKhearts  948599599  7  4 f   -     -     -         9349    0    0 
+JKhearts  948599628  7  3 f   -     -     -         9349    0    0 
+JKhearts  948599647  7  2 Bk  b     k     k         9349  100  300 2c Qc
+JKhearts  948599697  6  1 Bcc kc    kf    -         9549  250    0 
+JKhearts  948599729  6  6 f   -     -     -         9299    0    0 
+JKhearts  948599745  6  5 f   -     -     -         9299    0    0 
+JKhearts  948599756  6  4 f   -     -     -         9299    0    0 
+JKhearts  948599783  6  3 f   -     -     -         9299    0    0 
+JKhearts  948599808  6  2 B   -     -     -         9299   50   75 
+JKhearts  948599812  6  1 Bf  -     -     -         9324   25    0 
+JKhearts  948599828  6  6 r   bf    -     -         9299  150    0 
+JKhearts  948599846  6  5 f   -     -     -         9149    0    0 
+JKhearts  948599869  6  4 f   -     -     -         9149    0    0 
+JKhearts  948599892  6  3 f   -     -     -         9149    0    0 
+JKhearts  948599927  6  2 Bc  kf    -     -         9149  100    0 
+JKhearts  948599944  6  1 Bc  kc    kc    k         9049  250    0 8d 8h
+JKhearts  948599977  6  6 c   b     -     -         8799  100  175 
+JKhearts  948599991  6  5 c   c     f     -         8874  100    0 
+JKhearts  948600006  6  4 f   -     -     -         8774    0    0 
+JKhearts  948600044  6  3 f   -     -     -         8774    0    0 
+JKhearts  948600067  6  2 Bk  kf    -     -         8774   50    0 
+JKhearts  948600088  6  1 Bc  kc    k     b         8724  300  800 
+JKhearts  948600111  6  6 c   r     b     -         9224  250  450 
+JKhearts  948600137  6  5 f   -     -     -         9424    0    0 
+JKhearts  948600144  6  4 cc  kf    -     -         9424  100    0 
+JKhearts  948600171  6  3 f   -     -     -         9324    0    0 
+JKhearts  948600189  6  2 Bk  b     -     -         9324  100  200 
+JKhearts  948600202  6  1 Br  -     -     -         9424  100  150 
+JKhearts  948600207  6  6 f   -     -     -         9474    0    0 
+JKhearts  948600231  6  5 r   bc    c     k         9474  350 1150 Jd Jh
+JKhearts  948600271  6  4 f   -     -     -        10274    0    0 
+JKhearts  948600295  6  3 f   -     -     -        10274    0    0 
+JKhearts  948600339  6  2 Bc  kf    -     -        10274  100    0 
+JKhearts  948600369  6  1 Bcc kc    kr    k        10174  400 1200 Jh Qc
+JKhearts  948600405  6  6 f   -     -     -        10974    0    0 
+JKhearts  948600415  6  5 f   -     -     -        10974    0    0 
+JKhearts  948600434  6  4 f   -     -     -        10974    0    0 
+JKhearts  948600463  6  3 f   -     -     -        10974    0    0 
+JKhearts  948600485  6  2 Bc  kf    -     -        10974  100    0 
+JKhearts  948600503  6  1 Bf  -     -     -        10874   25    0 
+JKhearts  948600517  7  7 f   -     -     -        10849    0    0 
+JKhearts  948600532  7  6 f   -     -     -        10849    0    0 
+JKhearts  948600540  7  5 f   -     -     -        10849    0    0 
+JKhearts  948600550  7  4 f   -     -     -        10849    0    0 
+JKhearts  948600565  7  3 f   -     -     -        10849    0    0 
+JKhearts  948600569  7  2 Bf  -     -     -        10849   50    0 
+JKhearts  948600600  8  1 Bc  k     kf    -        10799   50    0 
+JKhearts  948600623  8  8 f   -     -     -        10749    0    0 
+JKhearts  948600626  8  7 f   -     -     -        10749    0    0 
+JKhearts  948600646  8  6 f   -     -     -        10749    0    0 
+JKhearts  948600677  8  5 rc  f     -     -        10749  150    0 
+JKhearts  948600704  8  4 f   -     -     -        10599    0    0 
+JKhearts  948600712  8  3 f   -     -     -        10599    0    0 
+JKhearts  948600737  8  2 Bk  k     k     k        10599   50    0 As 7d
+JKhearts  948600761  8  1 Bf  -     -     -        10549   25    0 
+JKhearts  948600773  8  8 f   -     -     -        10524    0    0 
+JKhearts  948600819  8  7 f   -     -     -        10524    0    0 
+JKhearts  948600827  8  6 f   -     -     -        10524    0    0 
+JKhearts  948600846  8  5 f   -     -     -        10524    0    0 
+JKhearts  948600874  8  4 fQ  -     -     -        10524    0    0 
+JKhearts  948610680  8  4 f   -     -     -        10524    0    0 
+JKhearts  948610727  8  3 f   -     -     -        10524    0    0 
+JKhearts  948610747  8  2 Bf  -     -     -        10524   50    0 
+JKhearts  948610774  8  1 Bf  -     -     -        10474   25    0 
+JKhearts  948610806  8  8 f   -     -     -        10449    0    0 
+JKhearts  948610824  8  7 f   -     -     -        10449    0    0 
+JKhearts  948610859  8  6 f   -     -     -        10449    0    0 
+JKhearts  948610876  8  5 f   -     -     -        10449    0    0 
+JKhearts  948610910  8  4 f   -     -     -        10449    0    0 
+JKhearts  948610926  8  3 f   -     -     -        10449    0    0 
+JKhearts  948610942  8  2 Bc  k     kf    -        10449  100    0 
+JKhearts  948610970  8  1 Bf  -     -     -        10349   25    0 
+JKhearts  948610985  8  8 f   -     -     -        10324    0    0 
+JKhearts  948610999  8  7 f   -     -     -        10324    0    0 
+JKhearts  948611014  8  6 f   -     -     -        10324    0    0 
+JKhearts  948611031  8  5 f   -     -     -        10324    0    0 
+JKhearts  948611063  8  4 f   -     -     -        10324    0    0 
+JKhearts  948611097  8  3 f   -     -     -        10324    0    0 
+JKhearts  948611125  8  2 Bf  -     -     -        10324   50    0 
+JKhearts  948611152  8  1 Bf  -     -     -        10274   25    0 
+JKhearts  948611175  8  8 f   -     -     -        10249    0    0 
+JKhearts  948611207  8  7 f   -     -     -        10249    0    0 
+JKhearts  948611222  8  6 r   b     -     -        10249  150  450 
+JKhearts  948611259  8  5 f   -     -     -        10549    0    0 
+JKhearts  948611275  8  4 f   -     -     -        10549    0    0 
+JKhearts  948611299  8  3 f   -     -     -        10549    0    0 
+JKhearts  948611305  8  2 Bc  b     b     k        10549  250  950 Jc Qc
+JKhearts  948611340  8  1 Bf  -     -     -        11249   25    0 
+JKhearts  948611369  8  8 f   -     -     -        11224    0    0 
+JKhearts  948611410  8  7 cc  f     -     -        11224  150    0 
+JKhearts  948611432  8  6 ccc kf    -     -        11074  200    0 
+JKhearts  948611500  9  5 f   -     -     -        10874    0    0 
+JKhearts  948611536  9  4 f   -     -     -        10874    0    0 
+JKhearts  948611603  9  3 f   -     -     -        10874    0    0 
+JKhearts  948611634  8  2 Bk  k     k     k        10874   50  100 5h 9h
+JKhearts  948611704  7  1 Bf  -     -     -        10924   25    0 
+JKhearts  948611743  8  8 f   -     -     -        10899    0    0 
+JKhearts  948611804  8  7 f   -     -     -        10899    0    0 
+JKhearts  948611829  8  6 f   -     -     -        10899    0    0 
+JKhearts  948611876  8  5 f   -     -     -        10899    0    0 
+JKhearts  948611916  8  4 f   -     -     -        10899    0    0 
+JKhearts  948611923  8  3 f   -     -     -        10899    0    0 
+JKhearts  948611967  8  2 Bf  -     -     -        10899   50    0 
+JKhearts  948611998  8  1 Bc  bc    kc    kc       10849  350    0 7h 8d
+JKhearts  948612030  8  8 f   -     -     -        10499    0    0 
+JKhearts  948612049  8  7 f   -     -     -        10499    0    0 
+JKhearts  948612075  8  6 f   -     -     -        10499    0    0 
+JKhearts  948612101  8  5 f   -     -     -        10499    0    0 
+JKhearts  948612125  8  4 f   -     -     -        10499    0    0 
+JKhearts  948612140  8  3 f   -     -     -        10499    0    0 
+JKhearts  948612171  8  2 Bf  -     -     -        10499   50    0 
+JKhearts  948612180  8  1 Bc  b     k     k        10449  100    0 9h Ts
+JKhearts  948612197  8  8 f   -     -     -        10349    0    0 
+JKhearts  948612228  8  7 f   -     -     -        10349    0    0 
+JKhearts  948612259  8  6 f   -     -     -        10349    0    0 
+JKhearts  948612284  8  5 f   -     -     -        10349    0    0 
+JKhearts  948612317  8  4 f   -     -     -        10349    0    0 
+JKhearts  948612338  8  3 f   -     -     -        10349    0    0 
+JKhearts  948612383  8  2 Bf  -     -     -        10349   50    0 
+JKhearts  948612402  8  1 Bf  -     -     -        10299   25    0 
+JKhearts  948612414  8  8 cc  f     -     -        10274  100    0 
+JKhearts  948612460  8  7 f   -     -     -        10174    0    0 
+JKhearts  948612495  8  6 c   k     k     k        10174   50  250 5s As
+JKhearts  948612520  8  5 f   -     -     -        10374    0    0 
+JKhearts  948612557  8  4 f   -     -     -        10374    0    0 
+JKhearts  948612587  8  3 f   -     -     -        10374    0    0 
+JKhearts  948612605  8  2 Bf  -     -     -        10374   50    0 
+JKhearts  948612631  8  1 Bc  kf    -     -        10324   50    0 
+JKhearts  948612669  8  8 f   -     -     -        10274    0    0 
+JKhearts  948612681  8  7 r   c     c     f        10274  250    0 
+JKhearts  948612714  8  6 f   -     -     -        10024    0    0 
+JKhearts  948612746  8  5 f   -     -     -        10024    0    0 
+JKhearts  948612799  8  4 f   -     -     -        10024    0    0 
+JKhearts  948612822  8  3 f   -     -     -        10024    0    0 
+JKhearts  948612870  8  2 Bf  -     -     -        10024   50    0 
+JKhearts  948612903  8  1 Bc  k     b     b         9974  300  650 8d Ad
+JKhearts  948612934  8  8 f   -     -     -        10324    0    0 
+JKhearts  948612943  8  7 f   -     -     -        10324    0    0 
+JKhearts  948612968  8  6 rc  b     b     bc       10324  500  588 Ac Qh
+JKhearts  948612997  8  5 c   kc    kf    -        10412  100    0 
+JKhearts  948613037  8  4 f   -     -     -        10312    0    0 
+JKhearts  948613082  8  3 f   -     -     -        10312    0    0 
+JKhearts  948613110  8  2 Bf  -     -     -        10312   50    0 
+JKhearts  948613129  8  1 Bc  kf    -     -        10262  100    0 
+JKhearts  948613208  7  7 f   -     -     -        10162    0    0 
+JKhearts  948613228  7  6 f   -     -     -        10162    0    0 
+JKhearts  948613259  7  5 c   f     -     -        10162   50    0 
+JKhearts  948613300  7  4 f   -     -     -        10112    0    0 
+JKhearts  948613323  8  3 f   -     -     -        10112    0    0 
+JKhearts  948613434  7  2 Bf  -     -     -        10112   50    0 
+JKhearts  948613446  7  1 Bc  k     k     kf       10062   50    0 
+JKhearts  948613476  7  7 rc  k     k     b        10012  250  425 
+JKhearts  948613497  7  6 f   -     -     -        10187    0    0 
+JKhearts  948613512  7  5 f   -     -     -        10187    0    0 
+JKhearts  948613542  7  4 f   -     -     -        10187    0    0 
+JKhearts  948613553  7  3 f   -     -     -        10187    0    0 
+JKhearts  948613580  7  2 Bf  -     -     -        10187   50    0 
+JKhearts  948613603  7  1 Bf  -     -     -        10137   25    0 
+JKhearts  948613651  7  7 f   -     -     -        10112    0    0 
+JKhearts  948613660  7  6 f   -     -     -        10112    0    0 
+JKhearts  948613676  7  5 rc  bc    k     k        10112  250  575 Ac Qc
+JKhearts  948613698  7  4 f   -     -     -        10437    0    0 
+JKhearts  948613732  7  3 f   -     -     -        10437    0    0 
+JKhearts  948613747  7  2 Bf  -     -     -        10437   50    0 
+JKhearts  948613790  7  1 Bf  -     -     -        10387   25    0 
+JKhearts  948613803  7  7 f   -     -     -        10362    0    0 
+JKhearts  948613811  7  6 f   -     -     -        10362    0    0 
+JKhearts  948613839  7  5 f   -     -     -        10362    0    0 
+JKhearts  948613887  7  4 f   -     -     -        10362    0    0 
+JKhearts  948613913  7  3 f   -     -     -        10362    0    0 
+JKhearts  948613933  7  2 Bk  kf    -     -        10362   50    0 
+JKhearts  948613948  7  1 Bf  -     -     -        10312   25    0 
+JKhearts  948613969  7  7 r   -     -     -        10287  100  175 
+JKhearts  948613979  7  6 f   -     -     -        10362    0    0 
+JKhearts  948613993  6  4 f   -     -     -        10362    0    0 
+JKhearts  948614034  6  3 f   -     -     -        10362    0    0 
+JKhearts  948614061  6  2 Bf  -     -     -        10362   50    0 
+JKhearts  948614082  5  1 Bf  -     -     -        10312   25    0 
+JKhearts  948614095  5  5 f   -     -     -        10287    0    0 
+JKhearts  948614116  5  4 f   -     -     -        10287    0    0 
+JKhearts  948614138  5  3 f   -     -     -        10287    0    0 
+JKhearts  948614145  5  2 Bc  kc    kf    -        10287  150    0 
+JKhearts  948614174  5  1 Bf  -     -     -        10137   25    0 
+JKhearts  948614184  5  5 f   -     -     -        10112    0    0 
+JKhearts  948614194  5  4 f   -     -     -        10112    0    0 
+JKhearts  948614200  5  3 f   -     -     -        10112    0    0 
+JKhearts  948614220  5  2 B   -     -     -        10112   50   75 
+JKhearts  948614228  5  1 Bf  -     -     -        10137   25    0 
+JKhearts  948614248  5  5 f   -     -     -        10112    0    0 
+JKhearts  948614267  5  4 f   -     -     -        10112    0    0 
+JKhearts  948614283  5  3 f   -     -     -        10112    0    0 
+JKhearts  948614302  5  2 Bc  kc    kc    k        10112  250    0 Td Ah
+JKhearts  948614326  5  1 Bf  -     -     -         9862   25    0 
+JKhearts  948614334  5  5 c   r     bc    f         9837  400    0 
+JKhearts  948614363  5  4 f   -     -     -         9437    0    0 
+JKhearts  948614373  5  3 rc  br    b     k         9437  400  975 Ac 8s
+JKhearts  948614399  5  2 Bk  k     k     k        10012   50  100 3s 6d
+JKhearts  948614418  5  1 Bc  k     kf    -        10062   50    0 
+JKhearts  948614438  5  5 r   b     bc    c        10012  500    0 Kh Kd
+JKhearts  948614460  5  4 rc  c     k     k         9512  200    0 Qs Th
+JKhearts  948614487  5  3 f   -     -     -         9312    0    0 
+JKhearts  948614498  5  2 Bk  kf    -     -         9312   50    0 
+JKhearts  948614508  5  1 Bf  -     -     -         9262   25    0 
+JKhearts  948614529  5  5 f   -     -     -         9237    0    0 
+JKhearts  948614543  5  4 f   -     -     -         9237    0    0 
+JKhearts  948614568  5  3 f   -     -     -         9237    0    0 
+JKhearts  948614580  5  2 Br  b     -     -         9237  200  375 
+JKhearts  948614603  5  1 Bf  -     -     -         9412   25    0 
+JKhearts  948614621  5  5 f   -     -     -         9387    0    0 
+JKhearts  948614642  5  4 f   -     -     -         9387    0    0 
+JKhearts  948614658  5  3 f   -     -     -         9387    0    0 
+JKhearts  948614672  5  2 Bc  k     kc    kf        9387  200    0 
+JKhearts  948614695  5  1 Bf  -     -     -         9187   25    0 
+JKhearts  948614716  5  5 f   -     -     -         9162    0    0 
+JKhearts  948614724  5  4 rr  k     k     k         9162  200    0 Js Ac
+JKhearts  948614738  5  3 f   -     -     -         8962    0    0 
+JKhearts  948614756  5  2 Bf  -     -     -         8962   50    0 
+JKhearts  948614765  5  1 Bc  k     b     -         8912  150  200 
+JKhearts  948614782  5  5 rr  b     b     c         8962  500    0 Ad Ah
+JKhearts  948614803  5  4 f   -     -     -         8462    0    0 
+JKhearts  948614847  5  3 f   -     -     -         8462    0    0 
+JKhearts  948614868  5  2 Bc  k     k     k         8462  100  325 4d Kc
+JKhearts  948614884  5  1 Bf  -     -     -         8687   25    0 
+JKhearts  948614907  4  4 c   k     k     k         8662   50  175 2c 2h
+JKhearts  948614924  4  3 rr  b     b     k         8787  350  750 As Ad
+JKhearts  948614941  4  2 Bc  kc    k     k         9187  150    0 9d Jd
+JKhearts  948614963  4  1 Bf  -     -     -         9037   25    0 
+JKhearts  948614985  4  4 f   -     -     -         9012    0    0 
+JKhearts  948614987  4  3 f   -     -     -         9012    0    0 
+JKhearts  948614997  4  2 Bc  k     k     kc        9012  200  500 2s 6c
+JKhearts  948615037  4  1 Bf  -     -     -         9312   25    0 
+JKhearts  948615045  4  4 c   k     k     k         9287   50  125 8d Kd
+JKhearts  948615057  4  3 f   -     -     -         9362    0    0 
+JKhearts  948615063  4  2 Bf  -     -     -         9362   50    0 
+JKhearts  948615076  4  1 Bf  -     -     -         9312   25    0 
+JKhearts  948615097  4  4 f   -     -     -         9287    0    0 
+JKhearts  948615120  4  3 f   -     -     -         9287    0    0 
+JKhearts  948615137  4  2 Bc  k     kf    -         9287  150    0 
+JKhearts  948615157  4  1 Bf  -     -     -         9137   25    0 
+JKhearts  948615179  4  4 f   -     -     -         9112    0    0 
+JKhearts  948615194  4  3 f   -     -     -         9112    0    0 
+JKhearts  948615216  4  2 Bf  -     -     -         9112   50    0 
+JKhearts  948615221  4  1 Bf  -     -     -         9062   25    0 
+JKhearts  948615238  4  4 f   -     -     -         9037    0    0 
+JKhearts  948615255  4  3 f   -     -     -         9037    0    0 
+JKhearts  948615275  4  2 Bc  kc    kc    kf        9037  250    0 
+JKhearts  948615296  4  1 Bf  -     -     -         8787   25    0 
+JKhearts  948615309  4  4 f   -     -     -         8762    0    0 
+JKhearts  948615314  4  3 f   -     -     -         8762    0    0 
+JKhearts  948615332  4  2 Bc  kc    k     k         8762  150  450 3s 4c
+JKhearts  948615350  4  1 Bc  kf    -     -         9062  150    0 
+JKhearts  948615366  4  4 f   -     -     -         8912    0    0 
+JKhearts  948615382  4  3 c   f     -     -         8912   50    0 
+JKhearts  948615402  4  2 Bc  kc    k     kf        8862  150    0 
+JKhearts  948615421  4  1 Bf  -     -     -         8712   25    0 
+JKhearts  948615425  4  4 f   -     -     -         8687    0    0 
+JKhearts  948615436  4  3 f   -     -     -         8687    0    0 
+JKhearts  948615449  4  2 Bc  c     c     f         8687  250    0 
+JKhearts  948615462  4  1 Bf  -     -     -         8437   25    0 
+JKhearts  948615475  4  4 f   -     -     -         8412    0    0 
+JKhearts  948615497  3  3 cc  c     rc    c         8412  550    0 4d 8d
+JKhearts  948615521  3  2 Brrr b     bc    k         7862  600    0 7s Ts
+JKhearts  948615543  3  1 Br  b     kf    -         7262  150    0 
+JKhearts  948615575  3  3 f   -     -     -         7112    0    0 
+JKhearts  948615587  3  2 Bc  kf    -     -         7112  100    0 
+JKhearts  948615604  3  1 Br  b     b     b         7012  400  850 As 6s
+JKhearts  948615613  3  3 f   -     -     -         7462    0    0 
+JKhearts  948615621  3  2 Bf  -     -     -         7462   50    0 
+JKhearts  948615642  3  1 Bf  -     -     -         7412   25    0 
+JKhearts  948615655  3  3 r   b     k     k         7387  150    0 Qh Ac
+JKhearts  948615681  3  2 Br  b     bc    c         7237  500    0 Tc Kc
+JKhearts  948615700  3  1 Brc b     b     b         6737  450  850 
+JKhearts  948615718  3  3 rc  k     c     c         7137  400    0 Qs Ah
+JKhearts  948615733  3  2 Br  k     k     f         6737  100    0 
+JKhearts  948615748  3  1 Brc k     kc    kf        6637  300    0 
+JKhearts  948615790  3  3 r   -     -     -         6337  100  175 
+JKhearts  948615798  3  2 Br  b     b     -         6412  350  800 
+JKhearts  948615822  3  1 Bc  b     -     -         6862  100  150 
+JKhearts  948615831  3  3 f   -     -     -         6912    0    0 
+JKhearts  948615835  3  2 Bc  b     bc    kc        6912  450  925 Js Qc
+JKhearts  948615848  3  1 Bc  kf    -     -         7387   50    0 
+JKhearts  948615859  3  3 f   -     -     -         7337    0    0 
+JKhearts  948615863  3  2 Bc  k     kf    -         7337  100    0 
+JKhearts  948615875  3  1 Bf  -     -     -         7237   25    0 
+JKhearts  948615878  3  3 f   -     -     -         7212    0    0 
+JKhearts  948615892  3  2 Bf  -     -     -         7212   50    0 
+JKhearts  948615896  3  1 Bf  -     -     -         7162   25    0 
+JKhearts  948615899  3  3 f   -     -     -         7137    0    0 
+JKhearts  948615902  3  2 Bc  kf    -     -         7137  150    0 
+JKhearts  948615917  3  1 Bf  -     -     -         6987   25    0 
+JKhearts  948615923  3  3 f   -     -     -         6962    0    0 
+JKhearts  948615928  3  2 Bcc kc    kc    kf        6962  350    0 
+JKhearts  948615951  3  1 Br  b     kc    kf        6612  250    0 
+JKhearts  948615965  3  3 Q   -     -     -         6362    0    0 

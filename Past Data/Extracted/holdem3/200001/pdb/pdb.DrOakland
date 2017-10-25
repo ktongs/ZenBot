@@ -1,0 +1,457 @@
+DrOakland 947356854  2  2 Bf  -     -     -       130163   50    0 
+DrOakland 947356862  2  1 Br  -     -     -       130113  100  150 
+DrOakland 947356871  2  2 B   -     -     -       130163   50   75 
+DrOakland 947356873  2  1 Bf  -     -     -       130188   25    0 
+DrOakland 947356876  2  2 B   -     -     -       130163   50   75 
+DrOakland 947356879  2  1 Br  -     -     -       130188  100  150 
+DrOakland 947356882  2  2 B   -     -     -       130238   50   75 
+DrOakland 947356885  2  1 Bc  b     -     -       130263  100  150 
+DrOakland 947356892  2  2 Br  r     b     -       130313  300  500 
+DrOakland 947356915  2  1 Bf  -     -     -       130513   25    0 
+DrOakland 947356918  2  2 B   -     -     -       130488   50   75 
+DrOakland 947356921  3  1 Bf  -     -     -       130513   25    0 
+DrOakland 947356942  3  3 r   b     k     c       130488  250  550 8c 8h
+DrOakland 947356960  3  2 Bc  kf    -     -       130788  100    0 
+DrOakland 947356975  3  1 Bf  -     -     -       130688   25    0 
+DrOakland 947356977  3  3 r   b     b     b       130663  350  800 As 8h
+DrOakland 947357012  3  2 Bf  -     -     -       131113   50    0 
+DrOakland 947357026  3  1 Bc  k     b     -       131063  150  250 
+DrOakland 947357041  3  3 f   -     -     -       131163    0    0 
+DrOakland 947357044  3  2 Bf  -     -     -       131163   50    0 
+DrOakland 947357052  3  1 Bc  kf    -     -       131113   50    0 
+DrOakland 947357071  3  3 f   -     -     -       131063    0    0 
+DrOakland 947357088  3  2 Bf  -     -     -       131063   50    0 
+DrOakland 947357091  3  1 Br  b     b     k       131013  300    0 7s 7d
+DrOakland 947357111  3  3 f   -     -     -       130713    0    0 
+DrOakland 947357125  3  2 Br  b     b     b       130713  400  825 Kc Kh
+DrOakland 947357142  3  1 Bc  b     -     -       131138  100  200 
+DrOakland 947357155  3  3 f   -     -     -       131238    0    0 
+DrOakland 947357158  3  2 Bf  -     -     -       131238   50    0 
+DrOakland 947357173  3  1 Bf  -     -     -       131188   25    0 
+DrOakland 947357177  3  3 f   -     -     -       131163    0    0 
+DrOakland 947357180  3  2 Bk  f     -     -       131163   50    0 
+DrOakland 947357188  3  1 Bf  -     -     -       131113   25    0 
+DrOakland 947357194  3  3 r   -     -     -       131088  100  175 
+DrOakland 947357199  3  2 B   -     -     -       131163   50   75 
+DrOakland 947357202  3  1 Bc  kc    k     k       131188  100    0 Qs Jd
+DrOakland 947357226  3  3 r   b     f     -       131088  150    0 
+DrOakland 947357250  3  2 Bf  -     -     -       130938   50    0 
+DrOakland 947357257  3  1 Bc  bc    k     k       130888  150    0 Kc 7s
+DrOakland 947357280  3  3 f   -     -     -       130738    0    0 
+DrOakland 947357301  3  2 Bk  k     f     -       130738   50    0 
+DrOakland 947357331  3  1 Bf  -     -     -       130688   25    0 
+DrOakland 947357341  3  3 r   k     k     b       130663  200  325 
+DrOakland 947357366  3  2 Br  f     -     -       130788  100    0 
+DrOakland 947357385  3  1 Bc  b     -     -       130688  100  200 
+DrOakland 947357394  3  3 f   -     -     -       130788    0    0 
+DrOakland 947357406  3  2 Bf  -     -     -       130788   50    0 
+DrOakland 947357411  3  1 Bf  -     -     -       130738   25    0 
+DrOakland 947357414  3  3 r   b     b     -       130713  250  500 
+DrOakland 947357440  3  2 B   -     -     -       130963   50   75 
+DrOakland 947357443  3  1 Bf  -     -     -       130988   25    0 
+DrOakland 947357446  3  3 r   rc    r     b       130963  550 1350 Qc 7c
+DrOakland 947357474  3  2 Bf  -     -     -       131763   50    0 
+DrOakland 947357496  3  1 Bc  kf    -     -       131713   50    0 
+DrOakland 947357524  3  3 r   b     k     f       131663  150    0 
+DrOakland 947357541  3  2 B   -     -     -       131513   50   75 
+DrOakland 947357545  3  1 Bf  -     -     -       131538   25    0 
+DrOakland 947357554  3  3 f   -     -     -       131513    0    0 
+DrOakland 947357560  3  2 Bf  -     -     -       131513   50    0 
+DrOakland 947357572  3  1 Bf  -     -     -       131463   25    0 
+DrOakland 947357582  3  3 r   f     -     -       131438  100    0 
+DrOakland 947357597  3  2 B   -     -     -       131338   50   75 
+DrOakland 947357599  3  1 Bc  kr    bc    kc      131363  450    0 As Qh
+DrOakland 947357656  3  3 r   b     bc    r       130913  550 1025 
+DrOakland 947357683  3  2 Bc  f     -     -       131388  100    0 
+DrOakland 947357694  3  1 Bf  -     -     -       131288   25    0 
+DrOakland 947357701  3  3 f   -     -     -       131263    0    0 
+DrOakland 947357711  3  2 Bc  kr    b     b       131263  400  825 Jd Qc
+DrOakland 947357733  3  1 Bc  k     b     -       131688  150  250 
+DrOakland 947357763  3  3 r   c     k     f       131788  150    0 
+DrOakland 947357782  3  2 Bc  k     kr    k       131638  300    0 Td Kc
+DrOakland 947357810  3  1 Bf  -     -     -       131338   25    0 
+DrOakland 947357823  3  3 r   f     -     -       131313  100    0 
+DrOakland 947357841  3  2 Bf  -     -     -       131213   50    0 
+DrOakland 947357847  3  1 Bf  -     -     -       131163   25    0 
+DrOakland 947357879  3  3 r   c     f     -       131138  150    0 
+DrOakland 947357901  3  2 Bf  -     -     -       130988   50    0 
+DrOakland 947357905  3  1 Bf  -     -     -       130938   25    0 
+DrOakland 947357913  3  3 f   -     -     -       130913    0    0 
+DrOakland 947357925  3  2 Br  b     -     -       130913  150  250 
+DrOakland 947357936  3  1 Bc  kf    -     -       131013   50    0 
+DrOakland 947357957  3  3 r   -     -     -       130963  100  175 
+DrOakland 947357967  3  2 B   -     -     -       131038   50   75 
+DrOakland 947357969  3  1 Br  -     -     -       131063  100  150 
+DrOakland 947357972  3  3 f   -     -     -       131113    0    0 
+DrOakland 947357980  3  2 Bf  -     -     -       131113   50    0 
+DrOakland 947357986  3  1 Br  b     -     -       131063  150  250 
+DrOakland 947357998  3  3 f   -     -     -       131163    0    0 
+DrOakland 947358010  3  2 Bf  -     -     -       131163   50    0 
+DrOakland 947358013  3  1 Bf  -     -     -       131113   25    0 
+DrOakland 947358026  3  3 f   -     -     -       131088    0    0 
+DrOakland 947358044  3  2 Bc  k     b     -       131088  200  325 
+DrOakland 947358059  4  1 Br  b     -     -       131213  150  250 
+DrOakland 947358067  4  4 f   -     -     -       131313    0    0 
+DrOakland 947358089  4  3 f   -     -     -       131313    0    0 
+DrOakland 947358102  4  2 B   -     -     -       131313   50   75 
+DrOakland 947358105  4  1 Bc  b     b     k       131338  250  275 As Jh
+DrOakland 947358123  4  4 r   b     k     c       131363  250  262 Qc Ks
+DrOakland 947358150  4  3 f   -     -     -       131375    0    0 
+DrOakland 947358177  4  2 Bk  b     -     -       131375  100  150 
+DrOakland 947358194  4  1 Bf  -     -     -       131425   25    0 
+DrOakland 947358200  4  4 f   -     -     -       131400    0    0 
+DrOakland 947358225  4  3 f   -     -     -       131400    0    0 
+DrOakland 947358238  5  2 Bf  -     -     -       131400   50    0 
+DrOakland 947358302  5  1 Bc  b     -     -       131350  100  200 
+DrOakland 947358343  5  5 f   -     -     -       131450    0    0 
+DrOakland 947358362  5  4 f   -     -     -       131450    0    0 
+DrOakland 947358382  5  3 r   -     -     -       131450  100  175 
+DrOakland 947358389  5  2 Bf  -     -     -       131525   50    0 
+DrOakland 947358409  5  1 Bf  -     -     -       131475   25    0 
+DrOakland 947358417  5  5 r   r     k     b       131450  350  450 Ks Js
+DrOakland 947358451  5  4 f   -     -     -       131550    0    0 
+DrOakland 947358459  5  3 r   b     -     -       131550  150  400 
+DrOakland 947358480  5  2 Bc  kf    -     -       131800  100    0 
+DrOakland 947358496  5  1 Bf  -     -     -       131700   25    0 
+DrOakland 947358533  5  5 f   -     -     -       131675    0    0 
+DrOakland 947358558  5  4 f   -     -     -       131675    0    0 
+DrOakland 947358590  5  3 f   -     -     -       131675    0    0 
+DrOakland 947358620  5  2 Bc  r     c     c       131675  400  800 Ts Qh
+DrOakland 947358638  5  1 Bf  -     -     -       132075   25    0 
+DrOakland 947358658  5  5 f   -     -     -       132050    0    0 
+DrOakland 947358678  5  4 r   b     -     -       132050  150  350 
+DrOakland 947358701  5  3 f   -     -     -       132250    0    0 
+DrOakland 947358727  5  2 Bf  -     -     -       132250   50    0 
+DrOakland 947358740  5  1 Bf  -     -     -       132200   25    0 
+DrOakland 947358766  5  5 r   b     k     c       132175  250  550 7c Ah
+DrOakland 947358792  5  4 r   -     -     -       132475  100  175 
+DrOakland 947358801  5  3 f   -     -     -       132550    0    0 
+DrOakland 947358810  5  2 Bf  -     -     -       132550   50    0 
+DrOakland 947358836  5  1 Bf  -     -     -       132500   25    0 
+DrOakland 947358854  5  5 f   -     -     -       132475    0    0 
+DrOakland 947358880  5  4 f   -     -     -       132475    0    0 
+DrOakland 947358888  5  3 r   b     b     k       132475  250  275 Ts 8s
+DrOakland 947358924  5  2 Bf  -     -     -       132500   50    0 
+DrOakland 947358934  5  1 Bf  -     -     -       132450   25    0 
+DrOakland 947358956  5  5 f   -     -     -       132425    0    0 
+DrOakland 947358967  5  4 r   br    k     k       132425  250    0 Kc Ac
+DrOakland 947358995  5  3 f   -     -     -       132175    0    0 
+DrOakland 947359028  5  2 Bc  b     k     b       132175  250  425 
+DrOakland 947359067  5  1 Bf  -     -     -       132350   25    0 
+DrOakland 947359086  5  5 r   KQ    -     -       132325  100    0 
+DrOakland 947359248  7  2 Bf  -     -     -       132225   50    0 
+DrOakland 947359283  9  1 Bf  -     -     -       132175   25    0 
+DrOakland 947359318  9  9 f   -     -     -       132150    0    0 
+DrOakland 947359334  9  8 f   -     -     -       132150    0    0 
+DrOakland 947359340  9  7 r   -     -     -       132150  100  175 
+DrOakland 947359355  9  6 f   -     -     -       132225    0    0 
+DrOakland 947359382  9  5 f   -     -     -       132225    0    0 
+DrOakland 947359396  9  4 f   -     -     -       132225    0    0 
+DrOakland 947359443  9  3 f   -     -     -       132225    0    0 
+DrOakland 947359516  8  2 Bc  c     f     -       132225  150    0 
+DrOakland 947359543  8  1 Bc  b     -     -       132075  100  200 
+DrOakland 947359563  9  9 c   f     -     -       132175  100    0 
+DrOakland 947359596  9  8 f   -     -     -       132075    0    0 
+DrOakland 947359608  9  7 f   -     -     -       132075    0    0 
+DrOakland 947359621 10  6 f   -     -     -       132075    0    0 
+DrOakland 947359640 10  5 f   -     -     -       132075    0    0 
+DrOakland 947359687 10  4 f   -     -     -       132075    0    0 
+DrOakland 947359715 10  3 f   -     -     -       132075    0    0 
+DrOakland 947359727 10  2 Bk  f     -     -       132075   50    0 
+DrOakland 947359744 10  1 Bf  -     -     -       132025   25    0 
+DrOakland 947359791 10 10 f   -     -     -       132000    0    0 
+DrOakland 947359811 10  9 r   k     f     -       132000  100    0 
+DrOakland 947359849 10  8 f   -     -     -       131900    0    0 
+DrOakland 947359883  9  6 f   -     -     -       131900    0    0 
+DrOakland 947359955  9  5 f   -     -     -       131900    0    0 
+DrOakland 947359985  9  4 f   -     -     -       131900    0    0 
+DrOakland 947359997  8  2 Bk  b     b     b       131900  300  700 Qh Jc
+DrOakland 947360045  9  1 Bf  -     -     -       132300   25    0 
+DrOakland 947360079  9  9 f   -     -     -       132275    0    0 
+DrOakland 947360147  9  8 f   -     -     -       132275    0    0 
+DrOakland 947360196 10  8 rc  c     r     b       132275  500 1075 Ah Tc
+DrOakland 947360239 10  7 f   -     -     -       132850    0    0 
+DrOakland 947360264 10  6 f   -     -     -       132850    0    0 
+DrOakland 947360303  8  3 f   -     -     -       132850    0    0 
+DrOakland 947360336  8  2 Bf  -     -     -       132850   50    0 
+DrOakland 947360352  8  1 Bf  -     -     -       132800   25    0 
+DrOakland 947360365  8  8 f   -     -     -       132775    0    0 
+DrOakland 947360393  8  7 f   -     -     -       132775    0    0 
+DrOakland 947360404  8  6 f   -     -     -       132775    0    0 
+DrOakland 947360425  8  5 f   -     -     -       132775    0    0 
+DrOakland 947360450  8  4 f   -     -     -       132775    0    0 
+DrOakland 947360519  8  3 f   -     -     -       132775    0    0 
+DrOakland 947360544  8  2 Bk  kf    -     -       132775   50    0 
+DrOakland 947360584  8  1 Bf  -     -     -       132725   25    0 
+DrOakland 947360606  8  8 f   -     -     -       132700    0    0 
+DrOakland 947360683  8  7 r   b     -     -       132700  200  425 
+DrOakland 947360714  8  6 f   -     -     -       132925    0    0 
+DrOakland 947360741  8  6 f   -     -     -       132925    0    0 
+DrOakland 947360776  7  4 f   -     -     -       132925    0    0 
+DrOakland 947360799  7  3 cc  rf    -     -       132925  200    0 
+DrOakland 947360826  7  1 Bk  kf    -     -       132725   50    0 
+DrOakland 947360851  7  1 Bc  kf    -     -       132675   50    0 
+DrOakland 947360882  7  7 f   -     -     -       132625    0    0 
+DrOakland 947360908  7  6 f   -     -     -       132625    0    0 
+DrOakland 947360930  7  5 f   -     -     -       132625    0    0 
+DrOakland 947360956  7  4 r   -     -     -       132625  100  175 
+DrOakland 947360972  7  3 r   -     -     -       132700  100  175 
+DrOakland 947360981  7  2 Br  b     k     c       132775  250    0 Tc As
+DrOakland 947361007  7  1 Bc  kf    -     -       132525   50    0 
+DrOakland 947361052  7  7 r   f     -     -       132475  100    0 
+DrOakland 947361066  7  6 f   -     -     -       132375    0    0 
+DrOakland 947361080  7  5 rc  f     -     -       132375  150    0 
+DrOakland 947361100  7  4 f   -     -     -       132225    0    0 
+DrOakland 947361125  7  3 f   -     -     -       132225    0    0 
+DrOakland 947361148  7  2 BQ  -     -     -       132225   50    0 
+DrOakland 947561590  2  1 Bf  -     -     -       133275   25    0 
+DrOakland 947561595  2  2 B   -     -     -       133250   50   75 
+DrOakland 947561599  2  1 Bf  -     -     -       133275   25    0 
+DrOakland 947561602  2  2 Br  -     -     -       133250  100  150 
+DrOakland 947561611  2  1 Bf  -     -     -       133300   25    0 
+DrOakland 947561630  2  2 Bk  r     k     k       133275  150  150 Td 2d
+DrOakland 947561651  2  1 Bf  -     -     -       133275   25    0 
+DrOakland 947561657  2  2 Br  b     k     k       133250  150  300 Ad Jd
+DrOakland 947561679  2  1 Bf  -     -     -       133400   25    0 
+DrOakland 947561683  2  2 Bk  b     k     k       133375  100  200 5d Kh
+DrOakland 947561731  2  1 Br  b     b     -       133475  250  400 
+DrOakland 947561749  2  2 Br  b     k     k       133625  150  300 7h 7c
+DrOakland 947561774  2  1 Br  -     -     -       133775  100  150 
+DrOakland 947561781  2  2 Br  c     c     c       133825  350  700 7d 7s
+DrOakland 947561800  2  1 Br  -     -     -       134175  100  150 
+DrOakland 947561807  2  2 B   -     -     -       134225   50   75 
+DrOakland 947561812  2  1 Bf  -     -     -       134250   25    0 
+DrOakland 947561816  2  2 Bk  k     k     k       134225   50  100 Ts 2d
+DrOakland 947561835  2  1 Br  -     -     -       134275  100  150 
+DrOakland 947561841  2  2 Br  f     -     -       134325  100    0 
+DrOakland 947561856  2  1 Br  -     -     -       134225  100  150 
+DrOakland 947561860  2  2 Bk  b     bc    k       134275  300  600 5c 6h
+DrOakland 947561890  2  1 Bf  -     -     -       134575   25    0 
+DrOakland 947561895  2  2 Br  k     k     f       134550  100    0 
+DrOakland 947561914  2  1 Bf  -     -     -       134450   25    0 
+DrOakland 947561916  2  2 Bk  c     c     c       134425  300  600 4s Ts
+DrOakland 947561933  2  1 Bf  -     -     -       134725   25    0 
+DrOakland 947561939  2  2 B   -     -     -       134700   50   75 
+DrOakland 947561942  2  1 Brc kf    -     -       134725  150    0 
+DrOakland 947561963  2  2 B   -     -     -       134575   50   75 
+DrOakland 947561966  2  1 Bf  -     -     -       134600   25    0 
+DrOakland 947561984  2  2 B   -     -     -       134575   50   75 
+DrOakland 947561988  2  1 Br  br    kf    -       134600  250    0 
+DrOakland 947562028  2  2 B   -     -     -       134350   50   75 
+DrOakland 947562032  2  1 Bf  -     -     -       134375   25    0 
+DrOakland 947562034  2  2 Bk  f     -     -       134350   50    0 
+DrOakland 947562049  2  1 Bf  -     -     -       134300   25    0 
+DrOakland 947562051  2  2 Br  b     -     -       134275  150  250 
+DrOakland 947562074  2  1 Bf  -     -     -       134375   25    0 
+DrOakland 947562077  2  2 Bk  k     f     -       134350   50    0 
+DrOakland 947562092  2  1 Bc  b     -     -       134300  100  150 
+DrOakland 947562101  2  2 Bc  r     k     k       134350  200    0 8d Ah
+DrOakland 947562125  2  1 Bf  -     -     -       134150   25    0 
+DrOakland 947562132  2  2 B   -     -     -       134125   50   75 
+DrOakland 947562135  2  1 Bf  -     -     -       134150   25    0 
+DrOakland 947562137  2  2 Bk  f     -     -       134125   50    0 
+DrOakland 947562158  2  1 Bf  -     -     -       134075   25    0 
+DrOakland 947562161  2  2 Br  b     -     -       134050  150  250 
+DrOakland 947562174  2  1 Bf  -     -     -       134150   25    0 
+DrOakland 947562178  2  2 Bk  b     b     k       134125  200  400 4c 8h
+DrOakland 947562197  2  1 Br  -     -     -       134325  100  150 
+DrOakland 947562202  2  2 Br  b     -     -       134375  150  250 
+DrOakland 947562214  2  1 Bf  -     -     -       134475   25    0 
+DrOakland 947562217  2  2 Bk  b     k     f       134450  100    0 
+DrOakland 947562237  2  1 Bf  -     -     -       134350   25    0 
+DrOakland 947562240  2  2 Bk  rc    f     -       134325  200    0 
+DrOakland 947562264  2  1 Bf  -     -     -       134125   25    0 
+DrOakland 947562267  2  2 Br  k     k     c       134100  200    0 9s 9d
+DrOakland 947562291  2  1 Bf  -     -     -       133900   25    0 
+DrOakland 947562296  2  2 B   -     -     -       133875   50   75 
+DrOakland 947562300  2  1 Bc  bf    -     -       133900  100    0 
+DrOakland 947562335  2  2 Bk  f     -     -       133800   50    0 
+DrOakland 947562346  2  1 Br  b     -     -       133750  150  250 
+DrOakland 947562355  2  2 B   -     -     -       133850   50   75 
+DrOakland 947562358  2  1 Bf  -     -     -       133875   25    0 
+DrOakland 947562360  2  2 Bk  r     c     c       133850  350  700 Qh 4d
+DrOakland 947562379  2  1 Br  b     -     -       134200  150  250 
+DrOakland 947562389  2  2 Br  c     f     -       134300  150    0 
+DrOakland 947562408  2  1 Br  -     -     -       134150  100  150 
+DrOakland 947562412  2  2 B   -     -     -       134200   50   75 
+DrOakland 947562415  2  1 Bc  b     -     -       134225  100  150 
+DrOakland 947562424  2  2 Br  c     f     -       134275  150    0 
+DrOakland 947562436  2  1 Bc  b     bc    kf      134125  300    0 
+DrOakland 947562457  2  2 B   -     -     -       133825   50   75 
+DrOakland 947562461  2  1 Br  b     -     -       133850  150  250 
+DrOakland 947562471  2  2 Bk  Q     -     -       133950   50    0 
+DrOakland 947572923  5  4 f   -     -     -       133900    0    0 
+DrOakland 947572937  5  3 f   -     -     -       133900    0    0 
+DrOakland 947572951  6  2 Bk  c     r     b       133900  400 1000 Qs 2s
+DrOakland 947572988  7  1 Bf  -     -     -       134500   25    0 
+DrOakland 947573014  7  7 f   -     -     -       134475    0    0 
+DrOakland 947573034  7  6 f   -     -     -       134475    0    0 
+DrOakland 947573043  7  5 f   -     -     -       134475    0    0 
+DrOakland 947573065  7  4 rc  bc    kf    -       134475  300    0 
+DrOakland 947573102  7  3 rc  krc   kc    kc      134175  500    0 Ad Jh
+DrOakland 947573142  7  2 Bc  b     -     -       133675  150  275 
+DrOakland 947573158  7  1 Bf  -     -     -       133800   25    0 
+DrOakland 947573190  7  7 r   b     -     -       133775  150  300 
+DrOakland 947573211  7  6 f   -     -     -       133925    0    0 
+DrOakland 947573220  7  5 f   -     -     -       133925    0    0 
+DrOakland 947573255  7  4 f   -     -     -       133925    0    0 
+DrOakland 947573287  7  3 f   -     -     -       133925    0    0 
+DrOakland 947573322  7  2 Bf  -     -     -       133925   50    0 
+DrOakland 947573347  7  1 Bf  -     -     -       133875   25    0 
+DrOakland 947573374  7  7 r   f     -     -       133850  100    0 
+DrOakland 947573396  6  5 r   bc    f     -       133750  200    0 
+DrOakland 947573420  7  4 f   -     -     -       133550    0    0 
+DrOakland 947573441  7  3 f   -     -     -       133550    0    0 
+DrOakland 947573453  7  2 Bf  -     -     -       133550   50    0 
+DrOakland 947573489  6  1 Bf  -     -     -       133500   25    0 
+DrOakland 947573505  6  6 f   -     -     -       133475    0    0 
+DrOakland 947573523  6  5 f   -     -     -       133475    0    0 
+DrOakland 947573540  6  4 f   -     -     -       133475    0    0 
+DrOakland 947573547  6  3 f   -     -     -       133475    0    0 
+DrOakland 947573566  6  2 Bk  bc    bc    kc      133475  450  463 6d 9s
+DrOakland 947573595  6  1 Bf  -     -     -       133488   25    0 
+DrOakland 947573608  6  6 f   -     -     -       133463    0    0 
+DrOakland 947573627  6  5 r   c     f     -       133463  150    0 
+DrOakland 947573653  6  4 f   -     -     -       133313    0    0 
+DrOakland 947573667  6  3 f   -     -     -       133313    0    0 
+DrOakland 947573700  6  2 Bf  -     -     -       133313   50    0 
+DrOakland 947573720  6  1 Bf  -     -     -       133263   25    0 
+DrOakland 947573744  7  7 f   -     -     -       133238    0    0 
+DrOakland 947573755  7  6 cc  r     k     b       133238  300    0 8d 9d
+DrOakland 947573797  7  5 f   -     -     -       132938    0    0 
+DrOakland 947573825  7  4 Q   -     -     -       132938    0    0 
+DrOakland 947576289  6  3 f   -     -     -       132938    0    0 
+DrOakland 947576317  7  2 Bf  -     -     -       132938   50    0 
+DrOakland 947576345  7  1 Bf  -     -     -       132888   25    0 
+DrOakland 947576362  7  7 f   -     -     -       132863    0    0 
+DrOakland 947576419  6  5 rc  k     b     -       132863  250  575 
+DrOakland 947576494  6  4 f   -     -     -       133188    0    0 
+DrOakland 947576509  7  3 Q   -     -     -       133188    0    0 
+DrOakland 948331007  2  1 Bf  -     -     -       132998   25    0 
+DrOakland 948331012  2  2 B   -     -     -       132973   50   75 
+DrOakland 948331014  2  1 Br  bf    -     -       132998  150    0 
+DrOakland 948331023  2  2 B   -     -     -       132848   50   75 
+DrOakland 948331026  2  1 Bf  -     -     -       132873   25    0 
+DrOakland 948331029  2  2 B   -     -     -       132848   50   75 
+DrOakland 948331031  2  1 Bf  -     -     -       132873   25    0 
+DrOakland 948331033  2  2 Bc  r     b     b       132848  400  800 8s Js
+DrOakland 948331049  2  1 Br  -     -     -       133248  100  150 
+DrOakland 948331056  2  2 Bc  c     f     -       133298  150    0 
+DrOakland 948331065  2  1 Bc  b     -     -       133148  100  150 
+DrOakland 948331072  2  2 B   -     -     -       133198   50   75 
+DrOakland 948331074  2  1 Bf  -     -     -       133223   25    0 
+DrOakland 948331077  2  2 Bc  c     b     b       133198  350  700 7s Ad
+DrOakland 948331092  2  1 Br  -     -     -       133548  100  150 
+DrOakland 948331098  2  2 B   -     -     -       133598   50   75 
+DrOakland 948331101  2  1 Brc kc    kr    b       133623  500 1000 Ad 9s
+DrOakland 948331119  2  2 B   -     -     -       134123   50   75 
+DrOakland 948331122  2  1 Bf  -     -     -       134148   25    0 
+DrOakland 948331125  2  2 B   -     -     -       134123   50   75 
+DrOakland 948331128  2  1 Bf  -     -     -       134148   25    0 
+DrOakland 948331131  2  2 B   -     -     -       134123   50   75 
+DrOakland 948331134  2  1 Bc  b     -     -       134148  100  150 
+DrOakland 948331141  2  2 B   -     -     -       134198   50   75 
+DrOakland 948331143  2  1 Bf  -     -     -       134223   25    0 
+DrOakland 948331146  2  2 B   -     -     -       134198   50   75 
+DrOakland 948331148  2  1 Bf  -     -     -       134223   25    0 
+DrOakland 948331150  2  2 Bc  rf    -     -       134198  200    0 
+DrOakland 948331163  2  1 Bc  b     kf    -       133998  100    0 
+DrOakland 948331175  2  2 Br  b     k     k       133898  200    0 Js Ac
+DrOakland 948331187  2  1 Bf  -     -     -       133698   25    0 
+DrOakland 948331192  2  2 B   -     -     -       133673   50   75 
+DrOakland 948331195  2  1 Bc  br    b     b       133698  400  800 Ad As
+DrOakland 948331213  2  2 B   -     -     -       134098   50   75 
+DrOakland 948331216  2  1 Bc  b     -     -       134123  100  150 
+DrOakland 948331232  2  2 Bc  f     -     -       134173  100    0 
+DrOakland 948331240  2  1 Br  b     b     k       134073  250  500 Ac 5c
+DrOakland 948331255  2  2 Br  b     f     -       134323  200    0 
+DrOakland 948331271  2  1 Br  b     b     -       134123  250  400 
+DrOakland 948331282  2  2 Bc  f     -     -       134273  100    0 
+DrOakland 948331289  2  1 Br  bc    b     k       134173  300    0 3s 3h
+DrOakland 948331305  2  2 Br  k     b     b       133873  350  700 Ah 7c
+DrOakland 948331324  2  1 Bcc kr    b     krc     134223  600    0 7s Ts
+DrOakland 948331354  2  2 B   -     -     -       133623   50   75 
+DrOakland 948331357  2  1 Br  -     -     -       133648  100  150 
+DrOakland 948331383  3  3 r   bc    f     -       133698  200    0 
+DrOakland 948331409  3  2 Bc  f     -     -       133498  100    0 
+DrOakland 948331417  3  1 Bf  -     -     -       133398   25    0 
+DrOakland 948331421  3  3 r   -     -     -       133373  100  175 
+DrOakland 948331424  3  2 Bf  -     -     -       133448   50    0 
+DrOakland 948331429  3  1 Bc  b     -     -       133398  100  150 
+DrOakland 948331441  3  3 r   bc    f     -       133448  200    0 
+DrOakland 948331461  3  2 B   -     -     -       133248   50   75 
+DrOakland 948331463  3  1 Br  bc    kr    b       133273  550    0 Qc As
+DrOakland 948331490  3  3 f   -     -     -       132723    0    0 
+DrOakland 948331495  3  2 Br  b     k     k       132723  150    0 Kd Jh
+DrOakland 948331517  3  1 Bf  -     -     -       132573   25    0 
+DrOakland 948331521  3  3 r   bf    -     -       132548  150    0 
+DrOakland 948331536  3  2 Bf  -     -     -       132398   50    0 
+DrOakland 948331561  3  1 Br  -     -     -       132348  100  150 
+DrOakland 948331568  3  3 r   b     -     -       132398  150  275 
+DrOakland 948331577  3  2 Br  b     k     c       132523  250    0 8s Ks
+DrOakland 948331597  3  1 Bf  -     -     -       132273   25    0 
+DrOakland 948331605  3  3 r   f     -     -       132248  100    0 
+DrOakland 948331612  3  2 B   -     -     -       132148   50   75 
+DrOakland 948331623  4  1 Bf  -     -     -       132173   25    0 
+DrOakland 948331636  4  4 r   brc   c     c       132148  500    0 7c Ac
+DrOakland 948331662  4  3 f   -     -     -       131648    0    0 
+DrOakland 948331701  4  2 Bc  kf    -     -       131648  100    0 
+DrOakland 948331716  4  1 Bf  -     -     -       131548   25    0 
+DrOakland 948331732  4  4 f   -     -     -       131523    0    0 
+DrOakland 948331742  4  3 f   -     -     -       131523    0    0 
+DrOakland 948331753  4  2 Bk  f     -     -       131523   50    0 
+DrOakland 948331764  4  1 Bf  -     -     -       131473   25    0 
+DrOakland 948331799  4  4 r   b     k     f       131448  150    0 
+DrOakland 948331824  4  3 f   -     -     -       131298    0    0 
+DrOakland 948331834  4  2 Bc  r     r     k       131298  400    0 9d Kd
+DrOakland 948331855  4  1 Bf  -     -     -       130898   25    0 
+DrOakland 948331867  4  4 f   -     -     -       130873    0    0 
+DrOakland 948331880  4  3 f   -     -     -       130873    0    0 
+DrOakland 948331884  4  2 Bc  bc    kf    -       130873  200    0 
+DrOakland 948331904  4  1 Bf  -     -     -       130673   25    0 
+DrOakland 948331919  4  4 c   f     -     -       130648   50    0 
+DrOakland 948331934  4  3 r   -     -     -       130598  100  175 
+DrOakland 948331942  4  2 Bk  r     k     k       130673  150  300 Tc 6s
+DrOakland 948331967  4  1 Bc  kf    -     -       130823   50    0 
+DrOakland 948331997  4  4 f   -     -     -       130773    0    0 
+DrOakland 948332013  4  3 f   -     -     -       130773    0    0 
+DrOakland 948332020  4  2 Bk  kf    -     -       130773   50    0 
+DrOakland 948332071  4  1 Bf  -     -     -       130723   25    0 
+DrOakland 948332081  4  4 f   -     -     -       130698    0    0 
+DrOakland 948332100  4  3 f   -     -     -       130698    0    0 
+DrOakland 948332106  4  2 Bk  b     -     -       130698  100  200 
+DrOakland 948332127  4  1 Bf  -     -     -       130798   25    0 
+DrOakland 948332134  4  4 r   k     k     k       130773  100  325 6c 6d
+DrOakland 948332158  4  3 r   b     kf    -       130998  150    0 
+DrOakland 948332176  4  2 Bc  f     -     -       130848  100    0 
+DrOakland 948332203  4  1 Bf  -     -     -       130748   25    0 
+DrOakland 948332222  4  4 f   -     -     -       130723    0    0 
+DrOakland 948332238  4  3 f   -     -     -       130723    0    0 
+DrOakland 948332253  4  2 Bk  b     -     -       130723  100  150 
+DrOakland 948332262  4  1 Bf  -     -     -       130773   25    0 
+DrOakland 948332282  4  4 r   br    k     f       130748  250    0 
+DrOakland 948332323  4  3 f   -     -     -       130498    0    0 
+DrOakland 948332327  4  2 Br  b     -     -       130498  200  375 
+DrOakland 948332343  4  1 Bf  -     -     -       130673   25    0 
+DrOakland 948332346  4  4 r   b     -     -       130648  150  275 
+DrOakland 948332358  4  3 f   -     -     -       130773    0    0 
+DrOakland 948332367  4  2 Bk  kf    -     -       130773   50    0 
+DrOakland 948332391  4  1 Bf  -     -     -       130723   25    0 
+DrOakland 948332397  4  4 rc  r     b     k       130698  350  750 Ad Th
+DrOakland 948332417  4  3 f   -     -     -       131098    0    0 
+DrOakland 948332439  4  2 Bc  kf    -     -       131098  100    0 
+DrOakland 948332468  4  1 Bf  -     -     -       130998   25    0 
+DrOakland 948332478  4  4 f   -     -     -       130973    0    0 
+DrOakland 948332500  4  3 f   -     -     -       130973    0    0 
+DrOakland 948332513  4  2 Bf  -     -     -       130973   50    0 
+DrOakland 948332522  5  1 Bf  -     -     -       130923   25    0 
+DrOakland 948332535  5  5 f   -     -     -       130898    0    0 
+DrOakland 948332543  5  4 f   -     -     -       130898    0    0 
+DrOakland 948332565  5  3 rc  r     b     b       130898  500 1350 Ad Ah
+DrOakland 948332598  5  2 Bf  -     -     -       131748   50    0 
+DrOakland 948332609  5  1 Br  bf    -     -       131698  200    0 
+DrOakland 948332633  5  5 f   -     -     -       131498    0    0 
+DrOakland 948332650  5  4 f   -     -     -       131498    0    0 
+DrOakland 948332675  6  4 f   -     -     -       131498    0    0 
+DrOakland 948332686  7  4 f   -     -     -       131498    0    0 
+DrOakland 948332723  7  3 Q   -     -     -       131498    0    0 

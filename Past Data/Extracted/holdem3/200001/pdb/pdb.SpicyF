@@ -1,0 +1,186 @@
+SpicyF    947329424  2  1 Br  b     -     -        83085  150  250 
+SpicyF    947329433  2  2 Br  b     -     -        83185  150  250 
+SpicyF    947329442  2  1 Bf  -     -     -        83285   25    0 
+SpicyF    947329445  2  2 B   -     -     -        83260   50   75 
+SpicyF    947329448  2  1 Br  bc    kc    k        83285  300  600 As 2h
+SpicyF    947329466  2  2 Br  k     c     f        83585  250    0 
+SpicyF    947329487  2  1 Bf  -     -     -        83335   25    0 
+SpicyF    947329490  2  2 Br  b     b     b        83310  350  600 
+SpicyF    947329508  2  1 Brr b     -     -        83560  250  450 
+SpicyF    947329518  2  2 B   -     -     -        83760   50   75 
+SpicyF    947329521  2  1 Br  b     b     -        83785  250  400 
+SpicyF    947329531  2  2 Bk  k     f     -        83935   50    0 
+SpicyF    947329544  2  1 Bf  -     -     -        83885   25    0 
+SpicyF    947329546  2  2 Bk  r     b     -        83860  250  400 
+SpicyF    947329562  2  1 Bf  -     -     -        84010   25    0 
+SpicyF    947329565  2  2 Br  br    c     c        83985  450  900 Jh Jc
+SpicyF    947329586  2  1 Bcc kc    k     k        84435  150  300 Kc 8s
+SpicyF    947329607  2  2 Br  b     b     brf      84585  550    0 
+SpicyF    947329631  2  1 Br  -     -     -        84035  100  150 
+SpicyF    947329637  2  2 Bk  b     b     b        84085  300  600 5h Jd
+SpicyF    947329651  2  1 Brr k     b     -        84385  300  500 
+SpicyF    947329674  2  2 B   -     -     -        84585   50   75 
+SpicyF    947329676  2  1 Br  -     -     -        84610  100  150 
+SpicyF    947329679  2  2 Bk  b     r     b        84660  400  700 
+SpicyF    947329695  2  1 Br  b     bc    kc       84960  450    0 Ac 8h
+SpicyF    947329711  2  2 B   -     -     -        84510   50   75 
+SpicyF    947329716  2  1 Bf  -     -     -        84535   25    0 
+SpicyF    947329718  2  2 Brr k     f     -        84510  200    0 
+SpicyF    947329735  2  1 Bf  -     -     -        84310   25    0 
+SpicyF    947329738  2  2 B   -     -     -        84285   50   75 
+SpicyF    947329741  2  1 Br  b     -     -        84310  150  250 
+SpicyF    947329756  2  2 B   -     -     -        84410   50   75 
+SpicyF    947329758  2  1 Br  br    br    b        84435  650    0 7c Tc
+SpicyF    947329775  2  2 B   -     -     -        83785   50   75 
+SpicyF    947329780  2  1 Bf  -     -     -        83810   25    0 
+SpicyF    947329784  2  2 Bk  b     b     -        83785  200  300 
+SpicyF    947329804  2  1 Bf  -     -     -        83885   25    0 
+SpicyF    947329807  2  2 Bc  f     -     -        83860  100    0 
+SpicyF    947329816  2  1 Br  bc    kc    k        83760  300  600 9h 6h
+SpicyF    947329843  2  2 B   -     -     -        84060   50   75 
+SpicyF    947329848  2  1 Br  b     b     bf       84085  350    0 
+SpicyF    947329868  2  2 Bc  f     -     -        83735  100    0 
+SpicyF    947329876  2  1 Br  -     -     -        83635  100  150 
+SpicyF    947329879  2  2 Bc  r     k     r        83685  400  700 
+SpicyF    947329897  2  1 Bf  -     -     -        83985   25    0 
+SpicyF    947329900  2  2 Br  b     b     -        83960  250  400 
+SpicyF    947329924  2  1 Bf  -     -     -        84110   25    0 
+SpicyF    947329927  2  2 B   -     -     -        84085   50   75 
+SpicyF    947329929  2  1 Br  -     -     -        84110  100  150 
+SpicyF    947329933  2  2 B   -     -     -        84160   50   75 
+SpicyF    947329935  2  1 Brc kc    kc    k        84185  300    0 7s Kd
+SpicyF    947329952  2  2 Br  b     b     -        83885  250  400 
+SpicyF    947329972  2  1 Bc  bc    kc    k        84035  250    0 5c 8d
+SpicyF    947329997  2  2 Bc  c     c     b        83785  350  700 Qd 2h
+SpicyF    947330017  2  1 Bc  b     br    b        84135  500    0 Kh 6h
+SpicyF    947330043  2  2 Bc  k     b     b        83635  300  500 
+SpicyF    947330063  2  1 Bc  b     b     -        83835  200  300 
+SpicyF    947330083  2  2 Br  r     b     -        83935  350  600 
+SpicyF    947330098  2  1 Bc  b     b     -        84185  200  300 
+SpicyF    947330111  2  2 B   -     -     -        84285   50   75 
+SpicyF    947330113  2  1 Br  -     -     -        84310  100  150 
+SpicyF    947330116  2  2 Bc  f     -     -        84360  100    0 
+SpicyF    947330123  2  1 Br  br    kc    k        84260  350  700 As 6c
+SpicyF    947330138  2  2 Bc  c     c     c        84610  350    0 Qc 8d
+SpicyF    947330148  2  1 Bc  b     br    b        84260  500 1000 9d As
+SpicyF    947330166  2  2 Bc  b     b     b        84760  350  600 
+SpicyF    947330191  2  1 Bf  -     -     -        85010   25    0 
+SpicyF    947330195  2  2 Bk  f     -     -        84985   50    0 
+SpicyF    947330203  2  1 Br  b     b     bc       84935  450  900 3c Kh
+SpicyF    947330219  2  2 Bc  c     r     b        85385  450  900 Jh 4h
+SpicyF    947330239  2  1 Brr b     br    b        85835  650 1300 Qc Qd
+SpicyF    947330257  2  2 Bf  -     -     -        86485   50    0 
+SpicyF    947330263  2  1 Bf  -     -     -        86435   25    0 
+SpicyF    947330266  2  2 B   -     -     -        86410   50   75 
+SpicyF    947330269  2  1 Br  k     k     k        86435  100    0 8h 9d
+SpicyF    947330280  2  2 B   -     -     -        86335   50   75 
+SpicyF    947330286  2  1 Bf  -     -     -        86360   25    0 
+SpicyF    947330288  2  2 Bk  b     -     -        86335  100  150 
+SpicyF    947330298  2  1 Bf  -     -     -        86385   25    0 
+SpicyF    947330300  2  2 Bk  c     k     k        86360  100    0 7s 5d
+SpicyF    947330312  2  1 Bc  kc    kc    kc       86260  300    0 4c 7c
+SpicyF    947330337  2  2 Br  b     -     -        85960  200  350 
+SpicyF    947330350  2  1 Br  b     b     -        86110  250  400 
+SpicyF    947330359  2  2 B   -     -     -        86260   50   75 
+SpicyF    947330362  2  1 Bc  k     k     b        86285  150  200 
+SpicyF    947330375  2  2 B   -     -     -        86335   50   75 
+SpicyF    947330376  2  1 Br  -     -     -        86360  100  150 
+SpicyF    947330379  2  2 Bc  r     r     -        86410  400  700 
+SpicyF    947330391  2  1 Bcc kf    -     -        86710  100    0 
+SpicyF    947330402  2  2 Br  b     -     -        86610  150  250 
+SpicyF    947330410  2  1 Br  -     -     -        86710  100  150 
+SpicyF    947330412  2  2 Bc  Q     -     -        86760  100    0 
+SpicyF    947406630  2  1 Bf  -     -     -        54180   25    0 
+SpicyF    947406656  2  2 B   -     -     -        54165   50   75 
+SpicyF    947406659  2  1 Bf  -     -     -        54190   25    0 
+SpicyF    947406662  2  2 Br  br    b     b        54165  500    0 Qh Ad
+SpicyF    947406693  2  1 Bf  -     -     -        53665   25    0 
+SpicyF    947406708  2  2 Br  brr   b     k        53640  500    0 2s 2c
+SpicyF    947406746  2  1 Br  kf    -     -        47230  100    0 
+SpicyF    947406773  2  2 B   -     -     -        47130   50   75 
+SpicyF    947406774  2  1 Br  b     -     -        47155  150  250 
+SpicyF    947406780  2  2 Bf  -     -     -        47255   50    0 
+SpicyF    947406784  2  1 Br  b     b     b        47205  350  700 6h 8h
+SpicyF    947406800  2  2 Br  b     b     -        47745  300  500 
+SpicyF    947406818  2  1 Br  brf   -     -        47945  250    0 
+SpicyF    947406826  2  2 Bf  -     -     -        47695   50    0 
+SpicyF    947406836  2  1 Br  b     -     -        47645  150  250 
+SpicyF    947406841  2  2 B   -     -     -        47745   50   75 
+SpicyF    947406843  2  1 Br  -     -     -        47770  100  150 
+SpicyF    947406847  2  2 Br  b     b     -        47820  300  500 
+SpicyF    947406856  2  1 Br  b     -     -        48020  150  250 
+SpicyF    947406862  2  2 Bf  -     -     -        48120   50    0 
+SpicyF    947406866  2  1 Bf  -     -     -        48070   25    0 
+SpicyF    947406869  2  2 Brrr b     -     -        48045  400  750 
+SpicyF    947406884  2  1 Br  -     -     -        48395  100  150 
+SpicyF    947406888  2  2 Br  b     bc    c        48445  500    0 Ts Th
+SpicyF    947406905  2  1 Brr b     b     -        47945  350  600 
+SpicyF    947406918  2  2 Bf  -     -     -        48195   50    0 
+SpicyF    947406921  2  1 Br  b     -     -        48145  150  250 
+SpicyF    947406926  2  2 Br  br    b     -        48245  400  700 
+SpicyF    947406940  2  1 Br  -     -     -        48545  100  150 
+SpicyF    947406944  2  2 Bc  f     -     -        48595  100    0 
+SpicyF    947406951  2  1 Br  brc   b     bc       48495  600    0 Kc Jc
+SpicyF    947406969  2  2 Bk  b     -     -        47895  100  150 
+SpicyF    947406981  2  1 Bf  -     -     -        47945   25    0 
+SpicyF    947406983  2  2 Brr b     b     b        47920  450    0 4c Jc
+SpicyF    947406992  2  1 Brc kr    k     k        47470  250  500 3d 6h
+SpicyF    947407011  2  2 B   -     -     -        47720   50   75 
+SpicyF    947407015  2  1 Br  br    brr   bf       47745  850    0 
+SpicyF    947407037  2  2 B   -     -     -        46895   50   75 
+SpicyF    947407039  2  1 Br  b     -     -        46920  150  250 
+SpicyF    947407045  2  2 Bk  rc    c     f        47020  300    0 
+SpicyF    947407058  2  1 Br  b     b     b        46720  350    0 3h 2h
+SpicyF    947407068  2  2 B   -     -     -        46370   50   75 
+SpicyF    947407071  2  1 Br  b     br    b        46395  550 1000 
+SpicyF    947407085  2  2 B   -     -     -        46845   50   75 
+SpicyF    947407087  2  1 Bf  -     -     -        46870   25    0 
+SpicyF    947407089  2  2 B   -     -     -        46845   50   75 
+SpicyF    947407091  2  1 Brr b     br    k        46870  550 1100 Qd 8h
+SpicyF    947407108  2  2 B   -     -     -        47420   50   75 
+SpicyF    947407111  2  1 Br  kf    -     -        47445  100    0 
+SpicyF    947407120  2  2 Br  b     b     -        47345  300  500 
+SpicyF    947407131  2  1 Br  b     bc    kf       47545  350    0 
+SpicyF    947407144  2  2 Bf  -     -     -        47195   50    0 
+SpicyF    947407148  2  1 Bf  -     -     -        47145   25    0 
+SpicyF    947407149  2  2 Br  b     b     b        47120  400  800 Ks 8h
+SpicyF    947407162  2  1 Brr b     b     b        47520  450  900 6d 6h
+SpicyF    947407177  2  2 B   -     -     -        47970   50   75 
+SpicyF    947407180  2  1 Br  b     br    b        47995  550 1100 Qs Ts
+SpicyF    947407191  2  2 Bc  k     f     -        48545  100    0 
+SpicyF    947407203  2  1 Brr b     b     brc      48445  750    0 8s Ks
+SpicyF    947407218  2  2 Bf  -     -     -        47695   50    0 
+SpicyF    947407227  2  1 Br  br    b     k        47645  350    0 6c 5c
+SpicyF    947407239  2  2 B   -     -     -        47295   50   75 
+SpicyF    947407243  2  1 Br  br    b     bc       47320  550 1100 Ad 8d
+SpicyF    947407259  2  2 Br  b     -     -        47870  200  350 
+SpicyF    947407271  2  1 Br  br    b     b        48020  450  450 6c 4s
+SpicyF    947407283  2  2 Br  b     b     b        48020  400  800 Ts Js
+SpicyF    947407306  2  1 Br  b     -     -        48420  150  250 
+SpicyF    947407316  2  2 B   -     -     -        48520   50   75 
+SpicyF    947407318  2  1 Bc  kc    k     b        48545  200  400 2c Tc
+SpicyF    947407329  2  2 B   -     -     -        48745   50   75 
+SpicyF    947407332  2  1 Bf  -     -     -        48770   25    0 
+SpicyF    947407335  2  2 Br  br    r     r        48745  700    0 Qh 9d
+SpicyF    947407350  2  1 Br  b     b     b        48045  350  700 Kc 8c
+SpicyF    947407363  2  2 Bk  k     c     r        48395  350  600 
+SpicyF    947407377  2  1 Br  b     -     -        48645  150  250 
+SpicyF    947407383  2  2 Br  b     b     b        48745  350  700 6h 6c
+SpicyF    947407396  2  1 Br  b     b     b        49095  350  700 9d 5c
+SpicyF    947407410  2  2 B   -     -     -        49445   50   75 
+SpicyF    947407414  2  1 Br  b     -     -        49470  150  250 
+SpicyF    947407419  2  2 Bf  -     -     -        49570   50    0 
+SpicyF    947407422  2  1 Brr br    br    br       49520  950 1900 9c 7h
+SpicyF    947407439  2  2 Brr b     b     b        50470  500    0 Tc Jc
+SpicyF    947407459  2  1 Brr kc    b     k        49970  350    0 Ts Qh
+SpicyF    947407474  2  2 Bk  c     k     f        49620  100    0 
+SpicyF    947407489  2  1 Br  b     b     -        49520  250  400 
+SpicyF    947407497  2  2 Br  b     -     -        49670  150  250 
+SpicyF    947407504  2  1 Bcc kf    -     -        49770  100    0 
+SpicyF    947407512  2  2 B   -     -     -        49670   50   75 
+SpicyF    947407513  2  1 Br  b     -     -        49695  150  250 
+SpicyF    947407518  2  2 Br  b     br    b        49795  600    0 3h 6h
+SpicyF    947407535  2  1 Br  b     -     -        49195  150  250 
+SpicyF    947407544  2  2 Br  b     b     b        49295  350  700 Ah 7d
+SpicyF    947407558  2  1 Bc  b     -     -        49645  100  150 
+SpicyF    947407567  2  2 Bk  k     Q     -        49695   50    0 

@@ -1,0 +1,199 @@
+holdmking 948080681  2  2 B   -     -     -         8408   50   75 
+holdmking 948080685  2  1 Br  -     -     -         8433  100  150 
+holdmking 948080688  2  2 Bc  c     b     -         8483  250  400 
+holdmking 948080701  2  1 Bc  k     kf    -         8633   50    0 
+holdmking 948080715  2  2 Bk  f     -     -         8583   50    0 
+holdmking 948080724  2  1 Br  -     -     -         8533  100  150 
+holdmking 948080730  2  2 B   -     -     -         8583   50   75 
+holdmking 948080732  2  1 Br  -     -     -         8608  100  150 
+holdmking 948080735  2  2 B   -     -     -         8658   50   75 
+holdmking 948080737  2  1 Bcc kf    -     -         8683  100    0 
+holdmking 948080752  2  2 Bk  c     f     -         8583  100    0 
+holdmking 948080773  2  1 Bf  -     -     -         8483   25    0 
+holdmking 948080776  2  2 B   -     -     -         8458   50   75 
+holdmking 948080779  2  1 Bcc bc    b     -         8483  300  500 
+holdmking 948080795  2  2 Bc  r     b     c         8683  400  800 Ah 3s
+holdmking 948080814  2  1 Brc kf    -     -         9083  150    0 
+holdmking 948080834  2  2 B   -     -     -         8933   50   75 
+holdmking 948080837  2  1 Bf  -     -     -         8958   25    0 
+holdmking 948080839  2  2 Bf  -     -     -         8933   50    0 
+holdmking 948080843  2  1 Bf  -     -     -         8883   25    0 
+holdmking 948080846  2  2 B   -     -     -         8858   50   75 
+holdmking 948080849  2  1 Br  -     -     -         8883  100  150 
+holdmking 948080852  2  2 B   -     -     -         8933   50   75 
+holdmking 948080854  2  1 Bf  -     -     -         8958   25    0 
+holdmking 948080861  2  2 Bk  k     f     -         8933   50    0 
+holdmking 948080876  2  1 Br  -     -     -         8883  100  150 
+holdmking 948080880  2  2 Bc  f     -     -         8933  100    0 
+holdmking 948080895  2  1 Bf  -     -     -         8833   25    0 
+holdmking 948080897  2  2 B   -     -     -         8808   50   75 
+holdmking 948080899  2  1 Br  -     -     -         8833  100  150 
+holdmking 948080903  2  2 Br  b     -     -         8883  200  350 
+holdmking 948080910  2  1 Brc bc    k     b         9033  350    0 8s 5s
+holdmking 948080932  2  2 Bf  -     -     -         8683   50    0 
+holdmking 948080938  2  1 Bf  -     -     -         8633   25    0 
+holdmking 948080947  2  2 Bc  f     -     -         8568  100    0 
+holdmking 948080956  2  1 Br  -     -     -         8468  100  150 
+holdmking 948080959  2  2 B   -     -     -         8518   50   75 
+holdmking 948080961  2  1 Br  -     -     -         8543  100  150 
+holdmking 948080965  2  2 Bf  -     -     -         8593   50    0 
+holdmking 948080970  2  1 Bc  b     b     b         8543  300    0 2s Jd
+holdmking 948080986  2  2 Br  b     bf    -         8243  250    0 
+holdmking 948081005  2  1 Bc  b     -     -         7993  100  150 
+holdmking 948081020  2  2 Bc  b     b     b         8043  350    0 5c 4h
+holdmking 948081034  2  1 Br  bc    k     b         7693  300  300 3s 4s
+holdmking 948081053  2  2 B   -     -     -         7693   50   75 
+holdmking 948081058  2  1 Br  -     -     -         7718  100  150 
+holdmking 948081062  2  2 Bk  f     -     -         7768   50    0 
+holdmking 948081069  2  1 Brc bf    -     -         7718  200    0 
+holdmking 948081082  2  2 Br  b     b     b         7518  350    0 2h 4h
+holdmking 948081098  2  1 Bf  -     -     -         7168   25    0 
+holdmking 948081104  2  2 B   -     -     -         7143   50   75 
+holdmking 948081108  2  1 Bc  k     b     bc        7168  350    0 Kc Kh
+holdmking 948081122  2  2 Bk  b     -     -         6818  100  150 
+holdmking 948081134  2  1 Bc  br    -     -         6868  200  350 
+holdmking 948081145  3  2 Bf  -     -     -         7018   50    0 
+holdmking 948081150  3  1 Bc  br    b     -         6968  350  650 
+holdmking 948081168  3  3 cc  c     k     c         7268  250    0 8h Td
+holdmking 948081187  3  2 Bf  -     -     -         7018   50    0 
+holdmking 948081196  3  1 Bc  b     -     -         6968  100  150 
+holdmking 948081211  3  3 f   -     -     -         7018    0    0 
+holdmking 948081214  3  2 Bc  kc    kc    k         7018  250  525 6h 7s
+holdmking 948081233  3  1 Bc  kcc   k     kf        7293  200    0 
+holdmking 948081279  3  3 f   -     -     -         7093    0    0 
+holdmking 948081285  3  2 Bf  -     -     -         7093   50    0 
+holdmking 948081289  3  1 Bc  kf    -     -         7043  100    0 
+holdmking 948081303  3  3 rc  r     b     -         6943  350  625 
+holdmking 948081325  3  2 B   -     -     -         7218   50   75 
+holdmking 948081327  3  1 Bc  b     -     -         7243  100  150 
+holdmking 948081336  3  3 f   -     -     -         7293    0    0 
+holdmking 948081363  3  2 Bc  r     r     -         7293  400  700 
+holdmking 948081379  3  1 Bc  b     -     -         7593  100  150 
+holdmking 948081404  3  3 f   -     -     -         7643    0    0 
+holdmking 948081410  3  2 Bc  kc    k     b         7643  250  525 Tc Qs
+holdmking 948081436  3  1 Bcc kc    kr    b         7918  500 1150 3d Jh
+holdmking 948081474  3  3 f   -     -     -         8568    0    0 
+holdmking 948081485  3  2 Bk  b     b     b         8568  300    0 Ah 2d
+holdmking 948081511  3  1 Bc  k     b     b         8268  300  650 Qh Qc
+holdmking 948081531  3  3 f   -     -     -         8618    0    0 
+holdmking 948081556  3  2 B   -     -     -         8618   50   75 
+holdmking 948081564  3  1 Bf  -     -     -         8643   25    0 
+holdmking 948081569  3  3 f   -     -     -         8618    0    0 
+holdmking 948081592  3  2 B   -     -     -         8618   50   75 
+holdmking 948081596  3  1 Bf  -     -     -         8643   25    0 
+holdmking 948081602  3  3 rc  b     b     b         8618  400    0 Qh Th
+holdmking 948081621  3  2 B   -     -     -         8218   50   75 
+holdmking 948081628  3  1 Bf  -     -     -         8243   25    0 
+holdmking 948081633  3  3 f   -     -     -         8218    0    0 
+holdmking 948081645  3  2 Bf  -     -     -         8218   50    0 
+holdmking 948081651  3  1 Bc  k     kf    -         8168  100    0 
+holdmking 948081670  3  3 f   -     -     -         8068    0    0 
+holdmking 948081675  3  2 Bc  kc    kc    kf        8068  250    0 
+holdmking 948081696  3  1 Bf  -     -     -         7818   25    0 
+holdmking 948081699  3  3 f   -     -     -         7793    0    0 
+holdmking 948081706  3  2 Bf  -     -     -         7793   50    0 
+holdmking 948081711  3  1 Bc  b     b     -         7743  250  450 
+holdmking 948081722  3  3 f   -     -     -         7943    0    0 
+holdmking 948081726  3  2 B   -     -     -         7943   50   75 
+holdmking 948081730  3  1 Bc  b     -     -         7968  100  150 
+holdmking 948081740  3  3 f   -     -     -         8018    0    0 
+holdmking 948081752  3  2 Bf  -     -     -         8018   50    0 
+holdmking 948081760  3  1 Bf  -     -     -         7968   25    0 
+holdmking 948081765  3  3 r   -     -     -         7943  100  175 
+holdmking 948081768  3  2 Bc  bc    b     b         8018  400  725 
+holdmking 948081798  3  1 Bf  -     -     -         8343   25    0 
+holdmking 948081811  3  3 f   -     -     -         8318    0    0 
+holdmking 948081817  3  2 B   -     -     -         8318   50   75 
+holdmking 948081821  3  1 Bc  k     bc    k         8343  300    0 Jc Th
+holdmking 948081839  3  3 cc  c     r     -         8043  350  625 
+holdmking 948081861  3  2 Bf  -     -     -         8318   50    0 
+holdmking 948081866  3  1 Br  br    b     b         8268  450    0 Tc Th
+holdmking 948081885  3  3 f   -     -     -         7818    0    0 
+holdmking 948081892  3  2 B   -     -     -         7818   50   75 
+holdmking 948081894  3  1 Bcc krc   b     b         7843  500 1150 5s Kd
+holdmking 948081927  3  3 rc  c     c     k         8493  300    0 Ks 2s
+holdmking 948081957  3  2 Bc  b     b     -         8193  250  400 
+holdmking 948081974  3  1 Bf  -     -     -         8343   25    0 
+holdmking 948081990  3  3 c   k     r     b         8318  350    0 9d Qh
+holdmking 948082012  3  2 Bc  kf    -     -         7968  100    0 
+holdmking 948082025  3  1 Bc  b     -     -         7868  100  150 
+holdmking 948082033  3  3 r   br    b     b         7918  450    0 Qd Ts
+holdmking 948082054  3  2 Bc  b     -     -         7468  150  275 
+holdmking 948082071  3  1 Bc  brc   kc    kc        7593  500    0 9d 7c
+holdmking 948082100  3  3 r   -     -     -         7093  100  175 
+holdmking 948082108  3  2 Br  b     -     -         7168  200  375 
+holdmking 948082126  3  1 Bc  b     b     b         7343  350  750 Tc 8c
+holdmking 948082146  3  3 r   -     -     -         7743  100  175 
+holdmking 948082153  3  2 B   -     -     -         7818   50   75 
+holdmking 948082156  3  1 Bf  -     -     -         7843   25    0 
+holdmking 948082161  3  3 f   -     -     -         7818    0    0 
+holdmking 948082163  3  2 Bk  r     b     -         7818  250  400 
+holdmking 948082178  3  1 Bcc krr   b     b         7968  550    0 4s 4h
+holdmking 948082211  3  3 f   -     -     -         7418    0    0 
+holdmking 948082219  3  2 B   -     -     -         7418   50   75 
+holdmking 948082224  3  1 Bcc kc    kc    b         7443  400    0 7s Js
+holdmking 948082246  3  3 rc  f     -     -         7043  150    0 
+holdmking 948082263  3  2 B   -     -     -         6893   50   75 
+holdmking 948082266  3  1 Bf  -     -     -         6918   25    0 
+holdmking 948082289  3  3 f   -     -     -         6893    0    0 
+holdmking 948082311  3  2 Bc  k     b     b         6893  300  600 6d 7c
+holdmking 948082333  3  1 Br  b     b     bc        7193  500    0 Kh Ah
+holdmking 948082358  3  3 f   -     -     -         6693    0    0 
+holdmking 948082365  3  2 Bc  kf    -     -         6693  100    0 
+holdmking 948082384  3  1 Bf  -     -     -         6593   25    0 
+holdmking 948082387  3  3 f   -     -     -         6568    0    0 
+holdmking 948082389  3  2 B   -     -     -         6568   50   75 
+holdmking 948082393  3  1 Bf  -     -     -         6593   25    0 
+holdmking 948082406  3  3 r   -     -     -         6568  100  175 
+holdmking 948082411  3  2 Bf  -     -     -         6643   50    0 
+holdmking 948082434  3  1 Br  b     -     -         6593  150  250 
+holdmking 948082445  3  3 f   -     -     -         6693    0    0 
+holdmking 948082449  3  2 Bc  kr    -     -         6693  200  375 
+holdmking 948082463  3  1 Bc  b     bc    k         6868  350    0 9s Th
+holdmking 948082485  3  3 f   -     -     -         6518    0    0 
+holdmking 948082499  3  2 Bk  f     -     -         6518   50    0 
+holdmking 948082509  3  1 Bf  -     -     -         6468   25    0 
+holdmking 948082523  3  3 r   -     -     -         6443  100  175 
+holdmking 948082528  3  2 B   -     -     -         6518   50   75 
+holdmking 948082531  3  1 Bc  b     bf    -         6543  200    0 
+holdmking 948082546  3  3 r   br    b     -         6343  350  625 
+holdmking 948082562  3  2 Bf  -     -     -         6618   50    0 
+holdmking 948082576  3  1 Bcc kc    bc    b         6568  450  900 2s 8s
+holdmking 948082597  3  3 r   -     -     -         7018  100  175 
+holdmking 948082605  3  2 B   -     -     -         7093   50   75 
+holdmking 948082608  3  1 Bc  kf    -     -         7118  100    0 
+holdmking 948082622  3  3 f   -     -     -         7018    0    0 
+holdmking 948082625  3  2 Bc  kc    k     b         7018  250  425 
+holdmking 948082643  3  1 Bf  -     -     -         7193   25    0 
+holdmking 948082648  3  3 r   -     -     -         7168  100  175 
+holdmking 948082653  3  2 Bc  br    b     b         7243  450    0 9d 2c
+holdmking 948082676  3  1 Bf  -     -     -         6793   25    0 
+holdmking 948082682  3  3 rc  b     b     b         6768  400    0 5s As
+holdmking 948082709  4  2 Br  b     br    c         6368  650    0 6d 8d
+holdmking 948082757  4  1 Br  kf    -     -         5718  200    0 
+holdmking 948082778  4  4 r   b     r     -         5518  400  775 
+holdmking 948082798  4  3 r   b     b     b         5893  350  750 7s Kc
+holdmking 948082815  4  2 Br  b     br    b         6293  650 1425 Ah Kd
+holdmking 948082849  4  1 Br  b     -     -         7068  200  400 
+holdmking 948082867  4  4 r   -     -     -         7268  100  175 
+holdmking 948082871  4  3 r   brc   bf    -         7343  400    0 
+holdmking 948082898  4  2 B   -     -     -         6943   50   75 
+holdmking 948082903  4  1 Bf  -     -     -         6968   25    0 
+holdmking 948082916  4  4 rc  f     -     -         6943  150    0 
+holdmking 948082930  4  3 f   -     -     -         6793    0    0 
+holdmking 948082935  4  2 Bc  br    b     b         6793  450  925 9d Ac
+holdmking 948082953  4  1 Bf  -     -     -         7268   25    0 
+holdmking 948082977  4  4 r   b     -     -         7243  150  300 
+holdmking 948083003  4  3 r   r     b     b         7393  400  850 Qs Ks
+holdmking 948083023  4  2 Bc  k     kf    -         7843  100    0 
+holdmking 948083052  4  1 Bf  -     -     -         7743   25    0 
+holdmking 948083081  4  4 r   b     r     -         7718  400  775 
+holdmking 948083100  4  3 rc  r     -     -         8093  250  475 
+holdmking 948083118  4  2 Bk  k     k     k         8318   50    0 3h 9d
+holdmking 948083150  4  1 Bf  -     -     -         8268   25    0 
+holdmking 948083165  4  4 f   -     -     -         8243    0    0 
+holdmking 948083181  4  3 f   -     -     -         8243    0    0 
+holdmking 948083205  4  2 Bc  kf    -     -         8243  100    0 
+holdmking 948083222  4  1 Bc  b     -     -         8143  100  150 
+holdmking 948083234  4  4 rc  c     b     -         8193  300  525 
+holdmking 948083256  4  3 fQ  -     -     -         8418    0    0 

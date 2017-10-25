@@ -1,0 +1,60 @@
+dominator 947742229  8  4 f   -     -     -        11510    0    0 
+dominator 947742260  8  3 f   -     -     -        11510    0    0 
+dominator 947742300  8  2 Bc  k     kf    -        11510  100    0 
+dominator 947742332  8  1 Bc  br    k     kr       11410  500 1800 Ah 6h
+dominator 947742435  8  8 f   -     -     -        12710    0    0 
+dominator 947742510  7  6 f   -     -     -        12710    0    0 
+dominator 947742524  7  6 f   -     -     -        12710    0    0 
+dominator 947742575  7  5 f   -     -     -        12710    0    0 
+dominator 947742601  8  4 c   k     k     b        12710  150  250 
+dominator 947742662  8  3 cc  c     k     k        12810  150    0 6d 6c
+dominator 947742730  8  2 Bk  kf    -     -        12660   50    0 
+dominator 947742759  8  1 Bf  -     -     -        12610   25    0 
+dominator 947742773  8  8 c   c     c     f        12585  200    0 
+dominator 947742816  8  7 c   kf    -     -        12385  100    0 
+dominator 947742889  8  6 f   -     -     -        12285    0    0 
+dominator 947742915  7  4 r   r     k     r        12285  450 1200 Ad Ac
+dominator 947742966  7  3 f   -     -     -        13035    0    0 
+dominator 947743032  7  2 Bk  k     f     -        13035   50    0 
+dominator 947743091  7  1 Bf  -     -     -        12985   25    0 
+dominator 947743126  7  7 KQ  -     -     -        12960    0    0 
+dominator 947743313  9  4 f   -     -     -        12960    0    0 
+dominator 947743358  9  3 f   -     -     -        12960    0    0 
+dominator 947743456  9  2 Bk  kf    -     -        12960   50    0 
+dominator 947743521  9  1 Bf  -     -     -        12910   25    0 
+dominator 947743559  9  9 c   f     -     -        12885   50    0 
+dominator 947743598  9  8 cc  kc    kf    -        12835  150    0 
+dominator 947743665  8  6 f   -     -     -        12685    0    0 
+dominator 947743713  8  5 f   -     -     -        12685    0    0 
+dominator 947743749  8  4 r   c     f     -        12685  150    0 
+dominator 947743795  8  3 f   -     -     -        12535    0    0 
+dominator 947743822  8  2 Br  k     b     k        12535  250  525 Ah 2h
+dominator 947743874  8  1 Bc  kc    kc    kf       12810  250    0 
+dominator 947743916  8  8 f   -     -     -        12560    0    0 
+dominator 947743947  8  7 f   -     -     -        12560    0    0 
+dominator 947744005  8  6 f   -     -     -        12560    0    0 
+dominator 947744041  8  5 c   k     f     -        12560   50    0 
+dominator 947744105  8  4 f   -     -     -        12510    0    0 
+dominator 947744140  8  3 c   k     k     k        12510   50  125 Qs Kc
+dominator 947744181  8  2 Bk  kcc   kf    -        12585  200    0 
+dominator 947744225  8  1 Bc  kc    kf    -        12385  150    0 
+dominator 947744281  8  8 f   -     -     -        12235    0    0 
+dominator 947744316  8  7 r   b     b     f        12235  250    0 
+dominator 947744341  8  6 fQ  -     -     -        11985    0    0 
+dominator 947750871  5  3 r   bc    kc    k        18270  300    0 Tc 9c
+dominator 947750916  5  2 Bf  -     -     -        17970   50    0 
+dominator 947750937  5  1 Bf  -     -     -        17920   25    0 
+dominator 947750954  5  5 r   f     -     -        17895  100    0 
+dominator 947750983  5  4 rr  k     f     -        17795  200    0 
+dominator 947751022  5  3 r   b     -     -        17595  150  275 
+dominator 947751041  5  2 Br  k     k     b        17720  200  500 
+dominator 947751100  5  1 Bc  kcc   k     k        18020  250    0 5d 5c
+dominator 947751145  5  5 f   -     -     -        17770    0    0 
+dominator 947751162  5  4 f   -     -     -        17770    0    0 
+dominator 947751187  5  3 f   -     -     -        17770    0    0 
+dominator 947751224  5  2 Bk  kc    k     k        17770  150    0 6d Kd
+dominator 947751278  5  1 Bf  -     -     -        17620   25    0 
+dominator 947751306  5  5 f   -     -     -        17595    0    0 
+dominator 947751323  5  4 f   -     -     -        17595    0    0 
+dominator 947751348  5  3 rc  f     -     -        17595  150    0 
+dominator 947751378  5  2 BQ  -     -     -        17445   50    0 

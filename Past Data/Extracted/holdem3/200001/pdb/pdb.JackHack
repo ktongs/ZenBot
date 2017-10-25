@@ -1,0 +1,1184 @@
+JackHack  947577151  5  2 Bf  -     -     -        74065   50    0 
+JackHack  947577164  5  1 Bc  kf    -     -        74015  100    0 
+JackHack  947577181  5  5 c   c     r     b        73915  450 1100 
+JackHack  947577208  5  4 f   -     -     -        74565    0    0 
+JackHack  947577225  5  3 f   -     -     -        74565    0    0 
+JackHack  947577253  5  2 Bc  kf    -     -        74565  100    0 
+JackHack  947577266  5  1 Br  brc   kf    -        74465  300    0 
+JackHack  947577294  5  5 f   -     -     -        74165    0    0 
+JackHack  947577303  5  4 f   -     -     -        74165    0    0 
+JackHack  947577318  5  3 c   c     k     r        74165  300  650 4s Qs
+JackHack  947577334  5  2 Bf  -     -     -        74515   50    0 
+JackHack  947577347  5  1 Bf  -     -     -        74465   25    0 
+JackHack  947577355  5  5 c   c     f     -        74440  100    0 
+JackHack  947577386  5  4 cc  c     k     f        74340  150    0 
+JackHack  947577406  5  3 f   -     -     -        74190    0    0 
+JackHack  947577412  5  2 Bc  kc    kc    k        74190  250  525 9c 7s
+JackHack  947577430  5  1 Br  br    brc   kc       74465  900    0 Ks Kd
+JackHack  947577462  5  5 c   f     -     -        73565  100    0 
+JackHack  947577491  5  4 r   r     b     b        73465  400  925 Jd Jc
+JackHack  947577507  5  3 cc  kf    -     -        73990  100    0 
+JackHack  947577523  5  2 B   -     -     -        73890   50   75 
+JackHack  947577527  5  1 Bf  -     -     -        73915   25    0 
+JackHack  947577541  6  6 f   -     -     -        73890    0    0 
+JackHack  947577562  6  5 cc  k     rr    b        73890  600 1125 
+JackHack  947577591  6  4 f   -     -     -        74415    0    0 
+JackHack  947577613  6  3 f   -     -     -        74415    0    0 
+JackHack  947577631  6  2 Bf  -     -     -        74415   50    0 
+JackHack  947577647  6  1 Bc  k     kf    -        74365  100    0 
+JackHack  947577679  6  6 f   -     -     -        74265    0    0 
+JackHack  947577696  6  5 f   -     -     -        74265    0    0 
+JackHack  947577726  6  4 f   -     -     -        74265    0    0 
+JackHack  947577752  6  3 cc  k     f     -        74265  100    0 
+JackHack  947577768  6  2 Bc  kf    -     -        74165  100    0 
+JackHack  947577780  6  1 Bf  -     -     -        74065   25    0 
+JackHack  947577795  6  6 f   -     -     -        74040    0    0 
+JackHack  947577815  6  5 f   -     -     -        74040    0    0 
+JackHack  947577828  6  4 c   k     k     f        74040   50    0 
+JackHack  947577839  6  3 c   b     k     kf       73990  100    0 
+JackHack  947577868  6  2 Bk  kf    -     -        73890   50    0 
+JackHack  947577892  6  1 Bc  kf    -     -        73840   50    0 
+JackHack  947577907  6  6 c   k     f     -        73790  100    0 
+JackHack  947577920  6  5 cc  kf    -     -        73690  100    0 
+JackHack  947577939  6  4 f   -     -     -        73590    0    0 
+JackHack  947577964  6  3 c   bc    c     k        73590  250    0 9s 6s
+JackHack  947577995  6  2 Brc b     b     b        73340  450  925 Kc Ad
+JackHack  947578017  6  1 Bc  kf    -     -        73815  100    0 
+JackHack  947578044  6  6 f   -     -     -        73715    0    0 
+JackHack  947578063  6  5 c   kc    k     f        73715  100    0 
+JackHack  947578096  6  4 f   -     -     -        73615    0    0 
+JackHack  947578109  6  3 f   -     -     -        73615    0    0 
+JackHack  947578123  6  2 Bc  kf    -     -        73615  100    0 
+JackHack  947578140  7  1 Bcc kf    -     -        73515  200    0 
+JackHack  947578176  7  7 f   -     -     -        73315    0    0 
+JackHack  947578197  6  5 c   f     -     -        73315  100    0 
+JackHack  947578214  6  5 f   -     -     -        73215    0    0 
+JackHack  947578227  6  4 f   -     -     -        73215    0    0 
+JackHack  947578249  6  3 f   -     -     -        73215    0    0 
+JackHack  947578268  6  2 Bc  kf    -     -        73215  200    0 
+JackHack  947578295  6  1 Bc  br    k     k        73015  350 1000 6c 3c
+JackHack  947578326  7  7 f   -     -     -        73665    0    0 
+JackHack  947578365  8  7 c   r     b     b        73665  350 1050 As Th
+JackHack  947578416  8  6 r   br    k     c        74365  350  775 As Ad
+JackHack  947578441  8  6 c   f     -     -        74790  100    0 
+JackHack  947578465  7  4 c   c     f     -        74690  150    0 
+JackHack  947578496  8  3 c   k     Q     -        74540   50    0 
+JackHack  947578617  8  6 f   -     -     -        74490    0    0 
+JackHack  947578639  8  5 f   -     -     -        74490    0    0 
+JackHack  947578680  8  4 f   -     -     -        74490    0    0 
+JackHack  947578705  8  3 f   -     -     -        74490    0    0 
+JackHack  947578774  8  2 Bk  k     kf    -        74490   50    0 
+JackHack  947578811  8  1 Bf  -     -     -        74440   25    0 
+JackHack  947578843  8  8 f   -     -     -        74415    0    0 
+JackHack  947578880  8  7 cc  f     -     -        74415  200    0 
+JackHack  947578950  8  6 c   kf    -     -        74215  100    0 
+JackHack  947578983  8  5 ccc cf    -     -        74115  250    0 
+JackHack  947579046  8  4 f   -     -     -        73865    0    0 
+JackHack  947579072  7  2 Bf  -     -     -        73865   50    0 
+JackHack  947579083  7  1 Bf  -     -     -        73815   25    0 
+JackHack  947579112  7  7 f   -     -     -        73790    0    0 
+JackHack  947579144  7  6 cc  c     k     r        73790  450 1375 4c Qc
+JackHack  947579190  7  5 cc  kc    kf    -        74715  150    0 
+JackHack  947579218  7  4 f   -     -     -        74565    0    0 
+JackHack  947579233  7  3 f   -     -     -        74565    0    0 
+JackHack  947579260  7  2 Bc  kf    -     -        74565  100    0 
+JackHack  947579284  7  1 Bf  -     -     -        74465   25    0 
+JackHack  947579302  7  7 f   -     -     -        74440    0    0 
+JackHack  947579334  7  6 f   -     -     -        74440    0    0 
+JackHack  947579355  7  5 cc  kc    kc    kf       74440  250    0 
+JackHack  947579385  7  4 f   -     -     -        74190    0    0 
+JackHack  947579420  7  3 f   -     -     -        74190    0    0 
+JackHack  947579445  7  2 Bk  f     -     -        74190   50    0 
+JackHack  947579465  7  1 Bf  -     -     -        74140   25    0 
+JackHack  947579493  7  7 f   -     -     -        74115    0    0 
+JackHack  947579538  7  6 f   -     -     -        74115    0    0 
+JackHack  947579554  7  5 f   -     -     -        74115    0    0 
+JackHack  947579582  7  4 f   -     -     -        74115    0    0 
+JackHack  947579608  7  3 rc  b     k     k        74115  200  675 Jd Jh
+JackHack  947579650  7  2 Bf  -     -     -        74590   50    0 
+JackHack  947579660  7  1 Bf  -     -     -        74540   25    0 
+JackHack  947579665  7  7 f   -     -     -        74515    0    0 
+JackHack  947579695  7  6 c   k     f     -        74515   50    0 
+JackHack  947579721  7  5 c   f     -     -        74465   50    0 
+JackHack  947579762  7  4 f   -     -     -        74415    0    0 
+JackHack  947579772  8  4 c   c     b     c        74415  300  675 6h 6d
+JackHack  947579802  8  3 f   -     -     -        74790    0    0 
+JackHack  947579832  8  2 Bk  kc    kc    kf       74790  200    0 
+JackHack  947579878  8  1 Bf  -     -     -        74590   25    0 
+JackHack  947579897  8  8 f   -     -     -        74565    0    0 
+JackHack  947579929  8  7 f   -     -     -        74565    0    0 
+JackHack  947579977  8  6 f   -     -     -        74565    0    0 
+JackHack  947580000  7  4 cc  f     -     -        74565  100    0 
+JackHack  947580049  7  3 c   c     k     k        74465  100    0 3s 3c
+JackHack  947580083  7  2 Br  k     k     k        74365  150  325 Ac Qs
+JackHack  947580112  7  1 Bf  -     -     -        74540   25    0 
+JackHack  947580126  8  8 f   -     -     -        74515    0    0 
+JackHack  947580167  8  7 f   -     -     -        74515    0    0 
+JackHack  947580205  8  6 f   -     -     -        74515    0    0 
+JackHack  947580251  8  5 f   -     -     -        74515    0    0 
+JackHack  947580316  8  4 f   -     -     -        74515    0    0 
+JackHack  947580336  8  3 f   -     -     -        74515    0    0 
+JackHack  947580354  8  2 Bc  kc    kf    -        74515  150    0 
+JackHack  947580402  8  1 Bf  -     -     -        74365   25    0 
+JackHack  947580450  9  9 f   -     -     -        74340    0    0 
+JackHack  947580519  9  8 c   b     -     -        74340  100  225 
+JackHack  947580574  9  7 cc  b     c     f        74465  250    0 
+JackHack  947580639  9  6 c   c     c     f        74215  200    0 
+JackHack  947580691  9  5 f   -     -     -        74015    0    0 
+JackHack  947580704  9  4 f   -     -     -        74015    0    0 
+JackHack  947580745  9  3 f   -     -     -        74015    0    0 
+JackHack  947580785  9  2 Bf  -     -     -        74015   50    0 
+JackHack  947580836  9  1 Bf  -     -     -        73965   25    0 
+JackHack  947580879  8  8 cc  c     k     k        73940  250  775 Ks Tc
+JackHack  947580915  8  7 f   -     -     -        74465    0    0 
+JackHack  947580974  7  5 f   -     -     -        74465    0    0 
+JackHack  947581001  7  4 c   b     -     -        74465  100  200 
+JackHack  947581022  6  3 f   -     -     -        74565    0    0 
+JackHack  947581045  6  2 Bcc kf    -     -        74565  200    0 
+JackHack  947581073  6  1 Bf  -     -     -        74365   25    0 
+JackHack  947581091  6  6 c   k     f     -        74340  100    0 
+JackHack  947581112  6  5 c   bc    k     kc       74240  250  575 8h Js
+JackHack  947581146  6  4 cc  c     k     k        74565  150  325 9h Kh
+JackHack  947581167  6  3 cc  c     k     k        74740  200  575 3h Jh
+JackHack  947581193  6  2 Bk  k     kf    -        75115   50    0 
+JackHack  947581231  6  1 Bc  k     k     k        75065  100    0 9c 8s
+JackHack  947581248  6  6 f   -     -     -        74965    0    0 
+JackHack  947581256  6  5 cc  c     k     k        74965  150    0 4d Jd
+JackHack  947581280  6  4 cc  cc    b     b        74815  450 1250 8h 6c
+JackHack  947581318  6  3 f   -     -     -        75615    0    0 
+JackHack  947581347  6  2 Bf  -     -     -        75615   50    0 
+JackHack  947581363  6  1 Bc  kc    kc    k        75565  250  550 Qc Kc
+JackHack  947581390  6  6 f   -     -     -        75865    0    0 
+JackHack  947581411  6  5 rc  c     c     c        75865  400    0 Ad Qc
+JackHack  947581431  6  4 cc  cc    k     k        75465  200  700 Th Kc
+JackHack  947581466  6  3 c   kc    k     f        75965  100    0 
+JackHack  947581503  6  2 Bf  -     -     -        75865   50    0 
+JackHack  947581516  6  1 Bc  kf    -     -        75815  100    0 
+JackHack  947581536  6  6 c   b     k     c        75715  200    0 7h 8s
+JackHack  947581565  6  5 c   cf    -     -        75515  150    0 
+JackHack  947581607  6  4 f   -     -     -        75365    0    0 
+JackHack  947581644  6  3 cc  kf    -     -        75365  150    0 
+JackHack  947581676  6  2 Bk  kf    -     -        75215   50    0 
+JackHack  947581693  6  1 Bf  -     -     -        75165   25    0 
+JackHack  947581713  6  6 f   -     -     -        75140    0    0 
+JackHack  947581737  5  4 f   -     -     -        75140    0    0 
+JackHack  947581758  5  3 c   f     -     -        75140   50    0 
+JackHack  947581784  5  2 Bf  -     -     -        75090   50    0 
+JackHack  947581815  5  1 Bc  k     kf    -        75040  100    0 
+JackHack  947581841  4  4 cc  f     -     -        74940  150    0 
+JackHack  947581867  4  3 crc c     c     rrrrc    74790 1250 1262 Ac Qd
+JackHack  947581894  4  2 Bc  c     c     k        74802  300  900 9h 7c
+JackHack  947581921  4  1 Bcc kf    -     -        75402  100    0 
+JackHack  947581943  4  4 c   f     -     -        75302   50    0 
+JackHack  947581959  4  3 cc  c     k     kf       75252  150    0 
+JackHack  947581985  4  2 Bk  k     b     -        75102  150  250 
+JackHack  947582003  5  1 Bc  k     b     -        75202  200  450 
+JackHack  947582020  5  5 f   -     -     -        75452    0    0 
+JackHack  947582034  5  4 f   -     -     -        75452    0    0 
+JackHack  947582063  5  3 cc  k     f     -        75452  100    0 
+JackHack  947582090  5  2 Bk  kc    kc    k        75352  200    0 Ac 7c
+JackHack  947582118  5  1 Bf  -     -     -        75152   25    0 
+JackHack  947582127  5  5 c   f     -     -        75127  100    0 
+JackHack  947582142  5  4 cc  k     c     f        75027  200    0 
+JackHack  947582163  5  3 f   -     -     -        74827    0    0 
+JackHack  947582170  5  2 Br  bc    br    k        74827  600 1475 Ac Kd
+JackHack  947582203  5  1 Bc  b     kf    -        75702  100    0 
+JackHack  947582236  5  5 cc  c     r     -        75602  350  650 
+JackHack  947582260  5  4 f   -     -     -        75902    0    0 
+JackHack  947582265  5  3 c   k     k     f        75902   50    0 
+JackHack  947582284  5  2 Bf  -     -     -        75852   50    0 
+JackHack  947582292  5  1 Bf  -     -     -        75802   25    0 
+JackHack  947582298  5  5 f   -     -     -        75777    0    0 
+JackHack  947582308  5  4 cc  f     -     -        75777  100    0 
+JackHack  947582317  5  3 c   k     kf    -        75677   50    0 
+JackHack  947582333  5  2 Bc  k     b     b        75627  300  625 
+JackHack  947582358  5  1 Bf  -     -     -        75952   25    0 
+JackHack  947582390  5  5 c   b     -     -        75927  100  200 
+JackHack  947582410  5  4 f   -     -     -        76027    0    0 
+JackHack  947582424  5  3 c   b     -     -        76027  100  225 
+JackHack  947582451  5  2 Bc  kf    -     -        76152  100    0 
+JackHack  947582464  5  1 Bf  -     -     -        76052   25    0 
+JackHack  947582477  5  5 c   c     f     -        76027  100    0 
+JackHack  947582505  5  4 c   f     -     -        75927   50    0 
+JackHack  947582527  5  3 fQ  -     -     -        75877    0    0 
+JackHack  947591494  5  2 Bk  k     k     k        75877   50    0 7h 5s
+JackHack  947591518  5  1 Bcc kc    kc    kf       75827  400    0 
+JackHack  947591563  5  5 c   f     -     -        75427  100    0 
+JackHack  947591576  6  5 f   -     -     -        75327    0    0 
+JackHack  947591598  6  4 f   -     -     -        75327    0    0 
+JackHack  947591635  6  3 cc  kf    -     -        75327  100    0 
+JackHack  947591666  6  2 Bc  kc    kc    kc       75227  500 1000 Ks Qc
+JackHack  947591723  6  1 Bc  kc    k     k        75727  100  200 9s Qd
+JackHack  947591759  6  6 c   f     -     -        75827   50    0 
+JackHack  947591788  6  5 c   c     b     k        75777  250  625 8s Qs
+JackHack  947591837  6  4 r   c     c     f        76152  250    0 
+JackHack  947591870  6  3 f   -     -     -        75902    0    0 
+JackHack  947591880  6  2 Bk  k     k     k        75902   50    0 3c Ad
+JackHack  947591906  7  1 Bc  k     k     b        75852  200  400 
+JackHack  947591935  7  7 c   f     -     -        76052   50    0 
+JackHack  947591964  7  6 cc  f     -     -        76002  100    0 
+JackHack  947591990  8  5 cc  bc    k     kf       75902  200    0 
+JackHack  947592039  8  4 f   -     -     -        75702    0    0 
+JackHack  947592076  8  3 cc  kc    k     k        75702  150    0 Qc Ks
+JackHack  947592111  8  2 Bc  kf    -     -        75552  100    0 
+JackHack  947592133  8  1 Bf  -     -     -        75452   25    0 
+JackHack  947592165  8  8 f   -     -     -        75427    0    0 
+JackHack  947592187  8  7 c   c     rc    c        75427  650 1625 7s 7h
+JackHack  947592221  8  6 cc  f     -     -        76402  100    0 
+JackHack  947592270  8  5 f   -     -     -        76302    0    0 
+JackHack  947592300  8  4 ccc kc    kf    -        76302  250    0 
+JackHack  947592338  7  2 f   -     -     -        76052    0    0 
+JackHack  947592383  7  2 Bc  bc    bc    kc       76052  500    0 5d Kd
+JackHack  947592422  7  1 Bc  kf    -     -        75552   50    0 
+JackHack  947592456  7  7 f   -     -     -        75502    0    0 
+JackHack  947592470  7  6 c   c     f     -        75502  100    0 
+JackHack  947592490  7  5 c   f     -     -        75402   50    0 
+JackHack  947592511  7  4 f   -     -     -        75352    0    0 
+JackHack  947592533  7  3 c   k     kf    -        75352   50    0 
+JackHack  947592565  7  2 Bk  kf    -     -        75302   50    0 
+JackHack  947592602  8  1 Bc  kf    -     -        75252  100    0 
+JackHack  947592659  9  9 f   -     -     -        75152    0    0 
+JackHack  947592699  9  8 f   -     -     -        75152    0    0 
+JackHack  947592729  9  7 c   c     f     -        75152  100    0 
+JackHack  947592800  9  6 f   -     -     -        75052    0    0 
+JackHack  947592828  9  5 f   -     -     -        75052    0    0 
+JackHack  947592880  9  4 ccc cc    kc    kc       75052  500    0 Ac 6c
+JackHack  947592936  9  3 f   -     -     -        74552    0    0 
+JackHack  947592950  9  2 Bk  kf    -     -        74552   50    0 
+JackHack  947592974  9  1 Bc  kf    -     -        74502  100    0 
+JackHack  947593015  9  9 c   f     -     -        74402   50    0 
+JackHack  947593064  9  8 f   -     -     -        74352    0    0 
+JackHack  947593119  9  7 f   -     -     -        74352    0    0 
+JackHack  947593159  9  6 f   -     -     -        74352    0    0 
+JackHack  947593211  9  5 f   -     -     -        74352    0    0 
+JackHack  947593252  9  4 f   -     -     -        74352    0    0 
+JackHack  947593280 10  3 c   k     cf    -        74352  150    0 
+JackHack  947593326 10  2 Bc  kf    -     -        74202  100    0 
+JackHack  947593370 10  1 Bc  kf    -     -        74102  100    0 
+JackHack  947593420 10 10 f   -     -     -        74002    0    0 
+JackHack  947593462 10  9 f   -     -     -        74002    0    0 
+JackHack  947593533 10  8 f   -     -     -        74002    0    0 
+JackHack  947593581 10  7 f   -     -     -        74002    0    0 
+JackHack  947593623 10  6 f   -     -     -        74002    0    0 
+JackHack  947593687 10  5 f   -     -     -        74002    0    0 
+JackHack  947593721 10  4 f   -     -     -        74002    0    0 
+JackHack  947593763 10  3 f   -     -     -        74002    0    0 
+JackHack  947593793 10  2 Bf  -     -     -        74002   50    0 
+JackHack  947593827 10  1 Br  kf    -     -        73952  200    0 
+JackHack  947593869  9  9 f   -     -     -        73752    0    0 
+JackHack  947593903  9  8 cf  -     -     -        73752   50    0 
+JackHack  947593942  9  7 f   -     -     -        73702    0    0 
+JackHack  947593988  9  6 f   -     -     -        73702    0    0 
+JackHack  947594032  9  5 f   -     -     -        73702    0    0 
+JackHack  947594068  9  5 c   kf    -     -        73702   50    0 
+JackHack  947594128  8  3 f   -     -     -        73652    0    0 
+JackHack  947594161  8  2 B   -     -     -        73652   50   75 
+JackHack  947594176  7  1 Bf  -     -     -        73677   25    0 
+JackHack  947594211  7  7 f   -     -     -        73652    0    0 
+JackHack  947594231  7  6 cr  b     b     k        73652  350 1250 Qh Qc
+JackHack  947594273  7  5 c   k     f     -        74552   50    0 
+JackHack  947594298  7  4 f   -     -     -        74502    0    0 
+JackHack  947594339  7  3 f   -     -     -        74502    0    0 
+JackHack  947594376  7  2 Bf  -     -     -        74502   50    0 
+JackHack  947594405  7  1 Bc  kf    -     -        74452   50    0 
+JackHack  947594430  7  7 f   -     -     -        74402    0    0 
+JackHack  947594443  7  6 f   -     -     -        74402    0    0 
+JackHack  947594473  7  5 f   -     -     -        74402    0    0 
+JackHack  947594512  7  4 c   k     k     k        74402   50  250 8h Th
+JackHack  947594557  8  3 f   -     -     -        74602    0    0 
+JackHack  947594583  8  2 Bk  k     k     k        74602   50  150 9s 4s
+JackHack  947594605  8  1 Bf  -     -     -        74702   25    0 
+JackHack  947594634  8  8 f   -     -     -        74677    0    0 
+JackHack  947594656  8  7 f   -     -     -        74677    0    0 
+JackHack  947594672  8  6 f   -     -     -        74677    0    0 
+JackHack  947594682  8  5 f   -     -     -        74677    0    0 
+JackHack  947594702  8  4 f   -     -     -        74677    0    0 
+JackHack  947594740  8  3 f   -     -     -        74677    0    0 
+JackHack  947594779  8  2 Bk  k     f     -        74677   50    0 
+JackHack  947594827  8  1 Bf  -     -     -        74627   25    0 
+JackHack  947594839  8  8 f   -     -     -        74602    0    0 
+JackHack  947594865  8  7 f   -     -     -        74602    0    0 
+JackHack  947594889  8  6 f   -     -     -        74602    0    0 
+JackHack  947594900  8  5 f   -     -     -        74602    0    0 
+JackHack  947594929  8  4 f   -     -     -        74602    0    0 
+JackHack  947594958  8  3 f   -     -     -        74602    0    0 
+JackHack  947594970  8  2 Bf  -     -     -        74602   50    0 
+JackHack  947594977  8  1 Bc  k     b     b        74552  250    0 Jd Kc
+JackHack  947595018  9  8 f   -     -     -        74302    0    0 
+JackHack  947595089  9  7 f   -     -     -        74302    0    0 
+JackHack  947595130  9  6 f   -     -     -        74302    0    0 
+JackHack  947595145  9  5 c   kf    -     -        74302  100    0 
+JackHack  947595216  9  4 f   -     -     -        74202    0    0 
+JackHack  947595280  9  3 f   -     -     -        74202    0    0 
+JackHack  947595324  9  2 Bc  kc    kc    k        74202  250    0 5d 5h
+JackHack  947595355  9  1 Bc  k     k     b        73952  150  300 9s 3s
+JackHack  947595379  9  9 f   -     -     -        74102    0    0 
+JackHack  947595456  9  8 f   -     -     -        74102    0    0 
+JackHack  947595503  9  7 f   -     -     -        74102    0    0 
+JackHack  947595521  9  6 f   -     -     -        74102    0    0 
+JackHack  947595551  9  5 f   -     -     -        74102    0    0 
+JackHack  947595595  9  4 cc  kf    -     -        74102  100    0 
+JackHack  947595623  9  3 f   -     -     -        74002    0    0 
+JackHack  947595638  9  2 Bk  kf    -     -        74002   50    0 
+JackHack  947595682  9  1 Bc  kc    k     k        73952  100    0 8s 9c
+JackHack  947595707  9  9 f   -     -     -        73852    0    0 
+JackHack  947595744  9  8 c   f     -     -        73852   50    0 
+JackHack  947595763  9  7 f   -     -     -        73802    0    0 
+JackHack  947595798  9  6 f   -     -     -        73802    0    0 
+JackHack  947595847  9  5 c   kc    c     b        73802  350 1050 
+JackHack  947595900  8  3 c   k     bc    kf       74502  250    0 
+JackHack  947595940  8  3 cc  kc    k     kf       74252  350    0 
+JackHack  947595976  8  2 Bk  k     k     k        73902   50    0 5c Tc
+JackHack  947596001  8  1 Bf  -     -     -        73852   25    0 
+JackHack  947596020  7  7 c   k     f     -        73827   50    0 
+JackHack  947596059  7  6 f   -     -     -        73777    0    0 
+JackHack  947596085  7  5 f   -     -     -        73777    0    0 
+JackHack  947596107  8  5 c   r     b     b        73777  350  925 3s Js
+JackHack  947596137  8  4 cc  kc    kf    -        74352  150    0 
+JackHack  947596165  8  3 f   -     -     -        74202    0    0 
+JackHack  947596184  8  2 Bk  kf    -     -        74202   50    0 
+JackHack  947596221  8  1 Bc  k     k     kf       74152   50    0 
+JackHack  947596264  8  8 f   -     -     -        74102    0    0 
+JackHack  947596315  8  7 f   -     -     -        74102    0    0 
+JackHack  947596338  8  6 r   b     -     -        74102  150  375 
+JackHack  947596367  8  5 f   -     -     -        74327    0    0 
+JackHack  947596414  8  4 cc  kf    -     -        74327  100    0 
+JackHack  947596464  8  3 c   kf    -     -        74227   50    0 
+JackHack  947596513  8  2 Bf  -     -     -        74177   50    0 
+JackHack  947596525  8  1 Bf  -     -     -        74127   25    0 
+JackHack  947596557  8  8 c   c     c     k        74102  200    0 Ah 3h
+JackHack  947596598  8  7 c   f     -     -        73902   50    0 
+JackHack  947596626  8  6 c   f     -     -        73852  100    0 
+JackHack  947596644  8  5 c   kc    kr    b        73752  400  950 Jc Qc
+JackHack  947596683  8  4 cc  c     f     -        74302  150    0 
+JackHack  947596712  8  3 c   bc    f     -        74152  150    0 
+JackHack  947596751  8  2 Bc  kf    -     -        74002  150    0 
+JackHack  947596805  8  1 Bf  -     -     -        73852   25    0 
+JackHack  947596816  8  8 c   b     b     -        73827  250  700 
+JackHack  947596858  8  7 f   -     -     -        74277    0    0 
+JackHack  947596895  8  6 f   -     -     -        74277    0    0 
+JackHack  947596915  8  5 f   -     -     -        74277    0    0 
+JackHack  947596970  8  4 f   -     -     -        74277    0    0 
+JackHack  947597010  8  3 f   -     -     -        74277    0    0 
+JackHack  947597050  8  2 Bk  kf    -     -        74277   50    0 
+JackHack  947597070  8  1 Bc  kf    -     -        74227   50    0 
+JackHack  947597103  8  8 f   -     -     -        74177    0    0 
+JackHack  947597113  8  7 c   c     c     k        74177  300    0 Kd Ts
+JackHack  947597151  8  6 c   f     -     -        73877   50    0 
+JackHack  947597194  7  4 f   -     -     -        73827    0    0 
+JackHack  947597234  7  3 cc  kf    -     -        73827  100    0 
+JackHack  947597265  7  2 Bf  -     -     -        73727   50    0 
+JackHack  947597284  7  1 Bf  -     -     -        73677   25    0 
+JackHack  947597298  7  7 f   -     -     -        73652    0    0 
+JackHack  947597327  7  6 cc  f     -     -        73652  150    0 
+JackHack  947597348  7  5 f   -     -     -        73502    0    0 
+JackHack  947597372  7  4 f   -     -     -        73502    0    0 
+JackHack  947597404  7  3 cc  f     -     -        73502  150    0 
+JackHack  947597462  7  2 Bf  -     -     -        73352   50    0 
+JackHack  947597470  7  1 Bc  k     k     k        73302   50  150 Ks 8s
+JackHack  947597489  7  7 r   k     b     k        73402  200  600 Ac Kh
+JackHack  947597529  7  6 c   k     k     k        73802  100    0 6c 3c
+JackHack  947597557  7  5 f   -     -     -        73702    0    0 
+JackHack  947597584  7  4 f   -     -     -        73702    0    0 
+JackHack  947597605  6  3 cc  cf    -     -        73702  150    0 
+JackHack  947597645  6  2 Bk  kc    kc    k        73552  200  425 Js 9d
+JackHack  947597687  6  1 Bc  kc    kc    b        73777  350  850 
+JackHack  947597717  6  6 c   f     -     -        74277  100    0 
+JackHack  947597743  6  5 c   f     -     -        74177   50    0 
+JackHack  947597781  6  4 f   -     -     -        74127    0    0 
+JackHack  947597807  6  3 f   -     -     -        74127    0    0 
+JackHack  947597826  6  2 Bf  -     -     -        74127   50    0 
+JackHack  947597866  6  1 Bc  k     kf    -        74077  100    0 
+JackHack  947597883  6  6 c   f     -     -        73977   50    0 
+JackHack  947597900  6  5 cc  kf    -     -        73927  100    0 
+JackHack  947597914  6  4 cc  k     f     -        73827  100    0 
+JackHack  947597931  6  3 c   f     -     -        73727   50    0 
+JackHack  947597947  6  2 Bc  kf    -     -        73677  100    0 
+JackHack  947597969  6  1 Bf  -     -     -        73577   25    0 
+JackHack  947597981  6  6 c   r     c     c        73552  350  537 9d Ks
+JackHack  947598021  7  6 c   f     -     -        73739  100    0 
+JackHack  947598047  7  5 c   k     k     f        73639   50    0 
+JackHack  947598069  7  4 f   -     -     -        73589    0    0 
+JackHack  947598086  7  3 f   -     -     -        73589    0    0 
+JackHack  947598122  7  2 Bk  kf    -     -        73589   50    0 
+JackHack  947598166  7  1 Br  k     k     k        73539  150  500 Ac Qd
+JackHack  947598195  7  7 c   c     c     k        73889  250  675 3h Jh
+JackHack  947598215  6  6 f   -     -     -        74314    0    0 
+JackHack  947598236  6  5 c   k     f     -        74314  100    0 
+JackHack  947598285  6  4 f   -     -     -        74214    0    0 
+JackHack  947598302  6  3 c   bc    k     k        74214  150  400 6s Js
+JackHack  947598329  6  2 Bc  kc    k     f        74464  150    0 
+JackHack  947598351  6  1 Bc  kf    -     -        74314  100    0 
+JackHack  947598359  6  6 c   k     f     -        74214  100    0 
+JackHack  947598374  6  5 f   -     -     -        74114    0    0 
+JackHack  947598384  6  4 c   kf    -     -        74114   50    0 
+JackHack  947598418  6  3 f   -     -     -        74064    0    0 
+JackHack  947598436  7  2 Bf  -     -     -        74064   50    0 
+JackHack  947598445  7  1 Bf  -     -     -        74014   25    0 
+JackHack  947598467  7  7 f   -     -     -        73989    0    0 
+JackHack  947598490  7  6 c   f     -     -        73989  100    0 
+JackHack  947598512  7  5 c   f     -     -        73889   50    0 
+JackHack  947598529  7  4 c   f     -     -        73839   50    0 
+JackHack  947598565  7  3 c   k     k     k        73789   50  175 5s Js
+JackHack  947598597  7  2 Bk  k     k     k        73914   50    0 8d 9c
+JackHack  947598623  7  1 Bf  -     -     -        73864   25    0 
+JackHack  947598654  6  6 f   -     -     -        73839    0    0 
+JackHack  947598667  6  5 c   f     -     -        73839  100    0 
+JackHack  947598685  6  4 f   -     -     -        73739    0    0 
+JackHack  947598730  7  4 c   b     -     -        73739  100  225 
+JackHack  947598757  7  3 cc  kf    -     -        73864  100    0 
+JackHack  947598775  7  2 Bf  -     -     -        73764   50    0 
+JackHack  947598796  7  1 Bc  kc    k     k        73714  150  400 5d 4c
+JackHack  947598821  7  7 f   -     -     -        73964    0    0 
+JackHack  947598833  7  6 c   f     -     -        73964   50    0 
+JackHack  947598860  7  5 c   c     f     -        73914  100    0 
+JackHack  947598887  7  4 f   -     -     -        73814    0    0 
+JackHack  947598910  8  3 cc  kf    -     -        73814  100    0 
+JackHack  947598950  8  2 Bf  -     -     -        73714   50    0 
+JackHack  947598986  8  1 Bc  kf    -     -        73664   50    0 
+JackHack  947599015  8  8 c   k     c     k        73614  200    0 8c Jh
+JackHack  947599042  8  7 c   k     f     -        73414   50    0 
+JackHack  947599064  8  6 cc  f     -     -        73364  100    0 
+JackHack  947599100  8  5 f   -     -     -        73264    0    0 
+JackHack  947599115  8  4 f   -     -     -        73264    0    0 
+JackHack  947599146  8  3 f   -     -     -        73264    0    0 
+JackHack  947599195  8  2 Bc  kc    kc    kc       73264  350 1125 8s Qd
+JackHack  947599250  8  1 Bc  kc    kc    k        74039  300  950 Qc Th
+JackHack  947599277  8  8 f   -     -     -        74689    0    0 
+JackHack  947599303  8  7 c   c     k     f        74689  150    0 
+JackHack  947599324  8  6 r   b     f     -        74539  150    0 
+JackHack  947599352  8  5 cc  k     f     -        74389  100    0 
+JackHack  947599379  8  4 cc  kc    c     bc       74289  450    0 Qs 8d
+JackHack  947599417  8  3 f   -     -     -        73839    0    0 
+JackHack  947599439  8  2 Br  k     c     f        73839  200    0 
+JackHack  947599472  8  1 Bf  -     -     -        73639   25    0 
+JackHack  947599500  8  8 c   c     k     f        73614  150    0 
+JackHack  947599530  8  7 f   -     -     -        73464    0    0 
+JackHack  947599553  8  6 f   -     -     -        73464    0    0 
+JackHack  947599587  9  5 cr  b     b     -        73464  300  850 
+JackHack  947599620  9  4 cc  kf    -     -        74014  100    0 
+JackHack  947599677  8  3 c   c     c     f        73914  200    0 
+JackHack  947599705  8  2 Bf  -     -     -        73714   50    0 
+JackHack  947599719  8  1 Bf  -     -     -        73664   25    0 
+JackHack  947599738  8  8 f   -     -     -        73639    0    0 
+JackHack  947599745  8  7 f   -     -     -        73639    0    0 
+JackHack  947599768  8  6 f   -     -     -        73639    0    0 
+JackHack  947599793  8  5 c   c     k     f        73639  200    0 
+JackHack  947599827  8  4 f   -     -     -        73439    0    0 
+JackHack  947599885  8  3 cc  f     -     -        73439  100    0 
+JackHack  947599926  8  2 Bc  kf    -     -        73339  100    0 
+JackHack  947599937  8  1 Bc  kf    -     -        73239  100    0 
+JackHack  947599970  8  8 c   f     -     -        73139   50    0 
+JackHack  947599997  8  3 Q   -     -     -        73089    0    0 
+JackHack  947643565  3  2 Bk  kf    -     -        75529   50    0 
+JackHack  947643585  3  1 Bf  -     -     -        75479   25    0 
+JackHack  947643589  3  3 c   c     c     f        75454  200    0 
+JackHack  947643616  3  2 B   -     -     -        75254   50   75 
+JackHack  947643620  3  1 Bf  -     -     -        75279   25    0 
+JackHack  947643626  3  3 f   -     -     -        75254    0    0 
+JackHack  947643631  3  2 B   -     -     -        75254   50   75 
+JackHack  947643635  3  1 Bc  k     b     -        75279  150  200 
+JackHack  947643678  3  3 f   -     -     -        75329    0    0 
+JackHack  947643700  3  2 Bc  c     c     k        75329  250  500 Kd Kc
+JackHack  947643721  3  1 Bf  -     -     -        75579   25    0 
+JackHack  947643729  3  3 c   k     k     k        75554   50  125 Ah 5s
+JackHack  947643745  3  2 B   -     -     -        75629   50   75 
+JackHack  947643756  3  1 Bf  -     -     -        75654   25    0 
+JackHack  947643762  3  3 cc  c     k     c        75629  250  525 Jc Th
+JackHack  947643793  3  2 Bc  c     r     b        75904  450  800 
+JackHack  947643824  3  1 Br  k     b     b        76254  350  750 Qc Qs
+JackHack  947643849  3  3 f   -     -     -        76654    0    0 
+JackHack  947643864  3  2 Bf  -     -     -        76654   50    0 
+JackHack  947643893  3  1 Bc  k     b     b        76604  250  500 Js Qd
+JackHack  947643920  4  4 f   -     -     -        76854    0    0 
+JackHack  947643934  4  3 f   -     -     -        76854    0    0 
+JackHack  947643951  4  2 Bk  k     b     -        76854  150  200 
+JackHack  947643986  4  1 Bf  -     -     -        76904   25    0 
+JackHack  947644008  4  4 r   b     -     -        76879  150  350 
+JackHack  947644031  4  3 c   b     -     -        77079  100  175 
+JackHack  947644045  4  2 Bc  f     -     -        77154  100    0 
+JackHack  947644056  4  1 Bc  kf    -     -        77054  100    0 
+JackHack  947644075  4  4 c   f     -     -        76954  100    0 
+JackHack  947644145  4  3 c   c     c     f        76854  200    0 
+JackHack  947644173  4  2 Bf  -     -     -        76654   50    0 
+JackHack  947644179  4  1 Bf  -     -     -        76604   25    0 
+JackHack  947644288  4  4 f   -     -     -        76579    0    0 
+JackHack  947644297  4  3 f   -     -     -        76579    0    0 
+JackHack  947644330  4  2 Bc  c     rr    r        76579  750 1650 2s 5s
+JackHack  947644373  4  1 Bc  k     b     -        77479  150  200 
+JackHack  947644400  4  4 c   k     k     b        77529  150  325 9c 6d
+JackHack  947644428  5  3 f   -     -     -        77704    0    0 
+JackHack  947644437  5  2 Br  kc    f     -        77704  200    0 
+JackHack  947644478  5  1 Br  k     b     -        77504  200  350 
+JackHack  947644505  5  5 c   c     c     k        77654  250  575 Jc Qc
+JackHack  947644534  5  4 r   c     c     c        77979  450    0 Qd Ah
+JackHack  947644570  5  3 f   -     -     -        77529    0    0 
+JackHack  947644609  5  2 Bk  b     b     kf       77529  200    0 
+JackHack  947644657  5  1 Bf  -     -     -        77319   25    0 
+JackHack  947644703  5  5 c   f     -     -        77294   50    0 
+JackHack  947644732  5  4 f   -     -     -        77234    0    0 
+JackHack  947644759  5  3 cc  f     -     -        77234  100    0 
+JackHack  947644814  5  2 Bc  f     -     -        77134  100    0 
+JackHack  947644828  5  1 Bc  kf    -     -        77034  100    0 
+JackHack  947644843  5  5 c   f     -     -        76934  100    0 
+JackHack  947644854  5  4 f   -     -     -        76834    0    0 
+JackHack  947644876  5  3 f   -     -     -        76834    0    0 
+JackHack  947644885  5  2 Bf  -     -     -        76834   50    0 
+JackHack  947644892  5  1 Bf  -     -     -        76784   25    0 
+JackHack  947644918  5  5 r   b     b     b        76759  350    0 Kc Kd
+JackHack  947644961  6  5 c   f     -     -        76409  100    0 
+JackHack  947644986  6  4 c   b     -     -        76309  100  275 
+JackHack  947645008  6  3 f   -     -     -        76484    0    0 
+JackHack  947645037  6  2 Bk  k     k     k        76484   50    0 2h Jd
+JackHack  947645073  6  1 Bc  b     bc    kf       76434  300    0 
+JackHack  947645114  6  6 c   c     c     f        76134  250    0 
+JackHack  947645147  6  5 c   f     -     -        75884   50    0 
+JackHack  947645167  6  4 f   -     -     -        75834    0    0 
+JackHack  947645193  6  3 f   -     -     -        75834    0    0 
+JackHack  947645226  6  2 Bf  -     -     -        75834   50    0 
+JackHack  947645254  6  1 Bc  kf    -     -        75784   50    0 
+JackHack  947645319  6  6 c   c     f     -        75734  100    0 
+JackHack  947645416  6  5 c   c     kf    -        75634  150    0 
+JackHack  947645452  6  4 c   f     -     -        75484   50    0 
+JackHack  947645483  6  3 f   -     -     -        75434    0    0 
+JackHack  947645505  6  2 Bk  kc    k     k        75434  100  250 6d Jc
+JackHack  947645549  6  1 Br  b     -     -        75584  150  400 
+JackHack  947645577  6  6 c   c     c     f        75834  300    0 
+JackHack  947645616  6  5 f   -     -     -        75534    0    0 
+JackHack  947645643  6  4 c   f     -     -        75534   50    0 
+JackHack  947645662  6  3 f   -     -     -        75484    0    0 
+JackHack  947645696  6  2 Bk  b     -     -        75484  100  200 
+JackHack  947645713  6  1 Br  bc    k     b        75584  300  750 
+JackHack  947645754  7  7 f   -     -     -        76034    0    0 
+JackHack  947645806  7  6 r   r     b     b        76034  400  950 Qd Qs
+JackHack  947645842  7  5 c   f     -     -        76584   50    0 
+JackHack  947645866  7  4 f   -     -     -        76534    0    0 
+JackHack  947645904  7  3 f   -     -     -        76534    0    0 
+JackHack  947645934  8  2 Bc  kf    -     -        76534  100    0 
+JackHack  947645966  8  1 Bf  -     -     -        76434   25    0 
+JackHack  947645996  8  8 f   -     -     -        76409    0    0 
+JackHack  947646031  8  7 f   -     -     -        76409    0    0 
+JackHack  947646042  7  6 f   -     -     -        76409    0    0 
+JackHack  947646058  7  5 c   cc    k     f        76409  200    0 
+JackHack  947646106  7  4 f   -     -     -        76209    0    0 
+JackHack  947646136  7  3 f   -     -     -        76209    0    0 
+JackHack  947646171  6  2 Bk  f     -     -        76209   50    0 
+JackHack  947646195  6  1 Bf  -     -     -        76159   25    0 
+JackHack  947646205  6  6 f   -     -     -        76134    0    0 
+JackHack  947646233  6  5 f   -     -     -        76134    0    0 
+JackHack  947646251  6  4 c   f     -     -        76134   50    0 
+JackHack  947646287  6  3 cc  c     c     f        76084  300    0 
+JackHack  947646341  6  2 Bf  -     -     -        75784   50    0 
+JackHack  947646352  7  1 Bc  kf    -     -        75734  150    0 
+JackHack  947646396  7  7 c   c     c     c        75584  350  775 Qs 9c
+JackHack  947646435  7  6 rc  c     c     c        76009  450  975 Jh Jc
+JackHack  947646460  5  4 c   k     f     -        76534   50    0 
+JackHack  947646491  5  3 cf  -     -     -        76484   50    0 
+JackHack  947646610  4  2 Bc  k     b     -        76434  200  400 
+JackHack  947646632  4  1 Bc  kf    -     -        76634  100    0 
+JackHack  947646647  4  4 c   f     -     -        76534   50    0 
+JackHack  947646667  4  3 c   k     f     -        76484   50    0 
+JackHack  947646693  4  2 Bc  c     k     b        76434  250  400 
+JackHack  947646714  4  1 Bc  k     b     k        76584  150    0 Qc 8s
+JackHack  947646737  4  4 c   f     -     -        76434  100    0 
+JackHack  947646752  4  3 c   k     f     -        76334   50    0 
+JackHack  947646767  4  2 Bc  f     -     -        76284  100    0 
+JackHack  947646777  4  1 Br  kc    kf    -        76184  250    0 
+JackHack  947646822  4  4 f   -     -     -        75934    0    0 
+JackHack  947646832  4  3 c   r     -     -        75934  150  300 
+JackHack  947646854  4  2 Bc  b     kc    kf       76084  250    0 
+JackHack  947646887  4  1 Bc  kf    -     -        75834  100    0 
+JackHack  947646903  4  4 f   -     -     -        75734    0    0 
+JackHack  947646928  4  3 cc  f     -     -        75734  100    0 
+JackHack  947646956  4  2 Bc  kc    b     b        75634  350  725 7d 9c
+JackHack  947646994  4  1 Bc  br    b     b        76009  450    0 Td Js
+JackHack  947647031  4  4 c   f     -     -        75559  100    0 
+JackHack  947647046  4  3 f   -     -     -        75459    0    0 
+JackHack  947647061  4  2 Bf  -     -     -        75459   50    0 
+JackHack  947647071  4  1 Bc  kf    -     -        75409  100    0 
+JackHack  947647083  4  4 f   -     -     -        75309    0    0 
+JackHack  947647129  4  3 c   k     c     b        75309  250  700 8c 8s
+JackHack  947647168  4  2 Bk  c     k     k        75759  100    0 Th Qs
+JackHack  947647192  4  1 Bf  -     -     -        75659   25    0 
+JackHack  947647200  4  4 f   -     -     -        75634    0    0 
+JackHack  947647209  4  3 cc  k     r     -        75634  300  600 
+JackHack  947647236  4  2 Bf  -     -     -        75934   50    0 
+JackHack  947647258  4  1 Bcc kc    kcc   kf       75884  450    0 
+JackHack  947647299  4  4 f   -     -     -        75434    0    0 
+JackHack  947647314  4  3 f   -     -     -        75434    0    0 
+JackHack  947647323  4  2 Bk  k     b     -        75434  150  250 
+JackHack  947647348  4  1 BQ  -     -     -        75534   25    0 
+JackHack  947766004  5  3 f   -     -     -        86007    0    0 
+JackHack  947766023  5  2 Bk  c     cf    -        86007  200    0 
+JackHack  947766060  5  1 Bc  kf    -     -        85807  100    0 
+JackHack  947766074  5  5 c   k     b     -        85707  150  250 
+JackHack  947766091  5  4 cc  kc    kf    -        85807  150    0 
+JackHack  947766122  5  3 f   -     -     -        85657    0    0 
+JackHack  947766150  5  2 Bc  kf    -     -        85657  100    0 
+JackHack  947766164  5  1 Bc  kc    kr    b        85557  400 1000 7h Ah
+JackHack  947766196  5  5 f   -     -     -        86157    0    0 
+JackHack  947766211  5  4 c   k     r     k        86157  250  750 Td Ad
+JackHack  947766235  5  3 cc  cc    c     k        86657  350 1050 6h 7s
+JackHack  947766283  5  2 Bc  kf    -     -        87357  100    0 
+JackHack  947766305  5  1 Bf  -     -     -        87257   25    0 
+JackHack  947766329  5  5 f   -     -     -        87232    0    0 
+JackHack  947766353  5  4 cc  b     b     b        87232  350  800 Qs 8s
+JackHack  947766382  5  3 f   -     -     -        87682    0    0 
+JackHack  947766413  5  2 Br  k     b     -        87682  200  400 
+JackHack  947766457  5  1 Bcc kc    k     b        87882  250  500 7s 9s
+JackHack  947766492  5  5 f   -     -     -        88132    0    0 
+JackHack  947766518  5  4 cc  f     -     -        88132  100    0 
+JackHack  947766551  5  3 cc  c     k     k        88032  150    0 7d 3d
+JackHack  947766589  5  2 Bf  -     -     -        87882   50    0 
+JackHack  947766606  5  1 Bc  kc    k     kf       87832  100    0 
+JackHack  947766642  5  5 cc  f     -     -        87732  100    0 
+JackHack  947766672  5  4 cc  kc    k     c        87632  250    0 As Td
+JackHack  947766703  5  3 cc  f     -     -        87382  100    0 
+JackHack  947766734  5  2 Bf  -     -     -        87282   50    0 
+JackHack  947766774  5  1 Bc  kc    k     k        87232  100    0 Ks Qh
+JackHack  947766796  5  5 f   -     -     -        87132    0    0 
+JackHack  947766819  5  4 c   f     -     -        87132   50    0 
+JackHack  947766854  5  3 c   k     b     k        87082  150  525 Tc 8c
+JackHack  947766882  6  3 c   brc   kc    kc       87457  450 1050 Ac As
+JackHack  947766917  6  2 Bk  kf    -     -        88057   50    0 
+JackHack  947766952  6  1 Bf  -     -     -        88007   25    0 
+JackHack  947766979  6  6 f   -     -     -        87982    0    0 
+JackHack  947767008  5  4 cc  k     bf    -        87982  200    0 
+JackHack  947767035  5  3 f   -     -     -        87782    0    0 
+JackHack  947767050  5  2 Bf  -     -     -        87782   50    0 
+JackHack  947767070  5  1 Bf  -     -     -        87732   25    0 
+JackHack  947767092  5  5 cc  f     -     -        87707  100    0 
+JackHack  947767115  5  4 c   kf    -     -        87607   50    0 
+JackHack  947767139  5  3 ccc kc    k     f        87557  250    0 
+JackHack  947767174  5  2 Bf  -     -     -        87307   50    0 
+JackHack  947767207  5  1 Bf  -     -     -        87257   25    0 
+JackHack  947767227  5  5 cc  bc    c     c        87232  450 1200 5d 5s
+JackHack  947767256  5  4 f   -     -     -        87982    0    0 
+JackHack  947767277  5  3 f   -     -     -        87982    0    0 
+JackHack  947767291  5  2 Bf  -     -     -        87982   50    0 
+JackHack  947767310  5  1 Bf  -     -     -        87932   25    0 
+JackHack  947767334  5  5 f   -     -     -        87907    0    0 
+JackHack  947767341  5  4 cc  k     k     f        87907  100    0 
+JackHack  947767362  5  3 f   -     -     -        87807    0    0 
+JackHack  947767390  6  2 Bf  -     -     -        87807   50    0 
+JackHack  947767420  6  1 Bc  kf    -     -        87757   50    0 
+JackHack  947767441  6  6 cc  c     c     c        87707  350  750 7s 5c
+JackHack  947767460  6  5 cc  cc    br    c        88107  750    0 Jd 9s
+JackHack  947767501  5  4 f   -     -     -        87357    0    0 
+JackHack  947767526  5  3 cc  kf    -     -        87357  100    0 
+JackHack  947767552  5  2 B   -     -     -        87257   50   75 
+JackHack  947767560  5  1 Bc  kc    kc    b        87282  350  750 Ad 7c
+JackHack  947767580  5  5 c   c     r     c        87682  400  825 Tc Th
+JackHack  947767603  5  4 c   c     f     -        88107  100    0 
+JackHack  947767622  5  3 f   -     -     -        88007    0    0 
+JackHack  947767661  5  2 Bk  kf    -     -        88007   50    0 
+JackHack  947767676  5  1 Bf  -     -     -        87957   25    0 
+JackHack  947767711  5  5 c   rc    c     f        87932  350    0 
+JackHack  947767735  5  4 c   k     b     k        87582  150  400 6s 8d
+JackHack  947767773  6  3 c   kf    -     -        87832   50    0 
+JackHack  947767821  6  2 Br  b     b     b        87782  350  800 Kd Td
+JackHack  947767853  6  1 Bc  k     k     b        88232  200  450 6h 7d
+JackHack  947767876  6  6 f   -     -     -        88482    0    0 
+JackHack  947767909  6  5 f   -     -     -        88482    0    0 
+JackHack  947767932  6  4 f   -     -     -        88482    0    0 
+JackHack  947767947  6  3 f   -     -     -        88482    0    0 
+JackHack  947767957  6  2 Bc  k     b     b        88482  300    0 5h 2h
+JackHack  947767993  5  1 Bc  k     k     kf       88182   50    0 
+JackHack  947768016  5  5 f   -     -     -        88132    0    0 
+JackHack  947768022  5  4 f   -     -     -        88132    0    0 
+JackHack  947768045  5  3 f   -     -     -        88132    0    0 
+JackHack  947768073  5  2 Bk  f     -     -        88132   50    0 
+JackHack  947768091  5  1 Bc  k     b     -        88082  150  300 
+JackHack  947768108  5  5 cc  c     c     f        88232  250    0 
+JackHack  947768132  5  4 cc  f     -     -        87982  100    0 
+JackHack  947768157  5  3 f   -     -     -        87882    0    0 
+JackHack  947768180  5  2 Bk  k     kc    bc       87882  350  725 Qs 9s
+JackHack  947768202  6  1 Bc  k     b     b        88257  300  650 
+JackHack  947768228  6  6 f   -     -     -        88607    0    0 
+JackHack  947768246  6  5 f   -     -     -        88607    0    0 
+JackHack  947768272  6  4 cc  c     f     -        88607  150    0 
+JackHack  947768305  6  3 f   -     -     -        88457    0    0 
+JackHack  947768314  6  2 Bc  kf    -     -        88457  100    0 
+JackHack  947768365  6  1 Bc  k     k     b        88357  200  450 9c As
+JackHack  947768386  5  5 f   -     -     -        88607    0    0 
+JackHack  947768403  5  5 f   -     -     -        88607    0    0 
+JackHack  947768434  6  5 f   -     -     -        88607    0    0 
+JackHack  947768455  5  3 f   -     -     -        88607    0    0 
+JackHack  947768474  6  2 Bc  kc    kc    kc       88607  350  588 Ad 6s
+JackHack  947768510  7  1 Bf  -     -     -        88845   25    0 
+JackHack  947768518  7  7 cc  k     k     f        88820  100    0 
+JackHack  947768552  7  6 c   f     -     -        88720   50    0 
+JackHack  947768586  7  5 f   -     -     -        88670    0    0 
+JackHack  947768607  7  4 c   cc    f     -        88670  150    0 
+JackHack  947768648  7  3 f   -     -     -        88520    0    0 
+JackHack  947768684  7  2 Bk  k     k     b        88520  150  425 As 4h
+JackHack  947768716  7  1 Bf  -     -     -        88795   25    0 
+JackHack  947768774  7  7 c   f     -     -        88770   50    0 
+JackHack  947768800  7  6 f   -     -     -        88720    0    0 
+JackHack  947768838  7  5 c   f     -     -        88720  100    0 
+JackHack  947768854  7  4 rr  bc    kc    kf       88620  400    0 
+JackHack  947768882  6  2 Bc  kf    -     -        88220  100    0 
+JackHack  947768908  6  1 Br  kf    -     -        88120  100    0 
+JackHack  947768935  6  6 f   -     -     -        88020    0    0 
+JackHack  947768967  6  5 cc  c     c     f        88020  250    0 
+JackHack  947769000  6  4 f   -     -     -        87770    0    0 
+JackHack  947769014  6  3 f   -     -     -        87770    0    0 
+JackHack  947769043  6  2 Bf  -     -     -        87770   50    0 
+JackHack  947769052  6  1 Bc  kc    k     k        87720  200    0 Th Qs
+JackHack  947769079  6  6 f   -     -     -        87520    0    0 
+JackHack  947769087  6  5 f   -     -     -        87520    0    0 
+JackHack  947769131  6  4 f   -     -     -        87520    0    0 
+JackHack  947769138  6  3 c   kf    -     -        87520   50    0 
+JackHack  947769151  5  2 Bf  -     -     -        87470   50    0 
+JackHack  947769170  5  1 Bf  -     -     -        87420   25    0 
+JackHack  947769182  5  5 r   k     c     r        87395  400  875 8d 8h
+JackHack  947769210  5  4 c   k     b     -        87870  150  225 
+JackHack  947769232  5  3 c   b     bc    kc       87945  400    0 Kd Ks
+JackHack  947769263  5  2 Bf  -     -     -        87545   50    0 
+JackHack  947769279  5  1 Bc  kc    kc    kf       87495  250    0 
+JackHack  947769323  5  5 rc  cc    f     -        87245  350    0 
+JackHack  947769361  5  4 c   r     k     b        86895  250  750 5s Qs
+JackHack  947769394  5  3 r   b     b     -        87395  250  525 
+JackHack  947769419  6  2 Bk  b     kf    -        87670  100    0 
+JackHack  947769463  6  1 Bf  -     -     -        87570   25    0 
+JackHack  947769486  6  6 r   b     rc    k        87545  450    0 Qd As
+JackHack  947769518  5  4 f   -     -     -        87095    0    0 
+JackHack  947769544  5  3 cc  kc    kf    -        87095  150    0 
+JackHack  947769575  5  2 B   -     -     -        86945   50   75 
+JackHack  947769585  5  1 Bf  -     -     -        86970   25    0 
+JackHack  947769589  5  5 c   f     -     -        86945   50    0 
+JackHack  947769607  5  4 f   -     -     -        86895    0    0 
+JackHack  947769613  5  3 f   -     -     -        86895    0    0 
+JackHack  947769638  5  2 Bk  k     b     b        86895  250  425 
+JackHack  947769675  5  1 Bc  kc    kf    -        87070  100    0 
+JackHack  947769705  5  5 c   k     f     -        86970   50    0 
+JackHack  947769731  5  4 c   k     b     -        86920  150  225 
+JackHack  947769750  5  3 cc  kf    -     -        86995  100    0 
+JackHack  947769774  5  2 B   -     -     -        86895   50   75 
+JackHack  947769780  5  1 Bc  kf    -     -        86920   50    0 
+JackHack  947769798  5  5 f   -     -     -        86870    0    0 
+JackHack  947769828  5  4 f   -     -     -        86870    0    0 
+JackHack  947769865  5  3 f   -     -     -        86870    0    0 
+JackHack  947769893  5  2 Bcc k     k     k        86870  200    0 Td 2d
+JackHack  947769931  5  1 Bc  kc    kf    -        86670  100    0 
+JackHack  947769964  5  5 c   f     -     -        86570   50    0 
+JackHack  947769985  5  4 cc  c     c     c        86520  400    0 Qd 8s
+JackHack  947770012  5  3 f   -     -     -        86120    0    0 
+JackHack  947770023  5  2 Bc  k     k     b        86120  200  425 
+JackHack  947770057  5  1 Bc  kc    kf    -        86345  100    0 
+JackHack  947770079  5  5 f   -     -     -        86245    0    0 
+JackHack  947770123  5  4 c   k     c     f        86245  150    0 
+JackHack  947770153  5  3 c   f     -     -        86095   50    0 
+JackHack  947770188  5  2 Bk  k     k     k        86045   50    0 Kh 8h
+JackHack  947770216  5  1 Bc  k     k     k        85995   50    0 7s 8h
+JackHack  947770245  5  5 f   -     -     -        85945    0    0 
+JackHack  947770270  5  4 r   b     b     -        85945  250  450 
+JackHack  947770297  5  3 f   -     -     -        86145    0    0 
+JackHack  947770309  5  2 Bk  kf    -     -        86145   50    0 
+JackHack  947770334  5  1 Bf  -     -     -        86095   25    0 
+JackHack  947770342  5  5 rc  b     c     k        86070  350 1200 Tc Ts
+JackHack  947770393  5  4 f   -     -     -        86920    0    0 
+JackHack  947770421  4  2 Bk  kf    -     -        86920   50    0 
+JackHack  947770442  4  1 Brc kc    kc    k        86870  300    0 6s 6d
+JackHack  947770467  4  4 r   b     b     -        86570  250  550 
+JackHack  947770493  4  3 f   -     -     -        86870    0    0 
+JackHack  947770519  4  2 Bc  k     kf    -        86870  100    0 
+JackHack  947770540  4  1 Bf  -     -     -        86770   25    0 
+JackHack  947770546  4  4 c   f     -     -        86745   50    0 
+JackHack  947770561  4  3 c   f     -     -        86695   50    0 
+JackHack  947770570  4  2 Bf  -     -     -        86645   50    0 
+JackHack  947770582  4  1 Bf  -     -     -        86595   25    0 
+JackHack  947770590  4  4 c   c     c     c        86570  350    0 Jc Qs
+JackHack  947770612  4  3 f   -     -     -        86220    0    0 
+JackHack  947770635  4  2 Bf  -     -     -        86220   50    0 
+JackHack  947770645  3  1 Bf  -     -     -        86170   25    0 
+JackHack  947770649  3  3 f   -     -     -        86145    0    0 
+JackHack  947770663  3  2 Bc  cc    c     c        86145  500    0 9h Ad
+JackHack  947770684  3  1 Bc  k     b     b        85645  250  400 
+JackHack  947770708  3  3 c   c     c     f        85795  200    0 
+JackHack  947770725  3  2 Bk  k     kf    -        85595   50    0 
+JackHack  947770747  3  1 Bc  kf    -     -        85545  100    0 
+JackHack  947770764  3  3 cc  c     c     c        85445  350    0 Js Kc
+JackHack  947770795  3  2 Br  -     -     -        85095  100  150 
+JackHack  947770804  3  1 Br  kc    k     b        85145  250  550 
+JackHack  947770834  3  3 f   -     -     -        85445    0    0 
+JackHack  947770839  3  2 Bc  kf    -     -        85445  100    0 
+JackHack  947770849  3  1 Bf  -     -     -        85345   25    0 
+JackHack  947770852  3  3 cc  f     -     -        85320  100    0 
+JackHack  947770869  3  2 Bc  kf    -     -        85220  100    0 
+JackHack  947770884  3  1 Br  kc    kc    kc       85120  400    0 Ah Kc
+JackHack  947770908  3  3 r   r     k     c        84720  300  650 Ah Tc
+JackHack  947770930  3  2 Brc c     k     r        85070  400  800 8c 8s
+JackHack  947770959  3  1 Br  b     -     -        85470  150  250 
+JackHack  947770976  3  3 c   f     -     -        85570   50    0 
+JackHack  947770993  3  2 Bf  -     -     -        85520   50    0 
+JackHack  947771010  3  1 Bf  -     -     -        85470   25    0 
+JackHack  947771017  3  3 cc  f     -     -        85445  100    0 
+JackHack  947771028  3  2 Bf  -     -     -        85345   50    0 
+JackHack  947771034  3  1 Bc  kc    k     b        85295  200  400 7s Ks
+JackHack  947771054  3  3 c   b     -     -        85495  100  200 
+JackHack  947771070  3  2 B   -     -     -        85595   50   75 
+JackHack  947771073  3  1 Bf  -     -     -        85620   25    0 
+JackHack  947771082  3  3 c   c     c     c        85595  300    0 Jc Qs
+JackHack  947771107  3  2 B   -     -     -        85295   50   75 
+JackHack  947771114  3  1 Bf  -     -     -        85320   25    0 
+JackHack  947771117  3  3 c   r     c     f        85295  250    0 
+JackHack  947771139  3  2 Br  b     b     -        85045  250  500 
+JackHack  947771166  3  1 Br  -     -     -        85295  100  150 
+JackHack  947771171  3  3 c   k     k     k        85345   50  125 9s As
+JackHack  947771195  3  2 Bk  kf    -     -        85420   50    0 
+JackHack  947771219  3  1 Bc  k     k     b        85370  150  200 
+JackHack  947771246  3  3 f   -     -     -        85420    0    0 
+JackHack  947771252  3  2 Bk  b     -     -        85420  100  150 
+JackHack  947771264  3  1 Bf  -     -     -        85470   25    0 
+JackHack  947771271  3  3 f   -     -     -        85445    0    0 
+JackHack  947771276  3  2 Bk  f     -     -        85445   50    0 
+JackHack  947771283  3  1 Bc  kc    kc    k        85395  200  500 9s Ah
+JackHack  947771317  3  3 f   -     -     -        85695    0    0 
+JackHack  947771336  3  2 Bk  k     k     f        85695   50    0 
+JackHack  947771351  3  1 Bc  k     bc    kf       85645  250    0 
+JackHack  947771375  3  3 c   c     r     b        85395  400 1100 Kh Qc
+JackHack  947771405  3  2 Bc  f     -     -        86095  100    0 
+JackHack  947771428  3  1 Bc  kf    -     -        85995   50    0 
+JackHack  947771438  3  3 f   -     -     -        85945    0    0 
+JackHack  947771441  3  2 Bc  c     cf    -        85945  250    0 
+JackHack  947771464  3  1 Bf  -     -     -        85695   25    0 
+JackHack  947771471  3  3 c   k     c     k        85670  150    0 6d Qd
+JackHack  947771488  3  2 Bk  c     f     -        85520  100    0 
+JackHack  947771501  3  1 Bc  k     b     -        85420  150  250 
+JackHack  947771517  3  3 f   -     -     -        85520    0    0 
+JackHack  947771532  3  2 Bc  f     -     -        85520  100    0 
+JackHack  947771553  3  1 Bf  -     -     -        85420   25    0 
+JackHack  947771562  3  3 f   -     -     -        85395    0    0 
+JackHack  947771573  3  2 Bf  -     -     -        85395   50    0 
+JackHack  947771579  3  1 Bf  -     -     -        85345   25    0 
+JackHack  947771595  3  3 cc  f     -     -        85320  100    0 
+JackHack  947771604  3  2 Bc  k     b     bf       85220  300    0 
+JackHack  947771628  3  1 Bf  -     -     -        84920   25    0 
+JackHack  947771635  3  3 f   -     -     -        84895    0    0 
+JackHack  947771653  3  2 Bc  k     kf    -        84895  100    0 
+JackHack  947771670  3  1 Bf  -     -     -        84795   25    0 
+JackHack  947771675  3  3 c   k     b     -        84770  150  250 
+JackHack  947771719  3  2 Bc  c     k     k        84870  150  300 9h Ah
+JackHack  947771747  3  1 Bc  k     kc    kf       85020  150    0 
+JackHack  947771790  3  3 f   -     -     -        84870    0    0 
+JackHack  947771805  3  2 Bc  kc    kc    kc       84870  350  725 2h 2d
+JackHack  947771829  3  1 Bcc kc    kc    kc       85245  350  700 Qh 8d
+JackHack  947771863  3  3 c   k     f     -        85595   50    0 
+JackHack  947771893  3  2 Bk  f     -     -        85545   50    0 
+JackHack  947771907  3  1 Br  -     -     -        85495  100  150 
+JackHack  947771912  3  3 f   -     -     -        85545    0    0 
+JackHack  947771916  3  2 Bk  k     f     -        85545   50    0 
+JackHack  947771933  3  1 Bc  k     k     k        85495   50    0 8s 7c
+JackHack  947771948  3  3 f   -     -     -        85445    0    0 
+JackHack  947771954  4  2 Bf  -     -     -        85445   50    0 
+JackHack  947771961  4  1 Bf  -     -     -        85395   25    0 
+JackHack  947771965  4  4 r   -     -     -        85370  100  175 
+JackHack  947771971  4  3 f   -     -     -        85445    0    0 
+JackHack  947771996  4  2 Bc  k     b     b        85445  300  525 
+JackHack  947772016  4  1 Bc  kc    kc    kf       85670  200    0 
+JackHack  947772063  4  4 c   r     k     b        85470  250  525 8d As
+JackHack  947772080  4  3 r   k     b     -        85745  200  325 
+JackHack  947772098  4  2 Bc  kf    -     -        85870  100    0 
+JackHack  947772109  4  1 Bc  kc    kc    kc       85770  300  600 2s 6s
+JackHack  947772134  4  4 cc  f     -     -        86070  100    0 
+JackHack  947772165  4  3 c   f     -     -        85970   50    0 
+JackHack  947772184  4  2 Bk  c     cf    -        85920  200    0 
+JackHack  947772266  4  1 Bf  -     -     -        85720   25    0 
+JackHack  947772289  4  4 c   k     f     -        85695   50    0 
+JackHack  947772319  4  3 r   -     -     -        85645  100  175 
+JackHack  947772326  4  2 Br  c     c     f        85720  250    0 
+JackHack  947772343  4  1 Bc  kc    kr    b        85470  400  750 
+JackHack  947772377  4  4 f   -     -     -        85820    0    0 
+JackHack  947772397  4  3 f   -     -     -        85820    0    0 
+JackHack  947772403  4  2 Bk  k     b     -        85820  150  200 
+JackHack  947772446  4  1 Bc  kf    -     -        85870  100    0 
+JackHack  947772467  4  4 f   -     -     -        85770    0    0 
+JackHack  947772497  4  3 cc  cc    b     kc       85770  400    0 Ks Jh
+JackHack  947772548  4  2 Bf  -     -     -        85370   50    0 
+JackHack  947772567  4  1 Bc  kf    -     -        85320  100    0 
+JackHack  947772634  4  4 f   -     -     -        85220    0    0 
+JackHack  947772641  4  3 f   -     -     -        85220    0    0 
+JackHack  947772661  4  2 Bc  kc    kf    -        85220  150    0 
+JackHack  947772691  4  1 Bc  kf    -     -        85070   50    0 
+JackHack  947772705  4  4 f   -     -     -        85020    0    0 
+JackHack  947772722  4  3 c   b     -     -        85020  100  175 
+JackHack  947772739  4  2 B   -     -     -        85095   50   75 
+JackHack  947772744  4  1 Bcc kc    kc    k        85120  250    0 7c Ad
+JackHack  947772763  4  4 c   k     b     -        84870  150  250 
+JackHack  947772794  4  3 cc  f     -     -        84970  100    0 
+JackHack  947772807  4  2 Bf  -     -     -        84870   50    0 
+JackHack  947772843  4  1 Bf  -     -     -        84820   25    0 
+JackHack  947772850  4  4 f   -     -     -        84795    0    0 
+JackHack  947772866  4  3 f   -     -     -        84795    0    0 
+JackHack  947772904  4  2 Bk  kc    kc    kf       84795  200    0 
+JackHack  947772953  4  1 Bf  -     -     -        84595   25    0 
+JackHack  947772968  4  4 r   r     bc    c        84570  500    0 Ah As
+JackHack  947773009  4  3 f   -     -     -        84070    0    0 
+JackHack  947773019  4  2 Bc  f     -     -        84070  100    0 
+JackHack  947773038  4  1 Bf  -     -     -        83970   25    0 
+JackHack  947773047  4  4 c   c     k     b        83945  200  325 
+JackHack  947773084  4  3 c   k     c     k        84070  250  750 8d 6c
+JackHack  947773125  4  2 Bc  kc    krr   b        84570  650 1325 4s Qs
+JackHack  947773168  4  1 Bf  -     -     -        85245   25    0 
+JackHack  947773181  3  3 f   -     -     -        85220    0    0 
+JackHack  947773185  3  3 f   -     -     -        85220    0    0 
+JackHack  947773193  3  2 B   -     -     -        85220   50   75 
+JackHack  947773198  3  1 Bf  -     -     -        85245   25    0 
+JackHack  947773206  3  3 c   k     b     -        85220  150  225 
+JackHack  947773218  3  2 B   -     -     -        85295   50   75 
+JackHack  947773223  3  1 Bc  kc    kr    b        85320  450  950 8c 9c
+JackHack  947773254  3  3 cc  c     c     c        85820  350    0 5d 3d
+JackHack  947773301  3  2 Bf  -     -     -        85470   50    0 
+JackHack  947773317  3  1 Bf  -     -     -        85420   25    0 
+JackHack  947773321  3  3 f   -     -     -        85395    0    0 
+JackHack  947773330  3  2 Bk  k     k     b        85395  150  225 
+JackHack  947773348  3  1 Bf  -     -     -        85470   25    0 
+JackHack  947773351  3  3 cc  c     c     f        85445  250    0 
+JackHack  947773368  3  2 Bk  f     -     -        85195   50    0 
+JackHack  947773381  3  1 Bc  k     kc    kc       85145  250  500 4c 8c
+JackHack  947773401  3  3 f   -     -     -        85395    0    0 
+JackHack  947773418  3  2 Bk  k     b     b        85395  250  525 8h 3c
+JackHack  947773442  3  1 Bf  -     -     -        85670   25    0 
+JackHack  947773447  3  3 f   -     -     -        85645    0    0 
+JackHack  947773449  3  2 Bk  f     -     -        85645   50    0 
+JackHack  947773464  3  1 Bc  k     k     br       85595  350    0 3h 3c
+JackHack  947773489  3  3 fQ  -     -     -        85245    0    0 
+JackHack  947811773  2  2 B   -     -     -        84895   50   75 
+JackHack  947811783  2  1 Bf  -     -     -        84920   25    0 
+JackHack  947811789  2  2 Bf  -     -     -        84895   50    0 
+JackHack  947811793  2  1 Bf  -     -     -        84845   25    0 
+JackHack  947811797  2  2 B   -     -     -        84820   50   75 
+JackHack  947811803  2  1 Bcc kf    -     -        84845  100    0 
+JackHack  947811875  2  2 B   -     -     -        84745   50   75 
+JackHack  947811877  2  1 Bc  Q     -     -        84770   50    0 
+JackHack  947827662  3  2 Bk  f     -     -        82763   50    0 
+JackHack  947827673  3  1 Bc  k     b     -        82713  150  250 
+JackHack  947827691  3  3 c   k     k     k        82813   50  125 7d Qd
+JackHack  947827709  4  2 Bc  k     b     -        82888  200  325 
+JackHack  947827732  4  1 Bf  -     -     -        83013   25    0 
+JackHack  947827735  4  4 f   -     -     -        82988    0    0 
+JackHack  947827763  4  3 cc  c     rc    b        82988  550 1150 4s 4d
+JackHack  947827790  4  2 Bf  -     -     -        83588   50    0 
+JackHack  947827797  4  1 Bf  -     -     -        83538   25    0 
+JackHack  947827819  4  4 cf  -     -     -        83513   50    0 
+JackHack  947827848  4  3 f   -     -     -        83463    0    0 
+JackHack  947827854  4  2 Bc  c     k     f        83463  150    0 
+JackHack  947827878  4  1 Bc  kc    kc    b        83313  300  650 3c 4c
+JackHack  947827903  4  4 c   k     c     c        83663  250    0 7s Ts
+JackHack  947827928  4  3 f   -     -     -        83413    0    0 
+JackHack  947827943  4  2 Bc  kc    k     kf       83413  200    0 
+JackHack  947827969  4  1 Br  b     -     -        83213  150  250 
+JackHack  947827979  4  4 c   c     c     k        83313  250    0 6d 4d
+JackHack  947828000  4  3 cc  kf    -     -        83063  100    0 
+JackHack  947828034  4  2 Bc  k     b     -        82963  200  300 
+JackHack  947828055  4  1 Bc  k     k     k        83063   50    0 Ks 9s
+JackHack  947828071  4  4 cc  f     -     -        83013  100    0 
+JackHack  947828085  4  3 c   f     -     -        82913   50    0 
+JackHack  947828096  4  2 Bc  kc    k     k        82863  150  325 Kd 3d
+JackHack  947828114  4  1 Bf  -     -     -        83038   25    0 
+JackHack  947828135  4  4 c   k     k     k        83013   50  125 Ad Ts
+JackHack  947828155  4  3 cc  kf    -     -        83088  100    0 
+JackHack  947828176  4  2 Bf  -     -     -        82988   50    0 
+JackHack  947828204  4  1 Bf  -     -     -        82938   25    0 
+JackHack  947828224  4  4 f   -     -     -        82913    0    0 
+JackHack  947828230  4  3 f   -     -     -        82913    0    0 
+JackHack  947828245  4  2 Bf  -     -     -        82913   50    0 
+JackHack  947828259  4  1 Bf  -     -     -        82863   25    0 
+JackHack  947828278  4  4 f   -     -     -        82838    0    0 
+JackHack  947828291  4  3 f   -     -     -        82838    0    0 
+JackHack  947828303  4  2 Bk  f     -     -        82838   50    0 
+JackHack  947828312  3  1 Bf  -     -     -        82788   25    0 
+JackHack  947828317  3  3 c   k     b     -        82763  150  225 
+JackHack  947828327  3  2 Bk  kf    -     -        82838   50    0 
+JackHack  947828342  3  1 Bc  k     b     -        82788  150  200 
+JackHack  947828352  3  3 f   -     -     -        82838    0    0 
+JackHack  947828365  4  2 Bf  -     -     -        82838   50    0 
+JackHack  947828391  4  1 Bc  k     k     kf       82788   50    0 
+JackHack  947828414  4  4 cc  k     b     -        82738  200  325 
+JackHack  947828428  4  3 cc  f     -     -        82863  100    0 
+JackHack  947828446  4  2 Bc  c     f     -        82763  150    0 
+JackHack  947828457  4  1 Bf  -     -     -        82613   25    0 
+JackHack  947828483  4  4 f   -     -     -        82588    0    0 
+JackHack  947828490  4  3 f   -     -     -        82588    0    0 
+JackHack  947828500  4  2 Bk  kf    -     -        82588   50    0 
+JackHack  947828512  4  1 Bf  -     -     -        82538   25    0 
+JackHack  947828530  4  4 Q   -     -     -        82513    0    0 
+JackHack  947926728  2  1 Bf  -     -     -       106426   25    0 
+JackHack  947926732  2  2 B   -     -     -       106401   50   75 
+JackHack  947926734  2  1 Bcc kc    krc   kc      106426  550    0 6s 4s
+JackHack  947926759  3  3 f   -     -     -       105876    0    0 
+JackHack  947926768  3  2 Bc  f     -     -       105876  100    0 
+JackHack  947926783  4  1 Bf  -     -     -       105776   25    0 
+JackHack  947926815  4  4 f   -     -     -       105751    0    0 
+JackHack  947926840  4  3 f   -     -     -       105751    0    0 
+JackHack  947926863  4  2 Bf  -     -     -       105751   50    0 
+JackHack  947926868  4  1 Bc  kc    kf    -       105701  150    0 
+JackHack  947926886  4  4 f   -     -     -       105551    0    0 
+JackHack  947926898  4  3 cc  c     k     k       105551  150    0 4c 6c
+JackHack  947926919  4  2 Bf  -     -     -       105401   50    0 
+JackHack  947926946  4  1 Bf  -     -     -       105351   25    0 
+JackHack  947926964  4  4 cc  f     -     -       105326  100    0 
+JackHack  947926988  4  3 cc  f     -     -       105226  100    0 
+JackHack  947927009  4  2 Bf  -     -     -       105126   50    0 
+JackHack  947927017  4  1 Bf  -     -     -       105076   25    0 
+JackHack  947927036  4  4 c   c     b     -       105051  200  350 
+JackHack  947927055  4  3 f   -     -     -       105201    0    0 
+JackHack  947927072  4  2 Bc  c     b     -       105201  250  400 
+JackHack  947927087  4  1 Bf  -     -     -       105351   25    0 
+JackHack  947927103  4  4 f   -     -     -       105326    0    0 
+JackHack  947927122  4  3 c   k     k     f       105326   50    0 
+JackHack  947927135  4  2 Bf  -     -     -       105276   50    0 
+JackHack  947927140  4  1 Bf  -     -     -       105226   25    0 
+JackHack  947927155  4  4 f   -     -     -       105201    0    0 
+JackHack  947927158  4  3 f   -     -     -       105201    0    0 
+JackHack  947927166  4  2 B   -     -     -       105201   50   75 
+JackHack  947927169  4  1 Bc  b     -     -       105226  100  150 
+JackHack  947927177  4  4 f   -     -     -       105276    0    0 
+JackHack  947927182  4  3 c   k     f     -       105276   50    0 
+JackHack  947927204  4  2 Bc  f     -     -       105226  100    0 
+JackHack  947927213  3  1 Br  bc    kc    k       105126  350  950 Th Ts
+JackHack  947927237  3  3 f   -     -     -       105726    0    0 
+JackHack  947927248  3  2 Bc  kc    k     bf      105726  250    0 
+JackHack  947927268  3  1 Bf  -     -     -       105476   25    0 
+JackHack  947927272  3  3 f   -     -     -       105451    0    0 
+JackHack  947927277  3  2 Bc  f     -     -       105451  100    0 
+JackHack  947927287  3  1 Brc k     kc    k       105351  250  500 7s 7h
+JackHack  947927307  3  3 c   b     -     -       105601  100  200 
+JackHack  947927321  3  2 Bc  f     -     -       105701  100    0 
+JackHack  947927328  3  1 Bf  -     -     -       105601   25    0 
+JackHack  947927332  3  3 f   -     -     -       105576    0    0 
+JackHack  947927337  3  2 Br  bc    kc    kc      105576  450 1050 Qc Qh
+JackHack  947927364  3  1 Brc krc   kr    b       106176  600 1200 Ac Ad
+JackHack  947927392  3  3 f   -     -     -       106776    0    0 
+JackHack  947927408  3  2 Bk  b     b     b       106776  300  500 
+JackHack  947927431  3  1 Bf  -     -     -       106976   25    0 
+JackHack  947927436  3  3 f   -     -     -       106951    0    0 
+JackHack  947927454  3  2 Bk  b     k     bc      106951  300  325 Jd Kd
+JackHack  947927476  3  1 Br  br    b     b       106976  500 1150 Ks Ts
+JackHack  947927499  3  3 f   -     -     -       107626    0    0 
+JackHack  947927506  3  2 Bf  -     -     -       107626   50    0 
+JackHack  947927512  3  1 Bf  -     -     -       107576   25    0 
+JackHack  947927527  3  3 f   -     -     -       107551    0    0 
+JackHack  947927542  3  2 Bf  -     -     -       107551   50    0 
+JackHack  947927547  3  1 Bf  -     -     -       107501   25    0 
+JackHack  947927556  3  3 c   k     bc    f       107476  250    0 
+JackHack  947927576  3  2 Bk  kf    -     -       107226   50    0 
+JackHack  947927588  3  1 Bc  kf    -     -       107176   50    0 
+JackHack  947927599  3  3 f   -     -     -       107126    0    0 
+JackHack  947927613  3  2 Bc  k     f     -       107126  100    0 
+JackHack  947927625  3  1 Bf  -     -     -       107026   25    0 
+JackHack  947927629  3  3 c   b     b     b       107001  300  650 8c Qh
+JackHack  947927652  3  2 Bk  b     -     -       107351  100  150 
+JackHack  947927662  3  1 Bf  -     -     -       107401   25    0 
+JackHack  947927666  3  3 cc  f     -     -       107376  100    0 
+JackHack  947927687  3  2 Br  b     -     -       107276  200  350 
+JackHack  947927701  3  1 Bf  -     -     -       107426   25    0 
+JackHack  947927713  3  3 f   -     -     -       107401    0    0 
+JackHack  947927728  3  2 Bf  -     -     -       107401   50    0 
+JackHack  947927735  3  1 Bf  -     -     -       107351   25    0 
+JackHack  947927742  3  3 c   c     b     k       107326  200  425 Kh Js
+JackHack  947927766  3  2 Bk  k     c     b       107551  250  650 3d 5d
+JackHack  947927792  3  1 Br  b     b     b       107951  400  850 
+JackHack  947927814  3  3 f   -     -     -       108401    0    0 
+JackHack  947927821  3  2 Bc  k     kf    -       108401  100    0 
+JackHack  947927843  3  1 Bf  -     -     -       108301   25    0 
+JackHack  947927850  3  3 c   f     -     -       108276   50    0 
+JackHack  947927861  3  2 Bf  -     -     -       108226   50    0 
+JackHack  947927873  3  1 Bf  -     -     -       108176   25    0 
+JackHack  947927878  3  3 cc  k     f     -       108151  100    0 
+JackHack  947927900  3  2 Bk  k     k     k       108051   50  125 Th 8s
+JackHack  947927918  3  1 Bc  kf    -     -       108126  100    0 
+JackHack  947927938  3  3 f   -     -     -       108026    0    0 
+JackHack  947927947  3  2 Bc  f     -     -       108026  100    0 
+JackHack  947927955  3  1 Bf  -     -     -       107926   25    0 
+JackHack  947927959  3  3 c   f     -     -       107901   50    0 
+JackHack  947927975  3  2 Bc  c     b     k       107851  250    0 2h 4h
+JackHack  947927992  3  1 Bf  -     -     -       107601   25    0 
+JackHack  947928007  3  3 r   c     f     -       107576  150    0 
+JackHack  947928026  3  2 Bc  f     -     -       107426  100    0 
+JackHack  947928032  3  1 Bc  kr    k     kc      107326  300    0 Td Ks
+JackHack  947928055  3  3 c   k     r     -       107026  250  425 
+JackHack  947928070  3  2 Bf  -     -     -       107201   50    0 
+JackHack  947928084  3  1 Bf  -     -     -       107151   25    0 
+JackHack  947928090  3  3 f   -     -     -       107126    0    0 
+JackHack  947928101  3  2 Bc  f     -     -       107126  100    0 
+JackHack  947928111  3  1 Bf  -     -     -       107026   25    0 
+JackHack  947928115  3  3 r   c     c     b       107001  350  700 
+JackHack  947928138  3  2 Bf  -     -     -       107351   50    0 
+JackHack  947928146  3  1 Bf  -     -     -       107301   25    0 
+JackHack  947928166  3  3 f   -     -     -       107276    0    0 
+JackHack  947928175  3  2 Bf  -     -     -       107276   50    0 
+JackHack  947928180  3  1 Bf  -     -     -       107226   25    0 
+JackHack  947928191  3  3 r   c     k     f       107201  150    0 
+JackHack  947928208  3  2 Bc  kf    -     -       107051  100    0 
+JackHack  947928223  3  1 Bf  -     -     -       106951   25    0 
+JackHack  947928230  3  3 f   -     -     -       106926    0    0 
+JackHack  947928238  3  2 B   -     -     -       106926   50   75 
+JackHack  947928243  3  1 Bc  b     k     kf      106951  100    0 
+JackHack  947928265  3  3 cc  c     k     c       106851  250    0 Ts 8d
+JackHack  947928284  3  2 Br  k     k     k       106601  150  325 Jc As
+JackHack  947928302  3  1 Bf  -     -     -       106776   25    0 
+JackHack  947928323  3  3 f   -     -     -       106751    0    0 
+JackHack  947928336  3  2 Bf  -     -     -       106751   50    0 
+JackHack  947928341  3  1 Bf  -     -     -       106701   25    0 
+JackHack  947928345  3  3 cc  f     -     -       106676  100    0 
+JackHack  947928367  3  2 Bf  -     -     -       106576   50    0 
+JackHack  947928374  3  1 Bf  -     -     -       106526   25    0 
+JackHack  947928386  3  3 f   -     -     -       106501    0    0 
+JackHack  947928406  3  2 Bc  f     -     -       106501  100    0 
+JackHack  947928417  3  1 Bc  k     bc    k       106401  250    0 Jc 3c
+JackHack  947928440  3  3 f   -     -     -       106151    0    0 
+JackHack  947928449  3  2 Bf  -     -     -       106151   50    0 
+JackHack  947928453  3  1 Bf  -     -     -       106101   25    0 
+JackHack  947928464  3  3 f   -     -     -       106076    0    0 
+JackHack  947928473  3  2 Bc  kf    -     -       106076  100    0 
+JackHack  947928491  3  1 Bcc kf    -     -       105976  100    0 
+JackHack  947928506  3  3 cc  f     -     -       105876  100    0 
+JackHack  947928529  3  2 Bf  -     -     -       105776   50    0 
+JackHack  947928544  3  1 Bf  -     -     -       105726   25    0 
+JackHack  947928552  3  3 c   r     -     -       105701  150  300 
+JackHack  947928567  3  2 Bf  -     -     -       105851   50    0 
+JackHack  947928571  3  1 Bf  -     -     -       105801   25    0 
+JackHack  947928575  3  3 f   -     -     -       105776    0    0 
+JackHack  947928583  3  2 Bc  c     c     b       105776  350  700 2h 2d
+JackHack  947928603  3  1 Bcc kc    kf    -       106126  200    0 
+JackHack  947928632  3  3 cc  r     b     -       105926  300  525 
+JackHack  947928659  3  2 Bc  c     rc    f       106151  450    0 
+JackHack  947928678  3  1 Bf  -     -     -       105701   25    0 
+JackHack  947928693  3  3 c   k     bf    -       105676  150    0 
+JackHack  947928709  3  2 Bf  -     -     -       105526   50    0 
+JackHack  947928714  3  1 Bf  -     -     -       105476   25    0 
+JackHack  947928717  3  3 r   b     -     -       105451  150  275 
+JackHack  947928727  3  2 Bf  -     -     -       105576   50    0 
+JackHack  947928732  3  1 Bc  kc    b     b       105526  300  600 Ad 9d
+JackHack  947928751  3  3 c   f     -     -       105826   50    0 
+JackHack  947928762  3  2 Bc  k     c     r       105776  400  800 Th 9d
+JackHack  947928776  3  1 Bf  -     -     -       106176   25    0 
+JackHack  947928784  3  3 cc  f     -     -       106151  100    0 
+JackHack  947928805  3  2 Bc  kf    -     -       106051  100    0 
+JackHack  947928821  3  1 Bf  -     -     -       105951   25    0 
+JackHack  947928826  3  3 r   r     b     k       105926  300    0 9s Js
+JackHack  947928844  3  2 Bf  -     -     -       105626   50    0 
+JackHack  947928851  3  1 Bcc kc    kc    k       105576  250  500 7h 6d
+JackHack  947928870  3  3 f   -     -     -       105826    0    0 
+JackHack  947928888  3  2 Bc  b     b     k       105826  250    0 9s Jc
+JackHack  947928912  3  1 Bc  k     kr    -       105576  300  550 
+JackHack  947928930  3  3 f   -     -     -       105826    0    0 
+JackHack  947928936  3  2 Bc  kf    -     -       105826  100    0 
+JackHack  947928945  3  1 Bf  -     -     -       105726   25    0 
+JackHack  947928949  3  3 f   -     -     -       105701    0    0 
+JackHack  947928960  3  2 Bf  -     -     -       105701   50    0 
+JackHack  947928967  3  1 Bc  bc    kc    kc      105651  350    0 7d Th
+JackHack  947928992  3  3 r   k     r     b       105301  400  725 
+JackHack  947929019  3  2 Br  k     c     c       105626  350    0 Qd Kd
+JackHack  947929042  3  1 Bf  -     -     -       105276   25    0 
+JackHack  947929047  3  3 f   -     -     -       105251    0    0 
+JackHack  947929066  3  2 Bf  -     -     -       105251   50    0 
+JackHack  947929074  3  1 Bcc kf    -     -       105201  100    0 
+JackHack  947929087  3  3 f   -     -     -       105101    0    0 
+JackHack  947929103  3  2 Bc  kf    -     -       105101  100    0 
+JackHack  947929117  3  1 Bf  -     -     -       105001   25    0 
+JackHack  947929125  3  3 f   -     -     -       104976    0    0 
+JackHack  947929136  3  2 Brc kc    kf    -       104976  250    0 
+JackHack  947929159  4  1 BQ  -     -     -       104726   25    0 
